@@ -5,7 +5,7 @@
 ![GitHub](https://img.shields.io/badge/License-MIT-lightgrey.svg)
 [![GitHub](https://img.shields.io/twitter/follow/athenacoreai.svg?label=Follow)](https://twitter.com/athenacoreai)
 
-# AwesomeResonsibleAI
+# Awesome Responsible AI
 A curated list of awesome books, code of ethics, newsletters, principles, podcast, tools and regulations related to Responsible AI.
 
 ## Contents
