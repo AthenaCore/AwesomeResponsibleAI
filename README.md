@@ -22,16 +22,30 @@ A curated list of awesome books, code of ethics, newsletters, principles, podcas
 
 - [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
 - [Explanatory Model Analysis](https://ema.drwhy.ai)
+- [Inferring Concept Drift Without Labeled Data](https://concept-drift.fastforwardlabs.com)
 
 ## Code of Ethics
 ## Newsletters
+
+- [Import AI](https://jack-clark.net)
+- [https://brief.montrealethics.ai](https://brief.montrealethics.ai)
+
 ## Principles
 ## Podcasts
+
 ## Tools
 
+### Fairness
+
 - [Aequitas' Bias & Fairness Audit Toolkit](http://aequitas.dssg.io/)
+
+### Interpretability/Explicability
+
 - [Dalex](https://dalex.drwhy.ai)
 - [eXplainability Toolbox](https://ethical.institute/xai.html) 
+
+### Drift
+
 - [Evidently](https://github.com/evidentlyai/evidently)
 
 ## Regulations
