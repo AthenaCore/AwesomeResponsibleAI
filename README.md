@@ -10,13 +10,13 @@ A curated list of awesome books, code of ethics, newsletters, principles, podcas
 
 ## Contents
 
-- Books
-- Code of Ethics
-- Newsletters
-- Principles
-- Podcasts
-- [Tools](## Tools)
-- Regulations
+- [Books](#books)
+- [Code of Ethics](#code-of-ethics)
+- [Newsletters](#newsletters)
+- [Principles](#principles)
+- [Podcasts](#podcasts)
+- [Tools](#tools)
+- [Regulations](#regulations)
 
 ## Books
 
