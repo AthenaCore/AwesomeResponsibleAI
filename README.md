@@ -20,13 +20,13 @@ A curated list of awesome books, code of ethics, newsletters, principles, podcas
 
 ## Books
 
-# Open Access
+### Open Access
 
 - [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
 - [Explanatory Model Analysis](https://ema.drwhy.ai)
 - [Inferring Concept Drift Without Labeled Data](https://concept-drift.fastforwardlabs.com)
 
-# Commercial / Propietary / Closed Access
+### Commercial / Propietary / Closed Access
 
 - [Trust in Machine Learning](https://www.manning.com/books/trust-in-machine-learning)
 - [Interpretable AI](https://www.manning.com/books/interpretable-ai)
@@ -39,7 +39,6 @@ A curated list of awesome books, code of ethics, newsletters, principles, podcas
 - [Human-In-The-Loop Machine Learning: Active Learning and Annotation for Human-Centered AI](https://www.manning.com/books/human-in-the-loop-machine-learning)
 - [Interpretable Machine Learning With Python: Learn to Build Interpretable High-Performance Models With Hands-On Real-World Examples](https://www.packtpub.com/product/interpretable-machine-learning-with-python/9781800203907)
 - [Responsible AI](https://learning.oreilly.com/library/view/responsible-ai/9781098102425/)
-- 
 
 
 ## Code of Ethics
