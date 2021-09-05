@@ -40,12 +40,11 @@ A curated list of awesome books, code of ethics, newsletters, principles, podcas
 - [Interpretable Machine Learning With Python: Learn to Build Interpretable High-Performance Models With Hands-On Real-World Examples](https://www.packtpub.com/product/interpretable-machine-learning-with-python/9781800203907)
 - [Responsible AI](https://learning.oreilly.com/library/view/responsible-ai/9781098102425/)
 
-
 ## Code of Ethics
 ## Newsletters
 
 - [Import AI](https://jack-clark.net)
-- [https://brief.montrealethics.ai](https://brief.montrealethics.ai)
+- [The AI Ethics Brief](https://brief.montrealethics.ai)
 
 ## Principles
 ## Podcasts
@@ -60,9 +59,14 @@ A curated list of awesome books, code of ethics, newsletters, principles, podcas
 
 - [Dalex](https://dalex.drwhy.ai)
 - [eXplainability Toolbox](https://ethical.institute/xai.html) 
+- [IBM's AI Explainability 360 Open Source Toolkit](http://aix360.mybluemix.net/)
 
 ### Drift
 
 - [Evidently](https://github.com/evidentlyai/evidently)
+
+### Non-active
+
+- [FAT Forensics](https://fat-forensics.org/) (last update 19 May 2020)
 
 ## Regulations
