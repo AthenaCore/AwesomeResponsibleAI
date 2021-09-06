@@ -6,10 +6,11 @@
 [![GitHub](https://img.shields.io/twitter/follow/athenacoreai.svg?label=Follow)](https://twitter.com/athenacoreai)
 
 # Awesome Responsible AI
-A curated list of awesome books, code of ethics, newsletters, principles, podcast, tools and regulations related to Responsible AI.
+A curated list of awesome academic research, books, code of ethics, newsletters, principles, podcast, tools and regulations related to Responsible AI.
 
 ## Contents
 
+- [Academic Research](#academic-research)
 - [Books](#books)
 - [Code of Ethics](#code-of-ethics)
 - [Newsletters](#newsletters)
@@ -17,6 +18,38 @@ A curated list of awesome books, code of ethics, newsletters, principles, podcas
 - [Podcasts](#podcasts)
 - [Tools](#tools)
 - [Regulations](#regulations)
+
+## Academic Research
+
+### Data explanation
+
+- ProtoDash ([Gurumoorthy et al., 2019](https://arxiv.org/abs/1707.01212))
+- Disentangled Inferred Prior VAE ([Kumar et al., 2018](https://openreview.net/forum?id=H1kG7GZAW))
+
+### Local post-hoc explanation 
+
+- ProtoDash ([Gurumoorthy et al., 2019](https://arxiv.org/abs/1707.01212))
+- Contrastive Explanations Method ([Dhurandhar et al., 2018](https://papers.nips.cc/paper/7340-explanations-based-on-the-missing-towards-contrastive-explanations-with-pertinent-negatives))
+- Contrastive Explanations Method with Monotonic Attribute Functions ([Luss et al., 2019](https://arxiv.org/abs/1905.12698))
+- LIME ([Ribeiro et al. 2016](https://arxiv.org/abs/1602.04938),  [Github](https://github.com/marcotcr/lime))
+- SHAP ([Lundberg, et al. 2017](http://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predictions),  [Github](https://github.com/slundberg/shap))
+
+### Local direct explanation
+
+- Teaching AI to Explain its Decisions ([Hind et al., 2019](https://doi.org/10.1145/3306618.3314273)) 
+   
+### Global direct explanation
+
+- Boolean Decision Rules via Column Generation (Light Edition) ([Dash et al., 2018](https://papers.nips.cc/paper/7716-boolean-decision-rules-via-column-generation))
+- Generalized Linear Rule Models ([Wei et al., 2019](http://proceedings.mlr.press/v97/wei19a.html))
+
+### Global post-hoc explanation 
+
+- ProfWeight ([Dhurandhar et al., 2018](https://papers.nips.cc/paper/8231-improving-simple-models-with-confidence-profiles))
+
+## Supported explainability metrics
+- Faithfulness ([Alvarez-Melis and Jaakkola, 2018](https://papers.nips.cc/paper/8003-towards-robust-interpretability-with-self-explaining-neural-networks))
+- Monotonicity ([Luss et al., 2019](https://arxiv.org/abs/1905.12698))
 
 ## Books
 
