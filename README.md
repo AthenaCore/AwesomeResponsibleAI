@@ -47,9 +47,14 @@ A curated list of awesome academic research, books, code of ethics, newsletters,
 
 - ProfWeight ([Dhurandhar et al., 2018](https://papers.nips.cc/paper/8231-improving-simple-models-with-confidence-profiles))
 
-## Supported explainability metrics
-- Faithfulness ([Alvarez-Melis and Jaakkola, 2018](https://papers.nips.cc/paper/8003-towards-robust-interpretability-with-self-explaining-neural-networks))
-- Monotonicity ([Luss et al., 2019](https://arxiv.org/abs/1905.12698))
+### Explainability and fairness metrics
+- Towards Robust Interpretability with Self-Explaining Neural Networks ([Alvarez-Melis and Jaakkola, 2018](https://papers.nips.cc/paper/8003-towards-robust-interpretability-with-self-explaining-neural-networks)) `MIT`
+- Leveraging Latent Features for Local Explanations ([Luss et al., 2019](https://arxiv.org/abs/1905.12698)) `IBM Research` `University of Michigan`
+- [LiFT: A Scalable Framework for Measuring Fairness in ML Applications](https://engineering.linkedin.com/blog/2020/lift-addressing-bias-in-large-scale-ai-applications) ([Vasuvedan et al., 2020](https://arxiv.org/abs/2008.07433)) `LinkedIn`
+
+### Ethical Data Products
+
+- [Building Inclusive Products Through A/B Testing](https://engineering.linkedin.com/blog/2020/building-inclusive-products-through-a-b-testing) ([Saint-Jacques et al, 2020](https://arxiv.org/pdf/2002.05819)) `LinkedIn`
 
 ## Books
 
