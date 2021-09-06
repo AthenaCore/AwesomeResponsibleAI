@@ -91,20 +91,21 @@ A curated list of awesome academic research, books, code of ethics, newsletters,
 
 ### Fairness
 
-- [Aequitas' Bias & Fairness Audit Toolkit](http://aequitas.dssg.io/)
+- [Aequitas' Bias & Fairness Audit Toolkit](http://aequitas.dssg.io/) `Python`
 
 ### Interpretability/Explicability
 
-- [Dalex](https://dalex.drwhy.ai)
-- [eXplainability Toolbox](https://ethical.institute/xai.html) 
-- [IBM's AI Explainability 360 Open Source Toolkit](http://aix360.mybluemix.net/)
+- [Dalex](https://dalex.drwhy.ai) `Python` `R`
+- [eXplainability Toolbox](https://ethical.institute/xai.html) `Python`
+- [Fairlearn](https://fairlearn.org) `Python`
+- [IBM's AI Explainability 360 Open Source Toolkit](http://aix360.mybluemix.net/) `Python`
 
 ### Drift
 
-- [Evidently](https://github.com/evidentlyai/evidently)
+- [Evidently](https://github.com/evidentlyai/evidently) `Python`
 
 ### Non-active
 
-- [FAT Forensics](https://fat-forensics.org/) (last update 19 May 2020)
+- [FAT Forensics](https://fat-forensics.org/) (last update 19 May 2020) `Python`
 
 ## Regulations
