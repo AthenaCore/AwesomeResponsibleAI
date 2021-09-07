@@ -16,6 +16,7 @@ A curated list of awesome academic research, books, code of ethics, newsletters,
 - [Newsletters](#newsletters)
 - [Principles](#principles)
 - [Podcasts](#podcasts)
+- [Reports](#reports)
 - [Tools](#tools)
 - [Regulations](#regulations)
 
