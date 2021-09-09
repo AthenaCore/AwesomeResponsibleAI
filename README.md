@@ -58,11 +58,11 @@ A curated list of awesome academic research, books, code of ethics, newsletters,
 ### Open Access
 
 - Interpretable Machine Learning ([Molnar, C., 2021](https://christophm.github.io/interpretable-ml-book/)) `Interpretability`
-- Explanatory Model Analysis ([Biecek et al., 2020](https://ema.drwhy.ai)) `Explicability`
+- Explanatory Model Analysis ([Biecek et al., 2020](https://ema.drwhy.ai)) `Explainability`
 
 ### Commercial / Propietary / Closed Access
 
-- [Trust in Machine Learning](https://www.manning.com/books/trust-in-machine-learning)
+- [Trust in Machine Learning]([Varshney, K., 2022](https://www.manning.com/books/trust-in-machine-learning)) 'Safety' 'Privacy' 'Drift' 'Fairness' `Interpretability` `Explainability`
 - [Interpretable AI](https://www.manning.com/books/interpretable-ai)
 - [AI Fairness](https://learning.oreilly.com/library/view/ai-fairness/9781492077664/)
 - [Practical Fairness](https://learning.oreilly.com/library/view/practical-fairness/9781492075721/)
