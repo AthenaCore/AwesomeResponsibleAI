@@ -62,7 +62,7 @@ A curated list of awesome academic research, books, code of ethics, newsletters,
 
 ### Commercial / Propietary / Closed Access
 
-- [Trust in Machine Learning]([Varshney, K., 2022](https://www.manning.com/books/trust-in-machine-learning)) `Safety´ `Privacy´ `Drift´ `Fairness´ `Interpretability` `Explainability`
+- Trust in Machine Learning ([Varshney, K., 2022](https://www.manning.com/books/trust-in-machine-learning)) `Safety´ `Privacy´ `Drift´ `Fairness´ `Interpretability` `Explainability`
 - [Interpretable AI](https://www.manning.com/books/interpretable-ai) `Interpretability` `Explainability`
 - [AI Fairness](https://learning.oreilly.com/library/view/ai-fairness/9781492077664/) `Fairness´
 - [Practical Fairness](https://learning.oreilly.com/library/view/practical-fairness/9781492075721/) `Fairness´ 
