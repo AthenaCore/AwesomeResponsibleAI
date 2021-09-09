@@ -6,7 +6,7 @@
 [![GitHub](https://img.shields.io/twitter/follow/athenacoreai.svg?label=Follow)](https://twitter.com/athenacoreai)
 
 # Awesome Responsible AI
-A curated list of awesome academic research, books, code of ethics, newsletters, principles, podcast, reports, tools and regulations related to Responsible AI.
+A curated list of awesome academic research, books, code of ethics, newsletters, principles, podcast, reports, tools and regulations related to Responsible AI and Human-Centered AI.
 
 ## Contents
 
