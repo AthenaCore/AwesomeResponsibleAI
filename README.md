@@ -62,11 +62,11 @@ A curated list of awesome academic research, books, code of ethics, newsletters,
 
 ### Commercial / Propietary / Closed Access
 
-- [Trust in Machine Learning]([Varshney, K., 2022](https://www.manning.com/books/trust-in-machine-learning)) 'Safety' 'Privacy' 'Drift' 'Fairness' `Interpretability` `Explainability`
-- [Interpretable AI](https://www.manning.com/books/interpretable-ai)
-- [AI Fairness](https://learning.oreilly.com/library/view/ai-fairness/9781492077664/)
-- [Practical Fairness](https://learning.oreilly.com/library/view/practical-fairness/9781492075721/)
-- [Hands-On Explainable AI (XAI) with Python](https://www.packtpub.com/product/hands-on-explainable-ai-xai-with-python/9781800208131)
+- [Trust in Machine Learning]([Varshney, K., 2022](https://www.manning.com/books/trust-in-machine-learning)) `Safety´ `Privacy´ `Drift´ `Fairness´ `Interpretability` `Explainability`
+- [Interpretable AI](https://www.manning.com/books/interpretable-ai) `Interpretability` `Explainability`
+- [AI Fairness](https://learning.oreilly.com/library/view/ai-fairness/9781492077664/) `Fairness´
+- [Practical Fairness](https://learning.oreilly.com/library/view/practical-fairness/9781492075721/) `Fairness´ 
+- [Hands-On Explainable AI (XAI) with Python](https://www.packtpub.com/product/hands-on-explainable-ai-xai-with-python/9781800208131) `Explainability`
 - [AI and the Law](https://learning.oreilly.com/library/view/ai-and-the/9781492091837/)
 - [Responsible Machine Learning](https://learning.oreilly.com/library/view/responsible-machine-learning/9781492090878/)
 - [Privacy-Preserving Machine Learning](https://www.manning.com/books/privacy-preserving-machine-learning)
@@ -91,6 +91,7 @@ A curated list of awesome academic research, books, code of ethics, newsletters,
 
 - [European Commission's Guidelines for Trustworthy AI](https://ec.europa.eu/futurium/en/ai-alliance-consultation)
 - [IEEE's Ethically Aligned Design](https://ethicsinaction.ieee.org/)
+- [The Institute for Ethical AI & Machine Learning: The Responsible Machine Learning Principles](https://ethical.institute/principles.html)
 
 ## Podcasts
 
