@@ -57,13 +57,13 @@ A curated list of awesome academic research, books, code of ethics, newsletters,
 
 ### Open Access
 
-- Interpretable Machine Learning ([Molnar, C., 2021](https://christophm.github.io/interpretable-ml-book/)) `Interpretability`
-- Explanatory Model Analysis ([Biecek et al., 2020](https://ema.drwhy.ai)) `Explainability`
+- Interpretable Machine Learning ([Molnar, C., 2021](https://christophm.github.io/interpretable-ml-book/)) `Explainability` `Interpretability` `R`
+- Explanatory Model Analysis ([Biecek et al., 2020](https://ema.drwhy.ai)) `Explainability` `Interpretability` `R`
 
 ### Commercial / Propietary / Closed Access
 
 - Trust in Machine Learning ([Varshney, K., 2022](https://www.manning.com/books/trust-in-machine-learning)) `Safety` `Privacy` `Drift` `Fairness` `Interpretability` `Explainability`
-- Interpretable AI ([Thampi, A., 2022](https://www.manning.com/books/interpretable-ai)) `Interpretability` `Explainability` `Fairness`
+- Interpretable AI ([Thampi, A., 2022](https://www.manning.com/books/interpretable-ai)) `Explainability` `Fairness` `Interpretability` 
 - AI Fairness ([Mahoney, T., Varshney, K.R., Hind, M., 2020](https://learning.oreilly.com/library/view/ai-fairness/9781492077664/) `Report` `Fairness`
 - Practical Fairness ([Nielsen, A., 2021](https://learning.oreilly.com/library/view/practical-fairness/9781492075721/)) `Fairness`
 - Hands-On Explainable AI (XAI) with Python ([Rothman, D., 2020](https://www.packtpub.com/product/hands-on-explainable-ai-xai-with-python/9781800208131)) `Explainability`
@@ -114,9 +114,12 @@ A curated list of awesome academic research, books, code of ethics, newsletters,
 
 ### Interpretability/Explicability
 
-- [Dalex](https://dalex.drwhy.ai) `Python` `R`
+- [breakDown: Model Agnostic Explainers for Individual Predictions](https://cran.r-project.org/web/packages/breakDown/index.html) `R`
+- [ceterisParibus: Ceteris Paribus Profiles](https://cran.r-project.org/web/packages/ceterisParibus/index.html) `R`
+- [DALEX: moDel Agnostic Language for Exploration and eXplanation](https://dalex.drwhy.ai) `Python` `R`
 - [eXplainability Toolbox](https://ethical.institute/xai.html) `Python`
 - [IBM's AI Explainability 360 Open Source Toolkit](http://aix360.mybluemix.net/) `Python`
+- [lime: Local Interpretable Model-Agnostic Explanations](https://cran.r-project.org/web/packages/lime/index.html) `R`
 
 ### Drift
 
