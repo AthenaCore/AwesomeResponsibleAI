@@ -64,15 +64,15 @@ A curated list of awesome academic research, books, code of ethics, newsletters,
 
 - Trust in Machine Learning ([Varshney, K., 2022](https://www.manning.com/books/trust-in-machine-learning)) `Safety` `Privacy` `Drift` `Fairness` `Interpretability` `Explainability`
 - Interpretable AI ([Thampi, A., 2022](https://www.manning.com/books/interpretable-ai)) `Interpretability` `Explainability` `Fairness`
-- AI Fairness ([Mahoney, T., Varshney, K.R., Hind, M. 2020](https://learning.oreilly.com/library/view/ai-fairness/9781492077664/) `Report` `Fairness`
+- AI Fairness ([Mahoney, T., Varshney, K.R., Hind, M., 2020](https://learning.oreilly.com/library/view/ai-fairness/9781492077664/) `Report` `Fairness`
 - Practical Fairness ([Nielsen, A., 2021](https://learning.oreilly.com/library/view/practical-fairness/9781492075721/)) `Fairness`
-- [Hands-On Explainable AI (XAI) with Python](https://www.packtpub.com/product/hands-on-explainable-ai-xai-with-python/9781800208131) `Explainability`
+- Hands-On Explainable AI (XAI) with Python ([Rothman, D., 2020](https://www.packtpub.com/product/hands-on-explainable-ai-xai-with-python/9781800208131)) `Explainability`
 - [AI and the Law](https://learning.oreilly.com/library/view/ai-and-the/9781492091837/) `Report`
 - [Responsible Machine Learning](https://learning.oreilly.com/library/view/responsible-machine-learning/9781492090878/)
 - [Privacy-Preserving Machine Learning](https://www.manning.com/books/privacy-preserving-machine-learning)
 - [Human-In-The-Loop Machine Learning: Active Learning and Annotation for Human-Centered AI](https://www.manning.com/books/human-in-the-loop-machine-learning)
 - [Interpretable Machine Learning With Python: Learn to Build Interpretable High-Performance Models With Hands-On Real-World Examples](https://www.packtpub.com/product/interpretable-machine-learning-with-python/9781800203907)
-- [Responsible AI](https://learning.oreilly.com/library/view/responsible-ai/9781098102425/)
+- Responsible AI ([Hall, P., Chowdhury, R., 2023](https://learning.oreilly.com/library/view/responsible-ai/9781098102425/)) `Governance` `Safety` `Drift`
 
 ## Code of Ethics
 
@@ -80,6 +80,7 @@ A curated list of awesome academic research, books, code of ethics, newsletters,
 - [Association for Computer Machinery's Code of Ethics and Professional Conduct](https://www.acm.org/code-of-ethics)
 - [IEEE Global Initiative for Ethical Considerations in Artificial Intelligence (AI) and Autonomous Systems (AS)](https://ethicsinaction.ieee.org/)
 - [ISO/IEC's Standards for Artificial Intelligence](https://www.iso.org/committee/6794475/x/catalogue/)
+- [Ethics guidelines for trustworthy AI](https://op.europa.eu/en/publication-detail/-/publication/d3988569-0434-11ea-8c1f-01aa75ed71a1/language-en/format-PDF/source-229277158)
 
 ## Newsletters
 
