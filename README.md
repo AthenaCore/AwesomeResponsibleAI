@@ -126,6 +126,11 @@ A curated list of awesome academic research, books, code of ethics, newsletters,
 - [Evidently](https://github.com/evidentlyai/evidently) `Python`
 - [drifter](https://cran.r-project.org/web/packages/drifter/) `R`
 
+## Reproducible Research
+
+- [Papers with Code](https://paperswithcode.com)
+- [Papers without Code](https://www.paperswithoutcode.com)
+
 ### Non-active
 
 - [FAT Forensics](https://fat-forensics.org/) (last update 19 May 2020) `Python`
