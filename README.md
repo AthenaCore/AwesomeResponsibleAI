@@ -68,7 +68,7 @@ A curated list of awesome academic research, books, code of ethics, newsletters,
 - Practical Fairness ([Nielsen, A., 2021](https://learning.oreilly.com/library/view/practical-fairness/9781492075721/)) `Fairness`
 - Hands-On Explainable AI (XAI) with Python ([Rothman, D., 2020](https://www.packtpub.com/product/hands-on-explainable-ai-xai-with-python/9781800208131)) `Explainability`
 - AI and the Law ([Kilroy, K., 2021](https://learning.oreilly.com/library/view/ai-and-the/9781492091837/)) `Report` `Trust` `Law`
-- Responsible Machine Learning ([Hall, P., Gill, N., Cox, B., 2020](https://learning.oreilly.com/library/view/responsible-machine-learning/9781492090878/)) `Report` `Law` ` `Compliance` `Safety` `Privacy` 
+- Responsible Machine Learning ([Hall, P., Gill, N., Cox, B., 2020](https://learning.oreilly.com/library/view/responsible-machine-learning/9781492090878/)) `Report` `Law`  `Compliance` `Safety` `Privacy` 
 - [Privacy-Preserving Machine Learning](https://www.manning.com/books/privacy-preserving-machine-learning)
 - [Human-In-The-Loop Machine Learning: Active Learning and Annotation for Human-Centered AI](https://www.manning.com/books/human-in-the-loop-machine-learning)
 - [Interpretable Machine Learning With Python: Learn to Build Interpretable High-Performance Models With Hands-On Real-World Examples](https://www.packtpub.com/product/interpretable-machine-learning-with-python/9781800203907)
