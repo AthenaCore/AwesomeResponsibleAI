@@ -82,6 +82,7 @@ A curated list of awesome academic research, books, code of ethics, newsletters,
 - [ISO/IEC's Standards for Artificial Intelligence](https://www.iso.org/committee/6794475/x/catalogue/)
 - [Ethics guidelines for trustworthy AI](https://op.europa.eu/en/publication-detail/-/publication/d3988569-0434-11ea-8c1f-01aa75ed71a1/language-en/format-PDF/source-229277158) - European Commission document prepared by the High-Level Expert Group on Artificial Intelligence (AI HLEG).
 - [Google AI Principles](https://ai.google/principles/)
+- [Microsoft AI Principles](https://www.microsoft.com/en-us/ai/responsible-ai)
 
 ## Newsletters
 
@@ -107,6 +108,15 @@ A curated list of awesome academic research, books, code of ethics, newsletters,
 
 ## Tools
 
+## Differential Privacy
+
+- [SmartNoise](https://github.com/opendp/smartnoise-core) `Python`
+
+### Drift
+
+- [Evidently](https://github.com/evidentlyai/evidently) `Python`
+- [drifter](https://cran.r-project.org/web/packages/drifter/) `R`
+
 ### Fairness
 
 - [Aequitas' Bias & Fairness Audit Toolkit](http://aequitas.dssg.io/) `Python`
@@ -120,12 +130,8 @@ A curated list of awesome academic research, books, code of ethics, newsletters,
 - [DALEX: moDel Agnostic Language for Exploration and eXplanation](https://dalex.drwhy.ai) `Python` `R`
 - [eXplainability Toolbox](https://ethical.institute/xai.html) `Python`
 - [IBM's AI Explainability 360 Open Source Toolkit](http://aix360.mybluemix.net/) `Python`
+- [intepretML](https://interpret.ml) `Python`
 - [lime: Local Interpretable Model-Agnostic Explanations](https://cran.r-project.org/web/packages/lime/index.html) `R`
-
-### Drift
-
-- [Evidently](https://github.com/evidentlyai/evidently) `Python`
-- [drifter](https://cran.r-project.org/web/packages/drifter/) `R`
 
 ## Reproducible Research
 
