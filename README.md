@@ -108,7 +108,7 @@ A curated list of awesome academic research, books, code of ethics, newsletters,
 
 ## Tools
 
-## Differential Privacy
+### Differential Privacy
 
 - [SmartNoise](https://github.com/opendp/smartnoise-core) `Python`
 
