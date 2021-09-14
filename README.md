@@ -111,6 +111,7 @@ A curated list of awesome academic research, books, code of ethics, newsletters,
 ### Differential Privacy
 
 - [SmartNoise](https://github.com/opendp/smartnoise-core) `Python`
+- [Tensorflow Privacy](https://github.com/tensorflow/privacy)
 
 ### Drift
 
