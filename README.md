@@ -110,8 +110,11 @@ A curated list of awesome academic research, books, code of ethics, newsletters,
 
 ### Differential Privacy
 
-- [SmartNoise](https://github.com/opendp/smartnoise-core) `Python`
-- [Tensorflow Privacy](https://github.com/tensorflow/privacy)
+- [Diffprivlib](https://github.com/IBM/differential-privacy-library) `Python` `IBM`
+- [Discrete Gaussian for Differential Privacy](https://github.com/IBM/discrete-gaussian-differential-privacy) `Python` `IBM`
+- [SmartNoise](https://github.com/opendp/smartnoise-core) `Python` `OpenDP`
+- [Tensorflow Privacy](https://github.com/tensorflow/privacy) `Python` `Google`
+- [Opacus](https://opacus.ai) `Python` `Facebook`
 
 ### Drift
 
