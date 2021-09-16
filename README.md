@@ -168,7 +168,7 @@ A curated list of awesome academic research, books, code of ethics, newsletters,
 [Privacy Protection Act of 1980](https://epic.org/privacy/ppa/) - The Privacy Protection Act of 1980 protects journalists from being required to turn over to law enforcement any work product and documentary materials, including sources, before it is disseminated to the public.
 
 
-##Agents
+## Agents
 
 - [Open Data Institute](https://theodi.org/)
 - [Ada Lovelace Institute](https://www.adalovelaceinstitute.org/)
