@@ -19,6 +19,7 @@ A curated list of awesome academic research, books, code of ethics, newsletters,
 - [Reports](#reports)
 - [Tools](#tools)
 - [Regulations](#regulations)
+- [Agents](#agents)
 
 ## Academic Research
 
@@ -165,3 +166,15 @@ A curated list of awesome academic research, books, code of ethics, newsletters,
 - [Executive Order on Maintaining American Leadership in AI](https://www.whitehouse.gov/presidential-actions/executive-order-maintaining-american-leadership-artificial-intelligence/) - Official mandate by the President of the US to 
 [Privacy Act of 1974](https://www.justice.gov/opcl/privacy-act-1974) - The privacy act of 1974 which establishes a code of fair information practices that governs the collection, maintenance, use and dissemination of information about individuals that is maintained in systems of records by federal agencies.
 [Privacy Protection Act of 1980](https://epic.org/privacy/ppa/) - The Privacy Protection Act of 1980 protects journalists from being required to turn over to law enforcement any work product and documentary materials, including sources, before it is disseminated to the public.
+
+
+##Agents
+
+- [Open Data Institute](https://theodi.org/)
+- [Ada Lovelace Institute](https://www.adalovelaceinstitute.org/)
+- [The Institute for Ethical AI & Machine Learning](https://ethical.institute/)
+- [Center for Responsible AI](https://airesponsibly.com/)
+- [University of Oxford Institute for Ethics in AI](https://www.oxford-aiethics.ox.ac.uk/)
+- [Montreal AI Ethics Institute](https://montrealethics.ai/)
+- [Munich Center for Technology in Society IEAI](https://ieai.mcts.tum.de/)
+
