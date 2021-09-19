@@ -58,8 +58,8 @@ A curated list of awesome academic research, books, code of ethics, newsletters,
 
 ### Open Access
 
-- Interpretable Machine Learning ([Molnar, C., 2021](https://christophm.github.io/interpretable-ml-book/)) `Explainability` `Interpretability` `R`
-- Explanatory Model Analysis ([Biecek et al., 2020](https://ema.drwhy.ai)) `Explainability` `Interpretability` `R`
+- Interpretable Machine Learning ([Molnar, C., 2021](https://christophm.github.io/interpretable-ml-book/)) `Explainability` `Interpretability` `Transparency` `R`
+- Explanatory Model Analysis ([Biecek et al., 2020](https://ema.drwhy.ai)) `Explainability` `Interpretability` `Transparency` `R`
 
 ### Commercial / Propietary / Closed Access
 
