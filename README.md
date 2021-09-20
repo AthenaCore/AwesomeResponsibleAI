@@ -163,6 +163,7 @@ A curated list of awesome academic research, books, code of ethics, newsletters,
 ### Sustainability
 
 - [Code Carbon](https://github.com/mlco2/codecarbon) `Python`
+- [Azure Sustainability Calculator](https://appsource.microsoft.com/en-us/product/power-bi/coi-sustainability.sustainability_dashboard) `Microsoft`
 
 ## Reproducible Research
 
