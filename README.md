@@ -13,6 +13,7 @@ A curated list of awesome academic research, books, code of ethics, newsletters,
 - [Academic Research](#academic-research)
 - [Books](#books)
 - [Code of Ethics](#code-of-ethics)
+- [Institutes](#institutes)
 - [Newsletters](#newsletters)
 - [Principles](#principles)
 - [Podcasts](#podcasts)
@@ -54,6 +55,15 @@ A curated list of awesome academic research, books, code of ethics, newsletters,
 
 - [Building Inclusive Products Through A/B Testing](https://engineering.linkedin.com/blog/2020/building-inclusive-products-through-a-b-testing) ([Saint-Jacques et al, 2020](https://arxiv.org/pdf/2002.05819)) `LinkedIn`
 
+### Sustainability
+
+- Energy and policy considerations for deep learning in NLP ([Strubell, E. et al. (2019)](https://arxiv.org/abs/1906.02243))
+- Quantifying the carbon emissions of machine learning. ([Lacoste, A. et al. (2019)](https://arxiv.org/abs/1910.09700))
+- Carbon emissions and large neural network training. ([Patterson, D. et al. (2021)](https://arxiv.org/abs/2104.10350)) 
+- Parcollet, T., & Ravanelli, M. (2021). The Energy and Carbon Footprint of Training End-to-End Speech Recognizers
+- van Wynsberghe, A. (2021). Sustainable AI: AI for sustainability and the sustainability of AI. AI and Ethics, 1-6
+- Lannelongue, L., Grealey, J., & Inouye, M. (2020). Green Algorithms: Quantifying the carbon emissions of computation. arXiv e-prints, arXiv-2007.
+
 ## Books
 
 ### Open Access
@@ -84,6 +94,16 @@ A curated list of awesome academic research, books, code of ethics, newsletters,
 - [Ethics guidelines for trustworthy AI](https://op.europa.eu/en/publication-detail/-/publication/d3988569-0434-11ea-8c1f-01aa75ed71a1/language-en/format-PDF/source-229277158) - European Commission document prepared by the High-Level Expert Group on Artificial Intelligence (AI HLEG).
 - [Google AI Principles](https://ai.google/principles/)
 - [Microsoft AI Principles](https://www.microsoft.com/en-us/ai/responsible-ai)
+
+## Institutes
+
+- [Open Data Institute](https://theodi.org/)
+- [Ada Lovelace Institute](https://www.adalovelaceinstitute.org/)
+- [The Institute for Ethical AI & Machine Learning](https://ethical.institute/)
+- [Center for Responsible AI](https://airesponsibly.com/)
+- [University of Oxford Institute for Ethics in AI](https://www.oxford-aiethics.ox.ac.uk/)
+- [Montreal AI Ethics Institute](https://montrealethics.ai/)
+- [Munich Center for Technology in Society IEAI](https://ieai.mcts.tum.de/)
 
 ## Newsletters
 
@@ -140,6 +160,10 @@ A curated list of awesome academic research, books, code of ethics, newsletters,
 - [intepretML](https://interpret.ml) `Python`
 - [lime: Local Interpretable Model-Agnostic Explanations](https://cran.r-project.org/web/packages/lime/index.html) `R`
 
+### Sustainability
+
+- [Code Carbon](https://github.com/mlco2/codecarbon) `Python`
+
 ## Reproducible Research
 
 - [Papers with Code](https://paperswithcode.com)
@@ -166,15 +190,3 @@ A curated list of awesome academic research, books, code of ethics, newsletters,
 - [Executive Order on Maintaining American Leadership in AI](https://www.whitehouse.gov/presidential-actions/executive-order-maintaining-american-leadership-artificial-intelligence/) - Official mandate by the President of the US to 
 [Privacy Act of 1974](https://www.justice.gov/opcl/privacy-act-1974) - The privacy act of 1974 which establishes a code of fair information practices that governs the collection, maintenance, use and dissemination of information about individuals that is maintained in systems of records by federal agencies.
 [Privacy Protection Act of 1980](https://epic.org/privacy/ppa/) - The Privacy Protection Act of 1980 protects journalists from being required to turn over to law enforcement any work product and documentary materials, including sources, before it is disseminated to the public.
-
-
-## Agents
-
-- [Open Data Institute](https://theodi.org/)
-- [Ada Lovelace Institute](https://www.adalovelaceinstitute.org/)
-- [The Institute for Ethical AI & Machine Learning](https://ethical.institute/)
-- [Center for Responsible AI](https://airesponsibly.com/)
-- [University of Oxford Institute for Ethics in AI](https://www.oxford-aiethics.ox.ac.uk/)
-- [Montreal AI Ethics Institute](https://montrealethics.ai/)
-- [Munich Center for Technology in Society IEAI](https://ieai.mcts.tum.de/)
-
