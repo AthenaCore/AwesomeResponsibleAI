@@ -136,6 +136,7 @@ A curated list of awesome academic research, books, code of ethics, newsletters,
 
 ### Differential Privacy
 
+- [DataSynthesizer: Privacy-Preserving Synthetic Datasets](https://github.com/DataResponsibly/DataSynthesizer) `Python` `Drexel University` `University of Washington`
 - [diffpriv](https://github.com/brubinstein/diffpriv) `R`
 - [Diffprivlib](https://github.com/IBM/differential-privacy-library) `Python` `IBM`
 - [Discrete Gaussian for Differential Privacy](https://github.com/IBM/discrete-gaussian-differential-privacy) `Python` `IBM`
