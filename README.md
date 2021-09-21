@@ -55,6 +55,11 @@ A curated list of awesome academic research, books, code of ethics, newsletters,
 
 - [Building Inclusive Products Through A/B Testing](https://engineering.linkedin.com/blog/2020/building-inclusive-products-through-a-b-testing) ([Saint-Jacques et al, 2020](https://arxiv.org/pdf/2002.05819)) `LinkedIn`
 
+### Drift
+
+- FreaAI: Automated extraction of data slices to test machine learning models ([Ackerman, S. et al. (2021)](https://arxiv.org/pdf/2108.05620.pdf)) `IBM`
+- Machine Learning Model Drift Detection Via Weak Data Slices ([[Ackerman, S. et al. (2021)](https://arxiv.org/pdf/2108.05319.pdf)) `IBM`
+
 ### Sustainability
 
 - Energy and policy considerations for deep learning in NLP ([Strubell, E. et al. (2019)](https://arxiv.org/abs/1906.02243))
