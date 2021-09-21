@@ -58,7 +58,7 @@ A curated list of awesome academic research, books, code of ethics, newsletters,
 ### Drift
 
 - FreaAI: Automated extraction of data slices to test machine learning models ([Ackerman, S. et al. (2021)](https://arxiv.org/pdf/2108.05620.pdf)) `IBM`
-- Machine Learning Model Drift Detection Via Weak Data Slices ([[Ackerman, S. et al. (2021)](https://arxiv.org/pdf/2108.05319.pdf)) `IBM`
+- Machine Learning Model Drift Detection Via Weak Data Slices ([Ackerman, S. et al. (2021)](https://arxiv.org/pdf/2108.05319.pdf)) `IBM`
 
 ### Sustainability
 
