@@ -161,6 +161,7 @@ A curated list of awesome academic research, books, code of ethics, newsletters,
 - [breakDown: Model Agnostic Explainers for Individual Predictions](https://cran.r-project.org/web/packages/breakDown/index.html) `R`
 - [ceterisParibus: Ceteris Paribus Profiles](https://cran.r-project.org/web/packages/ceterisParibus/index.html) `R`
 - [DALEX: moDel Agnostic Language for Exploration and eXplanation](https://dalex.drwhy.ai) `Python` `R`
+- [DALEXtra: extension for DALEX](https://modeloriented.github.io/DALEXtra) `Python` `R`
 - [eXplainability Toolbox](https://ethical.institute/xai.html) `Python`
 - [IBM's AI Explainability 360 Open Source Toolkit](http://aix360.mybluemix.net/) `Python`
 - [intepretML](https://interpret.ml) `Python`
