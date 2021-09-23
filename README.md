@@ -134,6 +134,12 @@ A curated list of awesome academic research, books, code of ethics, newsletters,
 
 ## Tools
 
+### Performance (& Automated ML)
+
+- [Auto-Sklearn](https://github.com/automl/auto-sklearn) `Python`
+- [forester](https://modeloriented.github.io/forester/) `R`
+- [TPOT](http://epistasislab.github.io/tpot/) `Python`
+
 ### Differential Privacy
 
 - [DataSynthesizer: Privacy-Preserving Synthetic Datasets](https://github.com/DataResponsibly/DataSynthesizer) `Python` `Drexel University` `University of Washington`
