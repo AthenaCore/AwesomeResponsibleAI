@@ -57,17 +57,17 @@ A curated list of awesome academic research, books, code of ethics, newsletters,
 
 ### Drift
 
-- FreaAI: Automated extraction of data slices to test machine learning models ([Ackerman, S. et al. (2021)](https://arxiv.org/pdf/2108.05620.pdf)) `IBM`
-- Machine Learning Model Drift Detection Via Weak Data Slices ([Ackerman, S. et al. (2021)](https://arxiv.org/pdf/2108.05319.pdf)) `IBM`
+- FreaAI: Automated extraction of data slices to test machine learning models ([Ackerman, S. et al. 2021](https://arxiv.org/pdf/2108.05620.pdf)) `IBM`
+- Machine Learning Model Drift Detection Via Weak Data Slices ([Ackerman, S. et al. 2021](https://arxiv.org/pdf/2108.05319.pdf)) `IBM`
 
 ### Sustainability
 
-- Energy and policy considerations for deep learning in NLP ([Strubell, E. et al. (2019)](https://arxiv.org/abs/1906.02243))
-- Quantifying the carbon emissions of machine learning. ([Lacoste, A. et al. (2019)](https://arxiv.org/abs/1910.09700))
-- Carbon emissions and large neural network training. ([Patterson, D. et al. (2021)](https://arxiv.org/abs/2104.10350)) 
-- The Energy and Carbon Footprint of Training End-to-End Speech Recognizers. ([Parcollet, T., & Ravanelli, M. (2021)](https://hal.archives-ouvertes.fr/hal-03190119/document))
-- Sustainable AI: AI for sustainability and the sustainability of AI ([van Wynsberghe, A. (2021)](https://link.springer.com/article/10.1007/s43681-021-00043-6)). AI and Ethics, 1-6
-- Green Algorithms: Quantifying the carbon emissions of computation ([Lannelongue, L. et al. (2020)](https://arxiv.org/abs/2007.07610))
+- Energy and policy considerations for deep learning in NLP ([Strubell, E. et al. 2019](https://arxiv.org/abs/1906.02243))
+- Quantifying the carbon emissions of machine learning. ([Lacoste, A. et al. 2019](https://arxiv.org/abs/1910.09700))
+- Carbon emissions and large neural network training. ([Patterson, D. et al. 2021](https://arxiv.org/abs/2104.10350)) 
+- The Energy and Carbon Footprint of Training End-to-End Speech Recognizers. ([Parcollet, T., & Ravanelli, M. 2021](https://hal.archives-ouvertes.fr/hal-03190119/document))
+- Sustainable AI: AI for sustainability and the sustainability of AI ([van Wynsberghe, A. 2021](https://link.springer.com/article/10.1007/s43681-021-00043-6)). AI and Ethics, 1-6
+- Green Algorithms: Quantifying the carbon emissions of computation ([Lannelongue, L. et al. 2020](https://arxiv.org/abs/2007.07610))
 
 ## Books
 
@@ -121,6 +121,10 @@ A curated list of awesome academic research, books, code of ethics, newsletters,
 - [European Commission's Guidelines for Trustworthy AI](https://ec.europa.eu/futurium/en/ai-alliance-consultation)
 - [IEEE's Ethically Aligned Design](https://ethicsinaction.ieee.org/)
 - [The Institute for Ethical AI & Machine Learning: The Responsible Machine Learning Principles](https://ethical.institute/principles.html)
+
+Additional:
+
+- [FAIR Principles](https://www.go-fair.org/fair-principles/) `Findability` `Accessibility` `Interoperability` `Reuse`
 
 ## Podcasts
 
