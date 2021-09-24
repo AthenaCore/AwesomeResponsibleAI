@@ -68,6 +68,11 @@ A curated list of awesome academic research, books, code of ethics, newsletters,
 - The Energy and Carbon Footprint of Training End-to-End Speech Recognizers. ([Parcollet, T., & Ravanelli, M. 2021](https://hal.archives-ouvertes.fr/hal-03190119/document))
 - Sustainable AI: AI for sustainability and the sustainability of AI ([van Wynsberghe, A. 2021](https://link.springer.com/article/10.1007/s43681-021-00043-6)). AI and Ethics, 1-6
 - Green Algorithms: Quantifying the carbon emissions of computation ([Lannelongue, L. et al. 2020](https://arxiv.org/abs/2007.07610))
+- Machine Learning: The High Interest Credit Card of Technical Debt ([Sculley, D. et al. 2014](https://research.google/pubs/pub43146/)) `Google`
+
+### Collections
+
+- Google Research on Responsible AI: https://research.google/pubs/?collection=responsible-ai `Google`
 
 ## Books
 
