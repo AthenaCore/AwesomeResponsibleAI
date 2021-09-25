@@ -145,8 +145,12 @@ Additional:
 
 ### Performance (& Automated ML)
 
+- [automl: Deep Learning with Metaheuristic](https://cran.r-project.org/web/packages/automl/index.html) `R`
+- [AutoKeras](https://github.com/keras-team/autokeras) `Python`
 - [Auto-Sklearn](https://github.com/automl/auto-sklearn) `Python`
+- [Featuretools](https://www.featuretools.com) `Python`
 - [forester](https://modeloriented.github.io/forester/) `R`
+- [NNI: Neural Network Intelligence](https://github.com/microsoft/nni) `Python` `Microsoft`
 - [TPOT](http://epistasislab.github.io/tpot/) `Python`
 
 ### Differential Privacy
