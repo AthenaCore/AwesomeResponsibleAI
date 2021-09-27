@@ -181,7 +181,9 @@ Additional:
 - [ceterisParibus: Ceteris Paribus Profiles](https://cran.r-project.org/web/packages/ceterisParibus/index.html) `R`
 - [DALEX: moDel Agnostic Language for Exploration and eXplanation](https://dalex.drwhy.ai) `Python` `R`
 - [DALEXtra: extension for DALEX](https://modeloriented.github.io/DALEXtra) `Python` `R`
+- [eli5](https://github.com/TeamHG-Memex/eli5) `Python`
 - [eXplainability Toolbox](https://ethical.institute/xai.html) `Python`
+- [FAT Forensics](https://fat-forensics.org/) `Python`
 - [IBM's AI Explainability 360 Open Source Toolkit](http://aix360.mybluemix.net/) `Python`
 - [intepretML](https://interpret.ml) `Python`
 - [lime: Local Interpretable Model-Agnostic Explanations](https://cran.r-project.org/web/packages/lime/index.html) `R`
@@ -195,10 +197,6 @@ Additional:
 
 - [Papers with Code](https://paperswithcode.com)
 - [Papers without Code](https://www.paperswithoutcode.com)
-
-### Non-active
-
-- [FAT Forensics](https://fat-forensics.org/) (last update 19 May 2020) `Python`
 
 ## Regulations
 
