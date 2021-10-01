@@ -13,6 +13,7 @@ A curated list of awesome academic research, books, code of ethics, newsletters,
 - [Academic Research](#academic-research)
 - [Books](#books)
 - [Code of Ethics](#code-of-ethics)
+- [Data Sets](#data-sets)
 - [Institutes](#institutes)
 - [Newsletters](#newsletters)
 - [Principles](#principles)
@@ -104,6 +105,10 @@ A curated list of awesome academic research, books, code of ethics, newsletters,
 - [Ethics guidelines for trustworthy AI](https://op.europa.eu/en/publication-detail/-/publication/d3988569-0434-11ea-8c1f-01aa75ed71a1/language-en/format-PDF/source-229277158) - European Commission document prepared by the High-Level Expert Group on Artificial Intelligence (AI HLEG).
 - [Google AI Principles](https://ai.google/principles/)
 - [Microsoft AI Principles](https://www.microsoft.com/en-us/ai/responsible-ai)
+
+## Data Sets
+
+- [An ImageNet replacement for self-supervised pretraining without humans](https://www.robots.ox.ac.uk/~vgg/research/pass/)
 
 ## Institutes
 
