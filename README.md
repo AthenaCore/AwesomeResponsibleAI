@@ -180,6 +180,7 @@ Additional:
 - [Aequitas' Bias & Fairness Audit Toolkit](http://aequitas.dssg.io/) `Python`
 - [Fairlearn](https://fairlearn.org) `Python`
 - [fairness](https://cran.r-project.org/web/packages/fairness/) `R`
+- [FairPAN - Fair Predictive Adversarial Network](https://modeloriented.github.io/FairPAN/) `R`
 
 ### Interpretability/Explicability
 
