@@ -178,12 +178,16 @@ Additional:
 ### Fairness
 
 - [Aequitas' Bias & Fairness Audit Toolkit](http://aequitas.dssg.io/) `Python`
-- [Fairlearn](https://fairlearn.org) `Python`
+- [AI360 Toolkit](https://github.com/Trusted-AI/AIF360) `Python` `R` `IBM`
+- [Fairlearn](https://fairlearn.org) `Python` `Microsoft`
 - [fairness](https://cran.r-project.org/web/packages/fairness/) `R`
 - [FairPAN - Fair Predictive Adversarial Network](https://modeloriented.github.io/FairPAN/) `R`
+- [Themis ML](https://github.com/cosmicBboy/themis-ml) `Python`
+- [What-If Tool](https://github.com/PAIR-code/what-if-tool) `Python` `Google`
 
 ### Interpretability/Explicability
 
+- [AI360 Toolkit](https://github.com/Trusted-AI/AIF360) `Python` `R` `IBM`
 - [breakDown: Model Agnostic Explainers for Individual Predictions](https://cran.r-project.org/web/packages/breakDown/index.html) `R`
 - [ceterisParibus: Ceteris Paribus Profiles](https://cran.r-project.org/web/packages/ceterisParibus/index.html) `R`
 - [DALEX: moDel Agnostic Language for Exploration and eXplanation](https://dalex.drwhy.ai) `Python` `R`
@@ -191,7 +195,6 @@ Additional:
 - [eli5](https://github.com/TeamHG-Memex/eli5) `Python`
 - [eXplainability Toolbox](https://ethical.institute/xai.html) `Python`
 - [FAT Forensics](https://fat-forensics.org/) `Python`
-- [IBM's AI Explainability 360 Open Source Toolkit](http://aix360.mybluemix.net/) `Python`
 - [intepretML](https://interpret.ml) `Python`
 - [lime: Local Interpretable Model-Agnostic Explanations](https://cran.r-project.org/web/packages/lime/index.html) `R`
 
