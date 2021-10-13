@@ -145,6 +145,7 @@ Additional:
 
 - [Inferring Concept Drift Without Labeled Data, 2021](https://concept-drift.fastforwardlabs.com) `Drift`
 - [Interpretability, Fast Forward Labs, 2020](https://ff06-2020.fastforwardlabs.com) `Interpretability`
+- [State of AI](https://www.stateof.ai) - from 2018 up to now -
 
 ## Tools
 
