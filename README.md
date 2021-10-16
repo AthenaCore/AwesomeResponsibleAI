@@ -117,7 +117,8 @@ A curated list of awesome academic research, books, code of ethics, newsletters,
 - [Center for Responsible AI](https://airesponsibly.com/)
 - [University of Oxford Institute for Ethics in AI](https://www.oxford-aiethics.ox.ac.uk/)
 - [Montreal AI Ethics Institute](https://montrealethics.ai/)
-- [Munich Center for Technology in Society IEAI](https://ieai.mcts.tum.de/)
+- [Munich Center for Technology in Society (IEAI)](https://ieai.mcts.tum.de/)
+- [Stanford University Human-Centered Artificial Intelligence (HAI)](https://hai.stanford.edu)
 
 ## Newsletters
 
