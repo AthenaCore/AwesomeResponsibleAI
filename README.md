@@ -161,11 +161,13 @@ Additional:
 
 ### Differential Privacy
 
+- [BackPACK](https://toiaydcdyywlhzvlob.github.io/backpack) `Python`
 - [DataSynthesizer: Privacy-Preserving Synthetic Datasets](https://github.com/DataResponsibly/DataSynthesizer) `Python` `Drexel University` `University of Washington`
 - [diffpriv](https://github.com/brubinstein/diffpriv) `R`
 - [Diffprivlib](https://github.com/IBM/differential-privacy-library) `Python` `IBM`
 - [Discrete Gaussian for Differential Privacy](https://github.com/IBM/discrete-gaussian-differential-privacy) `Python` `IBM`
 - [Opacus](https://opacus.ai) `Python` `Facebook`
+- [PyVacy: Privacy Algorithms for PyTorch](https://github.com/ChrisWaites/pyvacy) `Python`
 - [SEAL](https://github.com/Microsoft/SEAL) `Python` `Microsoft`
 - [SmartNoise](https://github.com/opendp/smartnoise-core) `Python` `OpenDP`
 - [Tensorflow Privacy](https://github.com/tensorflow/privacy) `Python` `Google`
