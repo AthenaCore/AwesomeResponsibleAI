@@ -179,6 +179,7 @@ Additional:
 - [Aequitas' Bias & Fairness Audit Toolkit](http://aequitas.dssg.io/) `Python`
 - [AI360 Toolkit](https://github.com/Trusted-AI/AIF360) `Python` `R` `IBM`
 - [Fairlearn](https://fairlearn.org) `Python` `Microsoft`
+- [Fairmodels](https://fairmodels.drwhy.ai) `R`
 - [fairness](https://cran.r-project.org/web/packages/fairness/) `R`
 - [FairPAN - Fair Predictive Adversarial Network](https://modeloriented.github.io/FairPAN/) `R`
 - [Themis ML](https://github.com/cosmicBboy/themis-ml) `Python`
