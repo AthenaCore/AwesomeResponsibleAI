@@ -200,6 +200,11 @@ Additional:
 - [Shapash](https://github.com/maif/shapash) `Python`
 - [Skater](https://github.com/oracle/Skater) `Python` `Oracle`
 
+### Responsible AI toolkit
+
+- [Dr. Why](https://github.com/ModelOriented/DrWhy) `R` `Warsaw University of Technology`
+- [Responsible AI Widgets](https://github.com/microsoft/responsible-ai-widgets) `R` `Microsoft`
+
 ### Sustainability
 
 - [Code Carbon](https://github.com/mlco2/codecarbon) `Python`
