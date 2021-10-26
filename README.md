@@ -199,6 +199,7 @@ Additional:
 - [lime: Local Interpretable Model-Agnostic Explanations](https://cran.r-project.org/web/packages/lime/index.html) `R`
 - [Shapash](https://github.com/maif/shapash) `Python`
 - [Skater](https://github.com/oracle/Skater) `Python` `Oracle`
+- [Zennit](https://github.com/chr5tphr/zennit) `Python`
 
 ### Responsible AI toolkit
 
