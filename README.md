@@ -145,15 +145,13 @@ Additional:
 
 ## Tools
 
-### Performance (& Automated ML)
+### Causal Inference
 
-- [automl: Deep Learning with Metaheuristic](https://cran.r-project.org/web/packages/automl/index.html) `R`
-- [AutoKeras](https://github.com/keras-team/autokeras) `Python`
-- [Auto-Sklearn](https://github.com/automl/auto-sklearn) `Python`
-- [Featuretools](https://www.featuretools.com) `Python`
-- [forester](https://modeloriented.github.io/forester/) `R`
-- [NNI: Neural Network Intelligence](https://github.com/microsoft/nni) `Python` `Microsoft`
-- [TPOT](http://epistasislab.github.io/tpot/) `Python`
+- [CausalImpact](https://cran.r-project.org/web/packages/CausalImpact) `R`
+- [Causalinference](https://causalinferenceinpython.org) `Python`
+- [dagitty](https://cran.r-project.org/web/packages/dagitty) `R`
+- [DoWhy](https://github.com/Microsoft/dowhy) `Python` `Microsoft`
+- [MRPC](https://cran.r-project.org/web/packages/MRPC) `R`
 
 ### Differential Privacy
 
@@ -200,6 +198,16 @@ Additional:
 - [Shapash](https://github.com/maif/shapash) `Python`
 - [Skater](https://github.com/oracle/Skater) `Python` `Oracle`
 - [Zennit](https://github.com/chr5tphr/zennit) `Python`
+
+### Performance (& Automated ML)
+
+- [automl: Deep Learning with Metaheuristic](https://cran.r-project.org/web/packages/automl/index.html) `R`
+- [AutoKeras](https://github.com/keras-team/autokeras) `Python`
+- [Auto-Sklearn](https://github.com/automl/auto-sklearn) `Python`
+- [Featuretools](https://www.featuretools.com) `Python`
+- [forester](https://modeloriented.github.io/forester/) `R`
+- [NNI: Neural Network Intelligence](https://github.com/microsoft/nni) `Python` `Microsoft`
+- [TPOT](http://epistasislab.github.io/tpot/) `Python`
 
 ### Responsible AI toolkit
 
