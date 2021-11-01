@@ -147,6 +147,7 @@ Additional:
 
 ### Causal Inference
 
+- [CausalNex](https://causalnex.readthedocs.io) `Python`
 - [CausalImpact](https://cran.r-project.org/web/packages/CausalImpact) `R`
 - [Causalinference](https://causalinferenceinpython.org) `Python`
 - [dagitty](https://cran.r-project.org/web/packages/dagitty) `R`
