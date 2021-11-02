@@ -150,8 +150,10 @@ Additional:
 - [CausalNex](https://causalnex.readthedocs.io) `Python`
 - [CausalImpact](https://cran.r-project.org/web/packages/CausalImpact) `R`
 - [Causalinference](https://causalinferenceinpython.org) `Python`
+- [CIMTx: Causal Inference for Multiple Treatments with a Binary Outcome](https://cran.r-project.org/web/packages/CIMTx) `R`
 - [dagitty](https://cran.r-project.org/web/packages/dagitty) `R`
 - [DoWhy](https://github.com/Microsoft/dowhy) `Python` `Microsoft`
+- [mediation: Causal Mediation Analysis](https://cran.r-project.org/web/packages/mediation) `R`
 - [MRPC](https://cran.r-project.org/web/packages/MRPC) `R`
 
 ### Differential Privacy
