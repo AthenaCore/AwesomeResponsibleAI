@@ -104,6 +104,7 @@ A curated list of awesome academic research, books, code of ethics, newsletters,
 ## Data Sets
 
 - [An ImageNet replacement for self-supervised pretraining without humans](https://www.robots.ox.ac.uk/~vgg/research/pass/)
+- [Huggingface Data Sets](https://huggingface.co/datasets)
 
 ## Institutes
 
