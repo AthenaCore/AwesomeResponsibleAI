@@ -196,6 +196,7 @@ Additional:
 - [DALEXtra: extension for DALEX](https://modeloriented.github.io/DALEXtra) `Python` `R`
 - [eli5](https://github.com/TeamHG-Memex/eli5) `Python`
 - [eXplainability Toolbox](https://ethical.institute/xai.html) `Python`
+- [ExplainerHub](https://explainerdashboard.readthedocs.io/en/latest/index.html) [in github](https://github.com/oegedijk/explainerdashboard) `Python` 
 - [FAT Forensics](https://fat-forensics.org/) `Python`
 - [intepretML](https://interpret.ml) `Python`
 - [lime: Local Interpretable Model-Agnostic Explanations](https://cran.r-project.org/web/packages/lime/index.html) `R`
@@ -222,6 +223,7 @@ Additional:
 
 - [Code Carbon](https://github.com/mlco2/codecarbon) `Python`
 - [Azure Sustainability Calculator](https://appsource.microsoft.com/en-us/product/power-bi/coi-sustainability.sustainability_dashboard) `Microsoft`
+- [Computer Progress](https://www.computerprogress.com)
 
 ## Reproducible Research
 
