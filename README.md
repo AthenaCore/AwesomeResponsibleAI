@@ -173,6 +173,7 @@ Additional:
 ### Drift
 
 - [Alibi Detect](https://github.com/SeldonIO/alibi-detect) `Python`
+- [Deepchecks](https://github.com/deepchecks/deepchecks) `Python`
 - [Evidently](https://github.com/evidentlyai/evidently) `Python`
 - [drifter](https://cran.r-project.org/web/packages/drifter/) `R`
 
