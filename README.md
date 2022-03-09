@@ -137,6 +137,7 @@ Additional:
 
 - [The Human-Centered AI Podcast](https://podcasts.apple.com/us/podcast/the-human-centered-ai-podcast/id1499839858)
 - [Responsible AI Podcast](https://open.spotify.com/show/63Fx70r96P3ghWavisvPEQ)
+- [Trustworthy AI](https://marketing.truera.com/trustworthy-ai-podcast)
 
 ## Reports
 
