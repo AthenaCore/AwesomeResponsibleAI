@@ -24,6 +24,10 @@ A curated list of awesome academic research, books, code of ethics, newsletters,
 
 ## Academic Research
 
+### Bias
+
+- Towards a Standard for Identifying and Managing Bias in Artificial Intelligence ([Schwartz, Reva et al., 2022]()) `NIST`
+
 ### Challenges
 
 - Underspecification presents challenges for credibility in modern machine learning. ([D'AMOUR, Alexander, et al., 2020](https://arxiv.org/abs/2011.03395)) `Google`
