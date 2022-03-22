@@ -204,9 +204,11 @@ Additional:
 - [eli5](https://github.com/TeamHG-Memex/eli5) `Python`
 - [eXplainability Toolbox](https://ethical.institute/xai.html) `Python`
 - [ExplainerHub](https://explainerdashboard.readthedocs.io/en/latest/index.html) [in github](https://github.com/oegedijk/explainerdashboard) `Python` 
+- [](https://github.com/linkedin/fasttreeshap) `Python` `LinkedIn`
 - [FAT Forensics](https://fat-forensics.org/) `Python`
 - [intepretML](https://interpret.ml) `Python`
 - [lime: Local Interpretable Model-Agnostic Explanations](https://cran.r-project.org/web/packages/lime/index.html) `R`
+- [Shap](https://github.com/slundberg/shap) `Python`
 - [Shapash](https://github.com/maif/shapash) `Python`
 - [Skater](https://github.com/oracle/Skater) `Python` `Oracle`
 - [Zennit](https://github.com/chr5tphr/zennit) `Python`
