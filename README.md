@@ -223,6 +223,7 @@ Additional:
 - [forester](https://modeloriented.github.io/forester/) `R`
 - [NNI: Neural Network Intelligence](https://github.com/microsoft/nni) `Python` `Microsoft`
 - [TPOT](http://epistasislab.github.io/tpot/) `Python`
+- [Unleash](https://www.getunleash.io)
 
 ### Responsible AI toolkit
 
