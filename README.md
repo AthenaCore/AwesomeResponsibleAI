@@ -37,7 +37,6 @@ A curated list of awesome academic research, books, code of ethics, newsletters,
 - FreaAI: Automated extraction of data slices to test machine learning models ([Ackerman, S. et al. 2021](https://arxiv.org/pdf/2108.05620.pdf)) `IBM`
 - Machine Learning Model Drift Detection Via Weak Data Slices ([Ackerman, S. et al. 2021](https://arxiv.org/pdf/2108.05319.pdf)) `IBM`
 
-
 ### Explainability
 
 - Efficient Data Representation by Selecting Prototypes with Importance Weights ([Gurumoorthy et al., 2019](https://arxiv.org/abs/1707.01212)) `Amazon Development Center` `IBM Research`
@@ -179,8 +178,9 @@ Additional:
 
 - [Alibi Detect](https://github.com/SeldonIO/alibi-detect) `Python`
 - [Deepchecks](https://github.com/deepchecks/deepchecks) `Python`
-- [Evidently](https://github.com/evidentlyai/evidently) `Python`
 - [drifter](https://cran.r-project.org/web/packages/drifter/) `R`
+- [Evidently](https://github.com/evidentlyai/evidently) `Python`
+- [nannyML](https://github.com/NannyML/nannyml) `Python`
 
 ### Fairness
 
