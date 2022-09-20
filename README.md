@@ -211,6 +211,7 @@ Additional:
 - [Shap](https://github.com/slundberg/shap) `Python`
 - [Shapash](https://github.com/maif/shapash) `Python`
 - [Skater](https://github.com/oracle/Skater) `Python` `Oracle`
+- [survex](https://github.com/ModelOriented/survex) `R`
 - [Zennit](https://github.com/chr5tphr/zennit) `Python`
 
 ### Performance (& Automated ML)
