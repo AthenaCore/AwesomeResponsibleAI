@@ -196,6 +196,7 @@ Additional:
 ### Interpretability/Explicability
 
 - [AI360 Toolkit](https://github.com/Trusted-AI/AIF360) `Python` `R` `IBM`
+- [aorsf: Accelerated Oblique Random Survival Forests](https://cran.r-project.org/web/packages/aorsf/index.html) `R`
 - [breakDown: Model Agnostic Explainers for Individual Predictions](https://cran.r-project.org/web/packages/breakDown/index.html) `R`
 - [ceterisParibus: Ceteris Paribus Profiles](https://cran.r-project.org/web/packages/ceterisParibus/index.html) `R`
 - [DALEX: moDel Agnostic Language for Exploration and eXplanation](https://dalex.drwhy.ai) `Python` `R`
@@ -207,6 +208,7 @@ Additional:
 - [fasttreeshap](https://github.com/linkedin/fasttreeshap) `Python` `LinkedIn`
 - [FAT Forensics](https://fat-forensics.org/) `Python`
 - [intepretML](https://interpret.ml) `Python`
+- [kernelshap: Kernel SHAP](https://cran.r-project.org/web/packages/kernelshap/index.html) `R`
 - [lime: Local Interpretable Model-Agnostic Explanations](https://cran.r-project.org/web/packages/lime/index.html) `R`
 - [Shap](https://github.com/slundberg/shap) `Python`
 - [Shapash](https://github.com/maif/shapash) `Python`
