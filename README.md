@@ -212,6 +212,7 @@ Additional:
 - [lime: Local Interpretable Model-Agnostic Explanations](https://cran.r-project.org/web/packages/lime/index.html) `R`
 - [Shap](https://github.com/slundberg/shap) `Python`
 - [Shapash](https://github.com/maif/shapash) `Python`
+- [shapviz](https://cran.r-project.org/web/packages/shapviz/index.html) `R`
 - [Skater](https://github.com/oracle/Skater) `Python` `Oracle`
 - [survex](https://github.com/ModelOriented/survex) `R`
 - [Zennit](https://github.com/chr5tphr/zennit) `Python`
