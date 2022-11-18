@@ -233,6 +233,7 @@ Additional:
 
 - [Dr. Why](https://github.com/ModelOriented/DrWhy) `R` `Warsaw University of Technology`
 - [Responsible AI Widgets](https://github.com/microsoft/responsible-ai-widgets) `R` `Microsoft`
+- [The Data Cards Playbook](https://pair-code.github.io/datacardsplaybook/)
 
 ### Sustainability
 
