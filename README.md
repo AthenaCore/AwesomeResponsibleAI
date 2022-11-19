@@ -225,6 +225,7 @@ Additional:
 - [deepchecks](https://deepchecks.com) `Python`
 - [Featuretools](https://www.featuretools.com) `Python`
 - [forester](https://modeloriented.github.io/forester/) `R`
+- [metrica: Prediction performance metrics](https://adriancorrendo.github.io/metrica/) `R`
 - [NNI: Neural Network Intelligence](https://github.com/microsoft/nni) `Python` `Microsoft`
 - [TPOT](http://epistasislab.github.io/tpot/) `Python`
 - [Unleash](https://www.getunleash.io)
