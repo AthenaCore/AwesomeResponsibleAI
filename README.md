@@ -216,6 +216,8 @@ Additional:
 - [shapviz](https://cran.r-project.org/web/packages/shapviz/index.html) `R`
 - [Skater](https://github.com/oracle/Skater) `Python` `Oracle`
 - [survex](https://github.com/ModelOriented/survex) `R`
+- [pre: Prediction Rule Ensembles](https://cran.r-project.org/web/packages/pre/index.html) `R`
+- [interactions: Comprehensive, User-Friendly Toolkit for Probing Interactions](https://cran.r-project.org/web/packages/interactions/index.html) `R`
 - [Zennit](https://github.com/chr5tphr/zennit) `Python`
 
 ### Performance (& Automated ML)
