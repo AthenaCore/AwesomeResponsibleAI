@@ -112,14 +112,15 @@ A curated list of awesome academic research, books, code of ethics, newsletters,
 
 ## Institutes
 
-- [Open Data Institute](https://theodi.org/)
 - [Ada Lovelace Institute](https://www.adalovelaceinstitute.org/)
-- [The Institute for Ethical AI & Machine Learning](https://ethical.institute/)
+- [European Centre for Algorithmic Transparency](https://algorithmic-transparency.ec.europa.eu/index_en)
 - [Center for Responsible AI](https://airesponsibly.com/)
-- [University of Oxford Institute for Ethics in AI](https://www.oxford-aiethics.ox.ac.uk/)
 - [Montreal AI Ethics Institute](https://montrealethics.ai/)
 - [Munich Center for Technology in Society (IEAI)](https://ieai.mcts.tum.de/)
+- [Open Data Institute](https://theodi.org/)
 - [Stanford University Human-Centered Artificial Intelligence (HAI)](https://hai.stanford.edu)
+- [The Institute for Ethical AI & Machine Learning](https://ethical.institute/)
+- [University of Oxford Institute for Ethics in AI](https://www.oxford-aiethics.ox.ac.uk/)
 
 ## Newsletters
 
