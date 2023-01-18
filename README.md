@@ -152,6 +152,10 @@ Additional:
 
 ## Tools
 
+### Bias
+
+- [balance](https://import-balance.org) `Python` `Facebook`
+
 ### Causal Inference
 
 - [CausalNex](https://causalnex.readthedocs.io) `Python`
