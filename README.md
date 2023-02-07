@@ -158,6 +158,7 @@ Additional:
 
 ### Causal Inference
 
+- [CausalAI](https://github.com/salesforce/causalai) `Python` `Salesforce`
 - [CausalNex](https://causalnex.readthedocs.io) `Python`
 - [CausalImpact](https://cran.r-project.org/web/packages/CausalImpact) `R`
 - [Causalinference](https://causalinferenceinpython.org) `Python`
