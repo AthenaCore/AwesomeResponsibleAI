@@ -205,6 +205,7 @@ Additional:
 - [AI360 Toolkit](https://github.com/Trusted-AI/AIF360) `Python` `R` `IBM`
 - [aorsf: Accelerated Oblique Random Survival Forests](https://cran.r-project.org/web/packages/aorsf/index.html) `R`
 - [breakDown: Model Agnostic Explainers for Individual Predictions](https://cran.r-project.org/web/packages/breakDown/index.html) `R`
+- [captum](https://github.com/pytorch/captum) `Python` `PyTorch`
 - [ceterisParibus: Ceteris Paribus Profiles](https://cran.r-project.org/web/packages/ceterisParibus/index.html) `R`
 - [DALEX: moDel Agnostic Language for Exploration and eXplanation](https://dalex.drwhy.ai) `Python` `R`
 - [DALEXtra: extension for DALEX](https://modeloriented.github.io/DALEXtra) `Python` `R`
@@ -214,6 +215,7 @@ Additional:
 - [ExplainerHub](https://explainerdashboard.readthedocs.io/en/latest/index.html) [in github](https://github.com/oegedijk/explainerdashboard) `Python` 
 - [fasttreeshap](https://github.com/linkedin/fasttreeshap) `Python` `LinkedIn`
 - [FAT Forensics](https://fat-forensics.org/) `Python`
+- [innvestigate](https://github.com/albermax/innvestigate) `Python` `Neural Networks`
 - [intepretML](https://interpret.ml) `Python`
 - [interactions: Comprehensive, User-Friendly Toolkit for Probing Interactions](https://cran.r-project.org/web/packages/interactions/index.html) `R`
 - [kernelshap: Kernel SHAP](https://cran.r-project.org/web/packages/kernelshap/index.html) `R`
@@ -239,7 +241,8 @@ Additional:
 - [metrica: Prediction performance metrics](https://adriancorrendo.github.io/metrica/) `R`
 - [NNI: Neural Network Intelligence](https://github.com/microsoft/nni) `Python` `Microsoft`
 - [TPOT](http://epistasislab.github.io/tpot/) `Python`
-- [Unleash](https://www.getunleash.io)
+- [Unleash](https://www.getunleash.io) `Python`
+- [Yellowbrick](https://www.scikit-yb.org/en/latest/) `Python`
 
 ### Responsible AI toolkit
 
