@@ -101,9 +101,6 @@ A curated list of awesome academic research, books, code of ethics, newsletters,
 - [Association for Computer Machinery's Code of Ethics and Professional Conduct](https://www.acm.org/code-of-ethics)
 - [IEEE Global Initiative for Ethical Considerations in Artificial Intelligence (AI) and Autonomous Systems (AS)](https://ethicsinaction.ieee.org/)
 - [ISO/IEC's Standards for Artificial Intelligence](https://www.iso.org/committee/6794475/x/catalogue/)
-- [Ethics guidelines for trustworthy AI](https://op.europa.eu/en/publication-detail/-/publication/d3988569-0434-11ea-8c1f-01aa75ed71a1/language-en/format-PDF/source-229277158) - European Commission document prepared by the High-Level Expert Group on Artificial Intelligence (AI HLEG).
-- [Google AI Principles](https://ai.google/principles/)
-- [Microsoft AI Principles](https://www.microsoft.com/en-us/ai/responsible-ai)
 
 ## Data Sets
 
@@ -130,8 +127,13 @@ A curated list of awesome academic research, books, code of ethics, newsletters,
 
 ## Principles
 
+- [Asilomar AI principles](https://futureoflife.org/open-letter/ai-principles/)
 - [European Commission's Guidelines for Trustworthy AI](https://ec.europa.eu/futurium/en/ai-alliance-consultation)
-- [IEEE's Ethically Aligned Design](https://ethicsinaction.ieee.org/)
+- [Google's AI Principles](https://ai.google/principles/) `Google`
+- [IEEE's Ethically Aligned Design](https://ethicsinaction.ieee.org/) `IEEE`
+- [Microsoft's AI principles](https://www.microsoft.com/en-us/ai/responsible-ai) `Microsoft`
+- [OECD's AI principles](https://oecd.ai/en/ai-principles) `OECD`
+- [Telefonica's AI principles](https://www.telefonica.com/en/sustainability-innovation/how-we-work/business-principles/#artificial-intelligence-principles) `Telefonica`
 - [The Institute for Ethical AI & Machine Learning: The Responsible Machine Learning Principles](https://ethical.institute/principles.html)
 
 Additional:
@@ -199,6 +201,10 @@ Additional:
 - [FairPAN - Fair Predictive Adversarial Network](https://modeloriented.github.io/FairPAN/) `R`
 - [Themis ML](https://github.com/cosmicBboy/themis-ml) `Python`
 - [What-If Tool](https://github.com/PAIR-code/what-if-tool) `Python` `Google`
+
+### Framework
+
+- [Mercury](https://www.bbvaaifactory.com/mercury/) `Python` `BBVA`
 
 ### Interpretability/Explicability
 
