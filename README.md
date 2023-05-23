@@ -292,7 +292,7 @@ Additional:
 Domain | Standard | Status | URL
 ---|---|---|---
 AI Concepts and Terminology| ISO/IEC 22989:2022 Information technology — Artificial intelligence — Artificial intelligence concepts and terminology | Published | https://www.iso.org/standard/74296.html
-AI Risk Management | ISO/IEC 23894:2023 | Information technology — Artificial intelligence — Guidance on risk management | Published | 	https://www.iso.org/standard/77304.html
+AI Risk Management | ISO/IEC 23894:2023 | Information technology - Artificial intelligence - Guidance on risk management | Published | 	https://www.iso.org/standard/77304.html
 AI Management System | ISO/IEC DIS 42001 Information technology — Artificial intelligence — Management system | Published | https://www.iso.org/standard/81230.html
 Trustworthy AI | ISO/IEC TR 24028:2020 Information technology — Artificial intelligence — Overview of trustworthiness in artificial intelligence | Published | https://www.iso.org/standard/77608.html
 Biases in AI | ISO/IEC TR 24027:2021 Information technology — Artificial intelligence (AI) — Bias in AI systems and AI aided decision making | Published | https://www.iso.org/standard/77607.html
