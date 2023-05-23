@@ -275,6 +275,7 @@ Additional:
 
 - [General Data Protection Regulation GDPR](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32016R0679) - Legal text for the EU GDPR regulation 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC
 - [GDPR.EU Guide](https://gdpr.eu/) - A project co-funded by the Horizon 2020 Framework programme of the EU which provides a resource for organisations and individuals researching GDPR, including a library of straightforward and up-to-date information to help organisations achieve GDPR compliance ([Legal Text](https://www.govinfo.gov/content/pkg/USCODE-2012-title5/pdf/USCODE-2012-title5-partI-chap5-subchapII-sec552a.pdf)).
+- [AI ACT](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52021PC0206)
 
 ### United States
 
@@ -285,3 +286,32 @@ Additional:
 [Privacy Act of 1974](https://www.justice.gov/opcl/privacy-act-1974) - The privacy act of 1974 which establishes a code of fair information practices that governs the collection, maintenance, use and dissemination of information about individuals that is maintained in systems of records by federal agencies.
 - [Privacy Protection Act of 1980](https://epic.org/privacy/ppa/) - The Privacy Protection Act of 1980 protects journalists from being required to turn over to law enforcement any work product and documentary materials, including sources, before it is disseminated to the public.
 - [AI Bill of Rights](https://www.whitehouse.gov/ostp/ai-bill-of-rights/) - The Blueprint for an AI Bill of Rights is a guide for a society that protects all people from IA threats based on five principles: Safe and Effective Systems, Algorithmic Discrimination Protections, Data Privacy, Notice and Explanation, and  Human Alternatives, Consideration, and Fallback.
+
+## Standards
+
+Domain | Standard | Status | URL
+---|---|---|---
+AI Concepts and Terminology| ISO/IEC 22989:2022 Information technology — Artificial intelligence — Artificial intelligence concepts and terminology | Published | https://www.iso.org/standard/74296.html
+AI Risk Management | ISO/IEC 23894:2023 | Information technology — Artificial intelligence — Guidance on risk management | Published | 	https://www.iso.org/standard/77304.html
+AI Management System | ISO/IEC DIS 42001 Information technology — Artificial intelligence — Management system | Published | https://www.iso.org/standard/81230.html
+Trustworthy AI | ISO/IEC TR 24028:2020 Information technology — Artificial intelligence — Overview of trustworthiness in artificial intelligence | Published | https://www.iso.org/standard/77608.html
+Biases in AI | ISO/IEC TR 24027:2021 Information technology — Artificial intelligence (AI) — Bias in AI systems and AI aided decision making | Published | https://www.iso.org/standard/77607.html
+AI Performance | ISO/IEC TS 4213:2022 Information technology — Artificial intelligence — Assessment of machine learning classification performance | Published | https://www.iso.org/standard/79799.html
+Ethical and societal concerns | ISO/IEC TR 24368:2022 Information technology — Artificial intelligence — Overview of ethical and societal concerns | Published | https://www.iso.org/standard/78507.html
+Explainability | ISO/IEC AWI TS 6254 Information technology — Artificial intelligence — Objectives and approaches for explainability of ML models and AI systems | Under Development | https://www.iso.org/standard/82148.html
+AI Sustainability | ISO/IEC AWI TR 20226 Information technology — Artificial intelligence — Environmental sustainability aspects of AI systems | Under Development | https://www.iso.org/standard/86177.html
+AI Verification and Validation | ISO/IEC AWI TS 17847 Information technology — Artificial intelligence — Verification and validation analysis of AI systems | Under Development | https://www.iso.org/standard/85072.html
+AI Controllabitlity | ISO/IEC CD TS 8200 Information technology — Artificial intelligence — Controllability of automated artificial intelligence systems | Under Development | https://www.iso.org/standard/83012.html
+Biases in AI | ISO/IEC CD TS 12791 Information technology — Artificial intelligence — Treatment of unwanted bias in classification and regression machine learning tasks | Under Development | https://www.iso.org/standard/84110.html
+AI Impact Assessment | ISO/IEC AWI 42005 Information technology — Artificial intelligence — AI system impact assessment | Under Development | https://www.iso.org/standard/44545.html
+Data Quality for AI/ML | ISO/IEC DIS 5259 Artificial intelligence — Data quality for analytics and machine learning (ML) (1 to 6) | Under Development | https://www.iso.org/standard/81088.html
+Data Lifecycle | ISO/IEC FDIS 8183 Information technology — Artificial intelligence — Data life cycle framework | Under Development | 	https://www.iso.org/standard/83002.html
+Audit and Certification | ISO/IEC CD 42006 Information technology — Artificial intelligence — Requirements for bodies providing audit and certification of artificial intelligence management systems | Under Development | https://www.iso.org/standard/44546.html
+Transparency | ISO/IEC AWI 12792 Information technology — Artificial intelligence — Transparency taxonomy of AI systems | Under Development | https://www.iso.org/standard/84111.html
+AI Quality | ISO/IEC AWI TR 42106 Information technology — Artificial intelligence — Overview of differentiated benchmarking of AI system quality characteristics	Under Development | https://www.iso.org/standard/86903.html
+Synthetic Data | ISO/IEC AWI TR 42103 Information technology — Artificial intelligence — Overview of synthetic data in the context of AI systems | Under Development | https://www.iso.org/standard/86899.html
+AI Security | ISO/IEC AWI 27090 Cybersecurity — Artificial Intelligence — Guidance for addressing security threats and failures in artificial intelligence systems | Under Development | https://www.iso.org/standard/56581.html
+AI Privacy | ISO/IEC AWI 27091 Cybersecurity and Privacy — Artificial Intelligence — Privacy protection | Under Development	 | https://www.iso.org/standard/56582.html
+AI Governance | ISO/IEC 38507:2022 Information technology — Governance of IT — Governance implications of the use of artificial intelligence by organizations | Published | https://www.iso.org/standard/56641.html
+AI Safety | ISO/IEC CD TR 5469 Artificial intelligence — Functional safety and AI systems | Under Development | https://www.iso.org/standard/81283.html
+Beneficial AI Systems | ISO/IEC AWI TR 21221 Information technology – Artificial intelligence – Beneficial AI systems | Under Development  | https://www.iso.org/standard/86690.html
