@@ -233,22 +233,26 @@ Additional:
 - [interactions: Comprehensive, User-Friendly Toolkit for Probing Interactions](https://cran.r-project.org/web/packages/interactions/index.html) `R`
 - [kernelshap: Kernel SHAP](https://cran.r-project.org/web/packages/kernelshap/index.html) `R`
 - [lime: Local Interpretable Model-Agnostic Explanations](https://cran.r-project.org/web/packages/lime/index.html) `R`
+- [Network Dissection](http://netdissect.csail.mit.edu) `Python` `Neural Networks` `MIT` 
 - [Shap](https://github.com/slundberg/shap) `Python`
 - [Shapash](https://github.com/maif/shapash) `Python`
 - [shapviz](https://cran.r-project.org/web/packages/shapviz/index.html) `R`
 - [Skater](https://github.com/oracle/Skater) `Python` `Oracle`
 - [survex](https://github.com/ModelOriented/survex) `R`
+- [TCAV (Testing with Concept Activation Vectors)](https://pypi.org/project/tcav/) `Python` 
 - [pre: Prediction Rule Ensembles](https://cran.r-project.org/web/packages/pre/index.html) `R`
 - [XAI - An eXplainability toolbox for machine learning](https://github.com/EthicalML/xai) `Python` `The Institute for Ethical Machine Learning`
 - [Zennit](https://github.com/chr5tphr/zennit) `Python`
 
 ### Performance (& Automated ML)
 
+- [auditor](https://github.com/ModelOriented/auditor) `R`
 - [automl: Deep Learning with Metaheuristic](https://cran.r-project.org/web/packages/automl/index.html) `R`
 - [AutoKeras](https://github.com/keras-team/autokeras) `Python`
 - [Auto-Sklearn](https://github.com/automl/auto-sklearn) `Python`
 - [DataPerf](https://sites.google.com/mlcommons.org/dataperf/) `Python` `Google`
 - [deepchecks](https://deepchecks.com) `Python`
+- [EloML](https://github.com/ModelOriented/EloML) `R`
 - [Featuretools](https://www.featuretools.com) `Python`
 - [forester](https://modeloriented.github.io/forester/) `R`
 - [metrica: Prediction performance metrics](https://adriancorrendo.github.io/metrica/) `R`
