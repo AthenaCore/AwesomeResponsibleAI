@@ -205,6 +205,7 @@ Additional:
 ### Framework
 
 - [Mercury](https://www.bbvaaifactory.com/mercury/) `Python` `BBVA`
+- [Deepchecks](https://github.com/deepchecks/deepchecks) `Python`
 
 ### Interpretability/Explicability
 
