@@ -6,7 +6,7 @@
 [![GitHub](https://img.shields.io/twitter/follow/athenacoreai.svg?label=Follow)](https://twitter.com/athenacoreai)
 
 # Awesome Responsible AI
-A curated list of awesome academic research, books, code of ethics, newsletters, principles, podcast, reports, tools and regulations related to Responsible AI and Human-Centered AI.
+A curated list of awesome academic research, books, code of ethics, newsletters, principles, podcast, reports, tools, regulations and standards related to Responsible AI and Human-Centered AI.
 
 ## Contents
 
@@ -73,6 +73,11 @@ A curated list of awesome academic research, books, code of ethics, newsletters,
 ### Collections
 
 - Google Research on Responsible AI: https://research.google/pubs/?collection=responsible-ai `Google`
+
+### Reproducible/Non-Reproducible Research
+
+- [Papers with Code](https://paperswithcode.com)
+- [Papers without Code](https://www.paperswithoutcode.com)
 
 ## Books
 
@@ -263,11 +268,6 @@ Additional:
 - [Code Carbon](https://github.com/mlco2/codecarbon) `Python`
 - [Azure Sustainability Calculator](https://appsource.microsoft.com/en-us/product/power-bi/coi-sustainability.sustainability_dashboard) `Microsoft`
 - [Computer Progress](https://www.computerprogress.com)
-
-## Reproducible/Non-Reproducible Research
-
-- [Papers with Code](https://paperswithcode.com)
-- [Papers without Code](https://www.paperswithoutcode.com)
 
 ## Regulations
 
