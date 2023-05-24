@@ -21,6 +21,7 @@ A curated list of awesome academic research, books, code of ethics, newsletters,
 - [Reports](#reports)
 - [Tools](#tools)
 - [Regulations](#regulations)
+- [Standards](#standards)
 
 ## Academic Research
 
