@@ -203,7 +203,7 @@ Additional:
 - [Themis ML](https://github.com/cosmicBboy/themis-ml) `Python`
 - [What-If Tool](https://github.com/PAIR-code/what-if-tool) `Python` `Google`
 
-### Framework
+### Frameworks
 
 - [Mercury](https://www.bbvaaifactory.com/mercury/) `Python` `BBVA`
 - [Deepchecks](https://github.com/deepchecks/deepchecks) `Python`
@@ -256,7 +256,7 @@ Additional:
 
 - [Dr. Why](https://github.com/ModelOriented/DrWhy) `R` `Warsaw University of Technology`
 - [Responsible AI Widgets](https://github.com/microsoft/responsible-ai-widgets) `R` `Microsoft`
-- [The Data Cards Playbook](https://pair-code.github.io/datacardsplaybook/)
+- [The Data Cards Playbook](https://pair-code.github.io/datacardsplaybook/) `Python` `Google`
 
 ### Sustainability
 
@@ -264,7 +264,7 @@ Additional:
 - [Azure Sustainability Calculator](https://appsource.microsoft.com/en-us/product/power-bi/coi-sustainability.sustainability_dashboard) `Microsoft`
 - [Computer Progress](https://www.computerprogress.com)
 
-## Reproducible Research
+## Reproducible/Non-Reproducible Research
 
 - [Papers with Code](https://paperswithcode.com)
 - [Papers without Code](https://www.paperswithoutcode.com)
@@ -290,6 +290,14 @@ Additional:
 - [AI Bill of Rights](https://www.whitehouse.gov/ostp/ai-bill-of-rights/) - The Blueprint for an AI Bill of Rights is a guide for a society that protects all people from IA threats based on five principles: Safe and Effective Systems, Algorithmic Discrimination Protections, Data Privacy, Notice and Explanation, and  Human Alternatives, Consideration, and Fallback.
 
 ## Standards
+
+### Definition
+
+**What are standards?**
+
+Standards are **voluntary**, **consensus soluctions**. They document an **agreement** on how a material, product, process, or serice should be **specified**, **performed** or **delivered**. They keep people safe and **ensure things work**. They create **confidence** and provide **security** for investment.
+
+### ISO/IEC Standards
 
 Domain | Standard | Status | URL
 ---|---|---|---
