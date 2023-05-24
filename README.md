@@ -329,3 +329,10 @@ AI Privacy | ISO/IEC AWI 27091 Cybersecurity and Privacy — Artificial Intellig
 AI Governance | ISO/IEC 38507:2022 Information technology — Governance of IT — Governance implications of the use of artificial intelligence by organizations | Published | https://www.iso.org/standard/56641.html
 AI Safety | ISO/IEC CD TR 5469 Artificial intelligence — Functional safety and AI systems | Under Development | https://www.iso.org/standard/81283.html
 Beneficial AI Systems | ISO/IEC AWI TR 21221 Information technology – Artificial intelligence – Beneficial AI systems | Under Development  | https://www.iso.org/standard/86690.html
+
+### NIST Standards
+
+- [NIST AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework)
+
+
+Additional standards can be found using the [Standards Database](https://aistandardshub.org/ai-standards-search/).
