@@ -196,6 +196,7 @@ Additional:
 - [drifter](https://cran.r-project.org/web/packages/drifter/) `R`
 - [Evidently](https://github.com/evidentlyai/evidently) `Python`
 - [nannyML](https://github.com/NannyML/nannyml) `Python`
+- [phoenix](https://github.com/Arize-ai/phoenix) `Python`
 
 ### Fairness
 
@@ -240,6 +241,8 @@ Additional:
 - [Skater](https://github.com/oracle/Skater) `Python` `Oracle`
 - [survex](https://github.com/ModelOriented/survex) `R`
 - [TCAV (Testing with Concept Activation Vectors)](https://pypi.org/project/tcav/) `Python` 
+- [truelens](https://pypi.org/project/trulens/) `Python` `Truera`
+- [truelens-eval](https://pypi.org/project/trulens-eval/) `Python` `Truera`
 - [pre: Prediction Rule Ensembles](https://cran.r-project.org/web/packages/pre/index.html) `R`
 - [XAI - An eXplainability toolbox for machine learning](https://github.com/EthicalML/xai) `Python` `The Institute for Ethical Machine Learning`
 - [Zennit](https://github.com/chr5tphr/zennit) `Python`
@@ -257,9 +260,11 @@ Additional:
 - [forester](https://modeloriented.github.io/forester/) `R`
 - [metrica: Prediction performance metrics](https://adriancorrendo.github.io/metrica/) `R`
 - [NNI: Neural Network Intelligence](https://github.com/microsoft/nni) `Python` `Microsoft`
+- [TensorFlow Model Remediation ](https://github.com/tensorflow/model-remediation) `Python` `Gootle`
 - [TPOT](http://epistasislab.github.io/tpot/) `Python`
 - [Unleash](https://www.getunleash.io) `Python`
 - [Yellowbrick](https://www.scikit-yb.org/en/latest/) `Python`
+- [WeightWatcher](https://github.com/CalculatedContent/WeightWatcher)  `Python`
 
 ### Responsible AI toolkit
 
