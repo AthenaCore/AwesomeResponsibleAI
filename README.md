@@ -133,6 +133,7 @@ A curated list of awesome academic research, books, code of ethics, newsletters,
 
 ## Principles
 
+- [Allianz's Principles for a responsible usage of AI ](https://www.allianz.com/en/about-us/strategy-values/data-ethics-and-responsible-ai.html) `Allianz`
 - [Asilomar AI principles](https://futureoflife.org/open-letter/ai-principles/)
 - [European Commission's Guidelines for Trustworthy AI](https://ec.europa.eu/futurium/en/ai-alliance-consultation)
 - [Google's AI Principles](https://ai.google/principles/) `Google`
@@ -229,6 +230,7 @@ Additional:
 - [ExplainerHub](https://explainerdashboard.readthedocs.io/en/latest/index.html) [in github](https://github.com/oegedijk/explainerdashboard) `Python` 
 - [fasttreeshap](https://github.com/linkedin/fasttreeshap) `Python` `LinkedIn`
 - [FAT Forensics](https://fat-forensics.org/) `Python`
+- [Human Learn](https://github.com/koaning/human-learn) `Python`
 - [innvestigate](https://github.com/albermax/innvestigate) `Python` `Neural Networks`
 - [intepretML](https://interpret.ml) `Python`
 - [interactions: Comprehensive, User-Friendly Toolkit for Probing Interactions](https://cran.r-project.org/web/packages/interactions/index.html) `R`
