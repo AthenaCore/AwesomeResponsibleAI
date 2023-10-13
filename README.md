@@ -275,6 +275,12 @@ Additional:
 - [Responsible AI Widgets](https://github.com/microsoft/responsible-ai-widgets) `R` `Microsoft`
 - [The Data Cards Playbook](https://pair-code.github.io/datacardsplaybook/) `Python` `Google`
 
+### Security
+
+- [Modelscan](https://github.com/protectai/modelscan) `Python`
+- [NB Defense](https://nbdefense.ai) `Python`
+- [Rebuff Playground](https://www.rebuff.ai/playground) `Python`
+
 ### Sustainability
 
 - [Code Carbon](https://github.com/mlco2/codecarbon) `Python`
@@ -284,6 +290,7 @@ Additional:
 ## Regulations
 
 - [Data Protection Laws of the Word](https://www.dlapiperdataprotection.com)
+- [Artificial Intelligence Contractual Clauses](https://www.scl.org/files/download/2158-AI%20Clauses%20Project%20-%20October%202023.pdf)
 
 ### European Union
 
