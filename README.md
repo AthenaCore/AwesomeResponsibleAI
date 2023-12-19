@@ -73,6 +73,7 @@ A curated list of awesome academic research, books, code of ethics, newsletters,
 ### Collections
 
 - Google Research on Responsible AI: https://research.google/pubs/?collection=responsible-ai `Google`
+- Pipeline-Aware Fairness: http://fairpipe.dssg.io
 
 ### Reproducible/Non-Reproducible Research
 
@@ -209,6 +210,7 @@ Additional:
 - [Fairlearn](https://fairlearn.org) `Python` `Microsoft`
 - [Fairmodels](https://fairmodels.drwhy.ai) `R` `University of California`
 - [fairness](https://cran.r-project.org/web/packages/fairness/) `R`
+- [FairRankTune](https://kcachel.github.io/fairranktune/) `Python`
 - [FairPAN - Fair Predictive Adversarial Network](https://modeloriented.github.io/FairPAN/) `R`
 - [Themis ML](https://github.com/cosmicBboy/themis-ml) `Python`
 - [What-If Tool](https://github.com/PAIR-code/what-if-tool) `Python` `Google`
