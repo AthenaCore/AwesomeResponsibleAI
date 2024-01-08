@@ -235,7 +235,9 @@ Additional:
 - [ExplainerHub](https://explainerdashboard.readthedocs.io/en/latest/index.html) [in github](https://github.com/oegedijk/explainerdashboard) `Python` 
 - [fasttreeshap](https://github.com/linkedin/fasttreeshap) `Python` `LinkedIn`
 - [FAT Forensics](https://fat-forensics.org/) `Python`
+- [flashlight](https://github.com/mayer79/flashlight) `R`
 - [Human Learn](https://github.com/koaning/human-learn) `Python`
+- [hstats](https://cran.r-project.org/web/packages/hstats/index.html) `R`
 - [innvestigate](https://github.com/albermax/innvestigate) `Python` `Neural Networks`
 - [intepretML](https://interpret.ml) `Python`
 - [interactions: Comprehensive, User-Friendly Toolkit for Probing Interactions](https://cran.r-project.org/web/packages/interactions/index.html) `R`
@@ -251,6 +253,7 @@ Additional:
 - [truelens](https://pypi.org/project/trulens/) `Python` `Truera`
 - [truelens-eval](https://pypi.org/project/trulens-eval/) `Python` `Truera`
 - [pre: Prediction Rule Ensembles](https://cran.r-project.org/web/packages/pre/index.html) `R`
+- [vivid](https://cloud.r-project.org/web/packages/vivid/index.html) `R`
 - [XAI - An eXplainability toolbox for machine learning](https://github.com/EthicalML/xai) `Python` `The Institute for Ethical Machine Learning`
 - [Zennit](https://github.com/chr5tphr/zennit) `Python`
 
