@@ -276,6 +276,11 @@ Additional:
 - [Yellowbrick](https://www.scikit-yb.org/en/latest/) `Python`
 - [WeightWatcher](https://github.com/CalculatedContent/WeightWatcher)  `Python`
 
+### Poisoning
+
+- [Nightshade](https://nightshade.cs.uchicago.edu) `University of Chicago`
+- [Glaze](https://glaze.cs.uchicago.edu) `University of Chicago`
+
 ### Responsible AI toolkit
 
 - [Dr. Why](https://github.com/ModelOriented/DrWhy) `R` `Warsaw University of Technology`
