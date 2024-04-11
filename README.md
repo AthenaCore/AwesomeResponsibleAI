@@ -54,6 +54,7 @@ A curated list of awesome academic research, books, code of ethics, newsletters,
 
 ### Fairness
 
+- [Caton, S., & Haas, C. (2020). Fairness in machine learning: A survey. ACM Computing Surveys](https://dl.acm.org/doi/10.1145/3616865)
 - [LiFT: A Scalable Framework for Measuring Fairness in ML Applications](https://engineering.linkedin.com/blog/2020/lift-addressing-bias-in-large-scale-ai-applications) ([Vasuvedan et al., 2020](https://arxiv.org/abs/2008.07433)) `LinkedIn`
 
 ### Ethical Data Products
