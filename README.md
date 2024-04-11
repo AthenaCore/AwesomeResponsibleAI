@@ -302,7 +302,7 @@ Additional:
 ## Regulations
 
 - [Data Protection Laws of the Word](https://www.dlapiperdataprotection.com)
-- [Artificial Intelligence Contractual Clauses](https://www.scl.org/files/download/2158-AI%20Clauses%20Project%20-%20October%202023.pdf)
+- [SCL Artificial Intelligence Contractual Clauses](https://www.scl.org/wp-content/uploads/2024/02/AI-Clauses-Project-October-2023-final-1.pdf)
 
 ### European Union
 
