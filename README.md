@@ -161,6 +161,7 @@ Additional:
 - [AI Incident Database](https://incidentdatabase.ai)
 - [Inferring Concept Drift Without Labeled Data, 2021](https://concept-drift.fastforwardlabs.com) `Drift`
 - [Interpretability, Fast Forward Labs, 2020](https://ff06-2020.fastforwardlabs.com) `Interpretability`
+- [ML Commons Safety Benchmark for general purpose AI chat model](https://mlcommons.org/benchmarks/ai-safety/general_purpose_ai_chat_benchmark/)
 - [State of AI](https://www.stateof.ai) - from 2018 up to now -
 
 ## Tools
