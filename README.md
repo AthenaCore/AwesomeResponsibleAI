@@ -270,6 +270,7 @@ Additional:
 - [deepchecks](https://deepchecks.com) `Python`
 - [EloML](https://github.com/ModelOriented/EloML) `R`
 - [Featuretools](https://www.featuretools.com) `Python`
+- [LOFO Importance](https://github.com/aerdem4/lofo-importance) `Python`
 - [forester](https://modeloriented.github.io/forester/) `R`
 - [metrica: Prediction performance metrics](https://adriancorrendo.github.io/metrica/) `R`
 - [NNI: Neural Network Intelligence](https://github.com/microsoft/nni) `Python` `Microsoft`
