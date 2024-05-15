@@ -262,7 +262,8 @@ Additional:
 
 ### LLM Evaluation
 
-- [Inspect ](https://ukgovernmentbeis.github.io/inspect_ai/) `AISI` `Python`
+- [Inspect](https://ukgovernmentbeis.github.io/inspect_ai/) `AISI` `Python`
+- [Prometheus](https://github.com/prometheus-eval/prometheus) `Python`
 
 ### Performance (& Automated ML)
 
