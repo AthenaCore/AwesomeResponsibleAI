@@ -260,6 +260,11 @@ Additional:
 - [XAI - An eXplainability toolbox for machine learning](https://github.com/EthicalML/xai) `Python` `The Institute for Ethical Machine Learning`
 - [Zennit](https://github.com/chr5tphr/zennit) `Python`
 
+### Interpretable Models
+
+- [imodels](https://github.com/csinva/imodels) `Python`
+- [imodelsX](https://github.com/csinva/imodelsX) `Python`
+
 ### LLM Evaluation
 
 - [Inspect](https://ukgovernmentbeis.github.io/inspect_ai/) `AISI` `Python`
