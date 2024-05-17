@@ -18,7 +18,7 @@ A curated list of awesome academic research, books, code of ethics, newsletters,
 - [Newsletters](#newsletters)
 - [Principles](#principles)
 - [Podcasts](#podcasts)
-- [Reports](#reports)
+- [](#)
 - [Tools](#tools)
 - [Regulations](#regulations)
 - [Standards](#standards)
@@ -159,10 +159,13 @@ Additional:
 ## Reports
 
 - [AI Incident Database](https://incidentdatabase.ai)
+- [Four Principles of Explainable Artificial Intelligence](https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8312.pdf) `NIST` `Explainability`
+- [Psychological Foundations of Explainability and Interpretability in Artificial Intelligence](https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8367.pdf) `NIST` `Explainability`
 - [Inferring Concept Drift Without Labeled Data, 2021](https://concept-drift.fastforwardlabs.com) `Drift`
 - [Interpretability, Fast Forward Labs, 2020](https://ff06-2020.fastforwardlabs.com) `Interpretability`
 - [ML Commons Safety Benchmark for general purpose AI chat model](https://mlcommons.org/benchmarks/ai-safety/general_purpose_ai_chat_benchmark/)
 - [State of AI](https://www.stateof.ai) - from 2018 up to now -
+- [Towards a Standard for Identifying and Managing Bias in Artificial Intelligence (NIST Special Publication 1270)](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1270.pdf) `NIST` `Bias`
 
 ## Tools
 
