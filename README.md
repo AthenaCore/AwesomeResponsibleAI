@@ -18,7 +18,7 @@ A curated list of awesome academic research, books, code of ethics, newsletters,
 - [Newsletters](#newsletters)
 - [Principles](#principles)
 - [Podcasts](#podcasts)
-- [](#)
+- [Reports](#)
 - [Tools](#tools)
 - [Regulations](#regulations)
 - [Standards](#standards)
@@ -51,6 +51,7 @@ A curated list of awesome academic research, books, code of ethics, newsletters,
 - Improving Simple Models with Confidence Profiles ([Dhurandhar et al., 2018](https://papers.nips.cc/paper/8231-improving-simple-models-with-confidence-profiles)) `IBM Research`
 - Towards Robust Interpretability with Self-Explaining Neural Networks ([Alvarez-Melis et al., 2018](https://papers.nips.cc/paper/8003-towards-robust-interpretability-with-self-explaining-neural-networks)) `MIT`
 - Leveraging Latent Features for Local Explanations ([Luss et al., 2019](https://arxiv.org/abs/1905.12698)) `IBM Research` `University of Michigan`
+- [Gebru, T., Morgenstern, J., Vecchione, B., Vaughan, J. W., Wallach, H., Iii, H. D., & Crawford, K. (2021). Datasheets for datasets. Communications of the ACM, 64(12), 86-92.](https://arxiv.org/abs/1803.09010)
 
 ### Fairness
 
@@ -261,6 +262,7 @@ Additional:
 - [Vetiver](https://rstudio.github.io/vetiver-r/) `R` `Python` `Posit`
 - [vivid](https://cloud.r-project.org/web/packages/vivid/index.html) `R`
 - [XAI - An eXplainability toolbox for machine learning](https://github.com/EthicalML/xai) `Python` `The Institute for Ethical Machine Learning`
+- [xplique](https://github.com/deel-ai/xplique) `Python`
 - [Zennit](https://github.com/chr5tphr/zennit) `Python`
 
 ### Interpretable Models
