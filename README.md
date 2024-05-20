@@ -374,7 +374,7 @@ Synthetic Data | ISO/IEC AWI TR 42103 Information technology — Artificial inte
 AI Security | ISO/IEC AWI 27090 Cybersecurity — Artificial Intelligence — Guidance for addressing security threats and failures in artificial intelligence systems | Under Development | https://www.iso.org/standard/56581.html
 AI Privacy | ISO/IEC AWI 27091 Cybersecurity and Privacy — Artificial Intelligence — Privacy protection | Under Development	 | https://www.iso.org/standard/56582.html
 AI Governance | ISO/IEC 38507:2022 Information technology — Governance of IT — Governance implications of the use of artificial intelligence by organizations | Published | https://www.iso.org/standard/56641.html
-AI Safety | ISO/IEC CD TR 5469 Artificial intelligence — Functional safety and AI systems | Under Development | https://www.iso.org/standard/81283.html
+AI Safety | ISO/IEC CD TR 5469 Artificial intelligence — Functional safety and AI systems | Published | https://www.iso.org/standard/81283.html
 Beneficial AI Systems | ISO/IEC AWI TR 21221 Information technology – Artificial intelligence – Beneficial AI systems | Under Development  | https://www.iso.org/standard/86690.html
 
 ### NIST Standards
