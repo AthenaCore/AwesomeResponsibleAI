@@ -221,11 +221,6 @@ Additional:
 - [Themis ML](https://github.com/cosmicBboy/themis-ml) `Python`
 - [What-If Tool](https://github.com/PAIR-code/what-if-tool) `Python` `Google`
 
-### Frameworks
-
-- [Mercury](https://www.bbvaaifactory.com/mercury/) `Python` `BBVA`
-- [Deepchecks](https://github.com/deepchecks/deepchecks) `Python`
-
 ### Interpretability/Explicability
 
 - [AI360 Toolkit](https://github.com/Trusted-AI/AIF360) `Python` `R` `IBM`
@@ -296,16 +291,14 @@ Additional:
 - [Yellowbrick](https://www.scikit-yb.org/en/latest/) `Python`
 - [WeightWatcher](https://github.com/CalculatedContent/WeightWatcher)  `Python`
 
-### Poisoning
+### (AI) Poisoning
 
-- [Nightshade](https://nightshade.cs.uchicago.edu) `University of Chicago`
-- [Glaze](https://glaze.cs.uchicago.edu) `University of Chicago`
+- [Nightshade](https://nightshade.cs.uchicago.edu) `University of Chicago` `Tool`
+- [Glaze](https://glaze.cs.uchicago.edu) `University of Chicago` `Tool`
 
-### Responsible AI toolkit
+### Reliability Evaluation (of post hoc explanation methods)
 
-- [Dr. Why](https://github.com/ModelOriented/DrWhy) `R` `Warsaw University of Technology`
-- [Responsible AI Widgets](https://github.com/microsoft/responsible-ai-widgets) `R` `Microsoft`
-- [The Data Cards Playbook](https://pair-code.github.io/datacardsplaybook/) `Python` `Google`
+- [openXAI](https://open-xai.github.io) `Python`
 
 ### Security
 
@@ -319,6 +312,14 @@ Additional:
 - [Azure Sustainability Calculator](https://appsource.microsoft.com/en-us/product/power-bi/coi-sustainability.sustainability_dashboard) `Microsoft`
 - [Computer Progress](https://www.computerprogress.com)
 
+### (RAI) Toolkit
+
+- [Dr. Why](https://github.com/ModelOriented/DrWhy) `R` `Warsaw University of Technology`
+- [Responsible AI Widgets](https://github.com/microsoft/responsible-ai-widgets) `R` `Microsoft`
+- [The Data Cards Playbook](https://pair-code.github.io/datacardsplaybook/) `Python` `Google`
+- [Mercury](https://www.bbvaaifactory.com/mercury/) `Python` `BBVA`
+- [Deepchecks](https://github.com/deepchecks/deepchecks) `Python`
+
 ## Regulations
 
 - [Data Protection Laws of the Word](https://www.dlapiperdataprotection.com)
@@ -326,9 +327,14 @@ Additional:
 
 ### European Union
 
+- [Data Act](https://eur-lex.europa.eu/eli/reg/2023/2854)
+- [Data Governance Act](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R0868)
+- [Digital Market Act](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32022R1925)
+- [Digital Services Act](https://eur-lex.europa.eu/legal-content/EN/TXT/?toc=OJ%3AL%3A2022%3A277%3ATOC&uri=uriserv%3AOJ.L_.2022.277.01.0001.01.ENG)
+- [EU AI ACT](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52021PC0206)
 - [General Data Protection Regulation GDPR](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32016R0679) - Legal text for the EU GDPR regulation 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC
-- [GDPR.EU Guide](https://gdpr.eu/) - A project co-funded by the Horizon 2020 Framework programme of the EU which provides a resource for organisations and individuals researching GDPR, including a library of straightforward and up-to-date information to help organisations achieve GDPR compliance ([Legal Text](https://www.govinfo.gov/content/pkg/USCODE-2012-title5/pdf/USCODE-2012-title5-partI-chap5-subchapII-sec552a.pdf)).
-- [AI ACT](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52021PC0206)
+  - [GDPR.EU Guide](https://gdpr.eu/) - A project co-funded by the Horizon 2020 Framework programme of the EU which provides a resource for organisations and individuals researching GDPR, including a library of straightforward and up-to-date information to help organisations achieve GDPR compliance ([Legal Text](https://www.govinfo.gov/content/pkg/USCODE-2012-title5/pdf/USCODE-2012-title5-partI-chap5-subchapII-sec552a.pdf)).
+
 
 ### United States
 
