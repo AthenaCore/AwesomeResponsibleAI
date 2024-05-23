@@ -320,6 +320,10 @@ Additional:
 - [Mercury](https://www.bbvaaifactory.com/mercury/) `Python` `BBVA`
 - [Deepchecks](https://github.com/deepchecks/deepchecks) `Python`
 
+### (AI) Watermaring
+
+- [MarkLLM: An Open-Source Toolkit for LLM Watermarking](https://github.com/thu-bpm/markllm) `Python`
+
 ## Regulations
 
 - [Data Protection Laws of the Word](https://www.dlapiperdataprotection.com)
