@@ -31,12 +31,12 @@ A curated list of awesome academic research, books, code of ethics, newsletters,
 
 ### Challenges
 
-- Underspecification presents challenges for credibility in modern machine learning. ([D'AMOUR, Alexander, et al., 2020](https://arxiv.org/abs/2011.03395)) `Google`
+- D'Amour, A., Heller, K., Moldovan, D., Adlam, B., Alipanahi, B., Beutel, A., ... & Sculley, D. (2022). **Underspecification presents challenges for credibility in modern machine learning**. Journal of Machine Learning Research, 23(226), 1-61. [Article](https://arxiv.org/abs/2011.03395) `Google`
 
 ### Drift
 
-- FreaAI: Automated extraction of data slices to test machine learning models ([Ackerman, S. et al. 2021](https://arxiv.org/pdf/2108.05620.pdf)) `IBM`
-- Machine Learning Model Drift Detection Via Weak Data Slices ([Ackerman, S. et al. 2021](https://arxiv.org/pdf/2108.05319.pdf)) `IBM`
+- Ackerman, S., Raz, O., & Zalmanovici, M. (2020, February). **FreaAI: Automated extraction of data slices to test machine learning models**. In International Workshop on Engineering Dependable and Secure Machine Learning Systems (pp. 67-83). Cham: Springer International Publishing. [Article](https://arxiv.org/pdf/2108.05620.pdf) `IBM`
+- Ackerman, S., Dube, P., Farchi, E., Raz, O., & Zalmanovici, M. (2021, June). **Machine learning model drift detection via weak data slices**. In 2021 IEEE/ACM Third International Workshop on Deep Learning for Testing and Testing for Deep Learning (DeepTest) (pp. 1-8). IEEE. [Article](https://arxiv.org/pdf/2108.05319.pdf) `IBM`
 
 ### Explainability
 
@@ -51,7 +51,7 @@ A curated list of awesome academic research, books, code of ethics, newsletters,
 - Improving Simple Models with Confidence Profiles ([Dhurandhar et al., 2018](https://papers.nips.cc/paper/8231-improving-simple-models-with-confidence-profiles)) `IBM Research`
 - Towards Robust Interpretability with Self-Explaining Neural Networks ([Alvarez-Melis et al., 2018](https://papers.nips.cc/paper/8003-towards-robust-interpretability-with-self-explaining-neural-networks)) `MIT`
 - Leveraging Latent Features for Local Explanations ([Luss et al., 2019](https://arxiv.org/abs/1905.12698)) `IBM Research` `University of Michigan`
-- [Gebru, T., Morgenstern, J., Vecchione, B., Vaughan, J. W., Wallach, H., Iii, H. D., & Crawford, K. (2021). Datasheets for datasets. Communications of the ACM, 64(12), 86-92.](https://arxiv.org/abs/1803.09010)
+- Gebru, T., Morgenstern, J., Vecchione, B., Vaughan, J. W., Wallach, H., Iii, H. D., & Crawford, K. (2021). **Datasheets for datasets**. Communications of the ACM, 64(12), 86-92. [Article](https://arxiv.org/abs/1803.09010) `Google`
 
 ### Fairness
 
