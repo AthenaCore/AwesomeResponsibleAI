@@ -131,7 +131,9 @@ A curated list of awesome academic research, books, code of ethics, newsletters,
 
 ## Newsletters
 
+- [AI Snake Oil](https://www.aisnakeoil.com)
 - [Import AI](https://jack-clark.net)
+- [Marcus on AI](https://garymarcus.substack.com)
 - [The AI Ethics Brief](https://brief.montrealethics.ai)
 - [The Machine Learning Engineer](https://ethical.institute/mle.html) 
 
