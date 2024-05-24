@@ -133,7 +133,8 @@ A curated list of awesome academic research, books, code of ethics, newsletters,
 
 - [Import AI](https://jack-clark.net)
 - [The AI Ethics Brief](https://brief.montrealethics.ai)
-- [The Machine Learning Engineer](https://ethical.institute/mle.html) 
+- [The Machine Learning Engineer](https://ethical.institute/mle.html)
+- [Air Around AI](https://airaroundai.substack.com/)
 
 ## Principles
 
