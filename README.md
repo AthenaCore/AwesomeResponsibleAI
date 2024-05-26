@@ -31,7 +31,7 @@ A curated list of awesome academic research, books, code of ethics, newsletters,
 
 ### Bias
 
-- Towards a Standard for Identifying and Managing Bias in Artificial Intelligence ([Schwartz, Reva et al., 2022]()) `NIST`
+- Schwartz, R., Schwartz, R., Vassilev, A., Greene, K., Perine, L., Burt, A., & Hall, P. (2022). Towards a standard for identifying and managing bias in artificial intelligence (Vol. 3, p. 00). US Department of Commerce, National Institute of Standards and Technology. [Article](https://www.nist.gov/publications/towards-standard-identifying-and-managing-bias-artificial-intelligence) `NIST`
 
 ### Challenges
 
