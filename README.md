@@ -25,6 +25,10 @@ A curated list of awesome academic research, books, code of ethics, newsletters,
 
 ## Academic Research
 
+### Evaluation (of model explanations)
+
+- Agarwal, C., Krishna, S., Saxena, E., Pawelczyk, M., Johnson, N., Puri, I., ... & Lakkaraju, H. (2022). **Openxai: Towards a transparent evaluation of model explanations**. Advances in Neural Information Processing Systems, 35, 15784-15799. [Article](https://arxiv.org/abs/2206.11104)
+
 ### Bias
 
 - Towards a Standard for Identifying and Managing Bias in Artificial Intelligence ([Schwartz, Reva et al., 2022]()) `NIST`
