@@ -13,6 +13,7 @@ A curated list of awesome academic research, books, code of ethics, newsletters,
 - [Academic Research](#academic-research)
 - [Books](#books)
 - [Code of Ethics](#code-of-ethics)
+- [Courses](#courses)
 - [Data Sets](#data-sets)
 - [Institutes](#institutes)
 - [Newsletters](#newsletters)
@@ -31,7 +32,7 @@ A curated list of awesome academic research, books, code of ethics, newsletters,
 
 ### Bias
 
-- Schwartz, R., Schwartz, R., Vassilev, A., Greene, K., Perine, L., Burt, A., & Hall, P. (2022). Towards a standard for identifying and managing bias in artificial intelligence (Vol. 3, p. 00). US Department of Commerce, National Institute of Standards and Technology. [Article](https://www.nist.gov/publications/towards-standard-identifying-and-managing-bias-artificial-intelligence) `NIST`
+- Schwartz, R., Schwartz, R., Vassilev, A., Greene, K., Perine, L., Burt, A., & Hall, P. (2022). **Towards a standard for identifying and managing bias in artificial intelligence** (Vol. 3, p. 00). US Department of Commerce, National Institute of Standards and Technology. [Article](https://www.nist.gov/publications/towards-standard-identifying-and-managing-bias-artificial-intelligence) `NIST`
 
 ### Challenges
 
@@ -116,6 +117,12 @@ A curated list of awesome academic research, books, code of ethics, newsletters,
 - [Association for Computer Machinery's Code of Ethics and Professional Conduct](https://www.acm.org/code-of-ethics)
 - [IEEE Global Initiative for Ethical Considerations in Artificial Intelligence (AI) and Autonomous Systems (AS)](https://ethicsinaction.ieee.org/)
 - [ISO/IEC's Standards for Artificial Intelligence](https://www.iso.org/committee/6794475/x/catalogue/)
+
+## Courses
+
+### Data Privacy
+
+- [CS7880: Rigorous Approaches to Data Privacy](https://www.khoury.northeastern.edu/home/jullman/cs7880s17/syllabus.html) `Northeastern University`
 
 ## Data Sets
 
