@@ -40,16 +40,16 @@ A curated list of awesome academic research, books, code of ethics, newsletters,
 
 ### Drift
 
-- Ackerman, S., Raz, O., & Zalmanovici, M. (2020, February). **FreaAI: Automated extraction of data slices to test machine learning models**. In International Workshop on Engineering Dependable and Secure Machine Learning Systems (pp. 67-83). Cham: Springer International Publishing. [Article](https://arxiv.org/pdf/2108.05620.pdf) `IBM`
 - Ackerman, S., Dube, P., Farchi, E., Raz, O., & Zalmanovici, M. (2021, June). **Machine learning model drift detection via weak data slices**. In 2021 IEEE/ACM Third International Workshop on Deep Learning for Testing and Testing for Deep Learning (DeepTest) (pp. 1-8). IEEE. [Article](https://arxiv.org/pdf/2108.05319.pdf) `IBM`
+- Ackerman, S., Raz, O., & Zalmanovici, M. (2020, February). **FreaAI: Automated extraction of data slices to test machine learning models**. In International Workshop on Engineering Dependable and Secure Machine Learning Systems (pp. 67-83). Cham: Springer International Publishing. [Article](https://arxiv.org/pdf/2108.05620.pdf) `IBM`
 
 ### Explainability
 
-- Gurumoorthy, K. S., Dhurandhar, A., Cecchi, G., & Aggarwal, C. (2019, November). **Efficient data representation by selecting prototypes with importance weights**. In 2019 IEEE International Conference on Data Mining (ICDM) (pp. 260-269). IEEE. [Article](https://arxiv.org/abs/1707.01212) `Amazon Development Center` `IBM Research`
 - Dhurandhar, A., Chen, P. Y., Luss, R., Tu, C. C., Ting, P., Shanmugam, K., & Das, P. (2018). **Explanations based on the missing: Towards contrastive explanations with pertinent negatives**. Advances in neural information processing systems, 31. [Article](https://papers.nips.cc/paper/7340-explanations-based-on-the-missing-towards-contrastive-explanations-with-pertinent-negatives) `University of Michigan` `IBM Research`
+- Gurumoorthy, K. S., Dhurandhar, A., Cecchi, G., & Aggarwal, C. (2019, November). **Efficient data representation by selecting prototypes with importance weights**. In 2019 IEEE International Conference on Data Mining (ICDM) (pp. 260-269). IEEE. [Article](https://arxiv.org/abs/1707.01212) `Amazon Development Center` `IBM Research`
+- Lundberg, S. M., & Lee, S. I. (2017). **A unified approach to interpreting model predictions**. Advances in neural information processing systems, 30. [Article](http://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predictions), [Github](https://github.com/slundberg/shap) `University of Washington`
+- Ribeiro, M. T., Singh, S., & Guestrin, C. (2016, August). **"Why should i trust you?" Explaining the predictions of any classifier**. In Proceedings of the 22nd ACM SIGKDD international conference on knowledge discovery and data mining (pp. 1135-1144). [Article](https://arxiv.org/abs/1602.04938), [Github](https://github.com/marcotcr/lime) `University of Washington`
 - Contrastive Explanations Method with Monotonic Attribute Functions ([Luss et al., 2019](https://arxiv.org/abs/1905.12698))
-- "Why Should I Trust You?": Explaining the Predictions of Any Classifier (LIME) ([Ribeiro et al. 2016](https://arxiv.org/abs/1602.04938),  [Github](https://github.com/marcotcr/lime)) `University of Washington`
-- A Unified Approach to Interpreting Model Predictions (SHAP) ([Lundberg, et al. 2017](http://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predictions),  [Github](https://github.com/slundberg/shap)) `University of Washington`
 - Teaching AI to Explain its Decisions ([Hind et al., 2019](https://doi.org/10.1145/3306618.3314273)) `IBM Research`
 - Boolean Decision Rules via Column Generation (Light Edition) ([Dash et al., 2018](https://papers.nips.cc/paper/7716-boolean-decision-rules-via-column-generation)) `IBM Research`
 - Generalized Linear Rule Models ([Wei et al., 2019](http://proceedings.mlr.press/v97/wei19a.html)) `IBM Research`
