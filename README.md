@@ -127,6 +127,7 @@ A curated list of awesome academic research, books, code of ethics, newsletters,
 ### Data Privacy
 
 - [CS7880: Rigorous Approaches to Data Privacy](https://www.khoury.northeastern.edu/home/jullman/cs7880s17/syllabus.html) `Northeastern University`
+- [CS 860 - Algorithms for Private Data Analysis - Fall 2022](http://www.gautamkamath.com/courses/CS860-fa2022.html) `University of Waterloo`
 
 ## Data Sets
 
