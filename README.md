@@ -15,6 +15,7 @@ A curated list of awesome academic research, books, code of ethics, newsletters,
 - [Code of Ethics](#code-of-ethics)
 - [Courses](#courses)
 - [Data Sets](#data-sets)
+- [Frameworks](#frameworks)
 - [Institutes](#institutes)
 - [Newsletters](#newsletters)
 - [Principles](#principles)
@@ -122,21 +123,25 @@ A curated list of awesome academic research, books, code of ethics, newsletters,
 
 ### Causality
 
-- [CS 594 CAUSAL INFERENCE AND LEARNING](https://www.cs.uic.edu/~elena/courses/fall19/cs594cil.html) `University of Illinois at Chicago`
+- [CS594 - Causal Inference and Learning](https://www.cs.uic.edu/~elena/courses/fall19/cs594cil.html) `University of Illinois at Chicago`
 
 ### Data Privacy
 
-- [CS7880: Rigorous Approaches to Data Privacy](https://www.khoury.northeastern.edu/home/jullman/cs7880s17/syllabus.html) `Northeastern University`
-- [CS 860 - Algorithms for Private Data Analysis - Fall 2022](http://www.gautamkamath.com/courses/CS860-fa2022.html) `University of Waterloo`
+- [CS7880 - Rigorous Approaches to Data Privacy](https://www.khoury.northeastern.edu/home/jullman/cs7880s17/syllabus.html) `Northeastern University`
+- [CS860 - Algorithms for Private Data Analysis](http://www.gautamkamath.com/courses/CS860-fa2022.html) `University of Waterloo`
 
 ### Ethical Design
 
-- [Ethical Algorithm Design CIS 4230/5230](https://www.cis.upenn.edu/~mkearns/teaching/EADSpring24/) `University of Pennsylvania`
+- [CIS 4230/5230 - Ethical Algorithm Design](https://www.cis.upenn.edu/~mkearns/teaching/EADSpring24/) `University of Pennsylvania`
 
 ## Data Sets
 
 - [An ImageNet replacement for self-supervised pretraining without humans](https://www.robots.ox.ac.uk/~vgg/research/pass/)
 - [Huggingface Data Sets](https://huggingface.co/datasets)
+
+## Frameworks
+
+- [Data Ethics Canvas](https://theodi.org/insights/tools/the-data-ethics-canvas-2021/) `Open Data Institute`
 
 ## Institutes
 
