@@ -45,8 +45,8 @@ A curated list of awesome academic research, books, code of ethics, newsletters,
 
 ### Explainability
 
-- Efficient Data Representation by Selecting Prototypes with Importance Weights ([Gurumoorthy et al., 2019](https://arxiv.org/abs/1707.01212)) `Amazon Development Center` `IBM Research`
-- Explanations based on the Missing: Towards Contrastive Explanations with Pertinent Negatives ([Dhurandhar et al., 2018](https://papers.nips.cc/paper/7340-explanations-based-on-the-missing-towards-contrastive-explanations-with-pertinent-negatives)) `University of Michigan` `IBM Research`
+- Gurumoorthy, K. S., Dhurandhar, A., Cecchi, G., & Aggarwal, C. (2019, November). **Efficient data representation by selecting prototypes with importance weights**. In 2019 IEEE International Conference on Data Mining (ICDM) (pp. 260-269). IEEE. [Article](https://arxiv.org/abs/1707.01212) `Amazon Development Center` `IBM Research`
+- Dhurandhar, A., Chen, P. Y., Luss, R., Tu, C. C., Ting, P., Shanmugam, K., & Das, P. (2018). **Explanations based on the missing: Towards contrastive explanations with pertinent negatives**. Advances in neural information processing systems, 31. [Article](https://papers.nips.cc/paper/7340-explanations-based-on-the-missing-towards-contrastive-explanations-with-pertinent-negatives) `University of Michigan` `IBM Research`
 - Contrastive Explanations Method with Monotonic Attribute Functions ([Luss et al., 2019](https://arxiv.org/abs/1905.12698))
 - "Why Should I Trust You?": Explaining the Predictions of Any Classifier (LIME) ([Ribeiro et al. 2016](https://arxiv.org/abs/1602.04938),  [Github](https://github.com/marcotcr/lime)) `University of Washington`
 - A Unified Approach to Interpreting Model Predictions (SHAP) ([Lundberg, et al. 2017](http://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predictions),  [Github](https://github.com/slundberg/shap)) `University of Washington`
@@ -119,6 +119,10 @@ A curated list of awesome academic research, books, code of ethics, newsletters,
 - [ISO/IEC's Standards for Artificial Intelligence](https://www.iso.org/committee/6794475/x/catalogue/)
 
 ## Courses
+
+### Causality
+
+- [CS 594 CAUSAL INFERENCE AND LEARNING](https://www.cs.uic.edu/~elena/courses/fall19/cs594cil.html) `University of Illinois at Chicago`
 
 ### Data Privacy
 
