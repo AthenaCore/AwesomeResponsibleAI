@@ -129,6 +129,10 @@ A curated list of awesome academic research, books, code of ethics, newsletters,
 - [CS7880: Rigorous Approaches to Data Privacy](https://www.khoury.northeastern.edu/home/jullman/cs7880s17/syllabus.html) `Northeastern University`
 - [CS 860 - Algorithms for Private Data Analysis - Fall 2022](http://www.gautamkamath.com/courses/CS860-fa2022.html) `University of Waterloo`
 
+### Ethical Design
+
+- [Ethical Algorithm Design CIS 4230/5230](https://www.cis.upenn.edu/~mkearns/teaching/EADSpring24/) `University of Pennsylvania`
+
 ## Data Sets
 
 - [An ImageNet replacement for self-supervised pretraining without humans](https://www.robots.ox.ac.uk/~vgg/research/pass/)
