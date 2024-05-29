@@ -329,7 +329,7 @@ Additional:
 - [metrica: Prediction performance metrics](https://adriancorrendo.github.io/metrica/) `R`
 - [NNI: Neural Network Intelligence](https://github.com/microsoft/nni) `Python` `Microsoft`
 - [performance](https://github.com/easystats/performance) `R`
-- [TensorFlow Model Remediation ](https://github.com/tensorflow/model-remediation) `Python` `Google`
+- [TensorFlow Model Analysis](https://github.com/tensorflow/model-analysis) `Python` `Google`
 - [TPOT](http://epistasislab.github.io/tpot/) `Python`
 - [Unleash](https://www.getunleash.io) `Python`
 - [Yellowbrick](https://www.scikit-yb.org/en/latest/) `Python`
@@ -367,6 +367,7 @@ Additional:
 
 ### (AI) Watermaring
 
+- [AudioSeal: Proactive Localized Watermarking](https://github.com/facebookresearch/audioseal) `Python` `Facebook`
 - [MarkLLM: An Open-Source Toolkit for LLM Watermarking](https://github.com/thu-bpm/markllm) `Python`
 
 ## Regulations
