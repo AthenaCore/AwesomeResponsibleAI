@@ -436,3 +436,36 @@ Beneficial AI Systems | ISO/IEC AWI TR 21221 Information technology – Artifici
 
 
 Additional standards can be found using the [Standards Database](https://aistandardshub.org/ai-standards-search/).
+
+### Citing this repository
+
+Contributors with over 50 edits can be named coauthors in the citation of visible names. Otherwise, all contributors with fewer than 50 edits are included under "et al."
+
+#### Bibtex
+
+```
+@misc{amli_repo,
+  author={Josep Curto},
+  title={Awesome Responsible Artificial Intelligence},
+  year={2024},
+  note={\url{https://github.com/AthenaCore/AwesomeResponsibleAI}}
+}
+```
+
+#### ACM, APA, Chicago, and MLA
+
+* **ACM (Association for Computing Machinery)**
+
+Curto, J., et al. 2024. Awesome Responsible Artificial Intelligence. GitHub. https://github.com/AthenaCore/AwesomeResponsibleAI.
+
+* **APA (American Psychological Association) 7th Edition**
+
+Curto, J., et al. (2024). Awesome Responsible Artificial Intelligence. GitHub. https://github.com/AthenaCore/AwesomeResponsibleAI.
+
+* **Chicago Manual of Style 17th Edition**
+
+Curto, J., et al. "wesome Responsible Artificial Intelligence." GitHub. Last modified 2024. https://github.com/AthenaCore/AwesomeResponsibleAI.
+
+* **MLA (Modern Language Association) 9th Edition**
+
+Curto, J., et al. "Awesome Responsible Artificial Intelligence". *GitHub*, 2024, https://github.com/AthenaCore/AwesomeResponsibleAI. Accessed 29 May 2024.
