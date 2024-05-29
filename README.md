@@ -279,6 +279,7 @@ Additional:
 - [shapviz](https://cran.r-project.org/web/packages/shapviz/index.html) `R`
 - [Skater](https://github.com/oracle/Skater) `Python` `Oracle`
 - [survex](https://github.com/ModelOriented/survex) `R`
+- [teller](https://github.com/Techtonique/teller) `Python`
 - [TCAV (Testing with Concept Activation Vectors)](https://pypi.org/project/tcav/) `Python` 
 - [truelens](https://pypi.org/project/trulens/) `Python` `Truera`
 - [truelens-eval](https://pypi.org/project/trulens-eval/) `Python` `Truera`
