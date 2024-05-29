@@ -307,6 +307,7 @@ Additional:
 
 - [imodels](https://github.com/csinva/imodels) `Python`
 - [imodelsX](https://github.com/csinva/imodelsX) `Python`
+- [Tensorflow Lattice](https://github.com/tensorflow/lattice) `Python` `Google`
 
 ### LLM Evaluation
 
