@@ -48,10 +48,10 @@ A curated list of awesome academic research, books, code of ethics, newsletters,
 
 - Dhurandhar, A., Chen, P. Y., Luss, R., Tu, C. C., Ting, P., Shanmugam, K., & Das, P. (2018). **Explanations based on the missing: Towards contrastive explanations with pertinent negatives**. Advances in neural information processing systems, 31. [Article](https://papers.nips.cc/paper/7340-explanations-based-on-the-missing-towards-contrastive-explanations-with-pertinent-negatives) `University of Michigan` `IBM Research`
 - Gurumoorthy, K. S., Dhurandhar, A., Cecchi, G., & Aggarwal, C. (2019, November). **Efficient data representation by selecting prototypes with importance weights**. In 2019 IEEE International Conference on Data Mining (ICDM) (pp. 260-269). IEEE. [Article](https://arxiv.org/abs/1707.01212) `Amazon Development Center` `IBM Research`
+- Hind, M., Wei, D., Campbell, M., Codella, N. C., Dhurandhar, A., Mojsilović, A., ... & Varshney, K. R. (2019, January). **TED: Teaching AI to explain its decisions**. In Proceedings of the 2019 AAAI/ACM Conference on AI, Ethics, and Society (pp. 123-129)[Article](https://doi.org/10.1145/3306618.3314273) `IBM Research`
 - Lundberg, S. M., & Lee, S. I. (2017). **A unified approach to interpreting model predictions**. Advances in neural information processing systems, 30. [Article](http://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predictions), [Github](https://github.com/slundberg/shap) `University of Washington`
 - Ribeiro, M. T., Singh, S., & Guestrin, C. (2016, August). **"Why should i trust you?" Explaining the predictions of any classifier**. In Proceedings of the 22nd ACM SIGKDD international conference on knowledge discovery and data mining (pp. 1135-1144). [Article](https://arxiv.org/abs/1602.04938), [Github](https://github.com/marcotcr/lime) `University of Washington`
 - Contrastive Explanations Method with Monotonic Attribute Functions ([Luss et al., 2019](https://arxiv.org/abs/1905.12698))
-- Teaching AI to Explain its Decisions ([Hind et al., 2019](https://doi.org/10.1145/3306618.3314273)) `IBM Research`
 - Boolean Decision Rules via Column Generation (Light Edition) ([Dash et al., 2018](https://papers.nips.cc/paper/7716-boolean-decision-rules-via-column-generation)) `IBM Research`
 - Generalized Linear Rule Models ([Wei et al., 2019](http://proceedings.mlr.press/v97/wei19a.html)) `IBM Research`
 - Improving Simple Models with Confidence Profiles ([Dhurandhar et al., 2018](https://papers.nips.cc/paper/8231-improving-simple-models-with-confidence-profiles)) `IBM Research`
@@ -437,11 +437,11 @@ Beneficial AI Systems | ISO/IEC AWI TR 21221 Information technology – Artifici
 
 Additional standards can be found using the [Standards Database](https://aistandardshub.org/ai-standards-search/).
 
-### Citing this repository
+## Citing this repository
 
 Contributors with over 50 edits can be named coauthors in the citation of visible names. Otherwise, all contributors with fewer than 50 edits are included under "et al."
 
-#### Bibtex
+### Bibtex
 
 ```
 @misc{amli_repo,
@@ -452,20 +452,20 @@ Contributors with over 50 edits can be named coauthors in the citation of visibl
 }
 ```
 
-#### ACM, APA, Chicago, and MLA
+### ACM, APA, Chicago, and MLA
 
-* **ACM (Association for Computing Machinery)**
+**ACM (Association for Computing Machinery)**
 
 Curto, J., et al. 2024. Awesome Responsible Artificial Intelligence. GitHub. https://github.com/AthenaCore/AwesomeResponsibleAI.
 
-* **APA (American Psychological Association) 7th Edition**
+**APA (American Psychological Association) 7th Edition**
 
 Curto, J., et al. (2024). Awesome Responsible Artificial Intelligence. GitHub. https://github.com/AthenaCore/AwesomeResponsibleAI.
 
-* **Chicago Manual of Style 17th Edition**
+**Chicago Manual of Style 17th Edition**
 
 Curto, J., et al. "wesome Responsible Artificial Intelligence." GitHub. Last modified 2024. https://github.com/AthenaCore/AwesomeResponsibleAI.
 
-* **MLA (Modern Language Association) 9th Edition**
+**MLA (Modern Language Association) 9th Edition**
 
 Curto, J., et al. "Awesome Responsible Artificial Intelligence". *GitHub*, 2024, https://github.com/AthenaCore/AwesomeResponsibleAI. Accessed 29 May 2024.
