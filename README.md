@@ -335,10 +335,11 @@ Additional:
 - [Yellowbrick](https://www.scikit-yb.org/en/latest/) `Python`
 - [WeightWatcher](https://github.com/CalculatedContent/WeightWatcher)  `Python`
 
-### (AI) Poisoning
+### (AI/Data) Poisoning
 
 - [Nightshade](https://nightshade.cs.uchicago.edu) `University of Chicago` `Tool`
 - [Glaze](https://glaze.cs.uchicago.edu) `University of Chicago` `Tool`
+- [Fawkes](http://sandlab.cs.uchicago.edu/fawkes/) `University of Chicago` `Tool`
 
 ### Reliability Evaluation (of post hoc explanation methods)
 
