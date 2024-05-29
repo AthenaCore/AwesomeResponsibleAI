@@ -72,13 +72,13 @@ A curated list of awesome academic research, books, code of ethics, newsletters,
 
 ### Sustainability
 
+- Sculley, D., Holt, G., Golovin, D., Davydov, E., Phillips, T., Ebner, D., ... & Young, M. (2014, December). **Machine learning: The high interest credit card of technical debt**. In SE4ML: software engineering for machine learning (NIPS 2014 Workshop) (Vol. 111, p. 112). Machine Learning: The High Interest Credit Card of Technical Debt [Article](https://research.google/pubs/pub43146/) `Google`
 - Energy and policy considerations for deep learning in NLP ([Strubell, E. et al. 2019](https://arxiv.org/abs/1906.02243))
 - Quantifying the carbon emissions of machine learning. ([Lacoste, A. et al. 2019](https://arxiv.org/abs/1910.09700))
 - Carbon emissions and large neural network training. ([Patterson, D. et al. 2021](https://arxiv.org/abs/2104.10350)) 
 - The Energy and Carbon Footprint of Training End-to-End Speech Recognizers. ([Parcollet, T., & Ravanelli, M. 2021](https://hal.archives-ouvertes.fr/hal-03190119/document))
 - Sustainable AI: AI for sustainability and the sustainability of AI ([van Wynsberghe, A. 2021](https://link.springer.com/article/10.1007/s43681-021-00043-6)). AI and Ethics, 1-6
 - Green Algorithms: Quantifying the carbon emissions of computation ([Lannelongue, L. et al. 2020](https://arxiv.org/abs/2007.07610))
-- Machine Learning: The High Interest Credit Card of Technical Debt ([Sculley, D. et al. 2014](https://research.google/pubs/pub43146/)) `Google`
 
 ### Collections
 
