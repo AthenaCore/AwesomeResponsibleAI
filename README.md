@@ -199,7 +199,6 @@ Additional:
 - [OECD AI Incidents Monitor](https://oecd.ai/en/incidents)
 - [Verica Open Incident Database (VOID)](https://www.thevoid.community/)
 
-
 ### Other
 
 - [Four Principles of Explainable Artificial Intelligence](https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8312.pdf) `NIST` `Explainability`
@@ -215,6 +214,7 @@ Additional:
 ### Bias
 
 - [balance](https://import-balance.org) `Python` `Facebook`
+- [smclafify](https://github.com/aws/amazon-sagemaker-clarify) `Python` `Amazon`
 
 ### Causal Inference
 
