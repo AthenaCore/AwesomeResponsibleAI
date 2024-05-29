@@ -188,7 +188,20 @@ Additional:
 
 ## Reports
 
+### (AI) Incidents databases
+
 - [AI Incident Database](https://incidentdatabase.ai)
+- [AI Vulnerability Database (AVID)](https://avidml.org/)
+- [AIAAIC](https://www.aiaaic.org/)
+- [AI Badness: An open catalog of generative AI badness](https://badness.ai/)
+- [George Washington University Law School's AI Litigation Database](https://blogs.gwu.edu/law-eti/ai-litigation-database/)
+- [Merging AI Incidents Research with Political Misinformation Research: Introducing the Political Deepfakes Incidents Database](https://osf.io/fvqg3/)
+- [OECD AI Incidents Monitor](https://oecd.ai/en/incidents)
+- [Verica Open Incident Database (VOID)](https://www.thevoid.community/)
+
+
+### Other
+
 - [Four Principles of Explainable Artificial Intelligence](https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8312.pdf) `NIST` `Explainability`
 - [Psychological Foundations of Explainability and Interpretability in Artificial Intelligence](https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8367.pdf) `NIST` `Explainability`
 - [Inferring Concept Drift Without Labeled Data, 2021](https://concept-drift.fastforwardlabs.com) `Drift`
