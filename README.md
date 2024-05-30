@@ -52,13 +52,13 @@ A curated list of awesome academic research, books, code of ethics, newsletters,
 - Gurumoorthy, K. S., Dhurandhar, A., Cecchi, G., & Aggarwal, C. (2019, November). **Efficient data representation by selecting prototypes with importance weights**. In 2019 IEEE International Conference on Data Mining (ICDM) (pp. 260-269). IEEE. [Article](https://arxiv.org/abs/1707.01212) `Amazon Development Center` `IBM Research`
 - Hind, M., Wei, D., Campbell, M., Codella, N. C., Dhurandhar, A., Mojsilović, A., ... & Varshney, K. R. (2019, January). **TED: Teaching AI to explain its decisions**. In Proceedings of the 2019 AAAI/ACM Conference on AI, Ethics, and Society (pp. 123-129)[Article](https://doi.org/10.1145/3306618.3314273) `IBM Research`
 - Lundberg, S. M., & Lee, S. I. (2017). **A unified approach to interpreting model predictions**. Advances in neural information processing systems, 30. [Article](http://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predictions), [Github](https://github.com/slundberg/shap) `University of Washington`
+- Luss, R., Chen, P. Y., Dhurandhar, A., Sattigeri, P., Zhang, Y., Shanmugam, K., & Tu, C. C. (2021, August). **Leveraging latent features for local explanations**. In Proceedings of the 27th ACM SIGKDD conference on knowledge discovery & data mining (pp. 1139-1149). [Article](https://arxiv.org/abs/1905.12698) `IBM Research` `University of Michigan`
 - Ribeiro, M. T., Singh, S., & Guestrin, C. (2016, August). **"Why should i trust you?" Explaining the predictions of any classifier**. In Proceedings of the 22nd ACM SIGKDD international conference on knowledge discovery and data mining (pp. 1135-1144). [Article](https://arxiv.org/abs/1602.04938), [Github](https://github.com/marcotcr/lime) `University of Washington`
 - Wei, D., Dash, S., Gao, T., & Gunluk, O. (2019, May). **Generalized linear rule models**. In International conference on machine learning (pp. 6687-6696). PMLR. [Article](http://proceedings.mlr.press/v97/wei19a.html) `IBM Research`
 - Contrastive Explanations Method with Monotonic Attribute Functions ([Luss et al., 2019](https://arxiv.org/abs/1905.12698))
 - Boolean Decision Rules via Column Generation (Light Edition) ([Dash et al., 2018](https://papers.nips.cc/paper/7716-boolean-decision-rules-via-column-generation)) `IBM Research`
 - Improving Simple Models with Confidence Profiles ([Dhurandhar et al., 2018](https://papers.nips.cc/paper/8231-improving-simple-models-with-confidence-profiles)) `IBM Research`
 - Towards Robust Interpretability with Self-Explaining Neural Networks ([Alvarez-Melis et al., 2018](https://papers.nips.cc/paper/8003-towards-robust-interpretability-with-self-explaining-neural-networks)) `MIT`
-- Leveraging Latent Features for Local Explanations ([Luss et al., 2019](https://arxiv.org/abs/1905.12698)) `IBM Research` `University of Michigan`
 
 ### Fairness
 
@@ -468,7 +468,7 @@ Curto, J., et al. (2024). Awesome Responsible Artificial Intelligence. GitHub. h
 
 **Chicago Manual of Style 17th Edition**
 
-Curto, J., et al. "wesome Responsible Artificial Intelligence." GitHub. Last modified 2024. https://github.com/AthenaCore/AwesomeResponsibleAI.
+Curto, J., et al. "Awesome Responsible Artificial Intelligence." GitHub. Last modified 2024. https://github.com/AthenaCore/AwesomeResponsibleAI.
 
 **MLA (Modern Language Association) 9th Edition**
 
