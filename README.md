@@ -20,10 +20,11 @@ A curated list of awesome academic research, books, code of ethics, newsletters,
 - [Newsletters](#newsletters)
 - [Principles](#principles)
 - [Podcasts](#podcasts)
-- [Reports](#)
+- [Reports](#reports)
 - [Tools](#tools)
 - [Regulations](#regulations)
 - [Standards](#standards)
+- [Citing this repository](#Citing-this-repository)
 
 ## Academic Research
 
@@ -47,17 +48,17 @@ A curated list of awesome academic research, books, code of ethics, newsletters,
 ### Explainability
 
 - Dhurandhar, A., Chen, P. Y., Luss, R., Tu, C. C., Ting, P., Shanmugam, K., & Das, P. (2018). **Explanations based on the missing: Towards contrastive explanations with pertinent negatives**. Advances in neural information processing systems, 31. [Article](https://papers.nips.cc/paper/7340-explanations-based-on-the-missing-towards-contrastive-explanations-with-pertinent-negatives) `University of Michigan` `IBM Research`
+- Gebru, T., Morgenstern, J., Vecchione, B., Vaughan, J. W., Wallach, H., Iii, H. D., & Crawford, K. (2021). **Datasheets for datasets**. Communications of the ACM, 64(12), 86-92. [Article](https://arxiv.org/abs/1803.09010) `Google`
 - Gurumoorthy, K. S., Dhurandhar, A., Cecchi, G., & Aggarwal, C. (2019, November). **Efficient data representation by selecting prototypes with importance weights**. In 2019 IEEE International Conference on Data Mining (ICDM) (pp. 260-269). IEEE. [Article](https://arxiv.org/abs/1707.01212) `Amazon Development Center` `IBM Research`
 - Hind, M., Wei, D., Campbell, M., Codella, N. C., Dhurandhar, A., Mojsilović, A., ... & Varshney, K. R. (2019, January). **TED: Teaching AI to explain its decisions**. In Proceedings of the 2019 AAAI/ACM Conference on AI, Ethics, and Society (pp. 123-129)[Article](https://doi.org/10.1145/3306618.3314273) `IBM Research`
 - Lundberg, S. M., & Lee, S. I. (2017). **A unified approach to interpreting model predictions**. Advances in neural information processing systems, 30. [Article](http://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predictions), [Github](https://github.com/slundberg/shap) `University of Washington`
 - Ribeiro, M. T., Singh, S., & Guestrin, C. (2016, August). **"Why should i trust you?" Explaining the predictions of any classifier**. In Proceedings of the 22nd ACM SIGKDD international conference on knowledge discovery and data mining (pp. 1135-1144). [Article](https://arxiv.org/abs/1602.04938), [Github](https://github.com/marcotcr/lime) `University of Washington`
+- Wei, D., Dash, S., Gao, T., & Gunluk, O. (2019, May). **Generalized linear rule models**. In International conference on machine learning (pp. 6687-6696). PMLR. [Article](http://proceedings.mlr.press/v97/wei19a.html) `IBM Research`
 - Contrastive Explanations Method with Monotonic Attribute Functions ([Luss et al., 2019](https://arxiv.org/abs/1905.12698))
 - Boolean Decision Rules via Column Generation (Light Edition) ([Dash et al., 2018](https://papers.nips.cc/paper/7716-boolean-decision-rules-via-column-generation)) `IBM Research`
-- Generalized Linear Rule Models ([Wei et al., 2019](http://proceedings.mlr.press/v97/wei19a.html)) `IBM Research`
 - Improving Simple Models with Confidence Profiles ([Dhurandhar et al., 2018](https://papers.nips.cc/paper/8231-improving-simple-models-with-confidence-profiles)) `IBM Research`
 - Towards Robust Interpretability with Self-Explaining Neural Networks ([Alvarez-Melis et al., 2018](https://papers.nips.cc/paper/8003-towards-robust-interpretability-with-self-explaining-neural-networks)) `MIT`
 - Leveraging Latent Features for Local Explanations ([Luss et al., 2019](https://arxiv.org/abs/1905.12698)) `IBM Research` `University of Michigan`
-- Gebru, T., Morgenstern, J., Vecchione, B., Vaughan, J. W., Wallach, H., Iii, H. D., & Crawford, K. (2021). **Datasheets for datasets**. Communications of the ACM, 64(12), 86-92. [Article](https://arxiv.org/abs/1803.09010) `Google`
 
 ### Fairness
 
@@ -72,7 +73,7 @@ A curated list of awesome academic research, books, code of ethics, newsletters,
 
 ### Sustainability
 
-- Sculley, D., Holt, G., Golovin, D., Davydov, E., Phillips, T., Ebner, D., ... & Young, M. (2014, December). **Machine learning: The high interest credit card of technical debt**. In SE4ML: software engineering for machine learning (NIPS 2014 Workshop) (Vol. 111, p. 112). Machine Learning: The High Interest Credit Card of Technical Debt [Article](https://research.google/pubs/pub43146/) `Google`
+- Sculley, D., Holt, G., Golovin, D., Davydov, E., Phillips, T., Ebner, D., ... & Young, M. (2014, December). **Machine learning: The high interest credit card of technical debt**. In SE4ML: software engineering for machine learning (NIPS 2014 Workshop) (Vol. 111, p. 112). [Article](https://research.google/pubs/pub43146/) `Google`
 - Energy and policy considerations for deep learning in NLP ([Strubell, E. et al. 2019](https://arxiv.org/abs/1906.02243))
 - Quantifying the carbon emissions of machine learning. ([Lacoste, A. et al. 2019](https://arxiv.org/abs/1910.09700))
 - Carbon emissions and large neural network training. ([Patterson, D. et al. 2021](https://arxiv.org/abs/2104.10350)) 
@@ -82,8 +83,8 @@ A curated list of awesome academic research, books, code of ethics, newsletters,
 
 ### Collections
 
-- Google Research on Responsible AI: https://research.google/pubs/?collection=responsible-ai `Google`
-- Pipeline-Aware Fairness: http://fairpipe.dssg.io
+- Google Research on Responsible AI: [https://research.google/pubs/?collection=responsible-ai](https://research.google/pubs/?collection=responsible-ai) `Google`
+- Pipeline-Aware Fairness: [http://fairpipe.dssg.io](http://fairpipe.dssg.io)
 
 ### Reproducible/Non-Reproducible Research
 
@@ -94,8 +95,8 @@ A curated list of awesome academic research, books, code of ethics, newsletters,
 
 ### Open Access
 
-- Interpretable Machine Learning ([Molnar, C., 2021](https://christophm.github.io/interpretable-ml-book/)) `Explainability` `Interpretability` `Transparency` `R`
-- Explanatory Model Analysis ([Biecek et al., 2020](https://ema.drwhy.ai)) `Explainability` `Interpretability` `Transparency` `R`
+- Molnar, C. (2020). **Interpretable machine learning**. Lulu. com. Interpretable Machine Learning [Book](https://christophm.github.io/interpretable-ml-book/) `Explainability` `Interpretability` `Transparency` `R`
+- Biecek, P., & Burzykowski, T. (2021). **Explanatory model analysis: explore, explain, and examine predictive models**. Chapman and Hall/CRC. [Book](https://ema.drwhy.ai) `Explainability` `Interpretability` `Transparency` `R`
 
 ### Commercial / Propietary / Closed Access
 
@@ -436,7 +437,7 @@ Beneficial AI Systems | ISO/IEC AWI TR 21221 Information technology – Artifici
 ### NIST Standards
 
 - [NIST AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework)
-
+- [NIST Assessing Risks and Impacts of AI (ARIA)](https://ai-challenges.nist.gov/aria)
 
 Additional standards can be found using the [Standards Database](https://aistandardshub.org/ai-standards-search/).
 
