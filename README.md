@@ -448,7 +448,7 @@ Contributors with over 50 edits can be named coauthors in the citation of visibl
 ### Bibtex
 
 ```
-@misc{amli_repo,
+@misc{arai_repo,
   author={Josep Curto},
   title={Awesome Responsible Artificial Intelligence},
   year={2024},
