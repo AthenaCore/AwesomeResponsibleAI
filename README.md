@@ -63,7 +63,7 @@ A curated list of awesome academic research, books, code of ethics, newsletters,
 
 - Caton, S., & Haas, C. (2024). **Fairness in machine learning: A survey.** ACM Computing Surveys, 56(7), 1-38. [Article](https://dl.acm.org/doi/full/10.1145/3616865)
 - Jesus, S., Saleiro, P., Jorge, B. M., Ribeiro, R. P., Gama, J., Bizarro, P., & Ghani, R. (2024). **Aequitas Flow: Streamlining Fair ML Experimentation**. arXiv preprint arXiv:2405.05809. [Article](https://arxiv.org/abs/2405.05809)
-- Saleiro, P., Kuester, B., Hinkson, L., London, J., Stevens, A., Anisfeld, A., ... & Ghani, R. (2018). **Aequitas: A bias and fairness audit toolkit**. arXiv preprint arXiv:1811.05577. [](https://arxiv.org/abs/1811.05577)
+- Saleiro, P., Kuester, B., Hinkson, L., London, J., Stevens, A., Anisfeld, A., ... & Ghani, R. (2018). **Aequitas: A bias and fairness audit toolkit**. arXiv preprint arXiv:1811.05577. [Article](https://arxiv.org/abs/1811.05577)
 - Vasudevan, S., & Kenthapadi, K. (2020, October). **Lift: A scalable framework for measuring fairness in ml applications**. In Proceedings of the 29th ACM international conference on information & knowledge management (pp. 2773-2780). [Article](https://arxiv.org/abs/2008.07433) `LinkedIn`
 
 ### Ethical Data Products
@@ -77,11 +77,11 @@ A curated list of awesome academic research, books, code of ethics, newsletters,
 ### Sustainability
 
 - Lacoste, A., Luccioni, A., Schmidt, V., & Dandres, T. (2019). **Quantifying the carbon emissions of machine learning**. arXiv preprint arXiv:1910.09700. [Article](https://arxiv.org/abs/1910.09700)
+- Parcollet, T., & Ravanelli, M. (2021). **The energy and carbon footprint of training end-to-end speech recognizers**. [Article](https://hal.archives-ouvertes.fr/hal-03190119/document)
+- Patterson, D., Gonzalez, J., Le, Q., Liang, C., Munguia, L. M., Rothchild, D., ... & Dean, J. (2021). **Carbon emissions and large neural network training**. arXiv preprint arXiv:2104.10350. [Article](https://arxiv.org/abs/2104.10350)
 - Sculley, D., Holt, G., Golovin, D., Davydov, E., Phillips, T., Ebner, D., ... & Dennison, D. (2015). **Hidden technical debt in machine learning systems**. Advances in neural information processing systems, 28. [Article](https://proceedings.neurips.cc/paper_files/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf) `Google`
 - Sculley, D., Holt, G., Golovin, D., Davydov, E., Phillips, T., Ebner, D., ... & Young, M. (2014, December). **Machine learning: The high interest credit card of technical debt**. In SE4ML: software engineering for machine learning (NIPS 2014 Workshop) (Vol. 111, p. 112). [Article](https://research.google/pubs/pub43146/) `Google`
 - Strubell, E., Ganesh, A., & McCallum, A. (2019). **Energy and policy considerations for deep learning in NLP**. arXiv preprint arXiv:1906.02243. [Article](https://arxiv.org/abs/1906.02243)
-- Carbon emissions and large neural network training. ([Patterson, D. et al. 2021](https://arxiv.org/abs/2104.10350)) 
-- The Energy and Carbon Footprint of Training End-to-End Speech Recognizers. ([Parcollet, T., & Ravanelli, M. 2021](https://hal.archives-ouvertes.fr/hal-03190119/document))
 - Sustainable AI: AI for sustainability and the sustainability of AI ([van Wynsberghe, A. 2021](https://link.springer.com/article/10.1007/s43681-021-00043-6)). AI and Ethics, 1-6
 - Green Algorithms: Quantifying the carbon emissions of computation ([Lannelongue, L. et al. 2020](https://arxiv.org/abs/2007.07610))
 
