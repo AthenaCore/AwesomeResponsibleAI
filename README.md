@@ -48,7 +48,6 @@ A curated list of awesome academic research, books, code of ethics, newsletters,
 ### Explainability
 
 - Dhurandhar, A., Chen, P. Y., Luss, R., Tu, C. C., Ting, P., Shanmugam, K., & Das, P. (2018). **Explanations based on the missing: Towards contrastive explanations with pertinent negatives**. Advances in neural information processing systems, 31. [Article](https://papers.nips.cc/paper/7340-explanations-based-on-the-missing-towards-contrastive-explanations-with-pertinent-negatives) `University of Michigan` `IBM Research`
-- Gebru, T., Morgenstern, J., Vecchione, B., Vaughan, J. W., Wallach, H., Iii, H. D., & Crawford, K. (2021). **Datasheets for datasets**. Communications of the ACM, 64(12), 86-92. [Article](https://arxiv.org/abs/1803.09010) `Google`
 - Gurumoorthy, K. S., Dhurandhar, A., Cecchi, G., & Aggarwal, C. (2019, November). **Efficient data representation by selecting prototypes with importance weights**. In 2019 IEEE International Conference on Data Mining (ICDM) (pp. 260-269). IEEE. [Article](https://arxiv.org/abs/1707.01212) `Amazon Development Center` `IBM Research`
 - Hind, M., Wei, D., Campbell, M., Codella, N. C., Dhurandhar, A., Mojsilović, A., ... & Varshney, K. R. (2019, January). **TED: Teaching AI to explain its decisions**. In Proceedings of the 2019 AAAI/ACM Conference on AI, Ethics, and Society (pp. 123-129)[Article](https://doi.org/10.1145/3306618.3314273) `IBM Research`
 - Lundberg, S. M., & Lee, S. I. (2017). **A unified approach to interpreting model predictions**. Advances in neural information processing systems, 30. [Article](http://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predictions), [Github](https://github.com/slundberg/shap) `University of Washington`
@@ -69,8 +68,9 @@ A curated list of awesome academic research, books, code of ethics, newsletters,
 
 ### Ethical Data Products
 
+- Gebru, T., Morgenstern, J., Vecchione, B., Vaughan, J. W., Wallach, H., Iii, H. D., & Crawford, K. (2021). **Datasheets for datasets**. Communications of the ACM, 64(12), 86-92. [Article](https://arxiv.org/abs/1803.09010) `Google`
 - Mitchell, M., Wu, S., Zaldivar, A., Barnes, P., Vasserman, L., Hutchinson, B., ... & Gebru, T. (2019, January). **Model cards for model reporting**. In Proceedings of the conference on fairness, accountability, and transparency (pp. 220-229). [Article](https://arxiv.org/abs/1810.03993) `Google`
-- Pushkarna, M., Zaldivar, A., & Kjartansson, O. (2022, June). Data cards: Purposeful and transparent dataset documentation for responsible ai. In Proceedings of the 2022 ACM Conference on Fairness, Accountability, and Transparency (pp. 1776-1826). [Article](https://dl.acm.org/doi/10.1145/3531146.3533231) `Google`
+- Pushkarna, M., Zaldivar, A., & Kjartansson, O. (2022, June). **Data cards: Purposeful and transparent dataset documentation for responsible ai**. In Proceedings of the 2022 ACM Conference on Fairness, Accountability, and Transparency (pp. 1776-1826). [Article](https://dl.acm.org/doi/10.1145/3531146.3533231) `Google`
 - Rostamzadeh, N., Mincu, D., Roy, S., Smart, A., Wilcox, L., Pushkarna, M., ... & Heller, K. (2022, June). **Healthsheet: development of a transparency artifact for health datasets**. In Proceedings of the 2022 ACM Conference on Fairness, Accountability, and Transparency (pp. 1943-1961). [Article](https://arxiv.org/abs/2202.13028) `Google`
 - Saint-Jacques, G., Sepehri, A., Li, N., & Perisic, I. (2020). **Fairness through Experimentation: Inequality in A/B testing as an approach to responsible design**. arXiv preprint arXiv:2002.05819. [Article](https://arxiv.org/pdf/2002.05819) `LinkedIn`
 
