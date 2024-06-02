@@ -48,6 +48,7 @@ A curated list of awesome academic research, books, code of ethics, newsletters,
 ### Explainability
 
 - Dhurandhar, A., Chen, P. Y., Luss, R., Tu, C. C., Ting, P., Shanmugam, K., & Das, P. (2018). **Explanations based on the missing: Towards contrastive explanations with pertinent negatives**. Advances in neural information processing systems, 31. [Article](https://papers.nips.cc/paper/7340-explanations-based-on-the-missing-towards-contrastive-explanations-with-pertinent-negatives) `University of Michigan` `IBM Research`
+- Dhurandhar, A., Shanmugam, K., Luss, R., & Olsen, P. A. (2018). **Improving simple models with confidence profiles**. Advances in Neural Information Processing Systems, 31. [Article](https://papers.nips.cc/paper/8231-improving-simple-models-with-confidence-profiles) `IBM Research`
 - Gurumoorthy, K. S., Dhurandhar, A., Cecchi, G., & Aggarwal, C. (2019, November). **Efficient data representation by selecting prototypes with importance weights**. In 2019 IEEE International Conference on Data Mining (ICDM) (pp. 260-269). IEEE. [Article](https://arxiv.org/abs/1707.01212) `Amazon Development Center` `IBM Research`
 - Hind, M., Wei, D., Campbell, M., Codella, N. C., Dhurandhar, A., Mojsilović, A., ... & Varshney, K. R. (2019, January). **TED: Teaching AI to explain its decisions**. In Proceedings of the 2019 AAAI/ACM Conference on AI, Ethics, and Society (pp. 123-129)[Article](https://doi.org/10.1145/3306618.3314273) `IBM Research`
 - Lundberg, S. M., & Lee, S. I. (2017). **A unified approach to interpreting model predictions**. Advances in neural information processing systems, 30. [Article](http://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predictions), [Github](https://github.com/slundberg/shap) `University of Washington`
@@ -56,7 +57,6 @@ A curated list of awesome academic research, books, code of ethics, newsletters,
 - Wei, D., Dash, S., Gao, T., & Gunluk, O. (2019, May). **Generalized linear rule models**. In International conference on machine learning (pp. 6687-6696). PMLR. [Article](http://proceedings.mlr.press/v97/wei19a.html) `IBM Research`
 - Contrastive Explanations Method with Monotonic Attribute Functions ([Luss et al., 2019](https://arxiv.org/abs/1905.12698))
 - Boolean Decision Rules via Column Generation (Light Edition) ([Dash et al., 2018](https://papers.nips.cc/paper/7716-boolean-decision-rules-via-column-generation)) `IBM Research`
-- Improving Simple Models with Confidence Profiles ([Dhurandhar et al., 2018](https://papers.nips.cc/paper/8231-improving-simple-models-with-confidence-profiles)) `IBM Research`
 - Towards Robust Interpretability with Self-Explaining Neural Networks ([Alvarez-Melis et al., 2018](https://papers.nips.cc/paper/8003-towards-robust-interpretability-with-self-explaining-neural-networks)) `MIT`
 
 ### Fairness
@@ -309,6 +309,7 @@ Additional:
 - [vivid](https://cloud.r-project.org/web/packages/vivid/index.html) `R`
 - [XAI - An eXplainability toolbox for machine learning](https://github.com/EthicalML/xai) `Python` `The Institute for Ethical Machine Learning`
 - [xplique](https://github.com/deel-ai/xplique) `Python`
+- [XAIoGraphs](https://github.com/Telefonica/XAIoGraphs) `Python` `Telefonica`
 - [Zennit](https://github.com/chr5tphr/zennit) `Python`
 
 ### Interpretable Models
@@ -352,6 +353,10 @@ Additional:
 ### Reliability Evaluation (of post hoc explanation methods)
 
 - [openXAI](https://open-xai.github.io) `Python`
+
+### Robustness
+
+- [Adversarial Robustness Toolbox (ART)](https://github.com/Trusted-AI/adversarial-robustness-toolbox) `Python`
 
 ### Security
 
