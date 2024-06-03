@@ -149,7 +149,9 @@ A curated list of awesome academic research, books, code of ethics, newsletters,
 
 ## Frameworks
 
+- [A Framework for Ethical Decision Making](https://www.scu.edu/ethics/ethics-resources/a-framework-for-ethical-decision-making/) `Markkula Center for Applied Ethics`
 - [Data Ethics Canvas](https://theodi.org/insights/tools/the-data-ethics-canvas-2021/) `Open Data Institute`
+- [RAI Toolkit](https://rai.tradewindai.com) `US Department of Defense`
 
 ## Institutes
 
@@ -280,6 +282,7 @@ Additional:
 - [ceterisParibus: Ceteris Paribus Profiles](https://cran.r-project.org/web/packages/ceterisParibus/index.html) `R`
 - [DALEX: moDel Agnostic Language for Exploration and eXplanation](https://dalex.drwhy.ai) `Python` `R`
 - [DALEXtra: extension for DALEX](https://modeloriented.github.io/DALEXtra) `Python` `R`
+- [Diverse Counterfactual Explanations (DiCE)](https://github.com/interpretml/DiCE) `Python` `Microsoft`
 - [ecco](https://pypi.org/project/ecco/) [article](https://jalammar.github.io/explaining-transformers/) `Python`
 - [eli5](https://github.com/TeamHG-Memex/eli5) `Python`
 - [eXplainability Toolbox](https://ethical.institute/xai.html) `Python`
@@ -316,6 +319,7 @@ Additional:
 
 - [imodels](https://github.com/csinva/imodels) `Python`
 - [imodelsX](https://github.com/csinva/imodelsX) `Python`
+- [interpretML](https://github.com/interpretml/interpret) `Python` `Microsoft`
 - [Tensorflow Lattice](https://github.com/tensorflow/lattice) `Python` `Google`
 
 ### LLM Evaluation
@@ -364,6 +368,10 @@ Additional:
 - [NB Defense](https://nbdefense.ai) `Python`
 - [Rebuff Playground](https://www.rebuff.ai/playground) `Python`
 
+For consumers:
+
+- [Have I Been Trained?](https://haveibeentrained.com)
+
 ### Sustainability
 
 - [Code Carbon](https://github.com/mlco2/codecarbon) `Python`
@@ -397,7 +405,7 @@ Additional:
 - [EU AI ACT](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52021PC0206)
 - [General Data Protection Regulation GDPR](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32016R0679) - Legal text for the EU GDPR regulation 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC
   - [GDPR.EU Guide](https://gdpr.eu/) - A project co-funded by the Horizon 2020 Framework programme of the EU which provides a resource for organisations and individuals researching GDPR, including a library of straightforward and up-to-date information to help organisations achieve GDPR compliance ([Legal Text](https://www.govinfo.gov/content/pkg/USCODE-2012-title5/pdf/USCODE-2012-title5-partI-chap5-subchapII-sec552a.pdf)).
-
+- [Hiroshima Process International Guiding Principles for Advanced AI system](https://digital-strategy.ec.europa.eu/en/library/hiroshima-process-international-guiding-principles-advanced-ai-system)
 
 ### United States
 
