@@ -104,6 +104,7 @@ A curated list of awesome academic research, books, code of ethics, newsletters,
 
 - Molnar, C. (2020). **Interpretable machine learning**. Lulu. com. Interpretable Machine Learning [Book](https://christophm.github.io/interpretable-ml-book/) `Explainability` `Interpretability` `Transparency` `R`
 - Biecek, P., & Burzykowski, T. (2021). **Explanatory model analysis: explore, explain, and examine predictive models**. Chapman and Hall/CRC. [Book](https://ema.drwhy.ai) `Explainability` `Interpretability` `Transparency` `R`
+- Biecek, P. (2024). **Adversarial Model Analysis**.  [Book](https://ama.drwhy.ai) `Safety` `Red Teaming`
 
 ### Commercial / Propietary / Closed Access
 
@@ -370,6 +371,7 @@ Additional:
 
 For consumers:
 
+- [Have i been pwned?](https://haveibeenpwned.com)
 - [Have I Been Trained?](https://haveibeentrained.com)
 
 ### Sustainability
