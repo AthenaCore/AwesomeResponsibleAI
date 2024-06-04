@@ -321,6 +321,7 @@ Additional:
 - [imodels](https://github.com/csinva/imodels) `Python`
 - [imodelsX](https://github.com/csinva/imodelsX) `Python`
 - [interpretML](https://github.com/interpretml/interpret) `Python` `Microsoft`
+- [PiML Toolbox](https://github.com/SelfExplainML/PiML-Toolbox) `Python`
 - [Tensorflow Lattice](https://github.com/tensorflow/lattice) `Python` `Google`
 
 ### LLM Evaluation
