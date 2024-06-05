@@ -410,6 +410,10 @@ For consumers:
   - [GDPR.EU Guide](https://gdpr.eu/) - A project co-funded by the Horizon 2020 Framework programme of the EU which provides a resource for organisations and individuals researching GDPR, including a library of straightforward and up-to-date information to help organisations achieve GDPR compliance ([Legal Text](https://www.govinfo.gov/content/pkg/USCODE-2012-title5/pdf/USCODE-2012-title5-partI-chap5-subchapII-sec552a.pdf)).
 - [Hiroshima Process International Guiding Principles for Advanced AI system](https://digital-strategy.ec.europa.eu/en/library/hiroshima-process-international-guiding-principles-advanced-ai-system)
 
+### Singapore
+
+- [Singapore’s Approach to AI Governance - Verify](https://www.pdpc.gov.sg/help-and-resources/2020/01/model-ai-governance-framework)
+
 ### United States
 
 - State consumer privacy laws: California ([CCPA](https://www.oag.ca.gov/privacy/ccpa) and its amendment, [CPRA](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202120220AB1490)), Virginia ([VCDPA](https://lis.virginia.gov/cgi-bin/legp604.exe?212+sum+HB2307)), and Colorado ([ColoPA](https://leg.colorado.gov/sites/default/files/documents/2021A/bills/2021a_190_rer.pdf)).
