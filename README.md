@@ -134,6 +134,11 @@ A curated list of awesome academic research, books, code of ethics, newsletters,
 
 - [CS594 - Causal Inference and Learning](https://www.cs.uic.edu/~elena/courses/fall19/cs594cil.html) `University of Illinois at Chicago`
 
+### Data/AI Ethics
+
+- [Introduction to AI Ethics](https://www.kaggle.com/learn/intro-to-ai-ethics) `Kaggle`
+- [Practical Data Ethics](https://ethics.fast.ai) `Fast.ai`
+
 ### Data Privacy
 
 - [CS7880 - Rigorous Approaches to Data Privacy](https://www.khoury.northeastern.edu/home/jullman/cs7880s17/syllabus.html) `Northeastern University`
