@@ -167,6 +167,7 @@ A curated list of awesome academic research, books, code of ethics, newsletters,
 
 - [Ada Lovelace Institute](https://www.adalovelaceinstitute.org/) `United Kingdom`
 - [European Centre for Algorithmic Transparency](https://algorithmic-transparency.ec.europa.eu/index_en)
+- [Center for Human-Compatible AI](https://humancompatible.ai) `UC Berkeley`
 - [Center for Responsible AI](https://airesponsibly.com/)
 - [Montreal AI Ethics Institute](https://montrealethics.ai/)
 - [Munich Center for Technology in Society (IEAI)](https://ieai.mcts.tum.de/) `Germany`
