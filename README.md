@@ -148,6 +148,10 @@ A curated list of awesome academic research, books, code of ethics, newsletters,
 
 - [CIS 4230/5230 - Ethical Algorithm Design](https://www.cis.upenn.edu/~mkearns/teaching/EADSpring24/) `University of Pennsylvania`
 
+### Safety
+
+- [Introduction to ML Safety](https://course.mlsafety.org) `Center for AI Safety`
+
 ## Data Sets
 
 - [An ImageNet replacement for self-supervised pretraining without humans](https://www.robots.ox.ac.uk/~vgg/research/pass/)
