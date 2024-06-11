@@ -311,6 +311,7 @@ Additional:
 - [Network Dissection](http://netdissect.csail.mit.edu) `Python` `Neural Networks` `MIT` 
 - [Shap](https://github.com/slundberg/shap) `Python`
 - [Shapash](https://github.com/maif/shapash) `Python`
+- [shapper](https://cran.r-project.org/web/packages/shapper/index.html) `R`
 - [shapviz](https://cran.r-project.org/web/packages/shapviz/index.html) `R`
 - [Skater](https://github.com/oracle/Skater) `Python` `Oracle`
 - [survex](https://github.com/ModelOriented/survex) `R`
