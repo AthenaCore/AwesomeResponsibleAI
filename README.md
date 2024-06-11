@@ -320,6 +320,7 @@ Additional:
 - [truelens-eval](https://pypi.org/project/trulens-eval/) `Python` `Truera`
 - [pre: Prediction Rule Ensembles](https://cran.r-project.org/web/packages/pre/index.html) `R`
 - [Vetiver](https://rstudio.github.io/vetiver-r/) `R` `Python` `Posit`
+- [vip](https://github.com/koalaverse/vip) `R`
 - [vivid](https://cloud.r-project.org/web/packages/vivid/index.html) `R`
 - [XAI - An eXplainability toolbox for machine learning](https://github.com/EthicalML/xai) `Python` `The Institute for Ethical Machine Learning`
 - [xplique](https://github.com/deel-ai/xplique) `Python`
