@@ -249,19 +249,6 @@ Additional:
 - [mediation: Causal Mediation Analysis](https://cran.r-project.org/web/packages/mediation) `R`
 - [MRPC](https://cran.r-project.org/web/packages/MRPC) `R`
 
-### Differential Privacy
-
-- [BackPACK](https://toiaydcdyywlhzvlob.github.io/backpack) `Python`
-- [DataSynthesizer: Privacy-Preserving Synthetic Datasets](https://github.com/DataResponsibly/DataSynthesizer) `Python` `Drexel University` `University of Washington`
-- [diffpriv](https://github.com/brubinstein/diffpriv) `R`
-- [Diffprivlib](https://github.com/IBM/differential-privacy-library) `Python` `IBM`
-- [Discrete Gaussian for Differential Privacy](https://github.com/IBM/discrete-gaussian-differential-privacy) `Python` `IBM`
-- [Opacus](https://opacus.ai) `Python` `Facebook`
-- [PyVacy: Privacy Algorithms for PyTorch](https://github.com/ChrisWaites/pyvacy) `Python`
-- [SEAL](https://github.com/Microsoft/SEAL) `Python` `Microsoft`
-- [SmartNoise](https://github.com/opendp/smartnoise-core) `Python` `OpenDP`
-- [Tensorflow Privacy](https://github.com/tensorflow/privacy) `Python` `Google`
-
 ### Drift
 
 - [Alibi Detect](https://github.com/SeldonIO/alibi-detect) `Python`
@@ -367,6 +354,20 @@ Additional:
 - [Nightshade](https://nightshade.cs.uchicago.edu) `University of Chicago` `Tool`
 - [Glaze](https://glaze.cs.uchicago.edu) `University of Chicago` `Tool`
 - [Fawkes](http://sandlab.cs.uchicago.edu/fawkes/) `University of Chicago` `Tool`
+
+### Privacy
+
+- [BackPACK](https://toiaydcdyywlhzvlob.github.io/backpack) `Python`
+- [DataSynthesizer: Privacy-Preserving Synthetic Datasets](https://github.com/DataResponsibly/DataSynthesizer) `Python` `Drexel University` `University of Washington`
+- [diffpriv](https://github.com/brubinstein/diffpriv) `R`
+- [Diffprivlib](https://github.com/IBM/differential-privacy-library) `Python` `IBM`
+- [Discrete Gaussian for Differential Privacy](https://github.com/IBM/discrete-gaussian-differential-privacy) `Python` `IBM`
+- [Opacus](https://opacus.ai) `Python` `Facebook`
+- [Privacy Meter](https://github.com/privacytrustlab/ml_privacy_meter) `Python` `National University of Singapore`
+- [PyVacy: Privacy Algorithms for PyTorch](https://github.com/ChrisWaites/pyvacy) `Python`
+- [SEAL](https://github.com/Microsoft/SEAL) `Python` `Microsoft`
+- [SmartNoise](https://github.com/opendp/smartnoise-core) `Python` `OpenDP`
+- [Tensorflow Privacy](https://github.com/tensorflow/privacy) `Python` `Google`
 
 ### Reliability Evaluation (of post hoc explanation methods)
 
