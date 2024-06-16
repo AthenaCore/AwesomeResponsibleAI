@@ -6,7 +6,7 @@
 [![GitHub](https://img.shields.io/twitter/follow/athenacoreai.svg?label=Follow)](https://twitter.com/athenacoreai)
 
 # Awesome Responsible AI
-A curated list of awesome academic research, books, code of ethics, newsletters, principles, podcast, reports, tools, regulations and standards related to Responsible AI and Human-Centered AI.
+A curated list of awesome academic research, books, code of ethics, courses, data sets, frameworks, newsletters, principles, podcast, reports, tools, regulations and standards related to Responsible AI and Human-Centered AI. 
 
 ## Contents
 
@@ -221,20 +221,24 @@ Additional:
 - [OECD AI Incidents Monitor](https://oecd.ai/en/incidents)
 - [Verica Open Incident Database (VOID)](https://www.thevoid.community/)
 
+### Market Analysis
+
+- [State of AI](https://www.stateof.ai) - from 2018 up to now -
+
 ### Other
 
 - [Four Principles of Explainable Artificial Intelligence](https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8312.pdf) `NIST` `Explainability`
 - [Psychological Foundations of Explainability and Interpretability in Artificial Intelligence](https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8367.pdf) `NIST` `Explainability`
 - [Inferring Concept Drift Without Labeled Data, 2021](https://concept-drift.fastforwardlabs.com) `Drift`
 - [Interpretability, Fast Forward Labs, 2020](https://ff06-2020.fastforwardlabs.com) `Interpretability`
-- [ML Commons Safety Benchmark for general purpose AI chat model](https://mlcommons.org/benchmarks/ai-safety/general_purpose_ai_chat_benchmark/)
-- [State of AI](https://www.stateof.ai) - from 2018 up to now -
 - [Towards a Standard for Identifying and Managing Bias in Artificial Intelligence (NIST Special Publication 1270)](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1270.pdf) `NIST` `Bias`
+- [Auditing machine learning algorithms](https://www.auditingalgorithms.net/index.html) `Auditing`
 
 ## Tools
 
 ### Benchmarks
 
+- [ML Commons Safety Benchmark for general purpose AI chat model](https://mlcommons.org/benchmarks/ai-safety/general_purpose_ai_chat_benchmark/)
 - [MLPerf Training Benchmark](https://mlcommons.org/benchmarks/training/) `Training`
 - [LiveBench: A Challenging, Contamination-Free LLM Benchmark](https://livebench.ai) `Contamination free`
 
