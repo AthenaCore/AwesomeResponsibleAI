@@ -224,6 +224,7 @@ Additional:
 ### Market Analysis
 
 - [State of AI](https://www.stateof.ai) - from 2018 up to now -
+- [The AI Index Report](https://aiindex.stanford.edu) - from 2017 up to now - `Stanford Institute for Human-Centered Artificial Intelligence`
 
 ### Other
 
