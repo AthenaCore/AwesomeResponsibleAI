@@ -339,6 +339,7 @@ Additional:
 - [Inspect](https://ukgovernmentbeis.github.io/inspect_ai/) `AISI` `Python`
 - [Moonshoot](https://github.com/aiverify-foundation/moonshot) `AI Verify Foundation` `Python`
 - [Prometheus](https://github.com/prometheus-eval/prometheus) `Python`
+- [Rouge](https://pypi.org/project/rouge/) `Python`
 
 ### Performance (& Automated ML)
 
