@@ -155,8 +155,10 @@ A curated list of awesome academic research, books, code of ethics, courses, dat
 
 ## Data Sets
 
+- [Common Corpus](https://huggingface.co/collections/PleIAs/common-corpus-65d46e3ea3980fdcd66a5613)
 - [An ImageNet replacement for self-supervised pretraining without humans](https://www.robots.ox.ac.uk/~vgg/research/pass/)
 - [Huggingface Data Sets](https://huggingface.co/datasets)
+- [The Stack](https://www.bigcode-project.org/docs/about/the-stack/)
 
 ## Frameworks
 
