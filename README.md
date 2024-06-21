@@ -244,6 +244,7 @@ Additional:
 - [ML Commons Safety Benchmark for general purpose AI chat model](https://mlcommons.org/benchmarks/ai-safety/general_purpose_ai_chat_benchmark/)
 - [MLPerf Training Benchmark](https://mlcommons.org/benchmarks/training/) `Training`
 - [LiveBench: A Challenging, Contamination-Free LLM Benchmark](https://livebench.ai) `Contamination free`
+- [τ-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains](https://github.com/sierra-research/tau-bench) `Python`
 
 ### Bias
 
