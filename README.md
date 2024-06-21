@@ -164,6 +164,8 @@ A curated list of awesome academic research, books, code of ethics, courses, dat
 
 - [A Framework for Ethical Decision Making](https://www.scu.edu/ethics/ethics-resources/a-framework-for-ethical-decision-making/) `Markkula Center for Applied Ethics`
 - [Data Ethics Canvas](https://theodi.org/insights/tools/the-data-ethics-canvas-2021/) `Open Data Institute`
+- [Deon](https://deon.drivendata.org) `Python` `Drivendata`
+- [Ethics & Algorithms Toolkit](http://ethicstoolkit.ai)
 - [RAI Toolkit](https://rai.tradewindai.com) `US Department of Defense`
 
 ## Institutes
@@ -392,6 +394,7 @@ Additional:
 ### Robustness
 
 - [Adversarial Robustness Toolbox (ART)](https://github.com/Trusted-AI/adversarial-robustness-toolbox) `Python`
+- [Guardrails](https://github.com/guardrails-ai/guardrails) `Python`
 
 ### Security
 
