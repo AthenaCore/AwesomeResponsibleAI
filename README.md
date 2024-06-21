@@ -394,6 +394,7 @@ Additional:
 ### Robustness
 
 - [Adversarial Robustness Toolbox (ART)](https://github.com/Trusted-AI/adversarial-robustness-toolbox) `Python`
+- [BackdoorBench](https://github.com/SCLBD/BackdoorBench) `Python`
 - [Guardrails](https://github.com/guardrails-ai/guardrails) `Python`
 
 ### Security
