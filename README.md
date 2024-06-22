@@ -259,6 +259,7 @@ Additional:
 - [CausalNex](https://causalnex.readthedocs.io) `Python`
 - [CausalImpact](https://cran.r-project.org/web/packages/CausalImpact) `R`
 - [Causalinference](https://causalinferenceinpython.org) `Python`
+- [Causal Inference 360](https://github.com/BiomedSciAI/causallib) `Python` 
 - [CIMTx: Causal Inference for Multiple Treatments with a Binary Outcome](https://cran.r-project.org/web/packages/CIMTx) `R`
 - [dagitty](https://cran.r-project.org/web/packages/dagitty) `R`
 - [DoWhy](https://github.com/Microsoft/dowhy) `Python` `Microsoft`
@@ -289,6 +290,7 @@ Additional:
 
 ### Interpretability/Explicability
 
+- [https://github.com/openai/automated-interpretability](Automated interpretability) `Python` `OpenAI`
 - [AI360 Toolkit](https://github.com/Trusted-AI/AIF360) `Python` `R` `IBM`
 - [aorsf: Accelerated Oblique Random Survival Forests](https://cran.r-project.org/web/packages/aorsf/index.html) `R`
 - [breakDown: Model Agnostic Explainers for Individual Predictions](https://cran.r-project.org/web/packages/breakDown/index.html) `R`
@@ -299,6 +301,7 @@ Additional:
 - [Diverse Counterfactual Explanations (DiCE)](https://github.com/interpretml/DiCE) `Python` `Microsoft`
 - [ecco](https://pypi.org/project/ecco/) [article](https://jalammar.github.io/explaining-transformers/) `Python`
 - [eli5](https://github.com/TeamHG-Memex/eli5) `Python`
+- [explabox](https://explabox.readthedocs.io/en/latest/index.html) `Python` `National Police Lab AI`
 - [eXplainability Toolbox](https://ethical.institute/xai.html) `Python`
 - [ExplainerHub](https://explainerdashboard.readthedocs.io/en/latest/index.html) [in github](https://github.com/oegedijk/explainerdashboard) `Python` 
 - [fasttreeshap](https://github.com/linkedin/fasttreeshap) `Python` `LinkedIn`
@@ -341,6 +344,7 @@ Additional:
 
 ### LLM Evaluation
 
+- [FBI: Finding Blindspots in LLM Evaluations with Interpretable Checklists](https://github.com/AI4Bharat/FBI) `Python`
 - [Inspect](https://ukgovernmentbeis.github.io/inspect_ai/) `AISI` `Python`
 - [Moonshoot](https://github.com/aiverify-foundation/moonshot) `AI Verify Foundation` `Python`
 - [Prometheus](https://github.com/prometheus-eval/prometheus) `Python`
