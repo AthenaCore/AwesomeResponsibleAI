@@ -298,6 +298,7 @@ Additional:
 - [ceterisParibus: Ceteris Paribus Profiles](https://cran.r-project.org/web/packages/ceterisParibus/index.html) `R`
 - [DALEX: moDel Agnostic Language for Exploration and eXplanation](https://dalex.drwhy.ai) `Python` `R`
 - [DALEXtra: extension for DALEX](https://modeloriented.github.io/DALEXtra) `Python` `R`
+- [Dianna](https://github.com/dianna-ai/dianna) `Python`
 - [Diverse Counterfactual Explanations (DiCE)](https://github.com/interpretml/DiCE) `Python` `Microsoft`
 - [ecco](https://pypi.org/project/ecco/) [article](https://jalammar.github.io/explaining-transformers/) `Python`
 - [eli5](https://github.com/TeamHG-Memex/eli5) `Python`
@@ -403,6 +404,7 @@ Additional:
 
 ### Security
 
+- [Counterfit](https://github.com/Azure/counterfit/) `Python` `Microsoft`
 - [Modelscan](https://github.com/protectai/modelscan) `Python`
 - [NB Defense](https://nbdefense.ai) `Python`
 - [Rebuff Playground](https://www.rebuff.ai/playground) `Python`
