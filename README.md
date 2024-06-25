@@ -345,11 +345,13 @@ Additional:
 
 ### LLM Evaluation
 
+- [evals](https://github.com/openai/evals) `Python` `OpenAI`
 - [FBI: Finding Blindspots in LLM Evaluations with Interpretable Checklists](https://github.com/AI4Bharat/FBI) `Python`
 - [Inspect](https://ukgovernmentbeis.github.io/inspect_ai/) `AISI` `Python`
 - [Moonshoot](https://github.com/aiverify-foundation/moonshot) `AI Verify Foundation` `Python`
 - [Prometheus](https://github.com/prometheus-eval/prometheus) `Python`
 - [Rouge](https://pypi.org/project/rouge/) `Python`
+- [simple evals](https://github.com/openai/simple-evals) `Python` `OpenAI`
 
 ### Performance (& Automated ML)
 
