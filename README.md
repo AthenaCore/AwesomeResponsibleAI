@@ -300,10 +300,12 @@ Additional:
 - [DALEXtra: extension for DALEX](https://modeloriented.github.io/DALEXtra) `Python` `R`
 - [Dianna](https://github.com/dianna-ai/dianna) `Python`
 - [Diverse Counterfactual Explanations (DiCE)](https://github.com/interpretml/DiCE) `Python` `Microsoft`
+- [dtreeviz](https://github.com/parrt/dtreeviz) `Python` 
 - [ecco](https://pypi.org/project/ecco/) [article](https://jalammar.github.io/explaining-transformers/) `Python`
 - [eli5](https://github.com/TeamHG-Memex/eli5) `Python`
 - [explabox](https://explabox.readthedocs.io/en/latest/index.html) `Python` `National Police Lab AI`
 - [eXplainability Toolbox](https://ethical.institute/xai.html) `Python`
+- [ExplainaBoard](https://github.com/neulab/ExplainaBoard) `Python` `Carnegie Mellon University`
 - [ExplainerHub](https://explainerdashboard.readthedocs.io/en/latest/index.html) [in github](https://github.com/oegedijk/explainerdashboard) `Python` 
 - [fasttreeshap](https://github.com/linkedin/fasttreeshap) `Python` `LinkedIn`
 - [FAT Forensics](https://fat-forensics.org/) `Python`
