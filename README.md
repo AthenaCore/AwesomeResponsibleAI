@@ -404,6 +404,7 @@ Additional:
 
 - [Adversarial Robustness Toolbox (ART)](https://github.com/Trusted-AI/adversarial-robustness-toolbox) `Python`
 - [BackdoorBench](https://github.com/SCLBD/BackdoorBench) `Python`
+- [Foolbox](https://github.com/bethgelab/foolbox) `Python`
 - [Guardrails](https://github.com/guardrails-ai/guardrails) `Python`
 
 ### Security
