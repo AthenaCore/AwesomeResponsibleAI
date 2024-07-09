@@ -444,6 +444,17 @@ For consumers:
 - [Data Protection Laws of the Word](https://www.dlapiperdataprotection.com)
 - [SCL Artificial Intelligence Contractual Clauses](https://www.scl.org/wp-content/uploads/2024/02/AI-Clauses-Project-October-2023-final-1.pdf)
 
+### Canada
+
+- [Algorithmic Impact Assessment tool](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/algorithmic-impact-assessment.html)
+- [Directive on Automated Decision-Making](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32592)
+- [Directive on Privacy Practices](https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=18309)
+- [Directive on Security Management](https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=32611)
+- [Directive on Service and Digital](https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=32601)
+- [Policy on Government Security](https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=16578)
+- [Policy on Service and Digital](https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=32603)
+- [Privacy Act](https://laws-lois.justice.gc.ca/eng/ACTS/P-21/)
+
 ### European Union
 
 - [Data Act](https://eur-lex.europa.eu/eli/reg/2023/2854)
