@@ -442,6 +442,7 @@ For consumers:
 ## Regulations
 
 - [Data Protection Laws of the Word](https://www.dlapiperdataprotection.com)
+- [Digital Policy Alert](https://digitalpolicyalert.org/analysis)
 - [SCL Artificial Intelligence Contractual Clauses](https://www.scl.org/wp-content/uploads/2024/02/AI-Clauses-Project-October-2023-final-1.pdf)
 
 ### Canada
