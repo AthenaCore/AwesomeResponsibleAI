@@ -489,6 +489,12 @@ For consumers:
 
 Standards are **voluntary**, **consensus soluctions**. They document an **agreement** on how a material, product, process, or serice should be **specified**, **performed** or **delivered**. They keep people safe and **ensure things work**. They create **confidence** and provide **security** for investment.
 
+### IEEE Standards
+
+Domain | Standard | Status | URL
+---|---|---|---
+IEEE Standard for Ethical Considerations in Emulated Empathy in Autonomous and Intelligent Systems | IEEE 7014-2024 | Published | [https://www.iso.org/standard/74296.html](https://standards.ieee.org/ieee/7014/7648/)
+
 ### ISO/IEC Standards
 
 Domain | Standard | Status | URL
