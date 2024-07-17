@@ -495,6 +495,16 @@ Domain | Standard | Status | URL
 ---|---|---|---
 IEEE Standard for Ethical Considerations in Emulated Empathy in Autonomous and Intelligent Systems | IEEE 7014-2024 | Published | [https://www.iso.org/standard/74296.html](https://standards.ieee.org/ieee/7014/7648/)
 
+### UNE/ISO Standards
+
+Domain | Standard | Status | URL
+---|---|---|---
+Gobierno del dato | UNE 0077:2023 | Published | [https://tienda.aenor.com/norma-une-especificacion-une-0077-2023-n0071116](https://tienda.aenor.com/norma-une-especificacion-une-0077-2023-n0071116)
+Gestión del dato | UNE 0078:2023 | Published | [https://tienda.aenor.com/norma-une-especificacion-une-0078-2023-n0071117](https://tienda.aenor.com/norma-une-especificacion-une-0078-2023-n0071117)
+Calidad del dato | UNE 0079:2023 | Published | [https://tienda.aenor.com/norma-une-especificacion-une-0079-2023-n0071118)]([https://tienda.aenor.com/norma-une-especificacion-une-0077-2023-n0071116](https://tienda.aenor.com/norma-une-especificacion-une-0079-2023-n0071118))
+Guía de evaluación del Gobierno, Gestión y Gestión de la Calidad del Dato. | UNE 0080:2023 | Published | [https://tienda.aenor.com/norma-une-especificacion-une-0080-2023-n0071383](https://tienda.aenor.com/norma-une-especificacion-une-0080-2023-n0071383)
+Guía de evaluación de la Calidad de un Conjunto de Datos. | UNE 0081:2023 | Published | [https://tienda.aenor.com/norma-une-especificacion-une-0081-2023-n0071807](https://tienda.aenor.com/norma-une-especificacion-une-0081-2023-n0071807)
+
 ### ISO/IEC Standards
 
 Domain | Standard | Status | URL
