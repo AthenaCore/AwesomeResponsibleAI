@@ -252,6 +252,7 @@ Additional:
 
 - [balance](https://import-balance.org) `Python` `Facebook`
 - [smclafify](https://github.com/aws/amazon-sagemaker-clarify) `Python` `Amazon`
+- [SolasAI](https://github.com/SolasAI/solas-ai-disparity) `Python`
 
 ### Causal Inference
 
