@@ -408,6 +408,7 @@ Additional:
 - [BackdoorBench](https://github.com/SCLBD/BackdoorBench) `Python`
 - [Foolbox](https://github.com/bethgelab/foolbox) `Python`
 - [Guardrails](https://github.com/guardrails-ai/guardrails) `Python`
+- [NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) `Python` `Amazon`
 
 ### Security
 
