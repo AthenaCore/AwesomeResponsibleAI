@@ -286,6 +286,7 @@ Additional:
 - [fairness](https://cran.r-project.org/web/packages/fairness/) `R`
 - [FairRankTune](https://kcachel.github.io/fairranktune/) `Python`
 - [FairPAN - Fair Predictive Adversarial Network](https://modeloriented.github.io/FairPAN/) `R`
+- [OxonFair](https://github.com/oxfordinternetinstitute/oxonfair) `Python` `Oxford Internet Institute`
 - [Themis ML](https://github.com/cosmicBboy/themis-ml) `Python`
 - [What-If Tool](https://github.com/PAIR-code/what-if-tool) `Python` `Google`
 
