@@ -309,6 +309,7 @@ Additional:
 - [eXplainability Toolbox](https://ethical.institute/xai.html) `Python`
 - [ExplainaBoard](https://github.com/neulab/ExplainaBoard) `Python` `Carnegie Mellon University`
 - [ExplainerHub](https://explainerdashboard.readthedocs.io/en/latest/index.html) [in github](https://github.com/oegedijk/explainerdashboard) `Python` 
+- [fastshap](https://github.com/bgreenwell/fastshap) `R`
 - [fasttreeshap](https://github.com/linkedin/fasttreeshap) `Python` `LinkedIn`
 - [FAT Forensics](https://fat-forensics.org/) `Python`
 - [flashlight](https://github.com/mayer79/flashlight) `R`
