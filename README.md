@@ -31,6 +31,7 @@ A curated list of awesome academic research, books, code of ethics, courses, dat
 ### Evaluation (of model explanations)
 
 - Agarwal, C., Krishna, S., Saxena, E., Pawelczyk, M., Johnson, N., Puri, I., ... & Lakkaraju, H. (2022). **Openxai: Towards a transparent evaluation of model explanations**. Advances in Neural Information Processing Systems, 35, 15784-15799. [Article](https://arxiv.org/abs/2206.11104)
+- Liesenfeld, A., and Dingemanse, M. (2024). **Rethinking Open Source Generative AI: Open-Washing and the EU AI Act**. In The 2024 ACM Conference on Fairness, Accountability, and Transparency (FAccT ’24). Rio de Janeiro, Brazil: ACM. [Article](https://pure.mpg.de/rest/items/item_3588217_2/component/file_3588218/content) [Benchmark](https://opening-up-chatgpt.github.io)
 
 ### Bias
 
@@ -67,7 +68,6 @@ A curated list of awesome academic research, books, code of ethics, courses, dat
 - Jesus, S., Saleiro, P., Jorge, B. M., Ribeiro, R. P., Gama, J., Bizarro, P., & Ghani, R. (2024). **Aequitas Flow: Streamlining Fair ML Experimentation**. arXiv preprint arXiv:2405.05809. [Article](https://arxiv.org/abs/2405.05809)
 - Saleiro, P., Kuester, B., Hinkson, L., London, J., Stevens, A., Anisfeld, A., ... & Ghani, R. (2018). **Aequitas: A bias and fairness audit toolkit**. arXiv preprint arXiv:1811.05577. [Article](https://arxiv.org/abs/1811.05577)
 - Vasudevan, S., & Kenthapadi, K. (2020, October). **Lift: A scalable framework for measuring fairness in ml applications**. In Proceedings of the 29th ACM international conference on information & knowledge management (pp. 2773-2780). [Article](https://arxiv.org/abs/2008.07433) `LinkedIn`
-
 
 ### Ethical Data Products
 
