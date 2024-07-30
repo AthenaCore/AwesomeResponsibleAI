@@ -80,13 +80,15 @@ A curated list of awesome academic research, books, code of ethics, courses, dat
 ### Sustainability
 
 - Lacoste, A., Luccioni, A., Schmidt, V., & Dandres, T. (2019). **Quantifying the carbon emissions of machine learning**. arXiv preprint arXiv:1910.09700. [Article](https://arxiv.org/abs/1910.09700)
+- P. Li, J. Yang, M. A. Islam, S. Ren, (2023) Making AI Less “Thirsty”: Uncovering and Addressing the Secret Water Footprint of AI Models, arXiv:2304.03271 [Article](https://arxiv.org/pdf/2304.03271)
 - Parcollet, T., & Ravanelli, M. (2021). **The energy and carbon footprint of training end-to-end speech recognizers**. [Article](https://hal.archives-ouvertes.fr/hal-03190119/document)
-- Patterson, D., Gonzalez, J., Le, Q., Liang, C., Munguia, L. M., Rothchild, D., ... & Dean, J. (2021). **Carbon emissions and large neural network training**. arXiv preprint arXiv:2104.10350. [Article](https://arxiv.org/abs/2104.10350)
+- Patterson, D., Gonzalez, J., Le, Q., Liang, C., Munguia, L.M., Rothchild, D., So, D., Texier, M. and Dean, J. (2021). **Carbon emissions and large neural network training**. arXiv preprint arXiv:2104.10350. [Article](https://arxiv.org/abs/2104.10350)
 - Sculley, D., Holt, G., Golovin, D., Davydov, E., Phillips, T., Ebner, D., ... & Dennison, D. (2015). **Hidden technical debt in machine learning systems**. Advances in neural information processing systems, 28. [Article](https://proceedings.neurips.cc/paper_files/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf) `Google`
 - Sculley, D., Holt, G., Golovin, D., Davydov, E., Phillips, T., Ebner, D., ... & Young, M. (2014, December). **Machine learning: The high interest credit card of technical debt**. In SE4ML: software engineering for machine learning (NIPS 2014 Workshop) (Vol. 111, p. 112). [Article](https://research.google/pubs/pub43146/) `Google`
 - Strubell, E., Ganesh, A., & McCallum, A. (2019). **Energy and policy considerations for deep learning in NLP**. arXiv preprint arXiv:1906.02243. [Article](https://arxiv.org/abs/1906.02243)
 - Sustainable AI: AI for sustainability and the sustainability of AI ([van Wynsberghe, A. 2021](https://link.springer.com/article/10.1007/s43681-021-00043-6)). AI and Ethics, 1-6
 - Green Algorithms: Quantifying the carbon emissions of computation ([Lannelongue, L. et al. 2020](https://arxiv.org/abs/2007.07610))
+- C.-J. Wu, R. Raghavendra, U. Gupta, B. Acun, N. Ardalani, K. Maeng, G. Chang, F. Aga, J. Huang, C. Bai, M. Gschwind, A. Gupta, M. Ott, A. Melnikov, S. Candido, D. Brooks, G. Chauhan, B. Lee, H.-H. Lee,  K. Hazelwood, Sustainable AI: Environmental implications, challenges and opportunities in Proceedings of the 5th Conference on Machine Learning and Systems (MLSys) (2022) vol. 4, pp. 795–813. [Article](https://proceedings.mlsys.org/paper_files/paper/2022/file/462211f67c7d858f663355eff93b745e-Paper.pdf)
 
 ### Collections
 
