@@ -380,10 +380,11 @@ Additional:
 - [TPOT](http://epistasislab.github.io/tpot/) `Python`
 - [Unleash](https://www.getunleash.io) `Python`
 - [Yellowbrick](https://www.scikit-yb.org/en/latest/) `Python`
-- [WeightWatcher](https://github.com/CalculatedContent/WeightWatcher) ([Examples](https://github.com/CalculatedContent/WeightWatcher-Examples))  `Python`
+- [WeightWatcher](https://github.com/CalculatedContent/WeightWatcher) ([Examples](https://github.com/CalculatedContent/WeightWatcher-Examples)) `Python`
 
 ### (AI/Data) Poisoning
 
+- [Copyright Traps for Large Language Models](https://github.com/computationalprivacy/copyright-traps) `Python`
 - [Nightshade](https://nightshade.cs.uchicago.edu) `University of Chicago` `Tool`
 - [Glaze](https://glaze.cs.uchicago.edu) `University of Chicago` `Tool`
 - [Fawkes](http://sandlab.cs.uchicago.edu/fawkes/) `University of Chicago` `Tool`
