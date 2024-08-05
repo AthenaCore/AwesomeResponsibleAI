@@ -415,6 +415,10 @@ Additional:
 - [Guardrails](https://github.com/guardrails-ai/guardrails) `Python`
 - [NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) `Python` `Amazon`
 
+### Safety
+
+- [https://github.com/usnistgov/dioptra](https://github.com/usnistgov/dioptra) `Python` `NIST`
+
 ### Security
 
 - [Counterfit](https://github.com/Azure/counterfit/) `Python` `Microsoft`
