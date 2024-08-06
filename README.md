@@ -283,6 +283,7 @@ Additional:
 - [Aequitas' Bias & Fairness Audit Toolkit](http://aequitas.dssg.io/) `Python`
 - [AI360 Toolkit](https://github.com/Trusted-AI/AIF360) `Python` `R` `IBM`
 - [EDFfair: Explicitly Deweighted Features](https://github.com/matloff/EDFfair) `R`
+- [EquiPy](https://github.com/equilibration/equipy) `Python`
 - [Fairlearn](https://fairlearn.org) `Python` `Microsoft`
 - [Fairmodels](https://fairmodels.drwhy.ai) `R` `University of California`
 - [fairness](https://cran.r-project.org/web/packages/fairness/) `R`
