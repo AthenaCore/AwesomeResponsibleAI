@@ -247,6 +247,7 @@ Additional:
 
 - [ML Commons Safety Benchmark for general purpose AI chat model](https://mlcommons.org/benchmarks/ai-safety/general_purpose_ai_chat_benchmark/)
 - [MLPerf Training Benchmark](https://mlcommons.org/benchmarks/training/) `Training`
+- [MMMU](https://github.com/MMMU-Benchmark/MMMU) `Apple` `Python`
 - [LiveBench: A Challenging, Contamination-Free LLM Benchmark](https://livebench.ai) `Contamination free`
 - [τ-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains](https://github.com/sierra-research/tau-bench) `Python`
 
@@ -353,11 +354,13 @@ Additional:
 
 ### LLM Evaluation
 
+- [DeepEval](https://github.com/confident-ai/deepeval) `Python` 
 - [evals](https://github.com/openai/evals) `Python` `OpenAI`
 - [FBI: Finding Blindspots in LLM Evaluations with Interpretable Checklists](https://github.com/AI4Bharat/FBI) `Python`
 - [Giskard](https://github.com/Giskard-AI/giskard) `Python`
 - [Inspect](https://ukgovernmentbeis.github.io/inspect_ai/) `AISI` `Python`
 - [Moonshoot](https://github.com/aiverify-foundation/moonshot) `AI Verify Foundation` `Python`
+- [Phoenix](https://github.com/Arize-ai/phoenix) `Arize AI` `Python`
 - [Prometheus](https://github.com/prometheus-eval/prometheus) `Python`
 - [Rouge](https://pypi.org/project/rouge/) `Python`
 - [simple evals](https://github.com/openai/simple-evals) `Python` `OpenAI`
