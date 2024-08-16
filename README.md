@@ -246,6 +246,7 @@ Additional:
 
 ### Benchmarks
 
+- [Geekbench AI](https://www.geekbench.com/ai/)
 - [ML Commons Safety Benchmark for general purpose AI chat model](https://mlcommons.org/benchmarks/ai-safety/general_purpose_ai_chat_benchmark/)
 - [MLPerf Training Benchmark](https://mlcommons.org/benchmarks/training/) `Training`
 - [MMMU](https://github.com/MMMU-Benchmark/MMMU) `Apple` `Python`
