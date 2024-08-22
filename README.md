@@ -463,6 +463,7 @@ For consumers:
 - [Data Protection Laws of the Word](https://www.dlapiperdataprotection.com)
 - [Digital Policy Alert](https://digitalpolicyalert.org/analysis)
 - [GDPR Comparison](https://www.activemind.legal/law/)
+- [National AI policies & strategies](https://oecd.ai/en/dashboards/overview)
 - [SCL Artificial Intelligence Contractual Clauses](https://www.scl.org/wp-content/uploads/2024/02/AI-Clauses-Project-October-2023-final-1.pdf)
 
 ### Canada
