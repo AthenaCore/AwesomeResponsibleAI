@@ -266,7 +266,8 @@ Additional:
 - [CausalNex](https://causalnex.readthedocs.io) `Python`
 - [CausalImpact](https://cran.r-project.org/web/packages/CausalImpact) `R`
 - [Causalinference](https://causalinferenceinpython.org) `Python`
-- [Causal Inference 360](https://github.com/BiomedSciAI/causallib) `Python` 
+- [Causal Inference 360](https://github.com/BiomedSciAI/causallib) `Python`
+- [CausalPy](https://github.com/pymc-labs/CausalPy) `Python`
 - [CIMTx: Causal Inference for Multiple Treatments with a Binary Outcome](https://cran.r-project.org/web/packages/CIMTx) `R`
 - [dagitty](https://cran.r-project.org/web/packages/dagitty) `R`
 - [DoWhy](https://github.com/Microsoft/dowhy) `Python` `Microsoft`
