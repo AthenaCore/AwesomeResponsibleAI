@@ -573,7 +573,7 @@ Contributors with over 50 edits can be named coauthors in the citation of visibl
 
 ```
 @misc{arai_repo,
-  author={Josep Curto},
+  author={Josep Curto et al.},
   title={Awesome Responsible Artificial Intelligence},
   year={2024},
   note={\url{https://github.com/AthenaCore/AwesomeResponsibleAI}}
@@ -596,4 +596,4 @@ Curto, J., et al. "Awesome Responsible Artificial Intelligence." GitHub. Last mo
 
 **MLA (Modern Language Association) 9th Edition**
 
-Curto, J., et al. "Awesome Responsible Artificial Intelligence". *GitHub*, 2024, https://github.com/AthenaCore/AwesomeResponsibleAI. Accessed 29 May 2024.
+Curto, J., et al. "Awesome Responsible Artificial Intelligence". *GitHub*, 2024, https://github.com/AthenaCore/AwesomeResponsibleAI. Accessed 29 Aug 2024.
