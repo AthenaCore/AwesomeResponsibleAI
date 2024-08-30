@@ -6,7 +6,7 @@
 [![GitHub](https://img.shields.io/twitter/follow/athenacoreai.svg?label=Follow)](https://twitter.com/athenacoreai)
 
 # Awesome Responsible AI
-A curated list of awesome academic research, books, code of ethics, courses, data sets, frameworks, newsletters, principles, podcast, reports, tools, regulations and standards related to Responsible AI and Human-Centered AI. 
+A curated list of awesome academic research, books, code of ethics, courses, data sets, frameworks, institutes, newsletters, principles, podcasts, reports, tools, regulations and standards related to Responsible AI and Human-Centered AI. 
 
 ## Contents
 
@@ -331,6 +331,7 @@ Additional:
 - [Learning Interpretability Tool](https://pair-code.github.io/lit/) `Python` `Google`
 - [lime: Local Interpretable Model-Agnostic Explanations](https://cran.r-project.org/web/packages/lime/index.html) `R`
 - [Network Dissection](http://netdissect.csail.mit.edu) `Python` `Neural Networks` `MIT` 
+- [OmniXAI](https://github.com/salesforce/OmniXAI) `Python` `Salesforce`
 - [Shap](https://github.com/slundberg/shap) `Python`
 - [Shapash](https://github.com/maif/shapash) `Python`
 - [shapper](https://cran.r-project.org/web/packages/shapper/index.html) `R`
