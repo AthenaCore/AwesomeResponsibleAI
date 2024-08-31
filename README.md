@@ -301,7 +301,8 @@ Additional:
 
 ### Interpretability/Explicability
 
-- [https://github.com/openai/automated-interpretability](Automated interpretability) `Python` `OpenAI`
+- [Alibi Explain](https://github.com/SeldonIO/alibi) `Python`
+- [Automated interpretability](https://github.com/openai/automated-interpretability) `Python` `OpenAI`
 - [AI360 Toolkit](https://github.com/Trusted-AI/AIF360) `Python` `R` `IBM`
 - [aorsf: Accelerated Oblique Random Survival Forests](https://cran.r-project.org/web/packages/aorsf/index.html) `R`
 - [breakDown: Model Agnostic Explainers for Individual Predictions](https://cran.r-project.org/web/packages/breakDown/index.html) `R`
