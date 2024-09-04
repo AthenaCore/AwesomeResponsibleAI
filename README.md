@@ -133,6 +133,10 @@ A curated list of awesome academic research, books, code of ethics, courses, dat
 
 ## Courses
 
+### Explainability/Interpretability
+
+- [Explainable Artificial Intelligence](https://interpretable-ml-class.github.io) `Harvard University`
+
 ### Causality
 
 - [CS594 - Causal Inference and Learning](https://www.cs.uic.edu/~elena/courses/fall19/cs594cil.html) `University of Illinois at Chicago`
