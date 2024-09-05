@@ -104,10 +104,12 @@ A curated list of awesome academic research, books, code of ethics, courses, dat
 
 ### Open Access
 
-- Molnar, C. (2020). **Interpretable machine learning**. Lulu. com. Interpretable Machine Learning [Book](https://christophm.github.io/interpretable-ml-book/) `Explainability` `Interpretability` `Transparency` `R`
+- Barrett, M., Gerke, T. & D’Agostino McGowa, L. (2024). **Causal Inference in R** [Book](https://www.r-causal.org) `Causal Inference` `R`
 - Biecek, P., & Burzykowski, T. (2021). **Explanatory model analysis: explore, explain, and examine predictive models**. Chapman and Hall/CRC. [Book](https://ema.drwhy.ai) `Explainability` `Interpretability` `Transparency` `R`
 - Biecek, P. (2024). **Adversarial Model Analysis**.  [Book](https://ama.drwhy.ai) `Safety` `Red Teaming`
-- Barrett, M., Gerke, T. & D’Agostino McGowa, L. (2024). **Causal Inference in R** [Book](https://www.r-causal.org) `Causal Inference` `R`
+- Cunningham, Scott. **Causal inference: The mixtape**. Yale university press, 2021. [Book](https://mixtape.scunning.com) `Causal Inference`
+- Molnar, C. (2020). **Interpretable machine learning**. Lulu. com. Interpretable Machine Learning [Book](https://christophm.github.io/interpretable-ml-book/) `Explainability` `Interpretability` `Transparency` `R`
+- Huntington-Klein, Nick. The effect: An introduction to research design and causality. Chapman and Hall/CRC, 2021. [Book](https://theeffectbook.net) `Causal Inference`
 
 ### Commercial / Propietary / Closed Access
 
