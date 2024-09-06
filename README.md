@@ -376,6 +376,7 @@ Additional:
 - [Moonshoot](https://github.com/aiverify-foundation/moonshot) `AI Verify Foundation` `Python`
 - [Phoenix](https://github.com/Arize-ai/phoenix) `Arize AI` `Python`
 - [Prometheus](https://github.com/prometheus-eval/prometheus) `Python`
+- [Promptfoo](https://github.com/promptfoo/promptfoo) `Python`
 - [Rouge](https://pypi.org/project/rouge/) `Python`
 - [simple evals](https://github.com/openai/simple-evals) `Python` `OpenAI`
 
