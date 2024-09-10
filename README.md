@@ -374,6 +374,7 @@ Additional:
 - [FBI: Finding Blindspots in LLM Evaluations with Interpretable Checklists](https://github.com/AI4Bharat/FBI) `Python`
 - [Giskard](https://github.com/Giskard-AI/giskard) `Python`
 - [Inspect](https://ukgovernmentbeis.github.io/inspect_ai/) `AISI` `Python`
+- [LightEval](https://github.com/huggingface/lighteval) `HuggingFace` `Python`
 - [Moonshoot](https://github.com/aiverify-foundation/moonshot) `AI Verify Foundation` `Python`
 - [Phoenix](https://github.com/Arize-ai/phoenix) `Arize AI` `Python`
 - [Prometheus](https://github.com/prometheus-eval/prometheus) `Python`
