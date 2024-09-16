@@ -456,9 +456,10 @@ For consumers:
 
 ### Sustainability
 
-- [Code Carbon](https://github.com/mlco2/codecarbon) `Python`
 - [Azure Sustainability Calculator](https://appsource.microsoft.com/en-us/product/power-bi/coi-sustainability.sustainability_dashboard) `Microsoft`
+- [CodeCarbon](https://github.com/mlco2/codecarbon) (Website)[https://codecarbon.io] `Python`
 - [Computer Progress](https://www.computerprogress.com)
+- [Impact Framework](https://if.greensoftware.foundation) `API`
 
 ### (RAI) Toolkit
 
