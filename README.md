@@ -476,6 +476,14 @@ For consumers:
 
 ## Regulations
 
+### Definition
+
+**What are regulations?**
+
+Regulations are requirements established by governments.
+
+### Interesting resources
+
 - [Data Protection and Privacy Legislation Worldwide](https://unctad.org/page/data-protection-and-privacy-legislation-worldwide) `UNCTAD`
 - [Data Protection Laws of the Word](https://www.dlapiperdataprotection.com)
 - [Digital Policy Alert](https://digitalpolicyalert.org/analysis)
@@ -526,6 +534,8 @@ For consumers:
 **What are standards?**
 
 Standards are **voluntary**, **consensus soluctions**. They document an **agreement** on how a material, product, process, or serice should be **specified**, **performed** or **delivered**. They keep people safe and **ensure things work**. They create **confidence** and provide **security** for investment.
+
+Standards can be understood as formal specifications of best practices as well.
 
 ### IEEE Standards
 
@@ -610,4 +620,4 @@ Curto, J., et al. "Awesome Responsible Artificial Intelligence." GitHub. Last mo
 
 **MLA (Modern Language Association) 9th Edition**
 
-Curto, J., et al. "Awesome Responsible Artificial Intelligence". *GitHub*, 2024, https://github.com/AthenaCore/AwesomeResponsibleAI. Accessed 29 Aug 2024.
+Curto, J., et al. "Awesome Responsible Artificial Intelligence". *GitHub*, 2024, https://github.com/AthenaCore/AwesomeResponsibleAI. Accessed 18 Sep 2024.
