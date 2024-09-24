@@ -107,7 +107,8 @@ A curated list of awesome academic research, books, code of ethics, courses, dat
 - Barrett, M., Gerke, T. & D’Agostino McGowa, L. (2024). **Causal Inference in R** [Book](https://www.r-causal.org) `Causal Inference` `R`
 - Biecek, P., & Burzykowski, T. (2021). **Explanatory model analysis: explore, explain, and examine predictive models**. Chapman and Hall/CRC. [Book](https://ema.drwhy.ai) `Explainability` `Interpretability` `Transparency` `R`
 - Biecek, P. (2024). **Adversarial Model Analysis**.  [Book](https://ama.drwhy.ai) `Safety` `Red Teaming`
-- Cunningham, Scott. **Causal inference: The mixtape**. Yale university press, 2021. [Book](https://mixtape.scunning.com) `Causal Inference`
+- Cunningham, Scott. (2021) **Causal inference: The mixtape**. Yale university press. [Book](https://mixtape.scunning.com) `Causal Inference`
+- Matloff, N et all. (2204) **Data Science Looks at Discrimination** [Book](https://htmlpreview.github.io/?https://github.com/matloff/dsldBook/blob/main/_book/index.html) `Fairness` `R`
 - Molnar, C. (2020). **Interpretable machine learning**. Lulu. com. Interpretable Machine Learning [Book](https://christophm.github.io/interpretable-ml-book/) `Explainability` `Interpretability` `Transparency` `R`
 - Huntington-Klein, Nick. The effect: An introduction to research design and causality. Chapman and Hall/CRC, 2021. [Book](https://theeffectbook.net) `Causal Inference`
 
@@ -295,6 +296,7 @@ Additional:
 
 - [Aequitas' Bias & Fairness Audit Toolkit](http://aequitas.dssg.io/) `Python`
 - [AI360 Toolkit](https://github.com/Trusted-AI/AIF360) `Python` `R` `IBM`
+- [dsld: Data Science Looks at Discrimination](https://cran.r-project.org/web/packages/dsld/index.html) `R`
 - [EDFfair: Explicitly Deweighted Features](https://github.com/matloff/EDFfair) `R`
 - [EquiPy](https://github.com/equilibration/equipy) `Python`
 - [Fairlearn](https://fairlearn.org) `Python` `Microsoft`
