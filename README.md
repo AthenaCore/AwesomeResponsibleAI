@@ -379,12 +379,14 @@ Additional:
 - [LightEval](https://github.com/huggingface/lighteval) `HuggingFace` `Python`
 - [LM Evaluation Harness](https://github.com/EleutherAI/lm-evaluation-harness) `Python`
 - [Moonshoot](https://github.com/aiverify-foundation/moonshot) `AI Verify Foundation` `Python`
+- [opik](https://github.com/comet-ml/opik) `Comet` `Python`
 - [Phoenix](https://github.com/Arize-ai/phoenix) `Arize AI` `Python`
 - [Prometheus](https://github.com/prometheus-eval/prometheus) `Python`
 - [Promptfoo](https://github.com/promptfoo/promptfoo) `Python`
 - [ragas](https://github.com/explodinggradients/ragas) `Python`
 - [Rouge](https://pypi.org/project/rouge/) `Python`
 - [simple evals](https://github.com/openai/simple-evals) `Python` `OpenAI`
+- [WindowsAgentArena](https://github.com/microsoft/windowsagentarena) `Python` `Microsoft`
 
 ### Performance (& Automated ML)
 
