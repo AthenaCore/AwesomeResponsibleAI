@@ -255,10 +255,11 @@ Additional:
 ### Benchmarks
 
 - [Geekbench AI](https://www.geekbench.com/ai/)
+- [Jailbreakbench](https://jailbreakbench.github.io) `Python`
+- [LiveBench: A Challenging, Contamination-Free LLM Benchmark](https://livebench.ai) `Contamination free`
 - [ML Commons Safety Benchmark for general purpose AI chat model](https://mlcommons.org/benchmarks/ai-safety/general_purpose_ai_chat_benchmark/)
 - [MLPerf Training Benchmark](https://mlcommons.org/benchmarks/training/) `Training`
 - [MMMU](https://github.com/MMMU-Benchmark/MMMU) `Apple` `Python`
-- [LiveBench: A Challenging, Contamination-Free LLM Benchmark](https://livebench.ai) `Contamination free`
 - [StrongREJECT jailbreak benchmark](https://github.com/dsbowen/strong_reject) `Python`
 - [τ-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains](https://github.com/sierra-research/tau-bench) `Python`
 - [VLMEvalKit](https://github.com/open-compass/VLMEvalKit) `Python`
