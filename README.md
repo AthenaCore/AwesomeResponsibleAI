@@ -252,6 +252,10 @@ Additional:
 
 ## Tools
 
+### Assessments
+
+- [The Assessment List for Trustworthy Artificial Intelligence](https://altai.insight-centre.org)
+
 ### Benchmarks
 
 - [Geekbench AI](https://www.geekbench.com/ai/)
