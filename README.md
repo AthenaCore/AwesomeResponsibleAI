@@ -515,9 +515,9 @@ Regulations are requirements established by governments.
 
 Short Name | Code | Description | Status | Website | Legal text
 ---|---|---|---|---|---
-Energy Efficiency Directive | EU/2023/1791 | It establishes ‘energy efficiency first’ as a fundamental principle of EU energy policy, giving it legal-standing for the first time. In practical terms, this means that energy efficiency must be considered by EU countries in all relevant policy and major investment decisions taken in the energy and non-energy sectors. | Published | [Website](https://energy.ec.europa.eu/topics/energy-efficiency/energy-efficiency-targets-directive-and-rules/energy-efficiency-directive_en) | [Source](Directive (EU) 2023/1791 of the European Parliament and of the Council of 13 September 2023 on energy efficiency and amending Regulation (EU) 2023/955)
+Energy Efficiency Directive | EU/2023/1791 | It establishes ‘energy efficiency first’ as a fundamental principle of EU energy policy, giving it legal-standing for the first time. In practical terms, this means that energy efficiency must be considered by EU countries in all relevant policy and major investment decisions taken in the energy and non-energy sectors. | Published | [Website](https://energy.ec.europa.eu/topics/energy-efficiency/energy-efficiency-targets-directive-and-rules/energy-efficiency-directive_en) | [Source](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AJOL_2023_231_R_0001&qid=1695186598766)
+Data Act | EU/2023/2854 | It enables a fair distribution of the value of data by establishing clear and fair rules for accessing and using data within the European data economy. | Published | [Website](https://digital-strategy.ec.europa.eu/en/policies/data-act)| [Source](https://eur-lex.europa.eu/eli/reg/2023/2854)
 
-- [Data Act](https://eur-lex.europa.eu/eli/reg/2023/2854)
 - [Data Governance Act](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R0868)
 - [Digital Market Act](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32022R1925)
 - [Digital Services Act](https://eur-lex.europa.eu/legal-content/EN/TXT/?toc=OJ%3AL%3A2022%3A277%3ATOC&uri=uriserv%3AOJ.L_.2022.277.01.0001.01.ENG)
