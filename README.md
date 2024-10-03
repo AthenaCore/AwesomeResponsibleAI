@@ -514,7 +514,7 @@ Regulations are requirements established by governments.
 ### European Union
 
 Short Name | Code | Description | Status | Website | Legal text
----|---|---|---
+---|---|---|---|---|---
 Energy Efficiency Directive | EU/2023/1791 | It establishes ‘energy efficiency first’ as a fundamental principle of EU energy policy, giving it legal-standing for the first time. In practical terms, this means that energy efficiency must be considered by EU countries in all relevant policy and major investment decisions taken in the energy and non-energy sectors. | Published | [Website](https://energy.ec.europa.eu/topics/energy-efficiency/energy-efficiency-targets-directive-and-rules/energy-efficiency-directive_en) | [Source](Directive (EU) 2023/1791 of the European Parliament and of the Council of 13 September 2023 on energy efficiency and amending Regulation (EU) 2023/955)
 
 - [Data Act](https://eur-lex.europa.eu/eli/reg/2023/2854)
