@@ -521,9 +521,8 @@ Digital Market Act | EU/2022/1925 | It establishes a set of clearly defined obje
 Digital Services Act | EU/2022/2026 | It regulates online intermediaries and platforms such as marketplaces, social networks, content-sharing platforms, app stores, and online travel and accommodation platforms. Its main goal is to prevent illegal and harmful activities online and the spread of disinformation. It ensures user safety, protects fundamental rights, and creates a fair and open online platform environment. | Published | [Website](https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/digital-services-act_en) | [Source](https://eur-lex.europa.eu/legal-content/EN/TXT/?toc=OJ%3AL%3A2022%3A277%3ATOC&uri=uriserv%3AOJ.L_.2022.277.01.0001.01.ENG)
 Energy Efficiency Directive | EU/2023/1791 | It establishes ‘energy efficiency first’ as a fundamental principle of EU energy policy, giving it legal-standing for the first time. In practical terms, this means that energy efficiency must be considered by EU countries in all relevant policy and major investment decisions taken in the energy and non-energy sectors. | Published | [Website](https://energy.ec.europa.eu/topics/energy-efficiency/energy-efficiency-targets-directive-and-rules/energy-efficiency-directive_en) | [Source](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AJOL_2023_231_R_0001&qid=1695186598766)
 EU AI ACT | EU/2024/1689 | It assigns applications of AI to three risk categories. First, applications and systems that create an unacceptable risk are banned. Second, high-risk applications are subject to specific legal requirements. Lastly, applications not explicitly banned or listed as high-risk are largely left unregulated. | Published | [Website](https://artificialintelligenceact.eu) | [Source](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401689)
+General Data Protection Regulation (GDPR) | EU/2016/679 | It strengthens individuals' fundamental rights in the digital age and facilitate business by clarifying rules for companies and public bodies in the digital single market. | Published | [Website](https://gdpr.eu/) | [Source](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32016R0679)
 
-- [General Data Protection Regulation GDPR](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32016R0679) - Legal text for the EU GDPR regulation 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC
-  - [GDPR.EU Guide](https://gdpr.eu/) - A project co-funded by the Horizon 2020 Framework programme of the EU which provides a resource for organisations and individuals researching GDPR, including a library of straightforward and up-to-date information to help organisations achieve GDPR compliance ([Legal Text](https://www.govinfo.gov/content/pkg/USCODE-2012-title5/pdf/USCODE-2012-title5-partI-chap5-subchapII-sec552a.pdf)).
 - [Hiroshima Process International Guiding Principles for Advanced AI system](https://digital-strategy.ec.europa.eu/en/library/hiroshima-process-international-guiding-principles-advanced-ai-system)
 
 ### Singapore
@@ -554,17 +553,18 @@ Standards can be understood as formal specifications of best practices as well.
 
 Domain | Standard | Status | URL
 ---|---|---|---
-IEEE Standard for Ethical Considerations in Emulated Empathy in Autonomous and Intelligent Systems | IEEE 7014-2024 | Published | [https://www.iso.org/standard/74296.html](https://standards.ieee.org/ieee/7014/7648/)
+IEEE Guide for an Architectural Framework for Explainable Artificial Intelligence | IEEE 2894-2024 | Published | [Source](https://standards.ieee.org/ieee/2894/11296/)
+IEEE Standard for Ethical Considerations in Emulated Empathy in Autonomous and Intelligent Systems | IEEE 7014-2024 | Published | [Source](https://www.iso.org/standard/74296.html)
 
 ### UNE/ISO Standards
 
 Domain | Standard | Status | URL
 ---|---|---|---
-Gobierno del dato | UNE 0077:2023 | Published | [https://tienda.aenor.com/norma-une-especificacion-une-0077-2023-n0071116](https://tienda.aenor.com/norma-une-especificacion-une-0077-2023-n0071116)
-Gestión del dato | UNE 0078:2023 | Published | [https://tienda.aenor.com/norma-une-especificacion-une-0078-2023-n0071117](https://tienda.aenor.com/norma-une-especificacion-une-0078-2023-n0071117)
-Calidad del dato | UNE 0079:2023 | Published | [https://tienda.aenor.com/norma-une-especificacion-une-0079-2023-n0071118](https://tienda.aenor.com/norma-une-especificacion-une-0079-2023-n0071118)
-Guía de evaluación del Gobierno, Gestión y Gestión de la Calidad del Dato. | UNE 0080:2023 | Published | [https://tienda.aenor.com/norma-une-especificacion-une-0080-2023-n0071383](https://tienda.aenor.com/norma-une-especificacion-une-0080-2023-n0071383)
-Guía de evaluación de la Calidad de un Conjunto de Datos. | UNE 0081:2023 | Published | [https://tienda.aenor.com/norma-une-especificacion-une-0081-2023-n0071807](https://tienda.aenor.com/norma-une-especificacion-une-0081-2023-n0071807)
+Calidad del dato | UNE 0079:2023 | Published | [Source](https://tienda.aenor.com/norma-une-especificacion-une-0079-2023-n0071118)
+Gestión del dato | UNE 0078:2023 | Published | [Source](https://tienda.aenor.com/norma-une-especificacion-une-0078-2023-n0071117)
+Gobierno del dato | UNE 0077:2023 | Published | [Source](https://tienda.aenor.com/norma-une-especificacion-une-0077-2023-n0071116)
+Guía de evaluación de la Calidad de un Conjunto de Datos. | UNE 0081:2023 | Published | [Source](https://tienda.aenor.com/norma-une-especificacion-une-0081-2023-n0071807)
+Guía de evaluación del Gobierno, Gestión y Gestión de la Calidad del Dato. | UNE 0080:2023 | Published | [Source](https://tienda.aenor.com/norma-une-especificacion-une-0080-2023-n0071383)
 
 ### ISO/IEC Standards
 
@@ -573,7 +573,6 @@ Domain | Standard | Status | URL
 AI Concepts and Terminology| ISO/IEC 22989:2022 Information technology — Artificial intelligence — Artificial intelligence concepts and terminology | Published | https://www.iso.org/standard/74296.html
 AI Risk Management | ISO/IEC 23894:2023 Information technology - Artificial intelligence - Guidance on risk management | Published | 	https://www.iso.org/standard/77304.html
 AI Management System | ISO/IEC DIS 42001 Information technology — Artificial intelligence — Management system | Published | https://www.iso.org/standard/81230.html
-Trustworthy AI | ISO/IEC TR 24028:2020 Information technology — Artificial intelligence — Overview of trustworthiness in artificial intelligence | Published | https://www.iso.org/standard/77608.html
 Biases in AI | ISO/IEC TR 24027:2021 Information technology — Artificial intelligence (AI) — Bias in AI systems and AI aided decision making | Published | https://www.iso.org/standard/77607.html
 AI Performance | ISO/IEC TS 4213:2022 Information technology — Artificial intelligence — Assessment of machine learning classification performance | Published | https://www.iso.org/standard/79799.html
 Ethical and societal concerns | ISO/IEC TR 24368:2022 Information technology — Artificial intelligence — Overview of ethical and societal concerns | Published | https://www.iso.org/standard/78507.html
@@ -588,6 +587,7 @@ Data Lifecycle | ISO/IEC FDIS 8183 Information technology — Artificial intelli
 Audit and Certification | ISO/IEC CD 42006 Information technology — Artificial intelligence — Requirements for bodies providing audit and certification of artificial intelligence management systems | Under Development | https://www.iso.org/standard/44546.html
 Transparency | ISO/IEC AWI 12792 Information technology — Artificial intelligence — Transparency taxonomy of AI systems | Under Development | https://www.iso.org/standard/84111.html
 AI Quality | ISO/IEC AWI TR 42106 Information technology — Artificial intelligence — Overview of differentiated benchmarking of AI system quality characteristics | Under Development | https://www.iso.org/standard/86903.html
+Trustworthy AI | ISO/IEC TR 24028:2020 Information technology — Artificial intelligence — Overview of trustworthiness in artificial intelligence | Published | https://www.iso.org/standard/77608.html
 Synthetic Data | ISO/IEC AWI TR 42103 Information technology — Artificial intelligence — Overview of synthetic data in the context of AI systems | Under Development | https://www.iso.org/standard/86899.html
 AI Security | ISO/IEC AWI 27090 Cybersecurity — Artificial Intelligence — Guidance for addressing security threats and failures in artificial intelligence systems | Under Development | https://www.iso.org/standard/56581.html
 AI Privacy | ISO/IEC AWI 27091 Cybersecurity and Privacy — Artificial Intelligence — Privacy protection | Under Development	 | https://www.iso.org/standard/56582.html
@@ -633,4 +633,4 @@ Curto, J., et al. "Awesome Responsible Artificial Intelligence." GitHub. Last mo
 
 **MLA (Modern Language Association) 9th Edition**
 
-Curto, J., et al. "Awesome Responsible Artificial Intelligence". *GitHub*, 2024, https://github.com/AthenaCore/AwesomeResponsibleAI. Accessed 07 Oct 2024.
+Curto, J., et al. "Awesome Responsible Artificial Intelligence". *GitHub*, 2024, https://github.com/AthenaCore/AwesomeResponsibleAI. Accessed 08 Oct 2024.
