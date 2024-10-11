@@ -13,7 +13,7 @@ A curated list of awesome academic research, books, code of ethics, courses, dat
 ### What is Responsible AI?
 Responsible AI refers to the development, deployment, and use of artificial intelligence (AI) systems in ways that are ethical, transparent, accountable, and aligned with human values. 
 
-### What is Responsible AI framework?
+### What is a Responsible AI framework?
 Responsible AI frameworks often encompass guidelines, principles, and practices that prioritize fairness, safety, and respect for individual rights.
 
 ## Contents
