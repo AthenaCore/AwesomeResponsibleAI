@@ -597,7 +597,10 @@ Beneficial AI Systems | ISO/IEC AWI TR 21221 Information technology – Artifici
 
 ### NIST Standards
 
-- [NIST AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework)
+- [NIST AI Risk Management Framework](https://airc.nist.gov/AI_RMF_Knowledge_Base/Playbook)
+- [NIST RMF Crosswalks](https://airc.nist.gov/AI_RMF_Knowledge_Base/Crosswalks)
+- [NIST Technical and Policy Documents](https://airc.nist.gov/AI_RMF_Knowledge_Base/Technical_And_Policy_Documents)
+- [NIST RMF Use Cases](https://airc.nist.gov/Usecases)
 - [NIST Assessing Risks and Impacts of AI (ARIA)](https://ai-challenges.nist.gov/aria)
 
 Additional standards can be found using the [Standards Database](https://aistandardshub.org/ai-standards-search/).
@@ -633,4 +636,4 @@ Curto, J., et al. "Awesome Responsible Artificial Intelligence." GitHub. Last mo
 
 **MLA (Modern Language Association) 9th Edition**
 
-Curto, J., et al. "Awesome Responsible Artificial Intelligence". *GitHub*, 2024, https://github.com/AthenaCore/AwesomeResponsibleAI. Accessed 08 Oct 2024.
+Curto, J., et al. "Awesome Responsible Artificial Intelligence". *GitHub*, 2024, https://github.com/AthenaCore/AwesomeResponsibleAI. Accessed 11 Oct 2024.
