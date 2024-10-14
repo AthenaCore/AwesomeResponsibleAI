@@ -189,6 +189,12 @@ Responsible AI frameworks often encompass guidelines, principles, and practices 
 
 ## Institutes
 
+- AI Safety Institutes (or equivalent):
+  - [EU AI Office](https://digital-strategy.ec.europa.eu/en/policies/ai-office)
+  - [Japan AISI](https://aisi.go.jp)
+  - [Singapore AISI](https://www.ntu.edu.sg/dtc)
+  - [UK AISI](https://www.aisi.gov.uk)
+  - [US AISI](https://www.nist.gov/aisi)    
 - [Ada Lovelace Institute](https://www.adalovelaceinstitute.org/) `United Kingdom`
 - [European Centre for Algorithmic Transparency](https://algorithmic-transparency.ec.europa.eu/index_en)
 - [Center for Human-Compatible AI](https://humancompatible.ai) `UC Berkeley`
