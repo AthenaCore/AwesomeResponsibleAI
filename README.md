@@ -16,7 +16,7 @@ Responsible AI refers to the development, deployment, and use of artificial inte
 ### What is a Responsible AI framework?
 Responsible AI frameworks often encompass guidelines, principles, and practices that prioritize fairness, safety, and respect for individual rights.
 
-# What is AI Governance
+### What is AI Governance
 
 AI governance is a system of rules, processes, frameworks, and tools within an organization to ensure the ethical and responsible development of AI.
 
@@ -654,4 +654,4 @@ Curto, J., et al. "Awesome Responsible Artificial Intelligence." GitHub. Last mo
 
 **MLA (Modern Language Association) 9th Edition**
 
-Curto, J., et al. "Awesome Responsible Artificial Intelligence". *GitHub*, 2024, https://github.com/AthenaCore/AwesomeResponsibleAI. Accessed 11 Oct 2024.
+Curto, J., et al. "Awesome Responsible Artificial Intelligence". *GitHub*, 2024, https://github.com/AthenaCore/AwesomeResponsibleAI. Accessed 14 Oct 2024.
