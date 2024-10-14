@@ -8,13 +8,17 @@
 # Awesome Responsible AI
 A curated list of awesome academic research, books, code of ethics, courses, data sets, frameworks, institutes, newsletters, principles, podcasts, reports, tools, regulations and standards related to Responsible AI and Human-Centered AI. 
 
-## About Responsible AI
+## Main Concepts
 
 ### What is Responsible AI?
 Responsible AI refers to the development, deployment, and use of artificial intelligence (AI) systems in ways that are ethical, transparent, accountable, and aligned with human values. 
 
 ### What is a Responsible AI framework?
 Responsible AI frameworks often encompass guidelines, principles, and practices that prioritize fairness, safety, and respect for individual rights.
+
+# What is AI Governance
+
+AI governance is a system of rules, processes, frameworks, and tools within an organization to ensure the ethical and responsible development of AI.
 
 ## Contents
 
