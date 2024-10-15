@@ -130,7 +130,7 @@ AI governance is a system of rules, processes, frameworks, and tools within an o
 - Cunningham, Scott. (2021) **Causal inference: The mixtape**. Yale university press. [Book](https://mixtape.scunning.com) `Causal Inference`
 - Matloff, N et all. (2204) **Data Science Looks at Discrimination** [Book](https://htmlpreview.github.io/?https://github.com/matloff/dsldBook/blob/main/_book/index.html) `Fairness` `R`
 - Molnar, C. (2020). **Interpretable machine learning**. Lulu. com. Interpretable Machine Learning [Book](https://christophm.github.io/interpretable-ml-book/) `Explainability` `Interpretability` `Transparency` `R`
-- Huntington-Klein, Nick. The effect: An introduction to research design and causality. Chapman and Hall/CRC, 2021. [Book](https://theeffectbook.net) `Causal Inference`
+- Huntington-Klein, Nick. **The effect: An introduction to research design and causality**. Chapman and Hall/CRC, 2021. [Book](https://theeffectbook.net) `Causal Inference`
 
 ### Commercial / Propietary / Closed Access
 
