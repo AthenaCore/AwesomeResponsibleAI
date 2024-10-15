@@ -573,7 +573,7 @@ General Data Protection Regulation (GDPR) | EU/2016/679 | It strengthens individ
 
 **What are standards?**
 
-Standards are **voluntary**, **consensus soluctions**. They document an **agreement** on how a material, product, process, or serice should be **specified**, **performed** or **delivered**. They keep people safe and **ensure things work**. They create **confidence** and provide **security** for investment.
+Standards are **voluntary**, **consensus solutions**. They document an **agreement** on how a material, product, process, or service should be **specified**, **performed** or **delivered**. They keep people safe and **ensure things work**. They create **confidence** and provide **security** for investment.
 
 Standards can be understood as formal specifications of best practices as well.
 
@@ -664,4 +664,4 @@ Curto, J., et al. "Awesome Responsible Artificial Intelligence." GitHub. Last mo
 
 **MLA (Modern Language Association) 9th Edition**
 
-Curto, J., et al. "Awesome Responsible Artificial Intelligence". *GitHub*, 2024, https://github.com/AthenaCore/AwesomeResponsibleAI. Accessed 14 Oct 2024.
+Curto, J., et al. "Awesome Responsible Artificial Intelligence". *GitHub*, 2024, https://github.com/AthenaCore/AwesomeResponsibleAI. Accessed 15 Oct 2024.
