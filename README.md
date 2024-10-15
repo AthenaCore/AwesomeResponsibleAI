@@ -6,12 +6,20 @@
 [![GitHub](https://img.shields.io/twitter/follow/athenacoreai.svg?label=Follow)](https://twitter.com/athenacoreai)
 
 # Awesome Responsible AI
-A curated list of awesome academic research, books, code of ethics, courses, data sets, frameworks, institutes, newsletters, principles, podcasts, reports, tools, regulations and standards related to Responsible AI and Human-Centered AI. 
+A curated list of awesome academic research, books, code of ethics, courses, data sets, frameworks, institutes, newsletters, principles, podcasts, reports, tools, regulations and standards related to Responsible, Trustworthy, and Human-Centered AI. 
 
 ## Main Concepts
 
 ### What is Responsible AI?
-Responsible AI refers to the development, deployment, and use of artificial intelligence (AI) systems in ways that are ethical, transparent, accountable, and aligned with human values. 
+Responsible AI (RAI) refers to the development, deployment, and use of artificial intelligence (AI) systems in ways that are ethical, transparent, accountable, and aligned with human values. 
+
+### What is Trustworthy AI?
+
+Trustworthy AI (TAI) refers to artificial intelligence systems designed and deployed to be transparent, robust and respectful of data privacy.
+
+### What is Human-Centered AI?
+
+Human-Centered Artificial Intelligence (HCAI) is an approach to AI development that prioritizes human users' needs, experiences, and well-being.
 
 ### What is a Responsible AI framework?
 Responsible AI frameworks often encompass guidelines, principles, and practices that prioritize fairness, safety, and respect for individual rights.
@@ -20,7 +28,7 @@ Responsible AI frameworks often encompass guidelines, principles, and practices 
 
 AI governance is a system of rules, processes, frameworks, and tools within an organization to ensure the ethical and responsible development of AI.
 
-## Contents
+## Content
 
 - [Academic Research](#academic-research)
 - [Books](#books)
@@ -475,6 +483,7 @@ Additional:
 - [Modelscan](https://github.com/protectai/modelscan) `Python`
 - [NB Defense](https://nbdefense.ai) `Python`
 - [Rebuff Playground](https://www.rebuff.ai/playground) `Python`
+- [Turing Data Safe Haven](https://github.com/alan-turing-institute/data-safe-haven) `Python` `The Alan Turing Institute`
 
 For consumers:
 
