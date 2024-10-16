@@ -400,6 +400,10 @@ Additional:
 - [PiML Toolbox](https://github.com/SelfExplainML/PiML-Toolbox) `Python`
 - [Tensorflow Lattice](https://github.com/tensorflow/lattice) `Python` `Google`
 
+### LLM Regulation Compliance Regulation
+
+- [COMPL-AI](https://compl-ai.org) `Python` `ETH Zurich` `Insait` `LaticeFlow AI`
+
 ### LLM Evaluation
 
 - [Azure AI Evaluation](https://github.com/Azure/azure-sdk-for-python/tree/main/sdk/evaluation/azure-ai-evaluation) `Python` `Microsoft`
