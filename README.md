@@ -402,6 +402,7 @@ Additional:
 
 ### LLM Evaluation
 
+- [Azure AI Evaluation](https://github.com/Azure/azure-sdk-for-python/tree/main/sdk/evaluation/azure-ai-evaluation) `Python` `Microsoft`
 - [DeepEval](https://github.com/confident-ai/deepeval) `Python` 
 - [evals](https://github.com/openai/evals) `Python` `OpenAI`
 - [FBI: Finding Blindspots in LLM Evaluations with Interpretable Checklists](https://github.com/AI4Bharat/FBI) `Python`
@@ -434,6 +435,7 @@ Additional:
 - [metrica: Prediction performance metrics](https://adriancorrendo.github.io/metrica/) `R`
 - [NNI: Neural Network Intelligence](https://github.com/microsoft/nni) `Python` `Microsoft`
 - [performance](https://github.com/easystats/performance) `R`
+- [rliable](https://github.com/google-research/rliable) `Python` `Google`
 - [TensorFlow Model Analysis](https://github.com/tensorflow/model-analysis) `Python` `Google`
 - [TPOT](http://epistasislab.github.io/tpot/) `Python`
 - [Unleash](https://www.getunleash.io) `Python`
