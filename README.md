@@ -209,15 +209,15 @@ AI governance is a system of rules, processes, frameworks, and tools within an o
   - [US AISI](https://www.nist.gov/aisi)    
 - [Ada Lovelace Institute](https://www.adalovelaceinstitute.org/) `United Kingdom`
 - [European Centre for Algorithmic Transparency](https://algorithmic-transparency.ec.europa.eu/index_en)
-- [Center for Human-Compatible AI](https://humancompatible.ai) `UC Berkeley`
-- [Center for Responsible AI](https://airesponsibly.com/)
-- [Montreal AI Ethics Institute](https://montrealethics.ai/)
+- [Center for Human-Compatible AI](https://humancompatible.ai) `UC Berkeley` `United States of America`
+- [Center for Responsible AI](https://airesponsibly.com/) `New York University` `United States of America`
+- [Montreal AI Ethics Institute](https://montrealethics.ai/) `Canada`
 - [Munich Center for Technology in Society (IEAI)](https://ieai.mcts.tum.de/) `Germany`
-- [National AI Centre's Responsible AI Network](https://www.csiro.au/RAIN) `Australia` 
+- [National AI Centre's Responsible AI Network](https://www.industry.gov.au/science-technology-and-innovation/technology/national-artificial-intelligence-centre) `Australia` 
 - [Open Data Institute](https://theodi.org/) `United Kingdom`
 - [Stanford University Human-Centered Artificial Intelligence (HAI)](https://hai.stanford.edu) `United States of America`
 - [The Institute for Ethical AI & Machine Learning](https://ethical.institute/)
-- [University of Oxford Institute for Ethics in AI](https://www.oxford-aiethics.ox.ac.uk/) `United Kingdom`
+- [University of Oxford Institute for Ethics in AI](https://www.oxford-aiethics.ox.ac.uk/) `University of Oxford` `United Kingdom`
 
 ## Newsletters
 
