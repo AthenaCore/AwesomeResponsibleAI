@@ -208,6 +208,7 @@ AI governance is a system of rules, processes, frameworks, and tools within an o
   - [Singapore AISI](https://www.ntu.edu.sg/dtc)
   - [UK AISI](https://www.aisi.gov.uk)
   - [US AISI](https://www.nist.gov/aisi)    
+- [Centre pour la Securité de l'IA, CeSIA](https://www.securite-ia.fr) `France`
 - [European Centre for Algorithmic Transparency](https://algorithmic-transparency.ec.europa.eu/index_en)
 - [Center for Human-Compatible AI](https://humancompatible.ai) `UC Berkeley` `United States of America`
 - [Center for Responsible AI](https://airesponsibly.com/) `New York University` `United States of America`
