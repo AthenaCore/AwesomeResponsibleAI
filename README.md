@@ -186,6 +186,7 @@ AI governance is a system of rules, processes, frameworks, and tools within an o
 
 - [AI Risk Database](https://airisk.io/) `MITRE`
 - [AI Risk Repository](https://airisk.mit.edu) `MIT`
+- [ARC AGI](https://github.com/fchollet/ARC-AGI)
 - [Common Corpus](https://huggingface.co/collections/PleIAs/common-corpus-65d46e3ea3980fdcd66a5613)
 - [An ImageNet replacement for self-supervised pretraining without humans](https://www.robots.ox.ac.uk/~vgg/research/pass/)
 - [Huggingface Data Sets](https://huggingface.co/datasets)
