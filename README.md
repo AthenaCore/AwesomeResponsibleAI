@@ -505,7 +505,8 @@ For consumers:
 ### Sustainability
 
 - [Azure Sustainability Calculator](https://appsource.microsoft.com/en-us/product/power-bi/coi-sustainability.sustainability_dashboard) `Microsoft`
-- [CodeCarbon](https://github.com/mlco2/codecarbon) (Website)[https://codecarbon.io] `Python`
+- [Carbon Tracker](https://github.com/lfwa/carbontracker) [Website](https://carbontracker.info) `Python`
+- [CodeCarbon](https://github.com/mlco2/codecarbon) [Website](https://codecarbon.io) `Python`
 - [Computer Progress](https://www.computerprogress.com)
 - [Impact Framework](https://if.greensoftware.foundation) `API`
 
