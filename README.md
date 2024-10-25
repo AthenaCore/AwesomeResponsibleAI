@@ -225,13 +225,19 @@ AI governance is a system of rules, processes, frameworks, and tools within an o
 ## Newsletters
 
 - [AI Policy Perspectives](https://www.aipolicyperspectives.com)
+- [AI Policy Weekly](https://aipolicyus.substack.com)
+- [AI Safety Newsletter](https://newsletter.safe.ai)
 - [AI Snake Oil](https://www.aisnakeoil.com)
 - [Import AI](importai.substack.com)
 - [Marcus on AI](https://garymarcus.substack.com)
+- [Navigating AI Risks](https://www.navigatingrisks.ai)
 - [One Useful Thing](https://www.oneusefulthing.org)
 - [The AI Ethics Brief](https://brief.montrealethics.ai)
+- [The AI Evaluation Substack](https://aievaluation.substack.com)
 - [The Machine Learning Engineer](https://ethical.institute/mle.html)
 - [Turing Post](https://turingpost.substack.com)
+
+
 
 ## Principles
 
@@ -522,6 +528,7 @@ For consumers:
 
 - [AudioSeal: Proactive Localized Watermarking](https://github.com/facebookresearch/audioseal) `Python` `Facebook`
 - [MarkLLM: An Open-Source Toolkit for LLM Watermarking](https://github.com/thu-bpm/markllm) `Python`
+- [SynthID Text](https://github.com/google-deepmind/synthid-text) `Python` `Google`
 
 ## Regulations
 
