@@ -234,10 +234,9 @@ AI governance is a system of rules, processes, frameworks, and tools within an o
 - [One Useful Thing](https://www.oneusefulthing.org)
 - [The AI Ethics Brief](https://brief.montrealethics.ai)
 - [The AI Evaluation Substack](https://aievaluation.substack.com)
+- [The EU AI Act Newsletter](https://artificialintelligenceact.substack.com)
 - [The Machine Learning Engineer](https://ethical.institute/mle.html)
 - [Turing Post](https://turingpost.substack.com)
-
-
 
 ## Principles
 
