@@ -117,6 +117,8 @@ AI governance is a system of rules, processes, frameworks, and tools within an o
 
 ### Reproducible/Non-Reproducible Research
 
+**Computational reproducibility** (when the results in a paper can be replicated using the exact code and dataset provided by the authors) is becoming a significant problem not only for academic but for practitionars who want to implement AI in their organizations and aim to resuse ideas from academia. Read more about this problem [here](https://reproducible.cs.princeton.edu). 
+
 - [Papers with Code](https://paperswithcode.com)
 - [Papers without Code](https://www.paperswithoutcode.com)
 
@@ -129,8 +131,8 @@ AI governance is a system of rules, processes, frameworks, and tools within an o
 - Biecek, P. (2024). **Adversarial Model Analysis**.  [Book](https://ama.drwhy.ai) `Safety` `Red Teaming`
 - Cunningham, Scott. (2021) **Causal inference: The mixtape**. Yale university press. [Book](https://mixtape.scunning.com) `Causal Inference`
 - Matloff, N et all. (2204) **Data Science Looks at Discrimination** [Book](https://htmlpreview.github.io/?https://github.com/matloff/dsldBook/blob/main/_book/index.html) `Fairness` `R`
-- Molnar, C. (2020). **Interpretable machine learning**. Lulu. com. Interpretable Machine Learning [Book](https://christophm.github.io/interpretable-ml-book/) `Explainability` `Interpretability` `Transparency` `R`
-- Huntington-Klein, Nick. **The effect: An introduction to research design and causality**. Chapman and Hall/CRC, 2021. [Book](https://theeffectbook.net) `Causal Inference`
+- Molnar, C. (2020). **Interpretable Machine Learning**. Lulu. com. [Book](https://christophm.github.io/interpretable-ml-book/) `Explainability` `Interpretability` `Transparency` `R`
+- Huntington-Klein, Nick. (2012) **The effect: An introduction to research design and causality**. Chapman and Hall/CRC. [Book](https://theeffectbook.net) `Causal Inference`
 
 ### Commercial / Propietary / Closed Access
 
