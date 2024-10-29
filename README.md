@@ -10,23 +10,36 @@ A curated list of awesome academic research, books, code of ethics, courses, dat
 
 ## Main Concepts
 
-### What is Responsible AI?
-Responsible AI (RAI) refers to the development, deployment, and use of artificial intelligence (AI) systems in ways that are ethical, transparent, accountable, and aligned with human values. 
+### What is AI Governance?
 
-### What is Trustworthy AI?
+AI governance is a system of rules, processes, frameworks, and tools within an organization to ensure the ethical and responsible development of AI.
 
-Trustworthy AI (TAI) refers to artificial intelligence systems designed and deployed to be transparent, robust and respectful of data privacy.
+### What is Open Source AI
+
+When we refer to a “system,” we are speaking both broadly about a fully functional structure and its discrete structural elements. To be considered Open Source, the requirements are the same, whether applied to a system, a model, weights and parameters, or other structural elements.
+
+An Open Source AI is an AI system made available under terms and in a way that grant the freedoms1 to:
+
+- Use the system for any purpose and without having to ask for permission.
+- Study how the system works and inspect its components.
+- Modify the system for any purpose, including to change its output.
+- Share the system for others to use with or without modifications, for any purpose.
+
+[Source](https://opensource.org/ai/open-source-ai-definition)
 
 ### What is Human-Centered AI?
 
 Human-Centered Artificial Intelligence (HCAI) is an approach to AI development that prioritizes human users' needs, experiences, and well-being.
 
+### What is Responsible AI?
+Responsible AI (RAI) refers to the development, deployment, and use of artificial intelligence (AI) systems in ways that are ethical, transparent, accountable, and aligned with human values. 
+
 ### What is a Responsible AI framework?
 Responsible AI frameworks often encompass guidelines, principles, and practices that prioritize fairness, safety, and respect for individual rights.
 
-### What is AI Governance?
+### What is Trustworthy AI?
 
-AI governance is a system of rules, processes, frameworks, and tools within an organization to ensure the ethical and responsible development of AI.
+Trustworthy AI (TAI) refers to artificial intelligence systems designed and deployed to be transparent, robust and respectful of data privacy.
 
 ## Content
 
@@ -685,4 +698,4 @@ Curto, J., et al. "Awesome Responsible Artificial Intelligence." GitHub. Last mo
 
 **MLA (Modern Language Association) 9th Edition**
 
-Curto, J., et al. "Awesome Responsible Artificial Intelligence". *GitHub*, 2024, https://github.com/AthenaCore/AwesomeResponsibleAI. Accessed 15 Oct 2024.
+Curto, J., et al. "Awesome Responsible Artificial Intelligence". *GitHub*, 2024, https://github.com/AthenaCore/AwesomeResponsibleAI. Accessed 29 Oct 2024.
