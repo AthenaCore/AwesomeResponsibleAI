@@ -143,8 +143,9 @@ Trustworthy AI (TAI) refers to artificial intelligence systems designed and depl
 - Biecek, P., & Burzykowski, T. (2021). **Explanatory model analysis: explore, explain, and examine predictive models**. Chapman and Hall/CRC. [Book](https://ema.drwhy.ai) `Explainability` `Interpretability` `Transparency` `R`
 - Biecek, P. (2024). **Adversarial Model Analysis**.  [Book](https://ama.drwhy.ai) `Safety` `Red Teaming`
 - Cunningham, Scott. (2021) **Causal inference: The mixtape**. Yale university press. [Book](https://mixtape.scunning.com) `Causal Inference`
+- Freiesleben, T. & Molnar, C. (2024). **Supervised Machine Learning for Science: How to stop worrying and love your black box.** [Book](https://ml-science-book.com/)
 - Matloff, N et all. (2204) **Data Science Looks at Discrimination** [Book](https://htmlpreview.github.io/?https://github.com/matloff/dsldBook/blob/main/_book/index.html) `Fairness` `R`
-- Molnar, C. (2020). **Interpretable Machine Learning**. Lulu. com. [Book](https://christophm.github.io/interpretable-ml-book/) `Explainability` `Interpretability` `Transparency` `R`
+- Molnar, C. (2020). **Interpretable Machine Learning**. Lulu.com. [Book](https://christophm.github.io/interpretable-ml-book/) `Explainability` `Interpretability` `Transparency` `R`
 - Huntington-Klein, Nick. (2012) **The effect: An introduction to research design and causality**. Chapman and Hall/CRC. [Book](https://theeffectbook.net) `Causal Inference`
 
 ### Commercial / Propietary / Closed Access
@@ -519,7 +520,8 @@ Additional:
 
 For consumers:
 
-- [Have i been pwned?](https://haveibeenpwned.com)
+- [Data Breach](https://databreach.com)
+- [Have I been pwned?](https://haveibeenpwned.com)
 - [Have I Been Trained?](https://haveibeentrained.com)
 
 ### Sustainability
