@@ -143,6 +143,7 @@ Trustworthy AI (TAI) refers to artificial intelligence systems designed and depl
 - Biecek, P., & Burzykowski, T. (2021). **Explanatory model analysis: explore, explain, and examine predictive models**. Chapman and Hall/CRC. [Book](https://ema.drwhy.ai) `Explainability` `Interpretability` `Transparency` `R`
 - Biecek, P. (2024). **Adversarial Model Analysis**.  [Book](https://ama.drwhy.ai) `Safety` `Red Teaming`
 - Cunningham, Scott. (2021) **Causal inference: The mixtape**. Yale university press. [Book](https://mixtape.scunning.com) `Causal Inference`
+- Fourrier, C. and et all. (2024) **LLM Evaluation Guidebook**. Github Repository. [Web](https://github.com/huggingface/evaluation-guidebook) `LLM Evaluation`
 - Freiesleben, T. & Molnar, C. (2024). **Supervised Machine Learning for Science: How to stop worrying and love your black box.** [Book](https://ml-science-book.com/)
 - Matloff, N et all. (2204) **Data Science Looks at Discrimination** [Book](https://htmlpreview.github.io/?https://github.com/matloff/dsldBook/blob/main/_book/index.html) `Fairness` `R`
 - Molnar, C. (2020). **Interpretable Machine Learning**. Lulu.com. [Book](https://christophm.github.io/interpretable-ml-book/) `Explainability` `Interpretability` `Transparency` `R`
@@ -319,6 +320,7 @@ Additional:
 - [MMMU](https://github.com/MMMU-Benchmark/MMMU) `Apple` `Python`
 - [StrongREJECT jailbreak benchmark](https://github.com/dsbowen/strong_reject) `Python`
 - [τ-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains](https://github.com/sierra-research/tau-bench) `Python`
+- [Yet Another Applied LLM Benchmark](https://github.com/carlini/yet-another-applied-llm-benchmark) `Python`
 - [VLMEvalKit](https://github.com/open-compass/VLMEvalKit) `Python`
 
 ### Bias
@@ -433,6 +435,7 @@ Additional:
 
 ### LLM Evaluation
 
+- [AlignEval: Making Evals Easy, Fun, and Semi-Automated](https://aligneval.com) [Motivation](https://eugeneyan.com/writing/aligneval/)
 - [Azure AI Evaluation](https://github.com/Azure/azure-sdk-for-python/tree/main/sdk/evaluation/azure-ai-evaluation) `Python` `Microsoft`
 - [DeepEval](https://github.com/confident-ai/deepeval) `Python` 
 - [evals](https://github.com/openai/evals) `Python` `OpenAI`
@@ -644,7 +647,7 @@ Explainability | ISO/IEC AWI TS 6254 Information technology — Artificial intel
 AI Sustainability | ISO/IEC AWI TR 20226 Information technology — Artificial intelligence — Environmental sustainability aspects of AI systems | Under Development | https://www.iso.org/standard/86177.html
 AI Verification and Validation | ISO/IEC AWI TS 17847 Information technology — Artificial intelligence — Verification and validation analysis of AI systems | Under Development | https://www.iso.org/standard/85072.html
 AI Controllabitlity | ISO/IEC CD TS 8200 Information technology — Artificial intelligence — Controllability of automated artificial intelligence systems | Published | https://www.iso.org/standard/83012.html
-Biases in AI | ISO/IEC CD TS 12791 Information technology — Artificial intelligence — Treatment of unwanted bias in classification and regression machine learning tasks | Under Publication | https://www.iso.org/standard/84110.html
+Biases in AI | ISO/IEC CD TS 12791 Information technology — Artificial intelligence — Treatment of unwanted bias in classification and regression machine learning tasks | Published | https://www.iso.org/standard/84110.html
 AI Impact Assessment | ISO/IEC AWI 42005 Information technology — Artificial intelligence — AI system impact assessment | Under Development | https://www.iso.org/standard/44545.html
 Data Quality for AI/ML | ISO/IEC DIS 5259 Artificial intelligence — Data quality for analytics and machine learning (ML) (1 to 6) | Published | https://www.iso.org/standard/81088.html
 Data Lifecycle | ISO/IEC FDIS 8183 Information technology — Artificial intelligence — Data life cycle framework | Published | https://www.iso.org/standard/83002.html
