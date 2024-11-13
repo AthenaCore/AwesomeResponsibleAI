@@ -14,6 +14,10 @@ A curated list of awesome academic research, books, code of ethics, courses, dat
 
 AI governance is a system of rules, processes, frameworks, and tools within an organization to ensure the ethical and responsible development of AI.
 
+### What is Human-Centered AI?
+
+Human-Centered Artificial Intelligence (HCAI) is an approach to AI development that prioritizes human users' needs, experiences, and well-being.
+
 ### What is Open Source AI
 
 When we refer to a “system,” we are speaking both broadly about a fully functional structure and its discrete structural elements. To be considered Open Source, the requirements are the same, whether applied to a system, a model, weights and parameters, or other structural elements.
@@ -27,10 +31,6 @@ An Open Source AI is an AI system made available under terms and in a way that g
 
 [Source](https://opensource.org/ai/open-source-ai-definition)
 
-### What is Human-Centered AI?
-
-Human-Centered Artificial Intelligence (HCAI) is an approach to AI development that prioritizes human users' needs, experiences, and well-being.
-
 ### What is Responsible AI?
 Responsible AI (RAI) refers to the development, deployment, and use of artificial intelligence (AI) systems in ways that are ethical, transparent, accountable, and aligned with human values. 
 
@@ -40,6 +40,10 @@ Responsible AI frameworks often encompass guidelines, principles, and practices 
 ### What is Trustworthy AI?
 
 Trustworthy AI (TAI) refers to artificial intelligence systems designed and deployed to be transparent, robust and respectful of data privacy.
+
+### Why is Responsible, Trustworthy, and Human-Centered AI important?
+
+AI is a transformative technology prone to reshape industries, yet it requires careful governance to balance the benefits of automation and insight with protections against unintended social, economic, and security impacts. You can read more about the current wave [here](https://www.thecompendium.ai).
 
 ## Content
 
@@ -581,7 +585,7 @@ Regulations are requirements established by governments.
 
 Short Name | Code | Description | Status | Website | Legal text
 ---|---|---|---|---|---
-Cyber Resilience Act (CRA) | 2022/0272(COD)| It introduces mandatory cybersecurity requirements for hardware and software products, throughout their whole lifecycle|Proposal.| [Website](https://digital-strategy.ec.europa.eu/en/policies/cyber-resilience-act) |[Source](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex:52022PC0454)
+Cyber Resilience Act (CRA) | 2022/0272(COD)| It introduces mandatory cybersecurity requirements for hardware and software products, throughout their whole lifecycle. | Proposal | [Website](https://digital-strategy.ec.europa.eu/en/policies/cyber-resilience-act) |[Source](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex:52022PC0454)
 Data Act | EU/2023/2854 | It enables a fair distribution of the value of data by establishing clear and fair rules for accessing and using data within the European data economy. | Published | [Website](https://digital-strategy.ec.europa.eu/en/policies/data-act)| [Source](https://eur-lex.europa.eu/eli/reg/2023/2854)
 Data Governance Act | EU/2022/868 | It supports the setup and development of Common European Data Spaces in strategic domains, involving both private and public players, in sectors such as health, environment, energy, agriculture, mobility, finance, manufacturing, public administration and skills. | Published | [Website](https://digital-strategy.ec.europa.eu/en/policies/data-governance-act) | [Source](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R0868)
 Digital Market Act | EU/2022/1925 | It establishes a set of clearly defined objective criteria to identify “gatekeepers”. Gatekeepers are large digital platforms providing so called core platform services, such as for example online search engines, app stores, messenger services. Gatekeepers will have to comply with the do’s (i.e. obligations) and don’ts (i.e. prohibitions) listed in the DMA. | Published | [Website](https://digital-markets-act.ec.europa.eu/index_en) | [Source](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32022R1925)
