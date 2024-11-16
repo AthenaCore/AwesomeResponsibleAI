@@ -225,11 +225,12 @@ AI is a transformative technology prone to reshape industries, yet it requires c
 
 - [Ada Lovelace Institute](https://www.adalovelaceinstitute.org/) `United Kingdom`
 - AI Safety Institutes (or equivalent):
-  - [EU AI Office](https://digital-strategy.ec.europa.eu/en/policies/ai-office)
-  - [Japan AISI](https://aisi.go.jp)
-  - [Singapore AISI](https://www.ntu.edu.sg/dtc)
-  - [UK AISI](https://www.aisi.gov.uk)
-  - [US AISI](https://www.nist.gov/aisi)    
+  - [Canada AISI](https://ised-isde.canada.ca/site/ised/en/canadian-artificial-intelligence-safety-institute) `Canada`
+  - [EU AI Office](https://digital-strategy.ec.europa.eu/en/policies/ai-office) `Europe`
+  - [Japan AISI](https://aisi.go.jp) `Japan`
+  - [Singapore AISI](https://www.ntu.edu.sg/dtc) `Singapore`
+  - [UK AISI](https://www.aisi.gov.uk) `United Kingdom`
+  - [US AISI](https://www.nist.gov/aisi) `United States of America`   
 - [Centre pour la Securité de l'IA, CeSIA](https://www.securite-ia.fr) `France`
 - [European Centre for Algorithmic Transparency](https://algorithmic-transparency.ec.europa.eu/index_en)
 - [Center for Human-Compatible AI](https://humancompatible.ai) `UC Berkeley` `United States of America`
