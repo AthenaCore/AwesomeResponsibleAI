@@ -317,6 +317,7 @@ Additional:
 
 ### Benchmarks
 
+- [FrontierMath](https://epoch.ai/frontiermath)
 - [Geekbench AI](https://www.geekbench.com/ai/)
 - [Jailbreakbench](https://jailbreakbench.github.io) `Python`
 - [LiveBench: A Challenging, Contamination-Free LLM Benchmark](https://livebench.ai) `Contamination free`
