@@ -518,6 +518,7 @@ Additional:
 ### Safety
 
 - [https://github.com/usnistgov/dioptra](https://github.com/usnistgov/dioptra) `Python` `NIST`
+- [Garak](https://github.com/NVIDIA/garak) `Python` `Nvidia`
 
 ### Security
 
