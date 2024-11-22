@@ -65,6 +65,10 @@ AI is a transformative technology prone to reshape industries, yet it requires c
 
 ## Academic Research
 
+### AI Governance
+
+- Curto, J. 2024. How Can Spain Remain Internationally Competitive in AI under EU Legislation? [Article](https://github.com/AthenaCore/AwesomeResponsibleAI/blob/main/How%20Can%20Spain%20Remain%20Internationally%20Competitive%20in%20AI%20under%20EU%20Legislation.pdf)
+
 ### Evaluation (of model explanations)
 
 - Agarwal, C., Krishna, S., Saxena, E., Pawelczyk, M., Johnson, N., Puri, I., ... & Lakkaraju, H. (2022). **Openxai: Towards a transparent evaluation of model explanations**. Advances in Neural Information Processing Systems, 35, 15784-15799. [Article](https://arxiv.org/abs/2206.11104)
