@@ -65,10 +65,6 @@ AI is a transformative technology prone to reshape industries, yet it requires c
 
 ## Academic Research
 
-### AI Governance
-
-- Curto, J. 2024. How Can Spain Remain Internationally Competitive in AI under EU Legislation? [Article](https://github.com/AthenaCore/AwesomeResponsibleAI/blob/main/How%20Can%20Spain%20Remain%20Internationally%20Competitive%20in%20AI%20under%20EU%20Legislation.pdf)
-
 ### Evaluation (of model explanations)
 
 - Agarwal, C., Krishna, S., Saxena, E., Pawelczyk, M., Johnson, N., Puri, I., ... & Lakkaraju, H. (2022). **Openxai: Towards a transparent evaluation of model explanations**. Advances in Neural Information Processing Systems, 35, 15784-15799. [Article](https://arxiv.org/abs/2206.11104)
@@ -287,6 +283,19 @@ Additional:
 - [Trustworthy AI](https://marketing.truera.com/trustworthy-ai-podcast)
 
 ## Reports
+
+### AI Governance
+
+- Araujo, R. 2024. **Understanding the First Wave of AI Safety Institutes: Characteristics, Functions, and Challenges**. Institute for AI Policy and Strategy (IAPS) [Article](https://www.iaps.ai/research/understanding-aisis)
+- Buchanan, B. 2020. **The AI triad and what it means for national security strategy**. Center for Security and Emerging Technology. [Article](https://cset.georgetown.edu/wp-content/uploads/CSET-AI-Triad-Report.pdf)
+- Corrigan, J. et al. 2023. **The Policy Playbook: Building a Systems-Oriented Approach to Technology and National Security Policy**. CSET (Center for Security and Emerging Technology) [Article](https://cset.georgetown.edu/publication/the-policy-playbook/)
+- Curto, J. 2024. **How Can Spain Remain Internationally Competitive in AI under EU Legislation?** [Article](https://github.com/AthenaCore/AwesomeResponsibleAI/blob/main/How%20Can%20Spain%20Remain%20Internationally%20Competitive%20in%20AI%20under%20EU%20Legislation.pdf)
+- CSIS. 2024 **The AI Safety Institute International Network: Next Steps and Recommendations**. CSIS (Center for Strategic and International Studies) [Article](https://www.csis.org/analysis/ai-safety-institute-international-network-next-steps-and-recommendations)
+- Gupta, Ritwik, et al. (2024). **Data-Centric AI Governance: Addressing the Limitations of Model-Focused Policies**. arXiv preprint arXiv:2409.17216 (Article)[https://arxiv.org/pdf/2409.17216]
+- Hendrycks, D. et al. 2023. **An overview of catastrophic AI risks. Center of AI Safety**.  arXiv preprint arXiv:2306.12001. [Article](https://arxiv.org/pdf/2306.12001)
+- Janjeva, A., et al. (2023). **Strengthening Resilience to AI Risk. A guide for UK policymakers**. CETaS (Centre for Emerging Technology and Security) [Article](https://ceas.turing.ac.uk/sites/default/files/2023-08/cetas-cltr_ai_risk_briefing_paper.pdf)
+- Piattini, M. and Fernández C.M. 2024. **Marco Confiable**. Revista SIC 162 [Article](https://revistasic.es/revista-sic/sic-162/colaboraciones/marco-confiable/)
+- Sastry, G., et al. 2024. **Computing Power and the Governance of Artificial Intelligence**. arXiv preprint arXiv:2402.08797. [Article]( https://arxiv.org/pdf/2402.08797)
 
 ### (AI) Incidents databases
 
