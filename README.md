@@ -635,7 +635,7 @@ General Data Protection Regulation (GDPR) | EU/2016/679 | It strengthens individ
 
 Standards are **voluntary**, **consensus solutions**. They document an **agreement** on how a material, product, process, or service should be **specified**, **performed** or **delivered**. They keep people safe and **ensure things work**. They create **confidence** and provide **security** for investment.
 
-Standards can be understood as formal specifications of best practices as well.
+Standards can be understood as formal specifications of best practices as well. There is a growing number of standards related to AI. You can search for the latest in the [Standards Database](https://aistandardshub.org/ai-standards-search/) from [AI Standards Hub](https://aistandardshub.org).
 
 ### IEEE Standards
 
