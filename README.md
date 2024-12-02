@@ -328,20 +328,6 @@ Additional:
 
 - [The Assessment List for Trustworthy Artificial Intelligence](https://altai.insight-centre.org)
 
-### Benchmarks
-
-- [FrontierMath](https://epoch.ai/frontiermath)
-- [Geekbench AI](https://www.geekbench.com/ai/)
-- [Jailbreakbench](https://jailbreakbench.github.io) `Python`
-- [LiveBench: A Challenging, Contamination-Free LLM Benchmark](https://livebench.ai) `Contamination free`
-- [ML Commons Safety Benchmark for general purpose AI chat model](https://mlcommons.org/benchmarks/ai-safety/general_purpose_ai_chat_benchmark/)
-- [MLPerf Training Benchmark](https://mlcommons.org/benchmarks/training/) `Training`
-- [MMMU](https://github.com/MMMU-Benchmark/MMMU) `Apple` `Python`
-- [StrongREJECT jailbreak benchmark](https://github.com/dsbowen/strong_reject) `Python`
-- [τ-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains](https://github.com/sierra-research/tau-bench) `Python`
-- [Yet Another Applied LLM Benchmark](https://github.com/carlini/yet-another-applied-llm-benchmark) `Python`
-- [VLMEvalKit](https://github.com/open-compass/VLMEvalKit) `Python`
-
 ### Bias
 
 - [balance](https://import-balance.org) `Python` `Facebook`
@@ -452,18 +438,27 @@ Additional:
 
 - [COMPL-AI](https://compl-ai.org) `Python` `ETH Zurich` `Insait` `LaticeFlow AI`
 
-### LLM Evaluation
+### LLM Evaluation and Benchmarks
 
 - [AlignEval: Making Evals Easy, Fun, and Semi-Automated](https://aligneval.com) [Motivation](https://eugeneyan.com/writing/aligneval/)
 - [Azure AI Evaluation](https://github.com/Azure/azure-sdk-for-python/tree/main/sdk/evaluation/azure-ai-evaluation) `Python` `Microsoft`
 - [DeepEval](https://github.com/confident-ai/deepeval) `Python` 
 - [evals](https://github.com/openai/evals) `Python` `OpenAI`
 - [FBI: Finding Blindspots in LLM Evaluations with Interpretable Checklists](https://github.com/AI4Bharat/FBI) `Python`
+- [FrontierMath](https://epoch.ai/frontiermath)
+- [Geekbench AI](https://www.geekbench.com/ai/)
 - [Giskard](https://github.com/Giskard-AI/giskard) `Python`
-- [Inspect](https://ukgovernmentbeis.github.io/inspect_ai/) `AISI` `Python`
+- [Inspect](https://ukgovernmentbeis.github.io/inspect_ai/) `UK AISI` `Python`
+- [Jailbreakbench](https://jailbreakbench.github.io) `Python`
 - [LightEval](https://github.com/huggingface/lighteval) `HuggingFace` `Python`
+- [LiveBench: A Challenging, Contamination-Free LLM Benchmark](https://livebench.ai) `Contamination free`
 - [LM Evaluation Harness](https://github.com/EleutherAI/lm-evaluation-harness) `Python`
+- [lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval) `Python`
+- [ML Commons Safety Benchmark for general purpose AI chat model](https://mlcommons.org/benchmarks/ai-safety/general_purpose_ai_chat_benchmark/)
+- [MLPerf Training Benchmark](https://mlcommons.org/benchmarks/training/) `Training`
+- [MMMU](https://github.com/MMMU-Benchmark/MMMU) `Apple` `Python`
 - [Moonshoot](https://github.com/aiverify-foundation/moonshot) `AI Verify Foundation` `Python`
+- [NaturalBench](https://linzhiqiu.github.io/papers/naturalbench/) `Python`
 - [opik](https://github.com/comet-ml/opik) `Comet` `Python`
 - [Phoenix](https://github.com/Arize-ai/phoenix) `Arize AI` `Python`
 - [Prometheus](https://github.com/prometheus-eval/prometheus) `Python`
@@ -471,6 +466,10 @@ Additional:
 - [ragas](https://github.com/explodinggradients/ragas) `Python`
 - [Rouge](https://pypi.org/project/rouge/) `Python`
 - [simple evals](https://github.com/openai/simple-evals) `Python` `OpenAI`
+- [StrongREJECT jailbreak benchmark](https://github.com/dsbowen/strong_reject) `Python`
+- [τ-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains](https://github.com/sierra-research/tau-bench) `Python`
+- [Yet Another Applied LLM Benchmark](https://github.com/carlini/yet-another-applied-llm-benchmark) `Python`
+- [VLMEvalKit](https://github.com/open-compass/VLMEvalKit) `Python`
 - [WindowsAgentArena](https://github.com/microsoft/windowsagentarena) `Python` `Microsoft`
 
 ### Performance (& Automated ML)
