@@ -638,6 +638,18 @@ Standards are **voluntary**, **consensus solutions**. They document an **agreeme
 
 Standards can be understood as formal specifications of best practices as well. There is a growing number of standards related to AI. You can search for the latest in the [Standards Database](https://aistandardshub.org/ai-standards-search/) from [AI Standards Hub](https://aistandardshub.org).
 
+###  Standards
+
+### CEN Standards
+
+The European Committee for Standardization is one of three European Standardization Organizations (together with CENELEC and ETSI) that have been officially recognized by the European Union and by the European Free Trade Association (EFTA) as being responsible for developing and defining voluntary standards at European level.
+
+Domain | Standard | Status | URL
+---|---|---|---
+Data governance and quality for AI within the European context | CEN/CLC/TR 18115:2024 | Published | [Source]
+
+CEN AI Work programme can be found [here](https://standards.cencenelec.eu/dyn/www/f?p=205:22:0::::FSP_ORG_ID,FSP_LANG_ID:2916257,25&cs=1827B89DA69577BF3631EE2B6070F207D).
+
 ### IEEE Standards
 
 Domain | Standard | Status | URL
@@ -645,7 +657,13 @@ Domain | Standard | Status | URL
 IEEE Guide for an Architectural Framework for Explainable Artificial Intelligence | IEEE 2894-2024 | Published | [Source](https://standards.ieee.org/ieee/2894/11296/)
 IEEE Standard for Ethical Considerations in Emulated Empathy in Autonomous and Intelligent Systems | IEEE 7014-2024 | Published | [Source](https://www.iso.org/standard/74296.html)
 
-### UNE/ISO Standards
+### UNE Standards
+
+[UNE](https://www.en.une.org) is Spain's only Standardisation Organisation, designated by the Spanish Ministry of Economy, Industry and Competitiveness to the European Commission. It helps Spanish organizations to keep up-to-date on all aspects related to standardisation:​​​​
+
+- Discover the new regulatory developments;
+- Take part in developing standards;
+- Learn how to integrate standardisation in your R&D&i project;
 
 Domain | Standard | Status | URL
 ---|---|---|---
@@ -654,6 +672,8 @@ Gestión del dato | UNE 0078:2023 | Published | [Source](https://tienda.aenor.co
 Gobierno del dato | UNE 0077:2023 | Published | [Source](https://tienda.aenor.com/norma-une-especificacion-une-0077-2023-n0071116)
 Guía de evaluación de la Calidad de un Conjunto de Datos. | UNE 0081:2023 | Published | [Source](https://tienda.aenor.com/norma-une-especificacion-une-0081-2023-n0071807)
 Guía de evaluación del Gobierno, Gestión y Gestión de la Calidad del Dato. | UNE 0080:2023 | Published | [Source](https://tienda.aenor.com/norma-une-especificacion-une-0080-2023-n0071383)
+
+Additional translations in Spanish can be found [here](https://tienda.aenor.com/Buscador).
 
 ### ISO/IEC Standards
 
