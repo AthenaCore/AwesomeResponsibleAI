@@ -388,6 +388,7 @@ Additional:
 - [Diverse Counterfactual Explanations (DiCE)](https://github.com/interpretml/DiCE) `Python` `Microsoft`
 - [dtreeviz](https://github.com/parrt/dtreeviz) `Python` 
 - [ecco](https://pypi.org/project/ecco/) [article](https://jalammar.github.io/explaining-transformers/) `Python`
+- [effectplots](https://github.com/mayer79/effectplots) `R`
 - [eli5](https://github.com/TeamHG-Memex/eli5) `Python`
 - [explabox](https://explabox.readthedocs.io/en/latest/index.html) `Python` `National Police Lab AI`
 - [eXplainability Toolbox](https://ethical.institute/xai.html) `Python`
@@ -442,6 +443,7 @@ Additional:
 
 - [AlignEval: Making Evals Easy, Fun, and Semi-Automated](https://aligneval.com) [Motivation](https://eugeneyan.com/writing/aligneval/)
 - [Azure AI Evaluation](https://github.com/Azure/azure-sdk-for-python/tree/main/sdk/evaluation/azure-ai-evaluation) `Python` `Microsoft`
+- [BALROG](https://github.com/balrog-ai/BALROG) `Python` 
 - [DeepEval](https://github.com/confident-ai/deepeval) `Python` 
 - [evals](https://github.com/openai/evals) `Python` `OpenAI`
 - [FBI: Finding Blindspots in LLM Evaluations with Interpretable Checklists](https://github.com/AI4Bharat/FBI) `Python`
@@ -485,6 +487,7 @@ Additional:
 - [LOFO Importance](https://github.com/aerdem4/lofo-importance) `Python`
 - [forester](https://modeloriented.github.io/forester/) `R`
 - [metrica: Prediction performance metrics](https://adriancorrendo.github.io/metrica/) `R`
+- [model-diagnostics](https://github.com/lorentzenchr/model-diagnostics) `Python`
 - [NNI: Neural Network Intelligence](https://github.com/microsoft/nni) `Python` `Microsoft`
 - [performance](https://github.com/easystats/performance) `R`
 - [rliable](https://github.com/google-research/rliable) `Python` `Google`
