@@ -441,6 +441,7 @@ Additional:
 
 ### LLM Evaluation and Benchmarks
 
+- [AIluminate](https://mlcommons.org/ailuminate/)
 - [AlignEval: Making Evals Easy, Fun, and Semi-Automated](https://aligneval.com) [Motivation](https://eugeneyan.com/writing/aligneval/)
 - [Azure AI Evaluation](https://github.com/Azure/azure-sdk-for-python/tree/main/sdk/evaluation/azure-ai-evaluation) `Python` `Microsoft`
 - [BALROG](https://github.com/balrog-ai/BALROG) `Python` 
