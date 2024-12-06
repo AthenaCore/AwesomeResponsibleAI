@@ -228,6 +228,7 @@ AI is a transformative technology prone to reshape industries, yet it requires c
   - [Canada AISI](https://ised-isde.canada.ca/site/ised/en/canadian-artificial-intelligence-safety-institute) `Canada`
   - [EU AI Office](https://digital-strategy.ec.europa.eu/en/policies/ai-office) `Europe`
   - [Japan AISI](https://aisi.go.jp) `Japan`
+  - [Korea AISI](https://www.aisi.re.kr/kor) `South Korea`
   - [Singapore AISI](https://www.ntu.edu.sg/dtc) `Singapore`
   - [UK AISI](https://www.aisi.gov.uk) `United Kingdom`
   - [US AISI](https://www.nist.gov/aisi) `United States of America`   
