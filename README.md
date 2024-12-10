@@ -177,6 +177,15 @@ AI is a transformative technology prone to reshape industries, yet it requires c
 
 ## Courses
 
+### AI Alignment
+
+- [AI Alignment](https://aisafetyfundamentals.com/alignment/) `BlueDot Impact`
+- [AI Fast-Track](https://aisafetyfundamentals.com/alignment-fast-track/) `BlueDot Impact`
+
+### AI Governance
+
+- [AI Governance](https://aisafetyfundamentals.com/governance/) `BlueDot Impact`
+
 ### Explainability/Interpretability
 
 - [Explainable Artificial Intelligence](https://interpretable-ml-class.github.io) `Harvard University`
