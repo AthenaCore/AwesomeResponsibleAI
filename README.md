@@ -600,6 +600,7 @@ Regulations are requirements established by governments.
 - [Data Protection and Privacy Legislation Worldwide](https://unctad.org/page/data-protection-and-privacy-legislation-worldwide) `UNCTAD`
 - [Data Protection Laws of the Word](https://www.dlapiperdataprotection.com)
 - [Digital Policy Alert](https://digitalpolicyalert.org/analysis)
+- [ETO Agora](emerging-technology-observatory/)
 - [GDPR Comparison](https://www.activemind.legal/law/)
 - [National AI policies & strategies](https://oecd.ai/en/dashboards/overview)
 - [Policy Database](https://aistandardshub.org/policy-and-strategy-search/)
