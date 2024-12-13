@@ -480,6 +480,7 @@ Additional:
 - [Promptfoo](https://github.com/promptfoo/promptfoo) `Python`
 - [ragas](https://github.com/explodinggradients/ragas) `Python`
 - [Rouge](https://pypi.org/project/rouge/) `Python`
+- [SALAD-BENCH](https://github.com/OpenSafetyLab/SALAD-BENCH) [Article](https://arxiv.org/abs/2402.05044) `Python`
 - [simple evals](https://github.com/openai/simple-evals) `Python` `OpenAI`
 - [StrongREJECT jailbreak benchmark](https://github.com/dsbowen/strong_reject) `Python`
 - [τ-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains](https://github.com/sierra-research/tau-bench) `Python`
