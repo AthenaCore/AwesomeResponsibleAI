@@ -322,6 +322,7 @@ Additional:
 
 - [State of AI](https://www.stateof.ai) - from 2018 up to now -
 - [The AI Index Report](https://aiindex.stanford.edu) - from 2017 up to now - `Stanford Institute for Human-Centered Artificial Intelligence`
+- [AI Safety Index 2024](https://futureoflife.org/document/fli-ai-safety-index-2024/) - 2024 - `Future of Life`
 
 ### Other
 
