@@ -409,10 +409,12 @@ Additional:
 - [fastshap](https://github.com/bgreenwell/fastshap) `R`
 - [fasttreeshap](https://github.com/linkedin/fasttreeshap) `Python` `LinkedIn`
 - [FAT Forensics](https://fat-forensics.org/) `Python`
+- [ferret](https://github.com/g8a9/ferret) `Python`
 - [flashlight](https://github.com/mayer79/flashlight) `R`
 - [Human Learn](https://github.com/koaning/human-learn) `Python`
 - [hstats](https://cran.r-project.org/web/packages/hstats/index.html) `R`
 - [innvestigate](https://github.com/albermax/innvestigate) `Python` `Neural Networks`
+- [Inseq](https://github.com/inseq-team/inseq) `Python`
 - [intepretML](https://interpret.ml) `Python`
 - [interactions: Comprehensive, User-Friendly Toolkit for Probing Interactions](https://cran.r-project.org/web/packages/interactions/index.html) `R`
 - [kernelshap: Kernel SHAP](https://cran.r-project.org/web/packages/kernelshap/index.html) `R`
