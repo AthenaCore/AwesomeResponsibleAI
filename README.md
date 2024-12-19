@@ -449,7 +449,7 @@ Additional:
 - [PiML Toolbox](https://github.com/SelfExplainML/PiML-Toolbox) `Python`
 - [Tensorflow Lattice](https://github.com/tensorflow/lattice) `Python` `Google`
 
-### LLM Regulation Compliance Regulation
+### LLM Regulation Compliance
 
 - [COMPL-AI](https://compl-ai.org) `Python` `ETH Zurich` `Insait` `LaticeFlow AI`
 
@@ -560,6 +560,7 @@ Additional:
 - [Counterfit](https://github.com/Azure/counterfit/) `Python` `Microsoft`
 - [Modelscan](https://github.com/protectai/modelscan) `Python`
 - [NB Defense](https://nbdefense.ai) `Python`
+- [PyRIT](https://github.com/Azure/PyRIT) `Python` `Microsoft`
 - [Rebuff Playground](https://www.rebuff.ai/playground) `Python`
 - [Turing Data Safe Haven](https://github.com/alan-turing-institute/data-safe-haven) `Python` `The Alan Turing Institute`
 
