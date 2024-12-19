@@ -551,7 +551,8 @@ Additional:
 
 ### Safety
 
-- [https://github.com/usnistgov/dioptra](https://github.com/usnistgov/dioptra) `Python` `NIST`
+- [AIxploit](https://github.com/AINTRUST-AI/aixploit) `Python`
+- [Diotra](https://github.com/usnistgov/dioptra) `Python` `NIST`
 - [Garak](https://github.com/NVIDIA/garak) `Python` `Nvidia`
 
 ### Security
