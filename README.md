@@ -580,13 +580,14 @@ For consumers:
 
 ### (RAI) Toolkit
 
+- [Deepchecks](https://github.com/deepchecks/deepchecks) `Python`
 - [Dr. Why](https://github.com/ModelOriented/DrWhy) `R` `Warsaw University of Technology`
+- [Mercury](https://www.bbvaaifactory.com/mercury/) `Python` `BBVA`
+- [Responsible AI Toolbox](https://github.com/microsoft/responsible-ai-toolbox) `Python` `Microsoft`
 - [Responsible AI Widgets](https://github.com/microsoft/responsible-ai-widgets) `R` `Microsoft`
 - [The Data Cards Playbook](https://pair-code.github.io/datacardsplaybook/) `Python` `Google`
-- [Mercury](https://www.bbvaaifactory.com/mercury/) `Python` `BBVA`
-- [Deepchecks](https://github.com/deepchecks/deepchecks) `Python`
 
-### (AI) Watermaring
+### (AI) Watermarking
 
 - [AudioSeal: Proactive Localized Watermarking](https://github.com/facebookresearch/audioseal) `Python` `Facebook`
 - [MarkLLM: An Open-Source Toolkit for LLM Watermarking](https://github.com/thu-bpm/markllm) `Python`
