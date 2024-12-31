@@ -491,6 +491,8 @@ Additional:
 - [VLMEvalKit](https://github.com/open-compass/VLMEvalKit) `Python`
 - [WindowsAgentArena](https://github.com/microsoft/windowsagentarena) `Python` `Microsoft`
 
+Additional benchmarks can be found [here](https://airtable.com/app83SBBFk9WO25hJ/shrSs3bXSx2bBDrso/tblNpnE4pzBnaC5lT?viewControls=on).
+
 ### Performance (& Automated ML)
 
 - [auditor](https://github.com/ModelOriented/auditor) `R`
