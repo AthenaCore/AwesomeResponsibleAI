@@ -379,6 +379,7 @@ Additional:
 - [Fairlearn](https://fairlearn.org) `Python` `Microsoft`
 - [Fairmodels](https://fairmodels.drwhy.ai) `R` `University of California`
 - [fairness](https://cran.r-project.org/web/packages/fairness/) `R`
+- [Fairness Indicators](https://github.com/tensorflow/fairness-indicators) `Python` `Google`
 - [FairRankTune](https://kcachel.github.io/fairranktune/) `Python`
 - [FairPAN - Fair Predictive Adversarial Network](https://modeloriented.github.io/FairPAN/) `R`
 - [OxonFair](https://github.com/oxfordinternetinstitute/oxonfair) `Python` `Oxford Internet Institute`
@@ -430,6 +431,7 @@ Additional:
 - [survex](https://github.com/ModelOriented/survex) `R`
 - [teller](https://github.com/Techtonique/teller) `Python`
 - [TCAV (Testing with Concept Activation Vectors)](https://pypi.org/project/tcav/) `Python` 
+- [Transformer Debugger](https://github.com/openai/transformer-debugger) `Python` `OpenAI` 
 - [truelens](https://pypi.org/project/trulens/) `Python` `Truera`
 - [truelens-eval](https://pypi.org/project/trulens-eval/) `Python` `Truera`
 - [pre: Prediction Rule Ensembles](https://cran.r-project.org/web/packages/pre/index.html) `R`
@@ -547,6 +549,7 @@ Additional benchmarks can be found [here](https://airtable.com/app83SBBFk9WO25hJ
 
 - [Adversarial Robustness Toolbox (ART)](https://github.com/Trusted-AI/adversarial-robustness-toolbox) `Python`
 - [BackdoorBench](https://github.com/SCLBD/BackdoorBench) `Python`
+- [Factool](https://github.com/GAIR-NLP/factool) `Python`
 - [Foolbox](https://github.com/bethgelab/foolbox) `Python`
 - [Guardrails](https://github.com/guardrails-ai/guardrails) `Python`
 - [NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) `Python` `Amazon`
