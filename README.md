@@ -755,7 +755,7 @@ Contributors with over 50 edits can be named coauthors in the citation of visibl
 @misc{arai_repo,
   author={Josep Curto et al.},
   title={Awesome Responsible Artificial Intelligence},
-  year={2024},
+  year={2025},
   note={\url{https://github.com/AthenaCore/AwesomeResponsibleAI}}
 }
 ```
@@ -764,16 +764,16 @@ Contributors with over 50 edits can be named coauthors in the citation of visibl
 
 **ACM (Association for Computing Machinery)**
 
-Curto, J., et al. 2024. Awesome Responsible Artificial Intelligence. GitHub. https://github.com/AthenaCore/AwesomeResponsibleAI.
+Curto, J., et al. 2025. Awesome Responsible Artificial Intelligence. GitHub. https://github.com/AthenaCore/AwesomeResponsibleAI.
 
 **APA (American Psychological Association) 7th Edition**
 
-Curto, J., et al. (2024). Awesome Responsible Artificial Intelligence. GitHub. https://github.com/AthenaCore/AwesomeResponsibleAI.
+Curto, J., et al. (2025). Awesome Responsible Artificial Intelligence. GitHub. https://github.com/AthenaCore/AwesomeResponsibleAI.
 
 **Chicago Manual of Style 17th Edition**
 
-Curto, J., et al. "Awesome Responsible Artificial Intelligence." GitHub. Last modified 2024. https://github.com/AthenaCore/AwesomeResponsibleAI.
+Curto, J., et al. "Awesome Responsible Artificial Intelligence." GitHub. Last modified 2025. https://github.com/AthenaCore/AwesomeResponsibleAI.
 
 **MLA (Modern Language Association) 9th Edition**
 
-Curto, J., et al. "Awesome Responsible Artificial Intelligence". *GitHub*, 2024, https://github.com/AthenaCore/AwesomeResponsibleAI. Accessed 03 Dec 2024.
+Curto, J., et al. "Awesome Responsible Artificial Intelligence". *GitHub*, 2025, https://github.com/AthenaCore/AwesomeResponsibleAI. Accessed 03 Jan 2025.
