@@ -455,7 +455,7 @@ Additional:
 
 - [COMPL-AI](https://compl-ai.org) `Python` `ETH Zurich` `Insait` `LaticeFlow AI`
 
-### LLM Evaluation and Benchmarks
+### LLM Evaluations and Benchmarks
 
 - [AIluminate](https://mlcommons.org/ailuminate/)
 - [AlignEval: Making Evals Easy, Fun, and Semi-Automated](https://aligneval.com) [Motivation](https://eugeneyan.com/writing/aligneval/)
@@ -540,8 +540,9 @@ Additional benchmarks can be found [here](https://airtable.com/app83SBBFk9WO25hJ
 - [SmartNoise](https://github.com/opendp/smartnoise-core) `Python` `OpenDP`
 - [Tensorflow Privacy](https://github.com/tensorflow/privacy) `Python` `Google`
 
-### Reliability Evaluation (of post hoc explanation methods)
+### Reliability Evaluation (of post hoc explanation methods and LLMs evaluations) 
 
+- [BELLS (Benchmark for the Evaluation of LLM Safeguards)](https://github.com/CentreSecuriteIA/BELLS) `Python` `CeSIA - Centre pour la Sécurité de l'IA`
 - [BetterBench](https://betterbench.stanford.edu) [Database](https://betterbench.stanford.edu/database.html)
 - [openXAI](https://open-xai.github.io) `Python`
 
