@@ -592,6 +592,7 @@ For consumers:
 - [Responsible AI Toolbox](https://github.com/microsoft/responsible-ai-toolbox) `Python` `Microsoft`
 - [Responsible AI Widgets](https://github.com/microsoft/responsible-ai-widgets) `R` `Microsoft`
 - [The Data Cards Playbook](https://pair-code.github.io/datacardsplaybook/) `Python` `Google`
+- [Zeno Hub](https://github.com/zeno-ml/zeno-hub) `Python`
 
 ### (AI) Watermarking
 
