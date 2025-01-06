@@ -619,6 +619,12 @@ Regulations are requirements established by governments.
 - [Policy Database](https://aistandardshub.org/policy-and-strategy-search/)
 - [SCL Artificial Intelligence Contractual Clauses](https://www.scl.org/wp-content/uploads/2024/02/AI-Clauses-Project-October-2023-final-1.pdf)
 
+### Australia
+
+- [AI and ESG](https://www.industry.gov.au/publications/ai-and-esg)
+- [The AI Impact Navigator](https://www.industry.gov.au/publications/ai-impact-navigator)
+- [Voluntary AI Safety Standard](https://www.industry.gov.au/publications/voluntary-ai-safety-standard)
+
 ### Canada
 
 - [Algorithmic Impact Assessment tool](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/algorithmic-impact-assessment.html)
