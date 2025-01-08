@@ -54,6 +54,7 @@ AI is a transformative technology prone to reshape industries, yet it requires c
 - [Data Sets](#data-sets)
 - [Frameworks](#frameworks)
 - [Institutes](#institutes)
+- [Maturity Models](#maturity-models)
 - [Newsletters](#newsletters)
 - [Principles](#principles)
 - [Podcasts](#podcasts)
@@ -234,15 +235,19 @@ AI is a transformative technology prone to reshape industries, yet it requires c
 
 ## Institutes
 
-- [Ada Lovelace Institute](https://www.adalovelaceinstitute.org/) `United Kingdom`
-- AI Safety Institutes (or equivalent):
-  - [Canada AISI](https://ised-isde.canada.ca/site/ised/en/canadian-artificial-intelligence-safety-institute) `Canada`
-  - [EU AI Office](https://digital-strategy.ec.europa.eu/en/policies/ai-office) `Europe`
-  - [Japan AISI](https://aisi.go.jp) `Japan`
-  - [Korea AISI](https://www.aisi.re.kr/kor) `South Korea`
-  - [Singapore AISI](https://www.ntu.edu.sg/dtc) `Singapore`
-  - [UK AISI](https://www.aisi.gov.uk) `United Kingdom`
-  - [US AISI](https://www.nist.gov/aisi) `United States of America`   
+### AI Safety Institutes (or equivalent)
+
+- [Canada AISI](https://ised-isde.canada.ca/site/ised/en/canadian-artificial-intelligence-safety-institute) `Canada`
+- [EU AI Office](https://digital-strategy.ec.europa.eu/en/policies/ai-office) `Europe`
+- [Japan AISI](https://aisi.go.jp) `Japan`
+- [Korea AISI](https://www.aisi.re.kr/kor) `South Korea`
+- [Singapore AISI](https://www.ntu.edu.sg/dtc) `Singapore`
+- [UK AISI](https://www.aisi.gov.uk) `United Kingdom`
+- [US AISI](https://www.nist.gov/aisi) `United States of America`  
+
+### Country level
+
+- [Ada Lovelace Institute](https://www.adalovelaceinstitute.org/) `United Kingdom`   
 - [Centre pour la Securité de l'IA, CeSIA](https://www.securite-ia.fr) `France`
 - [European Centre for Algorithmic Transparency](https://algorithmic-transparency.ec.europa.eu/index_en)
 - [Center for Human-Compatible AI](https://humancompatible.ai) `UC Berkeley` `United States of America`
@@ -255,6 +260,21 @@ AI is a transformative technology prone to reshape industries, yet it requires c
 - [The Institute for Ethical AI & Machine Learning](https://ethical.institute/)
 - [UNESCO Chair in AI Ethics & Governance](https://www.ie.edu/unesco-chair-in-ai-ethics-and-governance/) `IE University` `Spain`
 - [University of Oxford Institute for Ethics in AI](https://www.oxford-aiethics.ox.ac.uk/) `University of Oxford` `United Kingdom`
+- [Australian Government-funded AI Adopt Centres](https://www.industry.gov.au/news/be-part-ai-revolution-ai-adopt-centres?utm_source=IGA%20Newsletter&utm_medium=Email&utm_campaign=NAIC):
+  - [ARM Hub AI Adopt Centre](https://aiadopt.ai)
+  - [Australian Regional AI Network (ARAIN)](https://arain.com.au)
+  - [SAAM (Safe AI Adoption Model)](https://www.saam.com.au)
+  - [SMEC AI (Small to Medium Enterprise Centre of Artificial Intelligence)](https://smecai.au)
+
+## Maturity Models
+
+### AI Governance
+
+- [The AIGA AI Governance Framework](https://ai-governance.eu)
+
+### Responsible AI
+
+- [The GSMA Responsible AI Maturity Roadmap](https://www.gsma.com/solutions-and-impact/connectivity-for-good/external-affairs/responsible-ai/)
 
 ## Newsletters
 
