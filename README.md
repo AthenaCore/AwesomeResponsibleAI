@@ -66,22 +66,21 @@ AI is a transformative technology prone to reshape industries, yet it requires c
 
 ## Academic Research
 
-### Evaluation (of model explanations)
+### Adversarial ML
 
-- Agarwal, C., Krishna, S., Saxena, E., Pawelczyk, M., Johnson, N., Puri, I., ... & Lakkaraju, H. (2022). **Openxai: Towards a transparent evaluation of model explanations**. Advances in Neural Information Processing Systems, 35, 15784-15799. [Article](https://arxiv.org/abs/2206.11104)
-- Liesenfeld, A., and Dingemanse, M. (2024). **Rethinking Open Source Generative AI: Open-Washing and the EU AI Act**. In The 2024 ACM Conference on Fairness, Accountability, and Transparency (FAccT ’24). Rio de Janeiro, Brazil: ACM. [Article](https://pure.mpg.de/rest/items/item_3588217_2/component/file_3588218/content) [Benchmark](https://opening-up-chatgpt.github.io)
+- Oprea, A., & Vassilev, A. (2023). Adversarial machine learning: A taxonomy and terminology of attacks and mitigations. National Institute of Standards and Technology. [Article](https://www.nist.gov/publications/adversarial-machine-learning-taxonomy-and-terminology-attacks-and-mitigations?utm_source=substack&utm_medium=email)
 
 ### Bias
 
-- Schwartz, R., Schwartz, R., Vassilev, A., Greene, K., Perine, L., Burt, A., & Hall, P. (2022). **Towards a standard for identifying and managing bias in artificial intelligence** (Vol. 3, p. 00). US Department of Commerce, National Institute of Standards and Technology. [Article](https://www.nist.gov/publications/towards-standard-identifying-and-managing-bias-artificial-intelligence) `NIST`
+- Schwartz, R., et al. (2022). **Towards a standard for identifying and managing bias in artificial intelligence** (Vol. 3, p. 00). US Department of Commerce, National Institute of Standards and Technology. [Article](https://www.nist.gov/publications/towards-standard-identifying-and-managing-bias-artificial-intelligence) `NIST`
 
 ### Challenges
 
-- D'Amour, A., Heller, K., Moldovan, D., Adlam, B., Alipanahi, B., Beutel, A., ... & Sculley, D. (2022). **Underspecification presents challenges for credibility in modern machine learning**. Journal of Machine Learning Research, 23(226), 1-61. [Article](https://arxiv.org/abs/2011.03395) `Google`
+- D'Amour, A., et al. (2022). **Underspecification presents challenges for credibility in modern machine learning**. Journal of Machine Learning Research, 23(226), 1-61. [Article](https://arxiv.org/abs/2011.03395) `Google`
 
 ### Drift
 
-- Ackerman, S., Dube, P., Farchi, E., Raz, O., & Zalmanovici, M. (2021, June). **Machine learning model drift detection via weak data slices**. In 2021 IEEE/ACM Third International Workshop on Deep Learning for Testing and Testing for Deep Learning (DeepTest) (pp. 1-8). IEEE. [Article](https://arxiv.org/pdf/2108.05319.pdf) `IBM`
+- Ackerman, S., et al. (2021, June). **Machine learning model drift detection via weak data slices**. In 2021 IEEE/ACM Third International Workshop on Deep Learning for Testing and Testing for Deep Learning (DeepTest) (pp. 1-8). IEEE. [Article](https://arxiv.org/pdf/2108.05319.pdf) `IBM`
 - Ackerman, S., Raz, O., & Zalmanovici, M. (2020, February). **FreaAI: Automated extraction of data slices to test machine learning models**. In International Workshop on Engineering Dependable and Secure Machine Learning Systems (pp. 67-83). Cham: Springer International Publishing. [Article](https://arxiv.org/pdf/2108.05620.pdf) `IBM`
 
 ### Explainability
@@ -98,6 +97,19 @@ AI is a transformative technology prone to reshape industries, yet it requires c
 - Boolean Decision Rules via Column Generation (Light Edition) ([Dash et al., 2018](https://papers.nips.cc/paper/7716-boolean-decision-rules-via-column-generation)) `IBM Research`
 - Towards Robust Interpretability with Self-Explaining Neural Networks ([Alvarez-Melis et al., 2018](https://papers.nips.cc/paper/8003-towards-robust-interpretability-with-self-explaining-neural-networks)) `MIT`
 
+### Ethical Data Products
+
+- Gebru, T., Morgenstern, J., Vecchione, B., Vaughan, J. W., Wallach, H., Iii, H. D., & Crawford, K. (2021). **Datasheets for datasets**. Communications of the ACM, 64(12), 86-92. [Article](https://arxiv.org/abs/1803.09010) `Google`
+- Mitchell, M., Wu, S., Zaldivar, A., Barnes, P., Vasserman, L., Hutchinson, B., ... & Gebru, T. (2019, January). **Model cards for model reporting**. In Proceedings of the conference on fairness, accountability, and transparency (pp. 220-229). [Article](https://arxiv.org/abs/1810.03993) `Google`
+- Pushkarna, M., Zaldivar, A., & Kjartansson, O. (2022, June). **Data cards: Purposeful and transparent dataset documentation for responsible ai**. In Proceedings of the 2022 ACM Conference on Fairness, Accountability, and Transparency (pp. 1776-1826). [Article](https://dl.acm.org/doi/10.1145/3531146.3533231) `Google`
+- Rostamzadeh, N., Mincu, D., Roy, S., Smart, A., Wilcox, L., Pushkarna, M., ... & Heller, K. (2022, June). **Healthsheet: development of a transparency artifact for health datasets**. In Proceedings of the 2022 ACM Conference on Fairness, Accountability, and Transparency (pp. 1943-1961). [Article](https://arxiv.org/abs/2202.13028) `Google`
+- Saint-Jacques, G., Sepehri, A., Li, N., & Perisic, I. (2020). **Fairness through Experimentation: Inequality in A/B testing as an approach to responsible design**. arXiv preprint arXiv:2002.05819. [Article](https://arxiv.org/pdf/2002.05819) `LinkedIn`
+
+### Evaluation (of model explanations)
+
+- Agarwal, C., et al. (2022). **Openxai: Towards a transparent evaluation of model explanations**. Advances in Neural Information Processing Systems, 35, 15784-15799. [Article](https://arxiv.org/abs/2206.11104)
+- Liesenfeld, A., and Dingemanse, M. (2024). **Rethinking Open Source Generative AI: Open-Washing and the EU AI Act**. In The 2024 ACM Conference on Fairness, Accountability, and Transparency (FAccT ’24). Rio de Janeiro, Brazil: ACM. [Article](https://pure.mpg.de/rest/items/item_3588217_2/component/file_3588218/content) [Benchmark](https://opening-up-chatgpt.github.io)
+
 ### Fairness
 
 - Caton, S., & Haas, C. (2024). **Fairness in machine learning: A survey.** ACM Computing Surveys, 56(7), 1-38. [Article](https://dl.acm.org/doi/full/10.1145/3616865)
@@ -107,13 +119,9 @@ AI is a transformative technology prone to reshape industries, yet it requires c
 - Saleiro, P., Kuester, B., Hinkson, L., London, J., Stevens, A., Anisfeld, A., ... & Ghani, R. (2018). **Aequitas: A bias and fairness audit toolkit**. arXiv preprint arXiv:1811.05577. [Article](https://arxiv.org/abs/1811.05577)
 - Vasudevan, S., & Kenthapadi, K. (2020, October). **Lift: A scalable framework for measuring fairness in ml applications**. In Proceedings of the 29th ACM international conference on information & knowledge management (pp. 2773-2780). [Article](https://arxiv.org/abs/2008.07433) `LinkedIn`
 
-### Ethical Data Products
+### Risk
 
-- Gebru, T., Morgenstern, J., Vecchione, B., Vaughan, J. W., Wallach, H., Iii, H. D., & Crawford, K. (2021). **Datasheets for datasets**. Communications of the ACM, 64(12), 86-92. [Article](https://arxiv.org/abs/1803.09010) `Google`
-- Mitchell, M., Wu, S., Zaldivar, A., Barnes, P., Vasserman, L., Hutchinson, B., ... & Gebru, T. (2019, January). **Model cards for model reporting**. In Proceedings of the conference on fairness, accountability, and transparency (pp. 220-229). [Article](https://arxiv.org/abs/1810.03993) `Google`
-- Pushkarna, M., Zaldivar, A., & Kjartansson, O. (2022, June). **Data cards: Purposeful and transparent dataset documentation for responsible ai**. In Proceedings of the 2022 ACM Conference on Fairness, Accountability, and Transparency (pp. 1776-1826). [Article](https://dl.acm.org/doi/10.1145/3531146.3533231) `Google`
-- Rostamzadeh, N., Mincu, D., Roy, S., Smart, A., Wilcox, L., Pushkarna, M., ... & Heller, K. (2022, June). **Healthsheet: development of a transparency artifact for health datasets**. In Proceedings of the 2022 ACM Conference on Fairness, Accountability, and Transparency (pp. 1943-1961). [Article](https://arxiv.org/abs/2202.13028) `Google`
-- Saint-Jacques, G., Sepehri, A., Li, N., & Perisic, I. (2020). **Fairness through Experimentation: Inequality in A/B testing as an approach to responsible design**. arXiv preprint arXiv:2002.05819. [Article](https://arxiv.org/pdf/2002.05819) `LinkedIn`
+- Slattery, P., et al. (2024). **The ai risk repository: A comprehensive meta-review, database, and taxonomy of risks from artificial intelligence**. arXiv preprint arXiv:2408.12622. [Article](https://arxiv.org/pdf/2408.12622)
 
 ### Sustainability
 
