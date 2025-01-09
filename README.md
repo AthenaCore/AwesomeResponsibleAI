@@ -471,6 +471,7 @@ Additional:
 - [XAI - An eXplainability toolbox for machine learning](https://github.com/EthicalML/xai) `Python` `The Institute for Ethical Machine Learning`
 - [xplique](https://github.com/deel-ai/xplique) `Python`
 - [XAIoGraphs](https://github.com/Telefonica/XAIoGraphs) `Python` `Telefonica`
+- [XAITK](https://xaitk.org/) `Python` `DARPA`
 - [Zennit](https://github.com/chr5tphr/zennit) `Python`
 
 ### Interpretable Models
