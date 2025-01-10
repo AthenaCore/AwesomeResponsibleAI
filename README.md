@@ -119,6 +119,10 @@ AI is a transformative technology prone to reshape industries, yet it requires c
 - Saleiro, P., Kuester, B., Hinkson, L., London, J., Stevens, A., Anisfeld, A., ... & Ghani, R. (2018). **Aequitas: A bias and fairness audit toolkit**. arXiv preprint arXiv:1811.05577. [Article](https://arxiv.org/abs/1811.05577)
 - Vasudevan, S., & Kenthapadi, K. (2020, October). **Lift: A scalable framework for measuring fairness in ml applications**. In Proceedings of the 29th ACM international conference on information & knowledge management (pp. 2773-2780). [Article](https://arxiv.org/abs/2008.07433) `LinkedIn`
 
+### Regulation
+
+- Wasil, A. R., Reed, T., Miller, J. W., & Barnett, P. (2024). Verification methods for international AI agreements. arXiv preprint arXiv:2408.16074. [Article](https://arxiv.org/pdf/2408.16074)
+
 ### Risk
 
 - Slattery, P., et al. (2024). **The ai risk repository: A comprehensive meta-review, database, and taxonomy of risks from artificial intelligence**. arXiv preprint arXiv:2408.12622. [Article](https://arxiv.org/pdf/2408.12622)
