@@ -543,6 +543,7 @@ Additional benchmarks can be found [here](https://airtable.com/app83SBBFk9WO25hJ
 - [LOFO Importance](https://github.com/aerdem4/lofo-importance) `Python`
 - [forester](https://modeloriented.github.io/forester/) `R`
 - [metrica: Prediction performance metrics](https://adriancorrendo.github.io/metrica/) `R`
+- [MLmetrics](https://github.com/yanyachen/MLmetrics) `R`
 - [model-diagnostics](https://github.com/lorentzenchr/model-diagnostics) `Python`
 - [NNI: Neural Network Intelligence](https://github.com/microsoft/nni) `Python` `Microsoft`
 - [performance](https://github.com/easystats/performance) `R`
@@ -551,6 +552,7 @@ Additional benchmarks can be found [here](https://airtable.com/app83SBBFk9WO25hJ
 - [TensorFlow Model Analysis](https://github.com/tensorflow/model-analysis) `Python` `Google`
 - [TPOT](http://epistasislab.github.io/tpot/) `Python`
 - [Unleash](https://www.getunleash.io) `Python`
+- [yardstick](https://github.com/tidymodels/yardstick) `R`
 - [Yellowbrick](https://www.scikit-yb.org/en/latest/) `Python`
 - [WeightWatcher](https://github.com/CalculatedContent/WeightWatcher) ([Examples](https://github.com/CalculatedContent/WeightWatcher-Examples)) `Python`
 
