@@ -251,11 +251,22 @@ AI is a transformative technology prone to reshape industries, yet it requires c
 
 - [Canada AISI](https://ised-isde.canada.ca/site/ised/en/canadian-artificial-intelligence-safety-institute) `Canada`
 - [EU AI Office](https://digital-strategy.ec.europa.eu/en/policies/ai-office) `Europe`
-- [Japan AISI](https://aisi.go.jp) `Japan`
 - [Korea AISI](https://www.aisi.re.kr/kor) `South Korea`
 - [Singapore AISI](https://www.ntu.edu.sg/dtc) `Singapore`
 - [UK AISI](https://www.aisi.gov.uk) `United Kingdom`
-- [US AISI](https://www.nist.gov/aisi) `United States of America`  
+
+**[Japan AISI](https://aisi.go.jp)**
+
+| Code | Title   |  Description | Status  | Source |
+|---|---|---|---|---|
+| AI Safety Evaluation v1.0.1 | A guide to red teaming techniques for AI safety | Presents basic concepts that those involved in the development and provision of AI systems can refer to when conducting AI Safety evaluations | Published | [Source](https://aisi.go.jp/assets/pdf/ai_safety_eval_v1.01_en.pdf) |
+| AI Safety RT v1.0.0 | Guide to Red Teaming Methodology on AI Safety | Intended to help developers and providers of AI systems to evaluate the basic considerations of red teaming methodologies for AI systems from the viewpoint of attackers | Published | [Source](https://aisi.go.jp/assets/pdf/ai_safety_RT_v1.00_en.pdf) |
+
+**[US AISI](https://www.nist.gov/aisi)**
+
+| Code | Title   |  Description | Status  | Source |
+|---|---|---|---|---|
+| NIST AI 800-1 | Managing Misuse Risk for Dual-Use Foundation Models | Outlines voluntary best practices for identifying, measuring, and mitigating risks to public safety and national security across the AI lifecycle | Draft (second Version) | [Source](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.800-1.ipd2.pdf) |
 
 ### Country level
 
