@@ -581,12 +581,16 @@ Additional benchmarks can be found [here](https://airtable.com/app83SBBFk9WO25hJ
 - [diffpriv](https://github.com/brubinstein/diffpriv) `R`
 - [Diffprivlib](https://github.com/IBM/differential-privacy-library) `Python` `IBM`
 - [Discrete Gaussian for Differential Privacy](https://github.com/IBM/discrete-gaussian-differential-privacy) `Python` `IBM`
+- [Gretel Synthetics](https://github.com/gretelai/gretel-synthetics) `Python`
 - [Opacus](https://opacus.ai) `Python` `Facebook`
 - [Privacy Meter](https://github.com/privacytrustlab/ml_privacy_meter) `Python` `National University of Singapore`
 - [PyVacy: Privacy Algorithms for PyTorch](https://github.com/ChrisWaites/pyvacy) `Python`
 - [SEAL](https://github.com/Microsoft/SEAL) `Python` `Microsoft`
 - [SmartNoise](https://github.com/opendp/smartnoise-core) `Python` `OpenDP`
+- [SDV](https://github.com/sdv-dev/SDV) `Python`
+- [Snorkel](https://github.com/snorkel-team/snorkel) [SDV](https://github.com/sdv-dev/SDV) `Python`
 - [Tensorflow Privacy](https://github.com/tensorflow/privacy) `Python` `Google`
+- [YData Synthetic](https://github.com/ydataai/ydata-synthetic) `Python`
 
 ### Reliability Evaluation (of post hoc explanation methods and LLMs evaluations) 
 
