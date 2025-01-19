@@ -505,6 +505,8 @@ Additional:
 
 - [AIluminate](https://mlcommons.org/ailuminate/)
 - [AlignEval: Making Evals Easy, Fun, and Semi-Automated](https://aligneval.com) [Motivation](https://eugeneyan.com/writing/aligneval/)
+- [AlpacaEval](https://github.com/tatsu-lab/alpaca_eval) `Python`
+- [ARES](https://github.com/stanford-futuredata/ARES) `Python` `Standorf Future Data Systems`
 - [Azure AI Evaluation](https://github.com/Azure/azure-sdk-for-python/tree/main/sdk/evaluation/azure-ai-evaluation) `Python` `Microsoft`
 - [BALROG](https://github.com/balrog-ai/BALROG) `Python` 
 - [DeepEval](https://github.com/confident-ai/deepeval) `Python` 
@@ -588,7 +590,7 @@ Additional benchmarks can be found [here](https://airtable.com/app83SBBFk9WO25hJ
 - [SEAL](https://github.com/Microsoft/SEAL) `Python` `Microsoft`
 - [SmartNoise](https://github.com/opendp/smartnoise-core) `Python` `OpenDP`
 - [SDV](https://github.com/sdv-dev/SDV) `Python`
-- [Snorkel](https://github.com/snorkel-team/snorkel) [SDV](https://github.com/sdv-dev/SDV) `Python`
+- [Snorkel](https://github.com/snorkel-team/snorkel) `Python`
 - [Tensorflow Privacy](https://github.com/tensorflow/privacy) `Python` `Google`
 - [YData Synthetic](https://github.com/ydataai/ydata-synthetic) `Python`
 
