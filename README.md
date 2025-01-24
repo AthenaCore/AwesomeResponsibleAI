@@ -515,6 +515,7 @@ Additional:
 - [FrontierMath](https://epoch.ai/frontiermath)
 - [Geekbench AI](https://www.geekbench.com/ai/)
 - [Giskard](https://github.com/Giskard-AI/giskard) `Python`
+- [Humanity's Last Exam](https://lastexam.ai)
 - [Inspect](https://ukgovernmentbeis.github.io/inspect_ai/) `UK AISI` `Python`
 - [Jailbreakbench](https://jailbreakbench.github.io) `Python`
 - [LightEval](https://github.com/huggingface/lighteval) `HuggingFace` `Python`
