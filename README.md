@@ -508,6 +508,7 @@ Additional:
 - [AlpacaEval](https://github.com/tatsu-lab/alpaca_eval) `Python`
 - [ARES](https://github.com/stanford-futuredata/ARES) `Python` `Standorf Future Data Systems`
 - [Azure AI Evaluation](https://github.com/Azure/azure-sdk-for-python/tree/main/sdk/evaluation/azure-ai-evaluation) `Python` `Microsoft`
+- [Banana-lyzer](https://github.com/reworkd/bananalyzer) `Python`
 - [BALROG](https://github.com/balrog-ai/BALROG) `Python` 
 - [DeepEval](https://github.com/confident-ai/deepeval) `Python` 
 - [evals](https://github.com/openai/evals) `Python` `OpenAI`
@@ -515,7 +516,7 @@ Additional:
 - [FrontierMath](https://epoch.ai/frontiermath)
 - [Geekbench AI](https://www.geekbench.com/ai/)
 - [Giskard](https://github.com/Giskard-AI/giskard) `Python`
-- [Humanity's Last Exam](https://lastexam.ai)
+- [Humanity's Last Exam](https://lastexam.ai) `Scale AI` `Center for AI Safety`
 - [Inspect](https://ukgovernmentbeis.github.io/inspect_ai/) `UK AISI` `Python`
 - [Jailbreakbench](https://jailbreakbench.github.io) `Python`
 - [LightEval](https://github.com/huggingface/lighteval) `HuggingFace` `Python`
