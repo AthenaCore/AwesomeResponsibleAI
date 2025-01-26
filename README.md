@@ -512,6 +512,7 @@ Additional:
 - [BALROG](https://github.com/balrog-ai/BALROG) `Python` 
 - [DeepEval](https://github.com/confident-ai/deepeval) `Python` 
 - [evals](https://github.com/openai/evals) `Python` `OpenAI`
+- [EvalScope](https://github.com/modelscope/evalscope) `Python`
 - [FBI: Finding Blindspots in LLM Evaluations with Interpretable Checklists](https://github.com/AI4Bharat/FBI) `Python`
 - [FrontierMath](https://epoch.ai/frontiermath)
 - [Geekbench AI](https://www.geekbench.com/ai/)
