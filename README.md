@@ -180,7 +180,7 @@ AI is a transformative technology prone to reshape industries, yet it requires c
 - [Interpretable Machine Learning With Python: Learn to Build Interpretable High-Performance Models With Hands-On Real-World Examples](https://www.packtpub.com/product/interpretable-machine-learning-with-python/9781800203907)
 - Responsible AI ([Hall, P., Chowdhury, R., 2023](https://learning.oreilly.com/library/view/responsible-ai/9781098102425/)) `Governance` `Safety` `Drift`
 - Marcus, G. F. (2024). **Taming Silicon Valley: How We Can Ensure That AI Works for Us**. MIT Press. [Book](https://mitpress.mit.edu/9780262551069/taming-silicon-valley/)
-- Yampolskiy, R. V. (2024) **AI: Unexplainable, Unpredictable, Uncontrollable**. 2024. CRC Press 🔗 Source [Book](https://mitpressbookstore.mit.edu/book/9781032576275)
+- Yampolskiy, R. V. (2024) **AI: Unexplainable, Unpredictable, Uncontrollable**. 2024. CRC Press  [Book](https://mitpressbookstore.mit.edu/book/9781032576275)
 
 ## Code of Ethics
 
@@ -513,6 +513,7 @@ Additional:
 - [DeepEval](https://github.com/confident-ai/deepeval) `Python` 
 - [evals](https://github.com/openai/evals) `Python` `OpenAI`
 - [EvalScope](https://github.com/modelscope/evalscope) `Python`
+- [FlagEval](https://github.com/flageval-baai/FlagEval) `Python` `BAAI`
 - [FBI: Finding Blindspots in LLM Evaluations with Interpretable Checklists](https://github.com/AI4Bharat/FBI) `Python`
 - [FrontierMath](https://epoch.ai/frontiermath)
 - [Geekbench AI](https://www.geekbench.com/ai/)
