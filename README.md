@@ -200,6 +200,7 @@ AI is a transformative technology prone to reshape industries, yet it requires c
 ### AI Governance
 
 - [AI Governance](https://aisafetyfundamentals.com/governance/) `BlueDot Impact`
+- [AI Ethics & Governance (AEG)](https://alan-turing-institute.github.io/turing-commons/skills-tracks/aeg/index.html) `The Alan Turing Institute`
 
 ### Explainability/Interpretability
 
@@ -213,6 +214,11 @@ AI is a transformative technology prone to reshape industries, yet it requires c
 
 - [Introduction to AI Ethics](https://www.kaggle.com/learn/intro-to-ai-ethics) `Kaggle`
 - [Practical Data Ethics](https://ethics.fast.ai) `Fast.ai`
+- [Public Engagement of Data Science and AI (PED)](https://alan-turing-institute.github.io/turing-commons/skills-tracks/ped/index.html) `The Alan Turing Institute`
+
+### Data Justice
+
+- [Data Justice (DJ)](https://alan-turing-institute.github.io/turing-commons/skills-tracks/dj/index.html) `The Alan Turing Institute`
 
 ### Data Privacy
 
@@ -222,6 +228,7 @@ AI is a transformative technology prone to reshape industries, yet it requires c
 ### Ethical Design
 
 - [CIS 4230/5230 - Ethical Algorithm Design](https://www.cis.upenn.edu/~mkearns/teaching/EADSpring24/) `University of Pennsylvania`
+- [Responsible Research and Innovation (RRI)](https://alan-turing-institute.github.io/turing-commons/skills-tracks/rri/index.html) `The Alan Turing Institute`
 
 ### Safety
 
@@ -677,6 +684,7 @@ Regulations are requirements established by governments.
 - [Digital Policy Alert](https://digitalpolicyalert.org/analysis)
 - [ETO Agora](emerging-technology-observatory/)
 - [GDPR Comparison](https://www.activemind.legal/law/)
+- [Global AI Regulation](https://global-ai-regulations.glitch.me)
 - [National AI policies & strategies](https://oecd.ai/en/dashboards/overview)
 - [Policy Database](https://aistandardshub.org/policy-and-strategy-search/)
 - [SCL Artificial Intelligence Contractual Clauses](https://www.scl.org/wp-content/uploads/2024/02/AI-Clauses-Project-October-2023-final-1.pdf)
