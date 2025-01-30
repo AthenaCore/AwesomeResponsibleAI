@@ -520,6 +520,7 @@ Additional:
 - [DeepEval](https://github.com/confident-ai/deepeval) `Python` 
 - [evals](https://github.com/openai/evals) `Python` `OpenAI`
 - [EvalScope](https://github.com/modelscope/evalscope) `Python`
+- [FMBench](https://github.com/aws-samples/foundation-model-benchmarking-tool) `Python` `Amazon`
 - [FlagEval](https://github.com/flageval-baai/FlagEval) `Python` `BAAI`
 - [FBI: Finding Blindspots in LLM Evaluations with Interpretable Checklists](https://github.com/AI4Bharat/FBI) `Python`
 - [FrontierMath](https://epoch.ai/frontiermath)
