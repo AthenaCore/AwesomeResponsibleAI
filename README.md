@@ -761,7 +761,7 @@ The European Committee for Standardization is one of three European Standardizat
 
 Domain | Standard | Status | URL
 ---|---|---|---
-Data governance and quality for AI within the European context | CEN/CLC/TR 18115:2024 | Published | [Source]
+Data governance and quality for AI within the European context | CEN/CLC/TR 18115:2024 | Published | [Source](https://standards.cencenelec.eu/dyn/www/f?p=CEN:110:0::::FSP_PROJECT,FSP_ORG_ID:76985,2916257&cs=1D8677F053BD6A69827AAF37B45211997)
 
 CEN AI Work programme can be found [here](https://standards.cencenelec.eu/dyn/www/f?p=205:22:0::::FSP_ORG_ID,FSP_LANG_ID:2916257,25&cs=1827B89DA69577BF3631EE2B6070F207D).
 
