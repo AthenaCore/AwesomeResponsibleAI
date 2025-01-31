@@ -526,6 +526,7 @@ Additional:
 - [FrontierMath](https://epoch.ai/frontiermath)
 - [Geekbench AI](https://www.geekbench.com/ai/)
 - [Giskard](https://github.com/Giskard-AI/giskard) `Python`
+- [HELM](https://github.com/stanford-crfm/helm) `Python`
 - [Humanity's Last Exam](https://lastexam.ai) `Scale AI` `Center for AI Safety`
 - [Inspect](https://ukgovernmentbeis.github.io/inspect_ai/) `UK AISI` `Python`
 - [Jailbreakbench](https://jailbreakbench.github.io) `Python`
