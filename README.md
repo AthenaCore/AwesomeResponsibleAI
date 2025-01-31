@@ -162,7 +162,7 @@ AI is a transformative technology prone to reshape industries, yet it requires c
 - Cunningham, Scott. (2021) **Causal inference: The mixtape**. Yale university press. [Book](https://mixtape.scunning.com) `Causal Inference`
 - Fourrier, C. and et all. (2024) **LLM Evaluation Guidebook**. Github Repository. [Web](https://github.com/huggingface/evaluation-guidebook) `LLM Evaluation`
 - Freiesleben, T. & Molnar, C. (2024). **Supervised Machine Learning for Science: How to stop worrying and love your black box.** [Book](https://ml-science-book.com/)
-- Matloff, N et all. (2204) **Data Science Looks at Discrimination** [Book](https://htmlpreview.github.io/?https://github.com/matloff/dsldBook/blob/main/_book/index.html) `Fairness` `R`
+- Matloff, N et al. (2204) **Data Science Looks at Discrimination** [Book](https://htmlpreview.github.io/?https://github.com/matloff/dsldBook/blob/main/_book/index.html) `Fairness` `R`
 - Molnar, C. (2020). **Interpretable Machine Learning**. Lulu.com. [Book](https://christophm.github.io/interpretable-ml-book/) `Explainability` `Interpretability` `Transparency` `R`
 - Huntington-Klein, Nick. (2012) **The effect: An introduction to research design and causality**. Chapman and Hall/CRC. [Book](https://theeffectbook.net) `Causal Inference`
 
@@ -324,7 +324,7 @@ AI is a transformative technology prone to reshape industries, yet it requires c
 
 ## Principles
 
-- [Allianz's Principles for a responsible usage of AI ](https://www.allianz.com/en/about-us/strategy-values/data-ethics-and-responsible-ai.html) `Allianz`
+- [Allianz's Principles for a responsible usage of AI](https://www.allianz.com/en/about-us/strategy-values/data-ethics-and-responsible-ai.html) `Allianz`
 - [Asilomar AI principles](https://futureoflife.org/open-letter/ai-principles/)
 - [European Commission's Guidelines for Trustworthy AI](https://ec.europa.eu/futurium/en/ai-alliance-consultation)
 - [Google's AI Principles](https://ai.google/principles/) `Google`
@@ -734,7 +734,7 @@ NIS2 Directive | EU/2022/2555 |It provides legal measures to boost the overall l
 - State laws: California ([CCPA](https://www.oag.ca.gov/privacy/ccpa) and its amendment, [CPRA](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202120220AB1490)), Virginia ([VCDPA](https://lis.virginia.gov/cgi-bin/legp604.exe?212+sum+HB2307)), Colorado ([ColoPA - Colorado SB21-190](https://leg.colorado.gov/sites/default/files/documents/2021A/bills/2021a_190_rer.pdf) and [Colorado SB21-169: Regulation prohibiting unfair discrimination in insurance](https://doi.colorado.gov/for-consumers/sb21-169-protecting-consumers-from-unfair-discrimination-in-insurance-practices)) and New York [NYC Local Law 144: Mandatory bias audits for automated employment decision tools](https://www.nyc.gov/site/dca/about/automated-employment-decision-tools.page).
 - Specific and limited privacy data laws: [HIPAA](https://www.cdc.gov/phlp/publications/topic/hipaa.html), [FCRA](https://www.ftc.gov/enforcement/statutes/fair-credit-reporting-act), [FERPA](https://www.cdc.gov/phlp/publications/topic/ferpa.html), [GLBA](https://www.ftc.gov/tips-advice/business-center/privacy-and-security/gramm-leach-bliley-act), [ECPA](https://bja.ojp.gov/program/it/privacy-civil-liberties/authorities/statutes/1285), [COPPA](https://www.ftc.gov/enforcement/rules/rulemaking-regulatory-reform-proceedings/childrens-online-privacy-protection-rule), [VPPA](https://www.law.cornell.edu/uscode/text/18/2710) and [FTC](https://www.ftc.gov/enforcement/statutes/federal-trade-commission-act).
 - [EU-U.S. and Swiss-U.S. Privacy Shield Frameworks](https://www.privacyshield.gov/welcome) - The EU-U.S. and Swiss-U.S. Privacy Shield Frameworks were designed by the U.S. Department of Commerce and the European Commission and Swiss Administration to provide companies on both sides of the Atlantic with a mechanism to comply with data protection requirements when transferring personal data from the European Union and Switzerland to the United States in support of transatlantic commerce.
-- [REMOVING BARRIERS TO AMERICAN LEADERSHIP IN ARTIFICIAL INTELLIGENCE]([https://www.whitehouse.gov/presidential-actions/executive-order-maintaining-american-leadership-artificial-intelligence/](https://www.whitehouse.gov/presidential-actions/2025/01/removing-barriers-to-american-leadership-in-artificial-intelligence/)) - Official mandate by the President of the US to position the country at the forefront of AI innovation.
+- [REMOVING BARRIERS TO AMERICAN LEADERSHIP IN ARTIFICIAL INTELLIGENCE](https://www.whitehouse.gov/presidential-actions/2025/01/removing-barriers-to-american-leadership-in-artificial-intelligence/) - Official mandate by the President of the US to position the country at the forefront of AI innovation.
 - [Privacy Act of 1974](https://www.justice.gov/opcl/privacy-act-1974) - The privacy act of 1974 which establishes a code of fair information practices that governs the collection, maintenance, use and dissemination of information about individuals that is maintained in systems of records by federal agencies.
 - [Privacy Protection Act of 1980](https://epic.org/privacy/ppa/) - The Privacy Protection Act of 1980 protects journalists from being required to turn over to law enforcement any work product and documentary materials, including sources, before it is disseminated to the public.
 - [AI Bill of Rights](https://www.whitehouse.gov/ostp/ai-bill-of-rights/) - The Blueprint for an AI Bill of Rights is a guide for a society that protects all people from IA threats based on five principles: Safe and Effective Systems, Algorithmic Discrimination Protections, Data Privacy, Notice and Explanation, and  Human Alternatives, Consideration, and Fallback.
@@ -863,4 +863,4 @@ Curto, J., et al. "Awesome Responsible Artificial Intelligence." GitHub. Last mo
 
 **MLA (Modern Language Association) 9th Edition**
 
-Curto, J., et al. "Awesome Responsible Artificial Intelligence". *GitHub*, 2025, https://github.com/AthenaCore/AwesomeResponsibleAI. Accessed 29 Jan 2025.
+Curto, J., et al. "Awesome Responsible Artificial Intelligence". *GitHub*, 2025, https://github.com/AthenaCore/AwesomeResponsibleAI. Accessed 31 Jan 2025.
