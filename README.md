@@ -18,7 +18,7 @@ AI governance is a system of rules, processes, frameworks, and tools within an o
 
 Human-Centered Artificial Intelligence (HCAI) is an approach to AI development that prioritizes human users' needs, experiences, and well-being.
 
-### What is Open Source AI
+### What is Open Source AI?
 
 When we refer to a “system,” we are speaking both broadly about a fully functional structure and its discrete structural elements. To be considered Open Source, the requirements are the same, whether applied to a system, a model, weights and parameters, or other structural elements.
 
