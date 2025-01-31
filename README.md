@@ -370,6 +370,10 @@ Additional:
 - [OECD AI Incidents Monitor](https://oecd.ai/en/incidents)
 - [Verica Open Incident Database (VOID)](https://www.thevoid.community/)
 
+### AI Safety
+
+- [International AI Safety Report 2025](https://assets.publishing.service.gov.uk/media/679a0c48a77d250007d313ee/International_AI_Safety_Report_2025_accessible_f.pdf)
+
 ### Market Analysis
 
 - [State of AI](https://www.stateof.ai) - from 2018 up to now -
