@@ -179,6 +179,7 @@ AI is a transformative technology prone to reshape industries, yet it requires c
 - [Human-In-The-Loop Machine Learning: Active Learning and Annotation for Human-Centered AI](https://www.manning.com/books/human-in-the-loop-machine-learning)
 - [Interpretable Machine Learning With Python: Learn to Build Interpretable High-Performance Models With Hands-On Real-World Examples](https://www.packtpub.com/product/interpretable-machine-learning-with-python/9781800203907)
 - Responsible AI ([Hall, P., Chowdhury, R., 2023](https://learning.oreilly.com/library/view/responsible-ai/9781098102425/)) `Governance` `Safety` `Drift`
+- Marcus, G., and Davis, E. (2019). **Rebooting AI: Building artificial intelligence we can trust**. Vintage. [Book](https://www.penguinrandomhouse.com/books/603982/rebooting-ai-by-gary-marcus-and-ernest-davis/)
 - Marcus, G. F. (2024). **Taming Silicon Valley: How We Can Ensure That AI Works for Us**. MIT Press. [Book](https://mitpress.mit.edu/9780262551069/taming-silicon-valley/)
 - Yampolskiy, R. V. (2024) **AI: Unexplainable, Unpredictable, Uncontrollable**. 2024. CRC Press  [Book](https://mitpressbookstore.mit.edu/book/9781032576275)
 
