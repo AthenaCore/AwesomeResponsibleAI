@@ -291,7 +291,7 @@ AI is a transformative technology prone to reshape industries, yet it requires c
 - [The Institute for Ethical AI & Machine Learning](https://ethical.institute/)
 - [UNESCO Chair in AI Ethics & Governance](https://www.ie.edu/unesco-chair-in-ai-ethics-and-governance/) `IE University` `Spain`
 - [University of Oxford Institute for Ethics in AI](https://www.oxford-aiethics.ox.ac.uk/) `University of Oxford` `United Kingdom`
-- [Australian Government-funded AI Adopt Centres](https://www.industry.gov.au/news/be-part-ai-revolution-ai-adopt-centres?utm_source=IGA%20Newsletter&utm_medium=Email&utm_campaign=NAIC):
+- [Australian Government-funded AI Adopt Centres](https://www.industry.gov.au/news/be-part-ai-revolution-ai-adopt-centres):
   - [ARM Hub AI Adopt Centre](https://aiadopt.ai)
   - [Australian Regional AI Network (ARAIN)](https://arain.com.au)
   - [SAAM (Safe AI Adoption Model)](https://www.saam.com.au)
@@ -311,10 +311,12 @@ AI is a transformative technology prone to reshape industries, yet it requires c
 
 - [AI Policy Perspectives](https://www.aipolicyperspectives.com)
 - [AI Policy Weekly](https://aipolicyus.substack.com)
+- [AI Safety in China](https://aisafetychina.substack.com)
 - [AI Safety Newsletter](https://newsletter.safe.ai)
 - [AI Snake Oil](https://www.aisnakeoil.com)
 - [Import AI](importai.substack.com)
 - [Marcus on AI](https://garymarcus.substack.com)
+- [ML Safety Newsletter](https://newsletter.mlsafety.org)
 - [Navigating AI Risks](https://www.navigatingrisks.ai)
 - [One Useful Thing](https://www.oneusefulthing.org)
 - [The AI Ethics Brief](https://brief.montrealethics.ai)
