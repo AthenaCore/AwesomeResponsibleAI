@@ -360,12 +360,13 @@ Additional:
 - Piattini, M. and Fernández C.M. 2024. **Marco Confiable**. Revista SIC 162 [Article](https://revistasic.es/revista-sic/sic-162/colaboraciones/marco-confiable/)
 - Sastry, G., et al. 2024. **Computing Power and the Governance of Artificial Intelligence**. arXiv preprint arXiv:2402.08797. [Article]( https://arxiv.org/pdf/2402.08797)
 
-### (AI) Incidents databases
+### (AI) Incidents databases/trackers
 
-- [AI Incident Database](https://incidentdatabase.ai)
-- [AI Vulnerability Database (AVID)](https://avidml.org/)
 - [AIAAIC](https://www.aiaaic.org/)
 - [AI Badness: An open catalog of generative AI badness](https://badness.ai/)
+- [AI Incident Database](https://incidentdatabase.ai)
+- [AI Incident Tracker](https://airisk.mit.edu/ai-incident-tracker) `MIT`
+- [AI Vulnerability Database (AVID)](https://avidml.org/)
 - [George Washington University Law School's AI Litigation Database](https://blogs.gwu.edu/law-eti/ai-litigation-database/)
 - [Merging AI Incidents Research with Political Misinformation Research: Introducing the Political Deepfakes Incidents Database](https://osf.io/fvqg3/)
 - [OECD AI Incidents Monitor](https://oecd.ai/en/incidents)
