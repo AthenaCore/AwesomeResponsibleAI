@@ -548,13 +548,16 @@ Additional:
 - [MMMU](https://github.com/MMMU-Benchmark/MMMU) `Apple` `Python`
 - [Moonshoot](https://github.com/aiverify-foundation/moonshot) `AI Verify Foundation` `Python`
 - [NaturalBench](https://linzhiqiu.github.io/papers/naturalbench/) `Python`
+- [OffsetBias: Leveraging Debiased Data for Tuning Evaluators](https://github.com/ncsoft/offsetbias) `Python`
 - [opik](https://github.com/comet-ml/opik) `Comet` `Python`
 - [Phoenix](https://github.com/Arize-ai/phoenix) `Arize AI` `Python`
 - [Prometheus](https://github.com/prometheus-eval/prometheus) `Python`
 - [Promptfoo](https://github.com/promptfoo/promptfoo) `Python`
 - [ragas](https://github.com/explodinggradients/ragas) `Python`
+- [RewardBench: Evaluating Reward Models](https://github.com/allenai/reward-bench) `Python` `Ai2`
 - [Rouge](https://pypi.org/project/rouge/) `Python`
 - [SALAD-BENCH](https://github.com/OpenSafetyLab/SALAD-BENCH) [Article](https://arxiv.org/abs/2402.05044) `Python`
+- [Selene Mini](https://github.com/atla-ai/selene-mini) `Python` `Atla`
 - [simple evals](https://github.com/openai/simple-evals) `Python` `OpenAI`
 - [StrongREJECT jailbreak benchmark](https://github.com/dsbowen/strong_reject) `Python`
 - [τ-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains](https://github.com/sierra-research/tau-bench) `Python`
