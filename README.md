@@ -534,6 +534,7 @@ Additional:
 - [FrontierMath](https://epoch.ai/frontiermath)
 - [Geekbench AI](https://www.geekbench.com/ai/)
 - [Giskard](https://github.com/Giskard-AI/giskard) `Python`
+- [HAL Harness](https://github.com/princeton-pli/hal-harness) `Python` `PLI`
 - [HELM](https://github.com/stanford-crfm/helm) `Python`
 - [Humanity's Last Exam](https://lastexam.ai) `Scale AI` `Center for AI Safety`
 - [Inspect](https://ukgovernmentbeis.github.io/inspect_ai/) `UK AISI` `Python`
