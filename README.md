@@ -231,6 +231,10 @@ AI is a transformative technology prone to reshape industries, yet it requires c
 - [CIS 4230/5230 - Ethical Algorithm Design](https://www.cis.upenn.edu/~mkearns/teaching/EADSpring24/) `University of Pennsylvania`
 - [Responsible Research and Innovation (RRI)](https://alan-turing-institute.github.io/turing-commons/skills-tracks/rri/index.html) `The Alan Turing Institute`
 
+### MLOps (including responsible practices)
+
+- [Machine Learning in Production (17-445/17-645/17-745) / AI Engineering (11-695)](https://mlip-cmu.github.io/s2025/) `CMU`
+
 ### Safety
 
 - [Introduction to ML Safety](https://course.mlsafety.org) `Center for AI Safety`
