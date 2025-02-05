@@ -237,6 +237,7 @@ AI is a transformative technology prone to reshape industries, yet it requires c
 
 ### Safety
 
+- [AI Safety, Ethics and Society](https://www.aisafetybook.com/virtual-course) `Center for AI Safety`
 - [Introduction to ML Safety](https://course.mlsafety.org) `Center for AI Safety`
 
 ## Data Sets
