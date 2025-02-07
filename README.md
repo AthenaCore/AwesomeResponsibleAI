@@ -214,6 +214,7 @@ AI is a transformative technology prone to reshape industries, yet it requires c
 ### Data/AI Ethics
 
 - [Introduction to AI Ethics](https://www.kaggle.com/learn/intro-to-ai-ethics) `Kaggle`
+- [Modern-Day Oracles or Bullshit Machines?](https://thebullshitmachines.com/instructor-guide/index.html)
 - [Practical Data Ethics](https://ethics.fast.ai) `Fast.ai`
 - [Public Engagement of Data Science and AI (PED)](https://alan-turing-institute.github.io/turing-commons/skills-tracks/ped/index.html) `The Alan Turing Institute`
 
@@ -234,6 +235,10 @@ AI is a transformative technology prone to reshape industries, yet it requires c
 ### MLOps (including responsible practices)
 
 - [Machine Learning in Production (17-445/17-645/17-745) / AI Engineering (11-695)](https://mlip-cmu.github.io/s2025/) `CMU`
+
+### Privacy
+
+- [Privacy Preserving AI Series](https://courses.openmined.org) 
 
 ### Safety
 
