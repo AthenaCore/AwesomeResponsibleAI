@@ -381,7 +381,11 @@ Additional:
 
 ### AI Safety
 
-- [International AI Safety Report 2025](https://assets.publishing.service.gov.uk/media/679a0c48a77d250007d313ee/International_AI_Safety_Report_2025_accessible_f.pdf)
+- [International AI Safety Report](https://assets.publishing.service.gov.uk/media/679a0c48a77d250007d313ee/International_AI_Safety_Report_2025_accessible_f.pdf) `AI Action Summit`
+
+### Copyright
+
+- [Copyright and Artificial Intelligence](https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyrightability-Report.pdf) `US Copyright Office`
 
 ### Market Analysis
 
