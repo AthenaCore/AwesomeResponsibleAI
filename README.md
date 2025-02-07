@@ -839,15 +839,15 @@ AI Governance | ISO/IEC 38507:2022 Information technology — Governance of IT �
 AI Safety | ISO/IEC CD TR 5469 Artificial intelligence — Functional safety and AI systems | Published | https://www.iso.org/standard/81283.html
 Beneficial AI Systems | ISO/IEC AWI TR 21221 Information technology – Artificial intelligence – Beneficial AI systems | Under Development  | https://www.iso.org/standard/86690.html
 
-### NIST Standards
+### NIST Publications
 
-- [NIST AI Risk Management Framework](https://airc.nist.gov/AI_RMF_Knowledge_Base/Playbook)
-- [NIST RMF Crosswalks](https://airc.nist.gov/AI_RMF_Knowledge_Base/Crosswalks)
-- [NIST Technical and Policy Documents](https://airc.nist.gov/AI_RMF_Knowledge_Base/Technical_And_Policy_Documents)
-- [NIST RMF Use Cases](https://airc.nist.gov/Usecases)
-- [NIST Assessing Risks and Impacts of AI (ARIA)](https://ai-challenges.nist.gov/aria)
+| Resource     | Description      | Source              |
+| :----------- | :--------------- | :------------------------- |
+| AI RMF (Risk Management Framework) | The AI Risk Management Framework (AI RMF) is intended for voluntary use and to improve the ability to incorporate trustworthiness considerations into the design, development, use, and evaluation of AI products, services, and systems. | [Source](https://airc.nist.gov/AI_RMF_Knowledge_Base/Playbook)  |
+| AI RMF Playbook | The Playbook provides suggested actions for achieving the outcomes laid out in the AI Risk Management Framework (AI RMF) Core (Tables 1 – 4 in AI RMF 1.0). Suggestions are aligned to each sub-category within the four AI RMF functions (Govern, Map, Measure, Manage). | [Source](https://airc.nist.gov/AI_RMF_Knowledge_Base/Playbook) |
+| AI RMF Glossary | This glossary seeks to promote a shared understanding and improve communication among individuals and organizations seeking to operationalize trustworthy and responsible AI through approaches such as the NIST AI Risk Management Framework (AI RMF). | [Source](https://airc.nist.gov/AI_RMF_Knowledge_Base/Glossary) |
 
-Additional standards can be found using the [Standards Database](https://aistandardshub.org/ai-standards-search/).
+Additional standards can be found using the [Standards Database](https://aistandardshub.org/ai-standards-search/) and we recommend to review [NIST Assessing Risks and Impacts of AI (ARIA)](https://ai-challenges.nist.gov/aria) as well.
 
 ## Citing this repository
 
@@ -880,4 +880,4 @@ Curto, J., et al. "Awesome Responsible Artificial Intelligence." GitHub. Last mo
 
 **MLA (Modern Language Association) 9th Edition**
 
-Curto, J., et al. "Awesome Responsible Artificial Intelligence". *GitHub*, 2025, https://github.com/AthenaCore/AwesomeResponsibleAI. Accessed 31 Jan 2025.
+Curto, J., et al. "Awesome Responsible Artificial Intelligence". *GitHub*, 2025, https://github.com/AthenaCore/AwesomeResponsibleAI. Accessed 07 Feb 2025.
