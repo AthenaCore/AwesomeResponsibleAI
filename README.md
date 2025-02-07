@@ -455,6 +455,14 @@ Additional:
 - [Themis ML](https://github.com/cosmicBboy/themis-ml) `Python`
 - [What-If Tool](https://github.com/PAIR-code/what-if-tool) `Python` `Google`
 
+### Feature Stores
+
+- [Butterfree](https://github.com/quintoandar/butterfree) `Python`
+- [Featureform](https://github.com/featureform/featureform) `Python`
+- [Feathr](https://github.com/feathr-ai/feathr) `Python`
+- [Feast](https://github.com/feast-dev/feast) `Python`
+- [Hopsworks](https://github.com/logicalclocks/hopsworks) `Python`
+
 ### Interpretability/Explicability
 
 - [Alibi Explain](https://github.com/SeldonIO/alibi) `Python`
