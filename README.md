@@ -156,6 +156,7 @@ AI is a transformative technology prone to reshape industries, yet it requires c
 
 ### Open Access
 
+- Barocas, S., Hardt, M., & Narayanan, A. (2023). **Fairness and machine learning: Limitations and opportunities**. MIT press. [Book](https://www.fairmlbook.org)
 - Barrett, M., Gerke, T. & D’Agostino McGowa, L. (2024). **Causal Inference in R** [Book](https://www.r-causal.org) `Causal Inference` `R`
 - Biecek, P., & Burzykowski, T. (2021). **Explanatory model analysis: explore, explain, and examine predictive models**. Chapman and Hall/CRC. [Book](https://ema.drwhy.ai) `Explainability` `Interpretability` `Transparency` `R`
 - Biecek, P. (2024). **Adversarial Model Analysis**.  [Book](https://ama.drwhy.ai) `Safety` `Red Teaming`
