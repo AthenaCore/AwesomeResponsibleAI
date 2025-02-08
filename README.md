@@ -268,6 +268,7 @@ AI is a transformative technology prone to reshape industries, yet it requires c
 
 ### AI Safety Institutes (or equivalent)
 
+- [Beijing AISI](https://beijing.ai-safety-and-governance.institute) `China`
 - [Canada AISI](https://ised-isde.canada.ca/site/ised/en/canadian-artificial-intelligence-safety-institute) `Canada`
 - [EU AI Office](https://digital-strategy.ec.europa.eu/en/policies/ai-office) `Europe`
 - [Korea AISI](https://www.aisi.re.kr/kor) `South Korea`
