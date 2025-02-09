@@ -743,6 +743,10 @@ Regulations are requirements established by governments.
 - [Policy on Government Security](https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=16578)
 - [Policy on Service and Digital](https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=32603)
 - [Privacy Act](https://laws-lois.justice.gc.ca/eng/ACTS/P-21/)
+- [Pan-Canadian Artificial Intelligence Strategy](https://ised-isde.canada.ca/site/ai-strategy/en)
+- [Artificial Intelligence and Data Act](https://ised-isde.canada.ca/site/innovation-better-canada/en/artificial-intelligence-and-data-act-aida-companion-document) (Bill C-27)
+- [Voluntary Code of Conduct on the Responsible Development and Management of Advanced Generative AI Systems](https://ised-isde.canada.ca/site/ised/en/voluntary-code-conduct-responsible-development-and-management-advanced-generative-ai-systems)
+- [Guidelines for secure AI system development](https://www.cyber.gc.ca/en/news-events/guidelines-secure-ai-system-development)
 
 ### European Union
 
