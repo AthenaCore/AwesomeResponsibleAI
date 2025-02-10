@@ -748,6 +748,10 @@ Regulations are requirements established by governments.
 - [Voluntary Code of Conduct on the Responsible Development and Management of Advanced Generative AI Systems](https://ised-isde.canada.ca/site/ised/en/voluntary-code-conduct-responsible-development-and-management-advanced-generative-ai-systems)
 - [Guidelines for secure AI system development](https://www.cyber.gc.ca/en/news-events/guidelines-secure-ai-system-development)
 
+### Dubai
+
+- [AI Principles & Ethics/Ethical AI Toolkit](https://www.digitaldubai.ae/initiatives/ai-principles-ethics)
+
 ### European Union
 
 Short Name | Code | Description | Status | Website | Legal text
