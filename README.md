@@ -730,13 +730,13 @@ Regulations are requirements established by governments.
 - [Policy Database](https://aistandardshub.org/policy-and-strategy-search/)
 - [SCL Artificial Intelligence Contractual Clauses](https://www.scl.org/wp-content/uploads/2024/02/AI-Clauses-Project-October-2023-final-1.pdf)
 
-### Australia
+### Australia 🇦🇺
 
 - [AI and ESG](https://www.industry.gov.au/publications/ai-and-esg)
 - [The AI Impact Navigator](https://www.industry.gov.au/publications/ai-impact-navigator)
 - [Voluntary AI Safety Standard](https://www.industry.gov.au/publications/voluntary-ai-safety-standard)
 
-### Canada
+### Canada 🇨🇦
 
 - [Algorithmic Impact Assessment tool](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/algorithmic-impact-assessment.html)
 - [Directive on Automated Decision-Making](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32592)
@@ -751,11 +751,11 @@ Regulations are requirements established by governments.
 - [Voluntary Code of Conduct on the Responsible Development and Management of Advanced Generative AI Systems](https://ised-isde.canada.ca/site/ised/en/voluntary-code-conduct-responsible-development-and-management-advanced-generative-ai-systems)
 - [Guidelines for secure AI system development](https://www.cyber.gc.ca/en/news-events/guidelines-secure-ai-system-development)
 
-### Dubai
+### United Arab Emirates 🇦🇪
 
 - [AI Principles & Ethics/Ethical AI Toolkit](https://www.digitaldubai.ae/initiatives/ai-principles-ethics)
 
-### European Union
+### European Union 🇪🇺
 
 Short Name | Code | Description | Status | Website | Legal text
 ---|---|---|---|---|---
@@ -772,11 +772,11 @@ NIS2 Directive | EU/2022/2555 |It provides legal measures to boost the overall l
 
 - [Hiroshima Process International Guiding Principles for Advanced AI system](https://digital-strategy.ec.europa.eu/en/library/hiroshima-process-international-guiding-principles-advanced-ai-system)
 
-### Singapore
+### Singapore 🇸🇬
 
 - [Singapore’s Approach to AI Governance - Verify](https://www.pdpc.gov.sg/help-and-resources/2020/01/model-ai-governance-framework)
 
-### United States
+### United States 🇺🇸
 
 - State laws: California ([CCPA](https://www.oag.ca.gov/privacy/ccpa) and its amendment, [CPRA](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202120220AB1490)), Virginia ([VCDPA](https://lis.virginia.gov/cgi-bin/legp604.exe?212+sum+HB2307)), Colorado ([ColoPA - Colorado SB21-190](https://leg.colorado.gov/sites/default/files/documents/2021A/bills/2021a_190_rer.pdf) and [Colorado SB21-169: Regulation prohibiting unfair discrimination in insurance](https://doi.colorado.gov/for-consumers/sb21-169-protecting-consumers-from-unfair-discrimination-in-insurance-practices)) and New York [NYC Local Law 144: Mandatory bias audits for automated employment decision tools](https://www.nyc.gov/site/dca/about/automated-employment-decision-tools.page).
 - Specific and limited privacy data laws: [HIPAA](https://www.cdc.gov/phlp/publications/topic/hipaa.html), [FCRA](https://www.ftc.gov/enforcement/statutes/fair-credit-reporting-act), [FERPA](https://www.cdc.gov/phlp/publications/topic/ferpa.html), [GLBA](https://www.ftc.gov/tips-advice/business-center/privacy-and-security/gramm-leach-bliley-act), [ECPA](https://bja.ojp.gov/program/it/privacy-civil-liberties/authorities/statutes/1285), [COPPA](https://www.ftc.gov/enforcement/rules/rulemaking-regulatory-reform-proceedings/childrens-online-privacy-protection-rule), [VPPA](https://www.law.cornell.edu/uscode/text/18/2710) and [FTC](https://www.ftc.gov/enforcement/statutes/federal-trade-commission-act).
@@ -786,7 +786,7 @@ NIS2 Directive | EU/2022/2555 |It provides legal measures to boost the overall l
 - [Privacy Protection Act of 1980](https://epic.org/privacy/ppa/) - The Privacy Protection Act of 1980 protects journalists from being required to turn over to law enforcement any work product and documentary materials, including sources, before it is disseminated to the public.
 - [AI Bill of Rights](https://www.whitehouse.gov/ostp/ai-bill-of-rights/) - The Blueprint for an AI Bill of Rights is a guide for a society that protects all people from IA threats based on five principles: Safe and Effective Systems, Algorithmic Discrimination Protections, Data Privacy, Notice and Explanation, and  Human Alternatives, Consideration, and Fallback.
 
-### Spain
+### Spain 🇪🇸
 
 - [EIDF: guía y casos de uso - Metodología aplicada de la avaluación de impacto sobre los derechos fundamentales en el diseño y desarrollo de la IA-](https://www.dpdenxarxa.cat/pluginfile.php/2468/mod_folder/content/0/CAST-APDcat-281.pdf)
 
