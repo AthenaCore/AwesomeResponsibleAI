@@ -275,6 +275,9 @@ An interesting curated collection of articules (updated until 2021) [A Living an
 - [EU AI Office](https://digital-strategy.ec.europa.eu/en/policies/ai-office) `Europe`
 - [Korea AISI](https://www.aisi.re.kr/kor) `South Korea`
 - [Singapore AISI](https://www.ntu.edu.sg/dtc) `Singapore`
+
+### AI Security Institute
+
 - [UK AISI](https://www.aisi.gov.uk) `United Kingdom`
 
 **[Japan AISI](https://aisi.go.jp)**
@@ -290,7 +293,7 @@ An interesting curated collection of articules (updated until 2021) [A Living an
 |---|---|---|---|---|
 | NIST AI 800-1 | Managing Misuse Risk for Dual-Use Foundation Models | Outlines voluntary best practices for identifying, measuring, and mitigating risks to public safety and national security across the AI lifecycle | Draft (second Version) | [Source](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.800-1.ipd2.pdf) |
 
-### Country level
+### Research Institutes
 
 - [Ada Lovelace Institute](https://www.adalovelaceinstitute.org/) `United Kingdom`   
 - [Centre pour la Securité de l'IA, CeSIA](https://www.securite-ia.fr) `France`
@@ -310,6 +313,16 @@ An interesting curated collection of articules (updated until 2021) [A Living an
   - [Australian Regional AI Network (ARAIN)](https://arain.com.au)
   - [SAAM (Safe AI Adoption Model)](https://www.saam.com.au)
   - [SMEC AI (Small to Medium Enterprise Centre of Artificial Intelligence)](https://smecai.au)
+- [Future of Life Institute](https://futureoflife.org/): Focused on reducing existential risks, this institute brings together experts to ensure AI benefits humanity.
+- [International Panel on the Information Environment](https://www.ipei.org/): A global network of scholars and practitioners working to improve public understanding of our evolving information landscape, including the role of AI.
+- [Center for AI Safety](https://www.centerforaisafety.org/): This organization researches the challenges of AI safety and develops strategies to mitigate potential risks in AI development.
+- [Distributed AI Research Institute -DAIR-](https://www.dair.ai/): DAIR advocates for decentralized and transparent AI research, emphasizing open collaboration for safe technological progress.
+- [International Association for Safe and Ethical AI](https://iasafe.ai/): Dedicated to advancing safe and ethical AI practices, this association provides a platform for stakeholders to share guidelines and best practices.
+- [Partnership on AI](https://www.partnershiponai.org/): Bringing together industry, academia, and civil society, this partnership promotes responsible AI development and broad benefits for all.
+- [AI Now Institute](https://ainowinstitute.org/): An interdisciplinary research center that examines the social implications of AI and advocates for greater accountability in AI systems.
+- [Centre for the Governance of AI](https://www.governance.ai/): Based at the University of Oxford, this centre researches policy and governance frameworks to manage the challenges of AI technologies.
+- [Future of Humanity Institute](https://www.fhi.ox.ac.uk/): An interdisciplinary research center that explores global challenges and the long-term impacts of AI on society and humanity.
+- [Machine Intelligence Research Institute -MIRI-](https://intelligence.org/): MIRI focuses on developing theoretical tools to ensure that advanced AI systems are aligned with human values and remain safe.
 
 ## Maturity Models
 
