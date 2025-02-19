@@ -607,6 +607,7 @@ Additional:
 - [StrongREJECT jailbreak benchmark](https://github.com/dsbowen/strong_reject) `Python`
 - [τ-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains](https://github.com/sierra-research/tau-bench) `Python`
 - [Yet Another Applied LLM Benchmark](https://github.com/carlini/yet-another-applied-llm-benchmark) `Python`
+- [Verdict](https://github.com/haizelabs/verdict) `Python`
 - [VLMEvalKit](https://github.com/open-compass/VLMEvalKit) `Python`
 - [WindowsAgentArena](https://github.com/microsoft/windowsagentarena) `Python` `Microsoft`
 
