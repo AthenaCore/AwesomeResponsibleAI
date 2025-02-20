@@ -682,6 +682,7 @@ Additional benchmarks can be found [here](https://airtable.com/app83SBBFk9WO25hJ
 ### Security
 
 - [Counterfit](https://github.com/Azure/counterfit/) `Python` `Microsoft`
+- [detect-secrets](https://github.com/Yelp/detect-secrets) `Python`
 - [Modelscan](https://github.com/protectai/modelscan) `Python`
 - [NB Defense](https://nbdefense.ai) `Python`
 - [PyRIT](https://github.com/Azure/PyRIT) `Python` `Microsoft`
