@@ -589,6 +589,7 @@ Additional:
 - [lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval) `Python`
 - [MixEval](https://mixeval.github.io) `Python`
 - [ML Commons Safety Benchmark for general purpose AI chat model](https://mlcommons.org/benchmarks/ai-safety/general_purpose_ai_chat_benchmark/)
+- [MLGym](https://github.com/facebookresearch/MLGym) `Python` `Facebook` `Agents`
 - [MLPerf Training Benchmark](https://mlcommons.org/benchmarks/training/) `Training`
 - [MMMU](https://github.com/MMMU-Benchmark/MMMU) `Apple` `Python`
 - [Moonshoot](https://github.com/aiverify-foundation/moonshot) `AI Verify Foundation` `Python`
