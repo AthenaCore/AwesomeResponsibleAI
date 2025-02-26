@@ -679,6 +679,7 @@ Additional benchmarks can be found [here](https://airtable.com/app83SBBFk9WO25hJ
 - [AIxploit](https://github.com/AINTRUST-AI/aixploit) `Python`
 - [Diotra](https://github.com/usnistgov/dioptra) `Python` `NIST`
 - [Garak](https://github.com/NVIDIA/garak) `Python` `Nvidia`
+- [Safety CLI](https://github.com/pyupio/safety) `Python`
 
 ### Security
 
