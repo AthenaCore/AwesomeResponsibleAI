@@ -568,7 +568,8 @@ Additional:
 - [ARES](https://github.com/stanford-futuredata/ARES) `Python` `Standorf Future Data Systems`
 - [Azure AI Evaluation](https://github.com/Azure/azure-sdk-for-python/tree/main/sdk/evaluation/azure-ai-evaluation) `Python` `Microsoft`
 - [Banana-lyzer](https://github.com/reworkd/bananalyzer) `Python`
-- [BALROG](https://github.com/balrog-ai/BALROG) `Python` 
+- [BALROG](https://github.com/balrog-ai/BALROG) `Python`
+- [BIG-Bench Extra Hard](https://github.com/google-deepmind/bbeh) `Python` `Deepmind`
 - [DeepEval](https://github.com/confident-ai/deepeval) `Python` 
 - [evals](https://github.com/openai/evals) `Python` `OpenAI`
 - [EvalScope](https://github.com/modelscope/evalscope) `Python`
