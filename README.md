@@ -806,7 +806,6 @@ NIS2 Directive | EU/2022/2555 |It provides legal measures to boost the overall l
 - [REMOVING BARRIERS TO AMERICAN LEADERSHIP IN ARTIFICIAL INTELLIGENCE](https://www.whitehouse.gov/presidential-actions/2025/01/removing-barriers-to-american-leadership-in-artificial-intelligence/) - Official mandate by the President of the US to position the country at the forefront of AI innovation.
 - [Privacy Act of 1974](https://www.justice.gov/opcl/privacy-act-1974) - The privacy act of 1974 which establishes a code of fair information practices that governs the collection, maintenance, use and dissemination of information about individuals that is maintained in systems of records by federal agencies.
 - [Privacy Protection Act of 1980](https://epic.org/privacy/ppa/) - The Privacy Protection Act of 1980 protects journalists from being required to turn over to law enforcement any work product and documentary materials, including sources, before it is disseminated to the public.
-- [AI Bill of Rights](https://www.whitehouse.gov/ostp/ai-bill-of-rights/) - The Blueprint for an AI Bill of Rights is a guide for a society that protects all people from IA threats based on five principles: Safe and Effective Systems, Algorithmic Discrimination Protections, Data Privacy, Notice and Explanation, and  Human Alternatives, Consideration, and Fallback.
 
 ### Spain 🇪🇸
 
