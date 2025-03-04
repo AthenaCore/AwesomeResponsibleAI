@@ -452,6 +452,10 @@ Additional:
 - [mediation: Causal Mediation Analysis](https://cran.r-project.org/web/packages/mediation) `R`
 - [MRPC](https://cran.r-project.org/web/packages/MRPC) `R`
 
+### Data Quality
+
+- [Pointblank](https://posit-dev.github.io/pointblank/) `Python`
+
 ### Data Version Control
 
 - [DvC](https://dvc.org)
