@@ -592,6 +592,7 @@ Additional:
 - [LiveBench: A Challenging, Contamination-Free LLM Benchmark](https://livebench.ai) `Contamination free`
 - [LM Evaluation Harness](https://github.com/EleutherAI/lm-evaluation-harness) `Python`
 - [lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval) `Python`
+- [Mask Benchmark](https://www.mask-benchmark.ai) `Python` `Center of AI Safety` `Scale AI`
 - [MixEval](https://mixeval.github.io) `Python`
 - [ML Commons Safety Benchmark for general purpose AI chat model](https://mlcommons.org/benchmarks/ai-safety/general_purpose_ai_chat_benchmark/)
 - [MLGym](https://github.com/facebookresearch/MLGym) `Python` `Facebook` `Agents`
