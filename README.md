@@ -70,6 +70,10 @@ AI is a transformative technology prone to reshape industries, yet it requires c
 
 - Oprea, A., & Vassilev, A. (2023). **Adversarial machine learning: A taxonomy and terminology of attacks and mitigations**. National Institute of Standards and Technology. [Article](https://www.nist.gov/publications/adversarial-machine-learning-taxonomy-and-terminology-attacks-and-mitigations?utm_source=substack&utm_medium=email)
 
+### AI Governance
+
+- Eisenberg, I. W., Gamboa, L., & Sherman, E. (2025). **The Unified Control Framework: Establishing a Common Foundation for Enterprise AI Governance, Risk Management and Regulatory Compliance**. arXiv preprint arXiv:2503.05937. [Article](https://arxiv.org/abs/2503.05937) [Visualization](https://ianatcredoai.github.io/UCF_Figures/) `Credo`
+
 ### Bias
 
 - Schwartz, R., et al. (2022). **Towards a standard for identifying and managing bias in artificial intelligence** (Vol. 3, p. 00). US Department of Commerce, National Institute of Standards and Technology. [Article](https://www.nist.gov/publications/towards-standard-identifying-and-managing-bias-artificial-intelligence) `NIST`
