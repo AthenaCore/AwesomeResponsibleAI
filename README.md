@@ -431,6 +431,10 @@ Additional:
 
 ## Tools
 
+### AI Governance
+
+- [Governance Mega-Map Application](https://github.com/The-Company-Ethos/doing-ai-governance) `The Company Ethos`
+
 ### Assessments
 
 - [The Assessment List for Trustworthy Artificial Intelligence](https://altai.insight-centre.org)
