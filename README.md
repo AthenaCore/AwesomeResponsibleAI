@@ -169,9 +169,10 @@ An interesting curated collection of articules (updated until 2021) [A Living an
 - Cunningham, Scott. (2021) **Causal inference: The mixtape**. Yale university press. [Book](https://mixtape.scunning.com) `Causal Inference`
 - Fourrier, C. and et all. (2024) **LLM Evaluation Guidebook**. Github Repository. [Web](https://github.com/huggingface/evaluation-guidebook) `LLM Evaluation`
 - Freiesleben, T. & Molnar, C. (2024). **Supervised Machine Learning for Science: How to stop worrying and love your black box.** [Book](https://ml-science-book.com/)
+- Huntington-Klein, N. (2012) **The effect: An introduction to research design and causality**. Chapman and Hall/CRC. [Book](https://theeffectbook.net) `Causal Inference`
 - Matloff, N et al. (2204) **Data Science Looks at Discrimination** [Book](https://htmlpreview.github.io/?https://github.com/matloff/dsldBook/blob/main/_book/index.html) `Fairness` `R`
 - Molnar, C. (2020). **Interpretable Machine Learning**. Lulu.com. [Book](https://christophm.github.io/interpretable-ml-book/) `Explainability` `Interpretability` `Transparency` `R`
-- Huntington-Klein, Nick. (2012) **The effect: An introduction to research design and causality**. Chapman and Hall/CRC. [Book](https://theeffectbook.net) `Causal Inference`
+- Vizquez, S. & Kubersky, W. (2025) **The Little Book of ML Metrics**. [Book](https://github.com/NannyML/The-Little-Book-of-ML-Metrics) `ML Evaluation`
 
 ### Commercial / Propietary / Closed Access
 
