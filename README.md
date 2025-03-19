@@ -208,8 +208,9 @@ An interesting curated collection of articules (updated until 2021) [A Living an
 
 ### AI Governance
 
-- [AI Governance](https://aisafetyfundamentals.com/governance/) `BlueDot Impact`
 - [AI Ethics & Governance (AEG)](https://alan-turing-institute.github.io/turing-commons/skills-tracks/aeg/index.html) `The Alan Turing Institute`
+- [AI Governance](https://aisafetyfundamentals.com/governance/) `BlueDot Impact`
+- [AI Security and Governance](https://education.securiti.ai/certifications/ai-governance/) `Securiti`
 
 ### Explainability/Interpretability
 
