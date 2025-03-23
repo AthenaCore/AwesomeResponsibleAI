@@ -541,6 +541,7 @@ Additional:
 - [lime: Local Interpretable Model-Agnostic Explanations](https://cran.r-project.org/web/packages/lime/index.html) `R`
 - [Network Dissection](http://netdissect.csail.mit.edu) `Python` `Neural Networks` `MIT` 
 - [OmniXAI](https://github.com/salesforce/OmniXAI) `Python` `Salesforce`
+- [ReasonGraph](https://github.com/ZongqianLi/ReasonGraph) `Python`
 - [Shap](https://github.com/slundberg/shap) `Python`
 - [Shapash](https://github.com/maif/shapash) `Python`
 - [shapper](https://cran.r-project.org/web/packages/shapper/index.html) `R`
