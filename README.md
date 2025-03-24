@@ -599,6 +599,8 @@ Additional:
 - [Humanity's Last Exam](https://lastexam.ai) `Scale AI` `Center for AI Safety`
 - [Inspect](https://ukgovernmentbeis.github.io/inspect_ai/) `UK AISI` `Python`
 - [Jailbreakbench](https://jailbreakbench.github.io) `Python`
+- [Langchain](https://docs.smith.langchain.com) [Evaluations](https://docs.smith.langchain.com/evaluation) `Python`
+- [Langfuse](https://github.com/langfuse/langfuse) [Scores](https://langfuse.com/docs/scores/overview) `Python`
 - [LightEval](https://github.com/huggingface/lighteval) `HuggingFace` `Python`
 - [LiveBench: A Challenging, Contamination-Free LLM Benchmark](https://livebench.ai) `Contamination free`
 - [LM Evaluation Harness](https://github.com/EleutherAI/lm-evaluation-harness) `Python`
@@ -606,6 +608,7 @@ Additional:
 - [Mask Benchmark](https://www.mask-benchmark.ai) `Python` `Center of AI Safety` `Scale AI`
 - [MixEval](https://mixeval.github.io) `Python`
 - [ML Commons Safety Benchmark for general purpose AI chat model](https://mlcommons.org/benchmarks/ai-safety/general_purpose_ai_chat_benchmark/)
+- [MLflow LLM Evaluation](https://mlflow.org/docs/latest/llms/llm-evaluate/index.html) `Python`
 - [MLGym](https://github.com/facebookresearch/MLGym) `Python` `Facebook` `Agents`
 - [MLPerf Training Benchmark](https://mlcommons.org/benchmarks/training/) `Training`
 - [MMMU](https://github.com/MMMU-Benchmark/MMMU) `Apple` `Python`
