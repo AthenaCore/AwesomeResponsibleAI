@@ -418,6 +418,7 @@ Additional:
 ### Market Analysis
 
 - [AI Safety Index](https://futureoflife.org/document/fli-ai-safety-index-2024/) - 2024 - `Future of Life`
+- [European Open Source AI Index](https://osai-index.eu)
 - [Global Index for AI Safety](https://agile-index.ai/global-index-for-ai-safety)
 - [State of AI](https://www.stateof.ai) - from 2018 up to now -
 - [The AI Index Report](https://aiindex.stanford.edu) - from 2017 up to now - `Stanford Institute for Human-Centered Artificial Intelligence`
