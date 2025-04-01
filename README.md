@@ -617,6 +617,7 @@ Additional:
 - [NaturalBench](https://linzhiqiu.github.io/papers/naturalbench/) `Python`
 - [OffsetBias: Leveraging Debiased Data for Tuning Evaluators](https://github.com/ncsoft/offsetbias) `Python`
 - [opik](https://github.com/comet-ml/opik) `Comet` `Python`
+- [Pydantic Evals](https://ai.pydantic.dev/evals/#datasets-and-cases) `Python`
 - [Phoenix](https://github.com/Arize-ai/phoenix) `Arize AI` `Python`
 - [Prometheus](https://github.com/prometheus-eval/prometheus) `Python`
 - [Promptfoo](https://github.com/promptfoo/promptfoo) `Python`
