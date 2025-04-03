@@ -586,6 +586,7 @@ Additional:
 - [Banana-lyzer](https://github.com/reworkd/bananalyzer) `Python`
 - [BALROG](https://github.com/balrog-ai/BALROG) `Python`
 - [BIG-Bench Extra Hard](https://github.com/google-deepmind/bbeh) `Python` `Deepmind`
+- [CLUE benchmark](https://github.com/CLUEbenchmark/CLUE) `Python`
 - [DeepEval](https://github.com/confident-ai/deepeval) `Python` 
 - [evals](https://github.com/openai/evals) `Python` `OpenAI`
 - [EvalScope](https://github.com/modelscope/evalscope) `Python`
@@ -600,6 +601,8 @@ Additional:
 - [Humanity's Last Exam](https://lastexam.ai) `Scale AI` `Center for AI Safety`
 - [Inspect](https://ukgovernmentbeis.github.io/inspect_ai/) `UK AISI` `Python`
 - [Jailbreakbench](https://jailbreakbench.github.io) `Python`
+- [JGLUE: Japanese General Language Understanding Evaluation](https://github.com/yahoojapan/JGLUE) `Python`
+- [KLUE: Korean Language Understanding Evaluation](https://github.com/KLUE-benchmark/KLUE) `Python`
 - [Langchain](https://docs.smith.langchain.com) [Evaluations](https://docs.smith.langchain.com/evaluation) `Python`
 - [Langfuse](https://github.com/langfuse/langfuse) [Scores](https://langfuse.com/docs/scores/overview) `Python`
 - [LightEval](https://github.com/huggingface/lighteval) `HuggingFace` `Python`
