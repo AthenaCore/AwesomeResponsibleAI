@@ -572,6 +572,10 @@ Additional:
 - [PiML Toolbox](https://github.com/SelfExplainML/PiML-Toolbox) `Python`
 - [Tensorflow Lattice](https://github.com/tensorflow/lattice) `Python` `Google`
 
+### Model Verification
+
+- [Model Transparency](https://github.com/sigstore/model-transparency) `Python` `Google` `Open Source Security Foundation`
+
 ### LLM Regulation Compliance
 
 - [COMPL-AI](https://compl-ai.org) `Python` `ETH Zurich` `Insait` `LaticeFlow AI`
