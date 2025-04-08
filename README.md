@@ -688,6 +688,10 @@ Additional benchmarks can be found [here](https://airtable.com/app83SBBFk9WO25hJ
 - [SEAL](https://github.com/Microsoft/SEAL) `Python` `Microsoft`
 - [Tensorflow Privacy](https://github.com/tensorflow/privacy) `Python` `Google`
 
+### Red Teaming
+
+- [TextAttack](https://github.com/QData/TextAttack) `Python`
+
 ### Reliability Evaluation (of post hoc explanation methods and LLMs evaluations) 
 
 - [BELLS (Benchmark for the Evaluation of LLM Safeguards)](https://github.com/CentreSecuriteIA/BELLS) `Python` `CeSIA - Centre pour la Sécurité de l'IA`
