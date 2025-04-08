@@ -931,7 +931,9 @@ Beneficial AI Systems | ISO/IEC AWI TR 21221 Information technology – Artifici
 | AI RMF Playbook | The Playbook provides suggested actions for achieving the outcomes laid out in the AI Risk Management Framework (AI RMF) Core (Tables 1 – 4 in AI RMF 1.0). Suggestions are aligned to each sub-category within the four AI RMF functions (Govern, Map, Measure, Manage). | [Source](https://airc.nist.gov/AI_RMF_Knowledge_Base/Playbook) |
 | AI RMF Glossary | This glossary seeks to promote a shared understanding and improve communication among individuals and organizations seeking to operationalize trustworthy and responsible AI through approaches such as the NIST AI Risk Management Framework (AI RMF). | [Source](https://airc.nist.gov/AI_RMF_Knowledge_Base/Glossary) |
 
-Additional standards can be found using the [Standards Database](https://aistandardshub.org/ai-standards-search/) and we recommend to review [NIST Assessing Risks and Impacts of AI (ARIA)](https://ai-challenges.nist.gov/aria) as well.
+Additional standards can be found using the [Standards Database](https://aistandardshub.org/ai-standards-search/) and we recommend to review [NIST Assessing Risks and Impacts of AI (ARIA)](https://ai-challenges.nist.gov/aria) as well. 
+
+Another interesting repository for AI Governance is the [AI Governance Library](https://www.aigl.blog).
 
 ## Citing this repository
 
