@@ -607,12 +607,6 @@ Additional:
 - [Jailbreakbench](https://jailbreakbench.github.io) `Python`
 - [JGLUE: Japanese General Language Understanding Evaluation](https://github.com/yahoojapan/JGLUE) `Python`
 - [KLUE: Korean Language Understanding Evaluation](https://github.com/KLUE-benchmark/KLUE) `Python`
-- [Langchain](https://docs.smith.langchain.com) [Evaluations](https://docs.smith.langchain.com/evaluation) `Python`
-- [Langfuse](https://github.com/langfuse/langfuse) [Scores](https://langfuse.com/docs/scores/overview) `Python`
-- [LightEval](https://github.com/huggingface/lighteval) `HuggingFace` `Python`
-- [LiveBench: A Challenging, Contamination-Free LLM Benchmark](https://livebench.ai) `Contamination free`
-- [LM Evaluation Harness](https://github.com/EleutherAI/lm-evaluation-harness) `Python`
-- [lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval) `Python`
 - [Mask Benchmark](https://www.mask-benchmark.ai) `Python` `Center of AI Safety` `Scale AI`
 - [MixEval](https://mixeval.github.io) `Python`
 - [ML Commons Safety Benchmark for general purpose AI chat model](https://mlcommons.org/benchmarks/ai-safety/general_purpose_ai_chat_benchmark/)
@@ -621,7 +615,14 @@ Additional:
 - [MLPerf Training Benchmark](https://mlcommons.org/benchmarks/training/) `Training`
 - [MMMU](https://github.com/MMMU-Benchmark/MMMU) `Apple` `Python`
 - [Moonshoot](https://github.com/aiverify-foundation/moonshot) `AI Verify Foundation` `Python`
+- [Multi-SWE-bench: A Multilingual Benchmark for Issue Resolving](https://multi-swe-bench.github.io/) `Python` `ByteDance`
 - [NaturalBench](https://linzhiqiu.github.io/papers/naturalbench/) `Python`
+- [Langchain](https://docs.smith.langchain.com) [Evaluations](https://docs.smith.langchain.com/evaluation) `Python`
+- [Langfuse](https://github.com/langfuse/langfuse) [Scores](https://langfuse.com/docs/scores/overview) `Python`
+- [LightEval](https://github.com/huggingface/lighteval) `HuggingFace` `Python`
+- [LiveBench: A Challenging, Contamination-Free LLM Benchmark](https://livebench.ai) `Contamination free`
+- [LM Evaluation Harness](https://github.com/EleutherAI/lm-evaluation-harness) `Python`
+- [lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval) `Python`
 - [OffsetBias: Leveraging Debiased Data for Tuning Evaluators](https://github.com/ncsoft/offsetbias) `Python`
 - [opik](https://github.com/comet-ml/opik) `Comet` `Python`
 - [Pydantic Evals](https://ai.pydantic.dev/evals/#datasets-and-cases) `Python`
