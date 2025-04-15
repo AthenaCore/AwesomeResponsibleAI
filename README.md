@@ -292,6 +292,7 @@ An interesting curated collection of articules (updated until 2021) [A Living an
 |---|---|---|---|---|
 | AI Safety Evaluation v1.0.1 | A guide to red teaming techniques for AI safety | Presents basic concepts that those involved in the development and provision of AI systems can refer to when conducting AI Safety evaluations | Published | [Source](https://aisi.go.jp/assets/pdf/ai_safety_eval_v1.01_en.pdf) |
 | AI Safety RT v1.0.0 | Guide to Red Teaming Methodology on AI Safety | Intended to help developers and providers of AI systems to evaluate the basic considerations of red teaming methodologies for AI systems from the viewpoint of attackers | Published | [Source](https://aisi.go.jp/assets/pdf/ai_safety_RT_v1.00_en.pdf) |
+| Data Quality Management v1.0.0 | A guide about Data Quality linked to AI Safety | Intended to help developers and providers of AI systems to adopt data quality management practices | Published | [Source](https://aisi.go.jp/assets/pdf/250331_Data_quality_management_guidebook.pdf) |
 
 **[US AISI](https://www.nist.gov/aisi)**
 
