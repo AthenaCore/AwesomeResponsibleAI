@@ -423,7 +423,7 @@ Additional:
 - [European Open Source AI Index](https://osai-index.eu)
 - [Global Index for AI Safety](https://agile-index.ai/global-index-for-ai-safety)
 - [State of AI](https://www.stateof.ai) - from 2018 up to now -
-- [The AI Index Report](https://aiindex.stanford.edu) - from 2017 up to now - `Stanford Institute for Human-Centered Artificial Intelligence`
+- [The AI Index Report](https://aiindex.stanford.edu). Edition: [2017](https://hai.stanford.edu/ai-index/2017-ai-index-report), [2018](https://hai.stanford.edu/ai-index/2018-ai-index-report), [2019](https://hai.stanford.edu/ai-index/2019-ai-index-report), [2021](https://hai.stanford.edu/ai-index/2021-ai-index-report), [2022](https://hai.stanford.edu/ai-index/2022-ai-index-report), [2023](https://hai.stanford.edu/ai-index/2023-ai-index-report), [2024](https://hai.stanford.edu/ai-index/2024-ai-index-report) and [2025](https://hai.stanford.edu/ai-index/2025-ai-index-report)  `Stanford Institute for Human-Centered Artificial Intelligence`
 
 ### Other
 
@@ -433,6 +433,10 @@ Additional:
 - [Interpretability, Fast Forward Labs, 2020](https://ff06-2020.fastforwardlabs.com) `Interpretability`
 - [Towards a Standard for Identifying and Managing Bias in Artificial Intelligence (NIST Special Publication 1270)](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1270.pdf) `NIST` `Bias`
 - [Auditing machine learning algorithms](https://www.auditingalgorithms.net/index.html) `Auditing`
+
+### Ratings
+
+- [https://aimodelratings.com](https://aimodelratings.com)
 
 ## Tools
 
