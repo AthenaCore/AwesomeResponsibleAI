@@ -127,8 +127,13 @@ An interesting curated collection of articules (updated until 2021) [A Living an
 
 ### Regulation
 
-- Wasil, A. R., Reed, T., Miller, J. W., & Barnett, P. (2024). **Verification methods for international AI agreements**. arXiv preprint arXiv:2408.16074. [Article](https://arxiv.org/pdf/2408.16074)
+- Wasil, A. R. et al. (2024). **Verification methods for international AI agreements**. arXiv preprint arXiv:2408.16074. [Article](https://arxiv.org/pdf/2408.16074)
 
+### Representation Engineering
+
+- Zou, A. et al. (2024) **Improving Alignment and Robustness with Circuit Breakers**. [Article](https://www.circuit-breaker.ai)
+- Zou, A. et al. (2023) **Representation Engineering: A Top-Down Approach to AI Transparency**. [Article](https://www.ai-transparency.org)
+  
 ### Risk
 
 - Slattery, P., et al. (2024). **The ai risk repository: A comprehensive meta-review, database, and taxonomy of risks from artificial intelligence**. arXiv preprint arXiv:2408.12622. [Article](https://arxiv.org/pdf/2408.12622)
