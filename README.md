@@ -269,7 +269,7 @@ An interesting curated collection of articules (updated until 2021) [A Living an
 - [An ImageNet replacement for self-supervised pretraining without humans](https://www.robots.ox.ac.uk/~vgg/research/pass/)
 - [Huggingface Data Sets](https://huggingface.co/datasets)
 - [The Stack](https://www.bigcode-project.org/docs/about/the-stack/)
-- [Open Ethics Data Passport](https://openethics.ai/oedp/) - The Open Ethics Data Passport ([OEDP](https://github.com/OpenEthicsAI/OEDP)) is focused on describing the origins of the models by sheding light on how the training datasets were collected, cleaned, labeled, and used for training of the AI models. 
+- [Open Ethics Data Passport](https://openethics.ai/oedp/) 
 
 ## Databases
 
@@ -297,6 +297,7 @@ An interesting curated collection of articules (updated until 2021) [A Living an
 - [Data Ethics Canvas](https://theodi.org/insights/tools/the-data-ethics-canvas-2021/) `Open Data Institute`
 - [Deon](https://deon.drivendata.org) `Python` `Drivendata`
 - [Ethics & Algorithms Toolkit](http://ethicstoolkit.ai)
+- [Open Ethics Maturity Model (OEMM)](https://openethics.ai/oemm/)
 - [RAI Toolkit](https://rai.tradewindai.com) `US Department of Defense`
 
 ## Institutes
