@@ -6,7 +6,7 @@
 [![GitHub](https://img.shields.io/twitter/follow/athenacoreai.svg?label=Follow)](https://twitter.com/athenacoreai)
 
 # Awesome Responsible AI
-A curated list of awesome academic research, books, code of ethics, courses, data sets, frameworks, institutes, maturity models, newsletters, principles, podcasts, reports, tools, regulations and standards related to Responsible, Trustworthy, and Human-Centered AI. 
+A curated list of awesome academic research, books, code of ethics, courses, data sets, databases, frameworks, institutes, maturity models, newsletters, principles, podcasts, reports, tools, regulations and standards related to Responsible, Trustworthy, and Human-Centered AI. 
 
 ## Main Concepts
 
@@ -52,6 +52,7 @@ AI is a transformative technology prone to reshape industries, yet it requires c
 - [Code of Ethics](#code-of-ethics)
 - [Courses](#courses)
 - [Data Sets](#data-sets)
+- [Databases](#databases)
 - [Frameworks](#frameworks)
 - [Institutes](#institutes)
 - [Maturity Models](#maturity-models)
@@ -269,6 +270,26 @@ An interesting curated collection of articules (updated until 2021) [A Living an
 - [Huggingface Data Sets](https://huggingface.co/datasets)
 - [The Stack](https://www.bigcode-project.org/docs/about/the-stack/)
 
+## Databases
+
+### (AI) Incidents databases/trackers
+
+- [AIAAIC](https://www.aiaaic.org/)
+- [AI Badness: An open catalog of generative AI badness](https://badness.ai/)
+- [AI Incident Database](https://incidentdatabase.ai)
+- [AI Incident Tracker](https://airisk.mit.edu/ai-incident-tracker) `MIT`
+- [AI Vulnerability Database (AVID)](https://avidml.org/)
+- [George Washington University Law School's AI Litigation Database](https://blogs.gwu.edu/law-eti/ai-litigation-database/)
+- [Merging AI Incidents Research with Political Misinformation Research: Introducing the Political Deepfakes Incidents Database](https://osf.io/fvqg3/)
+- [OECD AI Incidents Monitor](https://oecd.ai/en/incidents)
+- [Verica Open Incident Database (VOID)](https://www.thevoid.community/)
+
+### Cybersecurity 
+
+- [CVE](https://www.cve.org)
+- [European Union Vulnerability Database](https://euvd.enisa.europa.eu)
+- [GCVE: Global CVE Allocation System](https://gcve.eu)
+
 ## Frameworks
 
 - [A Framework for Ethical Decision Making](https://www.scu.edu/ethics/ethics-resources/a-framework-for-ethical-decision-making/) `Markkula Center for Applied Ethics`
@@ -401,18 +422,6 @@ Additional:
 - Janjeva, A., et al. (2023). **Strengthening Resilience to AI Risk. A guide for UK policymakers**. CETaS (Centre for Emerging Technology and Security) [Article](https://ceas.turing.ac.uk/sites/default/files/2023-08/cetas-cltr_ai_risk_briefing_paper.pdf)
 - Piattini, M. and Fernández C.M. 2024. **Marco Confiable**. Revista SIC 162 [Article](https://revistasic.es/revista-sic/sic-162/colaboraciones/marco-confiable/)
 - Sastry, G., et al. 2024. **Computing Power and the Governance of Artificial Intelligence**. arXiv preprint arXiv:2402.08797. [Article]( https://arxiv.org/pdf/2402.08797)
-
-### (AI) Incidents databases/trackers
-
-- [AIAAIC](https://www.aiaaic.org/)
-- [AI Badness: An open catalog of generative AI badness](https://badness.ai/)
-- [AI Incident Database](https://incidentdatabase.ai)
-- [AI Incident Tracker](https://airisk.mit.edu/ai-incident-tracker) `MIT`
-- [AI Vulnerability Database (AVID)](https://avidml.org/)
-- [George Washington University Law School's AI Litigation Database](https://blogs.gwu.edu/law-eti/ai-litigation-database/)
-- [Merging AI Incidents Research with Political Misinformation Research: Introducing the Political Deepfakes Incidents Database](https://osf.io/fvqg3/)
-- [OECD AI Incidents Monitor](https://oecd.ai/en/incidents)
-- [Verica Open Incident Database (VOID)](https://www.thevoid.community/)
 
 ### AI Safety
 
