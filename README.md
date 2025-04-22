@@ -491,6 +491,10 @@ Additional:
 
 - [DvC](https://dvc.org)
 
+### Disclosure
+
+- [Open Ethics Label](https://openethics.ai/label/)
+
 ### Drift
 
 - [Alibi Detect](https://github.com/SeldonIO/alibi-detect) `Python`
