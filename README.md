@@ -269,6 +269,7 @@ An interesting curated collection of articules (updated until 2021) [A Living an
 - [An ImageNet replacement for self-supervised pretraining without humans](https://www.robots.ox.ac.uk/~vgg/research/pass/)
 - [Huggingface Data Sets](https://huggingface.co/datasets)
 - [The Stack](https://www.bigcode-project.org/docs/about/the-stack/)
+- [Open Ethics Data Passport](https://openethics.ai/oedp/) 
 
 ## Databases
 
@@ -296,6 +297,7 @@ An interesting curated collection of articules (updated until 2021) [A Living an
 - [Data Ethics Canvas](https://theodi.org/insights/tools/the-data-ethics-canvas-2021/) `Open Data Institute`
 - [Deon](https://deon.drivendata.org) `Python` `Drivendata`
 - [Ethics & Algorithms Toolkit](http://ethicstoolkit.ai)
+- [Open Ethics Transparency Protocol (OETP)](https://openethics.ai/oetp/)
 - [RAI Toolkit](https://rai.tradewindai.com) `US Department of Defense`
 
 ## Institutes
@@ -367,6 +369,10 @@ An interesting curated collection of articules (updated until 2021) [A Living an
 ### Responsible AI
 
 - [The GSMA Responsible AI Maturity Roadmap](https://www.gsma.com/solutions-and-impact/connectivity-for-good/external-affairs/responsible-ai/)
+
+### Open Ethics
+
+- [Open Ethics Maturity Model](https://openethics.ai/oemm/)
 
 ## Newsletters
 
