@@ -269,7 +269,7 @@ An interesting curated collection of articules (updated until 2021) [A Living an
 - [An ImageNet replacement for self-supervised pretraining without humans](https://www.robots.ox.ac.uk/~vgg/research/pass/)
 - [Huggingface Data Sets](https://huggingface.co/datasets)
 - [The Stack](https://www.bigcode-project.org/docs/about/the-stack/)
-- [Open Ethics Data Passport](https://openethics.ai/oedp/) 
+- [Open Ethics Data Passport](https://openethics.ai/oedp/) `Open Ethics`
 
 ## Databases
 
@@ -288,7 +288,7 @@ An interesting curated collection of articules (updated until 2021) [A Living an
 ### Cybersecurity 
 
 - [CVE](https://www.cve.org)
-- [European Union Vulnerability Database](https://euvd.enisa.europa.eu)
+- [European Union Vulnerability Database](https://euvd.enisa.europa.eu) `Enisa`
 - [GCVE: Global CVE Allocation System](https://gcve.eu)
 
 ## Frameworks
@@ -297,7 +297,7 @@ An interesting curated collection of articules (updated until 2021) [A Living an
 - [Data Ethics Canvas](https://theodi.org/insights/tools/the-data-ethics-canvas-2021/) `Open Data Institute`
 - [Deon](https://deon.drivendata.org) `Python` `Drivendata`
 - [Ethics & Algorithms Toolkit](http://ethicstoolkit.ai)
-- [Open Ethics Transparency Protocol (OETP)](https://openethics.ai/oetp/)
+- [Open Ethics Transparency Protocol (OETP)](https://openethics.ai/oetp/) `Open Ethics`
 - [RAI Toolkit](https://rai.tradewindai.com) `US Department of Defense`
 
 ## Institutes
@@ -366,13 +366,13 @@ An interesting curated collection of articules (updated until 2021) [A Living an
 
 - [The AIGA AI Governance Framework](https://ai-governance.eu)
 
+### Ethics
+
+- [Open Ethics Maturity Model](https://openethics.ai/oemm/) `Open Ethics`
+
 ### Responsible AI
 
 - [The GSMA Responsible AI Maturity Roadmap](https://www.gsma.com/solutions-and-impact/connectivity-for-good/external-affairs/responsible-ai/)
-
-### Open Ethics
-
-- [Open Ethics Maturity Model](https://openethics.ai/oemm/)
 
 ## Newsletters
 
@@ -442,6 +442,7 @@ Additional:
 - [AI Safety Index](https://futureoflife.org/document/fli-ai-safety-index-2024/) - 2024 - `Future of Life`
 - [European Open Source AI Index](https://osai-index.eu)
 - [Global Index for AI Safety](https://agile-index.ai/global-index-for-ai-safety)
+- [Impact Report](https://safe.ai). Edition: [2023](https://safe.ai/work/impact-report/2023) and [2024](https://safe.ai/work/impact-report/2024) `Center of AI Safety`
 - [State of AI](https://www.stateof.ai) - from 2018 up to now -
 - [The AI Index Report](https://aiindex.stanford.edu). Edition: [2017](https://hai.stanford.edu/ai-index/2017-ai-index-report), [2018](https://hai.stanford.edu/ai-index/2018-ai-index-report), [2019](https://hai.stanford.edu/ai-index/2019-ai-index-report), [2021](https://hai.stanford.edu/ai-index/2021-ai-index-report), [2022](https://hai.stanford.edu/ai-index/2022-ai-index-report), [2023](https://hai.stanford.edu/ai-index/2023-ai-index-report), [2024](https://hai.stanford.edu/ai-index/2024-ai-index-report) and [2025](https://hai.stanford.edu/ai-index/2025-ai-index-report)  `Stanford Institute for Human-Centered Artificial Intelligence`
 
