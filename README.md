@@ -376,10 +376,11 @@ An interesting curated collection of articules (updated until 2021) [A Living an
 
 ## Newsletters
 
+- [AI Frontiers](https://www.ai-frontiers.org/) `Center for AI Safety`
 - [AI Policy Perspectives](https://www.aipolicyperspectives.com)
 - [AI Policy Weekly](https://aipolicyus.substack.com)
 - [AI Safety in China](https://aisafetychina.substack.com)
-- [AI Safety Newsletter](https://newsletter.safe.ai)
+- [AI Safety Newsletter](https://newsletter.safe.ai) `Center for AI Safety`
 - [AI Snake Oil](https://www.aisnakeoil.com)
 - [Import AI](importai.substack.com)
 - [Marcus on AI](https://garymarcus.substack.com)
@@ -424,7 +425,7 @@ Additional:
 - Curto, J. 2024. **How Can Spain Remain Internationally Competitive in AI under EU Legislation?** [Article](https://github.com/AthenaCore/AwesomeResponsibleAI/blob/main/How%20Can%20Spain%20Remain%20Internationally%20Competitive%20in%20AI%20under%20EU%20Legislation.pdf)
 - CSIS. 2024 **The AI Safety Institute International Network: Next Steps and Recommendations**. CSIS (Center for Strategic and International Studies) [Article](https://www.csis.org/analysis/ai-safety-institute-international-network-next-steps-and-recommendations)
 - Gupta, Ritwik, et al. (2024). **Data-Centric AI Governance: Addressing the Limitations of Model-Focused Policies**. arXiv preprint arXiv:2409.17216 (Article)[https://arxiv.org/pdf/2409.17216]
-- Hendrycks, D. et al. 2023. **An overview of catastrophic AI risks. Center of AI Safety**.  arXiv preprint arXiv:2306.12001. [Article](https://arxiv.org/pdf/2306.12001)
+- Hendrycks, D. et al. 2023. **An overview of catastrophic AI risks. Center for AI Safety**.  arXiv preprint arXiv:2306.12001. [Article](https://arxiv.org/pdf/2306.12001)
 - Janjeva, A., et al. (2023). **Strengthening Resilience to AI Risk. A guide for UK policymakers**. CETaS (Centre for Emerging Technology and Security) [Article](https://ceas.turing.ac.uk/sites/default/files/2023-08/cetas-cltr_ai_risk_briefing_paper.pdf)
 - Piattini, M. and Fernández C.M. 2024. **Marco Confiable**. Revista SIC 162 [Article](https://revistasic.es/revista-sic/sic-162/colaboraciones/marco-confiable/)
 - Sastry, G., et al. 2024. **Computing Power and the Governance of Artificial Intelligence**. arXiv preprint arXiv:2402.08797. [Article]( https://arxiv.org/pdf/2402.08797)
@@ -442,7 +443,7 @@ Additional:
 - [AI Safety Index](https://futureoflife.org/document/fli-ai-safety-index-2024/) - 2024 - `Future of Life`
 - [European Open Source AI Index](https://osai-index.eu)
 - [Global Index for AI Safety](https://agile-index.ai/global-index-for-ai-safety)
-- [Impact Report](https://safe.ai). Edition: [2023](https://safe.ai/work/impact-report/2023) and [2024](https://safe.ai/work/impact-report/2024) `Center of AI Safety`
+- [Impact Report](https://safe.ai). Edition: [2023](https://safe.ai/work/impact-report/2023) and [2024](https://safe.ai/work/impact-report/2024) `Center for AI Safety`
 - [State of AI](https://www.stateof.ai) - from 2018 up to now -
 - [The AI Index Report](https://aiindex.stanford.edu). Edition: [2017](https://hai.stanford.edu/ai-index/2017-ai-index-report), [2018](https://hai.stanford.edu/ai-index/2018-ai-index-report), [2019](https://hai.stanford.edu/ai-index/2019-ai-index-report), [2021](https://hai.stanford.edu/ai-index/2021-ai-index-report), [2022](https://hai.stanford.edu/ai-index/2022-ai-index-report), [2023](https://hai.stanford.edu/ai-index/2023-ai-index-report), [2024](https://hai.stanford.edu/ai-index/2024-ai-index-report) and [2025](https://hai.stanford.edu/ai-index/2025-ai-index-report)  `Stanford Institute for Human-Centered Artificial Intelligence`
 
@@ -634,7 +635,7 @@ Additional:
 - [Jailbreakbench](https://jailbreakbench.github.io) `Python`
 - [JGLUE: Japanese General Language Understanding Evaluation](https://github.com/yahoojapan/JGLUE) `Python`
 - [KLUE: Korean Language Understanding Evaluation](https://github.com/KLUE-benchmark/KLUE) `Python`
-- [Mask Benchmark](https://www.mask-benchmark.ai) `Python` `Center of AI Safety` `Scale AI`
+- [Mask Benchmark](https://www.mask-benchmark.ai) `Python` `Center for AI Safety` `Scale AI`
 - [MixEval](https://mixeval.github.io) `Python`
 - [ML Commons Safety Benchmark for general purpose AI chat model](https://mlcommons.org/benchmarks/ai-safety/general_purpose_ai_chat_benchmark/)
 - [MLflow LLM Evaluation](https://mlflow.org/docs/latest/llms/llm-evaluate/index.html) `Python`
