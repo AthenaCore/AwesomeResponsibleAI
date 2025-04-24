@@ -411,9 +411,11 @@ Additional:
 
 ## Podcasts
 
+- [AI Safety Fundamentals](https://podcasts.apple.com/gb/podcast/ai-safety-fundamentals/id1687830086)
+- [AI Safety Newsletter](https://podcasts.apple.com/gb/podcast/ai-safety-newsletter/id1702875110)
+- [Me, Myself and AI](https://podcasts.apple.com/gb/podcast/me-myself-and-ai/id1533115958)
 - [The Human-Centered AI Podcast](https://podcasts.apple.com/us/podcast/the-human-centered-ai-podcast/id1499839858)
 - [Responsible AI Podcast](https://open.spotify.com/show/63Fx70r96P3ghWavisvPEQ)
-- [Trustworthy AI](https://marketing.truera.com/trustworthy-ai-podcast)
 
 ## Reports
 
