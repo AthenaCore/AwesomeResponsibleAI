@@ -621,6 +621,7 @@ Additional:
 - [Banana-lyzer](https://github.com/reworkd/bananalyzer) `Python`
 - [BALROG](https://github.com/balrog-ai/BALROG) `Python`
 - [BIG-Bench Extra Hard](https://github.com/google-deepmind/bbeh) `Python` `Deepmind`
+- [Chinese Safety Evaluations](https://airtable.com/appkPf0Rw2P7KCY5i/shrpXozZcomLjmBf3/tblV6tS87aqOgrDJX/viwukUaSfInPLoQun) `Concordia AI`
 - [CLUE benchmark](https://github.com/CLUEbenchmark/CLUE) `Python`
 - [DeepEval](https://github.com/confident-ai/deepeval) `Python` 
 - [evals](https://github.com/openai/evals) `Python` `OpenAI`
@@ -838,9 +839,9 @@ Regulations are requirements established by governments.
 - [Voluntary Code of Conduct on the Responsible Development and Management of Advanced Generative AI Systems](https://ised-isde.canada.ca/site/ised/en/voluntary-code-conduct-responsible-development-and-management-advanced-generative-ai-systems)
 - [Guidelines for secure AI system development](https://www.cyber.gc.ca/en/news-events/guidelines-secure-ai-system-development)
 
-### United Arab Emirates 🇦🇪
+### China 🇨🇳
 
-- [AI Principles & Ethics/Ethical AI Toolkit](https://www.digitaldubai.ae/initiatives/ai-principles-ethics)
+- [Chinese AI Governance Documents](https://airtable.com/appwGTl7Auvtwtoga/shrc5OzekCZKw5OJH/tbl35IgyBt2e2dHVt/viwnNAwqZt84d9hDZ?blocks=hide)
 
 ### European Union 🇪🇺
 
@@ -862,6 +863,10 @@ NIS2 Directive | EU/2022/2555 |It provides legal measures to boost the overall l
 ### Singapore 🇸🇬
 
 - [Singapore’s Approach to AI Governance - Verify](https://www.pdpc.gov.sg/help-and-resources/2020/01/model-ai-governance-framework)
+
+### United Arab Emirates 🇦🇪
+
+- [AI Principles & Ethics/Ethical AI Toolkit](https://www.digitaldubai.ae/initiatives/ai-principles-ethics)
 
 ### United States 🇺🇸
 
@@ -998,4 +1003,4 @@ Curto, J., et al. "Awesome Responsible Artificial Intelligence." GitHub. Last mo
 
 **MLA (Modern Language Association) 9th Edition**
 
-Curto, J., et al. "Awesome Responsible Artificial Intelligence". *GitHub*, 2025, https://github.com/AthenaCore/AwesomeResponsibleAI. Accessed 16 Apr 2025.
+Curto, J., et al. "Awesome Responsible Artificial Intelligence". *GitHub*, 2025, https://github.com/AthenaCore/AwesomeResponsibleAI. Accessed 27 Apr 2025.
