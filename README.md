@@ -637,6 +637,7 @@ Additional:
 - [Humanity's Last Exam](https://lastexam.ai) `Scale AI` `Center for AI Safety`
 - [Inspect](https://ukgovernmentbeis.github.io/inspect_ai/) `UK AISI` `Python`
 - [Jailbreakbench](https://jailbreakbench.github.io) `Python`
+- [JailBreakV-28K](https://eddyluo1232.github.io/JailBreakV28K/) `Python`
 - [JGLUE: Japanese General Language Understanding Evaluation](https://github.com/yahoojapan/JGLUE) `Python`
 - [KLUE: Korean Language Understanding Evaluation](https://github.com/KLUE-benchmark/KLUE) `Python`
 - [Mask Benchmark](https://www.mask-benchmark.ai) `Python` `Center for AI Safety` `Scale AI`
@@ -723,6 +724,7 @@ Additional benchmarks can be found [here](https://airtable.com/app83SBBFk9WO25hJ
 
 ### Red Teaming
 
+- [AutoDan](https://autodans.github.io/AutoDAN/) `Python`
 - [TextAttack](https://github.com/QData/TextAttack) `Python`
 
 ### Reliability Evaluation (of post hoc explanation methods and LLMs evaluations) 
