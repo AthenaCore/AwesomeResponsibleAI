@@ -59,9 +59,9 @@ AI is a transformative technology prone to reshape industries, yet it requires c
 - [Newsletters](#newsletters)
 - [Principles](#principles)
 - [Podcasts](#podcasts)
+- [Regulations](#regulations)
 - [Reports](#reports)
 - [Tools](#tools)
-- [Regulations](#regulations)
 - [Standards](#standards)
 - [Citing this repository](#Citing-this-repository)
 
@@ -417,6 +417,89 @@ Additional:
 - [Me, Myself and AI](https://podcasts.apple.com/gb/podcast/me-myself-and-ai/id1533115958)
 - [The Human-Centered AI Podcast](https://podcasts.apple.com/us/podcast/the-human-centered-ai-podcast/id1499839858)
 - [Responsible AI Podcast](https://open.spotify.com/show/63Fx70r96P3ghWavisvPEQ)
+
+## Regulations
+
+### Definition
+
+**What are regulations?**
+
+Regulations are requirements established by governments.
+
+### Interesting resources
+
+- [Data Protection and Privacy Legislation Worldwide](https://unctad.org/page/data-protection-and-privacy-legislation-worldwide) `UNCTAD`
+- [Data Protection Laws of the Word](https://www.dlapiperdataprotection.com)
+- [Digital Policy Alert](https://digitalpolicyalert.org/analysis)
+- [ETO Agora](emerging-technology-observatory/)
+- [GDPR Comparison](https://www.activemind.legal/law/)
+- [Global AI Regulation](https://global-ai-regulations.glitch.me)
+- [National AI policies & strategies](https://oecd.ai/en/dashboards/overview)
+- [Policy Database](https://aistandardshub.org/policy-and-strategy-search/)
+- [SCL Artificial Intelligence Contractual Clauses](https://www.scl.org/wp-content/uploads/2024/02/AI-Clauses-Project-October-2023-final-1.pdf)
+
+### Australia 🇦🇺
+
+- [AI and ESG](https://www.industry.gov.au/publications/ai-and-esg)
+- [The AI Impact Navigator](https://www.industry.gov.au/publications/ai-impact-navigator)
+- [Voluntary AI Safety Standard](https://www.industry.gov.au/publications/voluntary-ai-safety-standard)
+
+### Canada 🇨🇦
+
+- [Algorithmic Impact Assessment tool](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/algorithmic-impact-assessment.html)
+- [Directive on Automated Decision-Making](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32592)
+- [Directive on Privacy Practices](https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=18309)
+- [Directive on Security Management](https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=32611)
+- [Directive on Service and Digital](https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=32601)
+- [Policy on Government Security](https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=16578)
+- [Policy on Service and Digital](https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=32603)
+- [Privacy Act](https://laws-lois.justice.gc.ca/eng/ACTS/P-21/)
+- [Pan-Canadian Artificial Intelligence Strategy](https://ised-isde.canada.ca/site/ai-strategy/en)
+- [Artificial Intelligence and Data Act](https://ised-isde.canada.ca/site/innovation-better-canada/en/artificial-intelligence-and-data-act-aida-companion-document) (Bill C-27)
+- [Voluntary Code of Conduct on the Responsible Development and Management of Advanced Generative AI Systems](https://ised-isde.canada.ca/site/ised/en/voluntary-code-conduct-responsible-development-and-management-advanced-generative-ai-systems)
+- [Guidelines for secure AI system development](https://www.cyber.gc.ca/en/news-events/guidelines-secure-ai-system-development)
+
+### China 🇨🇳
+
+- [Chinese AI Governance Documents](https://airtable.com/appwGTl7Auvtwtoga/shrc5OzekCZKw5OJH/tbl35IgyBt2e2dHVt/viwnNAwqZt84d9hDZ?blocks=hide)
+
+### European Union 🇪🇺
+
+Short Name | Code | Description | Status | Website | Legal text
+---|---|---|---|---|---
+Cyber Resilience Act (CRA) - horizontal cybersecurity requirements for products with digital elements | 2022/0272(COD)| It introduces mandatory cybersecurity requirements for hardware and software products, throughout their whole lifecycle. | Proposal | [Website](https://digital-strategy.ec.europa.eu/en/policies/cyber-resilience-act) |[Source](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202402847)
+Data Act | EU/2023/2854 | It enables a fair distribution of the value of data by establishing clear and fair rules for accessing and using data within the European data economy. | Published | [Website](https://digital-strategy.ec.europa.eu/en/policies/data-act)| [Source](https://eur-lex.europa.eu/eli/reg/2023/2854)
+Data Governance Act | EU/2022/868 | It supports the setup and development of Common European Data Spaces in strategic domains, involving both private and public players, in sectors such as health, environment, energy, agriculture, mobility, finance, manufacturing, public administration and skills. | Published | [Website](https://digital-strategy.ec.europa.eu/en/policies/data-governance-act) | [Source](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R0868)
+Digital Market Act | EU/2022/1925 | It establishes a set of clearly defined objective criteria to identify “gatekeepers”. Gatekeepers are large digital platforms providing so called core platform services, such as for example online search engines, app stores, messenger services. Gatekeepers will have to comply with the do’s (i.e. obligations) and don’ts (i.e. prohibitions) listed in the DMA. | Published | [Website](https://digital-markets-act.ec.europa.eu/index_en) | [Source](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32022R1925)
+Digital Services Act | EU/2022/2026 | It regulates online intermediaries and platforms such as marketplaces, social networks, content-sharing platforms, app stores, and online travel and accommodation platforms. Its main goal is to prevent illegal and harmful activities online and the spread of disinformation. It ensures user safety, protects fundamental rights, and creates a fair and open online platform environment. | Published | [Website](https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/digital-services-act_en) | [Source](https://eur-lex.europa.eu/legal-content/EN/TXT/?toc=OJ%3AL%3A2022%3A277%3ATOC&uri=uriserv%3AOJ.L_.2022.277.01.0001.01.ENG)
+DMS Directive | EU/2019/790 | It is intended to ensure a well-functioning marketplace for copyright. | Published | [Website](https://digital-strategy.ec.europa.eu/en/policies/copyright-legislation) | [Source](https://eur-lex.europa.eu/eli/dir/2019/790/oj)
+Energy Efficiency Directive | EU/2023/1791 | It establishes ‘energy efficiency first’ as a fundamental principle of EU energy policy, giving it legal-standing for the first time. In practical terms, this means that energy efficiency must be considered by EU countries in all relevant policy and major investment decisions taken in the energy and non-energy sectors. | Published | [Website](https://energy.ec.europa.eu/topics/energy-efficiency/energy-efficiency-targets-directive-and-rules/energy-efficiency-directive_en) | [Source](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AJOL_2023_231_R_0001&qid=1695186598766)
+EU AI ACT | EU/2024/1689 | It assigns applications of AI to three risk categories. First, applications and systems that create an unacceptable risk are banned. Second, high-risk applications are subject to specific legal requirements. Lastly, applications not explicitly banned or listed as high-risk are largely left unregulated. | Published | [Website](https://artificialintelligenceact.eu) | [Source](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401689)
+General Data Protection Regulation (GDPR) | EU/2016/679 | It strengthens individuals' fundamental rights in the digital age and facilitate business by clarifying rules for companies and public bodies in the digital single market. | Published | [Website](https://gdpr.eu/) | [Source](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32016R0679)
+NIS2 Directive | EU/2022/2555 |It provides legal measures to boost the overall level of cybersecurity in the EU by ensuring preparedness, cooperation and security cultere across the Member States. | Published | [Website](https://digital-strategy.ec.europa.eu/en/policies/nis2-directive) | [Source](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32022L2555)
+
+- [Hiroshima Process International Guiding Principles for Advanced AI system](https://digital-strategy.ec.europa.eu/en/library/hiroshima-process-international-guiding-principles-advanced-ai-system)
+
+### Singapore 🇸🇬
+
+- [Singapore’s Approach to AI Governance - Verify](https://www.pdpc.gov.sg/help-and-resources/2020/01/model-ai-governance-framework)
+
+### United Arab Emirates 🇦🇪
+
+- [AI Principles & Ethics/Ethical AI Toolkit](https://www.digitaldubai.ae/initiatives/ai-principles-ethics)
+
+### United States 🇺🇸
+
+- State laws: California ([CCPA](https://www.oag.ca.gov/privacy/ccpa) and its amendment, [CPRA](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202120220AB1490)), Virginia ([VCDPA](https://lis.virginia.gov/cgi-bin/legp604.exe?212+sum+HB2307)), Colorado ([ColoPA - Colorado SB21-190](https://leg.colorado.gov/sites/default/files/documents/2021A/bills/2021a_190_rer.pdf) and [Colorado SB21-169: Regulation prohibiting unfair discrimination in insurance](https://doi.colorado.gov/for-consumers/sb21-169-protecting-consumers-from-unfair-discrimination-in-insurance-practices)) and New York [NYC Local Law 144: Mandatory bias audits for automated employment decision tools](https://www.nyc.gov/site/dca/about/automated-employment-decision-tools.page).
+- Specific and limited privacy data laws: [HIPAA](https://www.cdc.gov/phlp/publications/topic/hipaa.html), [FCRA](https://www.ftc.gov/enforcement/statutes/fair-credit-reporting-act), [FERPA](https://www.cdc.gov/phlp/publications/topic/ferpa.html), [GLBA](https://www.ftc.gov/tips-advice/business-center/privacy-and-security/gramm-leach-bliley-act), [ECPA](https://bja.ojp.gov/program/it/privacy-civil-liberties/authorities/statutes/1285), [COPPA](https://www.ftc.gov/enforcement/rules/rulemaking-regulatory-reform-proceedings/childrens-online-privacy-protection-rule), [VPPA](https://www.law.cornell.edu/uscode/text/18/2710) and [FTC](https://www.ftc.gov/enforcement/statutes/federal-trade-commission-act).
+- [EU-U.S. and Swiss-U.S. Privacy Shield Frameworks](https://www.privacyshield.gov/welcome) - The EU-U.S. and Swiss-U.S. Privacy Shield Frameworks were designed by the U.S. Department of Commerce and the European Commission and Swiss Administration to provide companies on both sides of the Atlantic with a mechanism to comply with data protection requirements when transferring personal data from the European Union and Switzerland to the United States in support of transatlantic commerce.
+- [REMOVING BARRIERS TO AMERICAN LEADERSHIP IN ARTIFICIAL INTELLIGENCE](https://www.whitehouse.gov/presidential-actions/2025/01/removing-barriers-to-american-leadership-in-artificial-intelligence/) - Official mandate by the President of the US to position the country at the forefront of AI innovation.
+- [Privacy Act of 1974](https://www.justice.gov/opcl/privacy-act-1974) - The privacy act of 1974 which establishes a code of fair information practices that governs the collection, maintenance, use and dissemination of information about individuals that is maintained in systems of records by federal agencies.
+- [Privacy Protection Act of 1980](https://epic.org/privacy/ppa/) - The Privacy Protection Act of 1980 protects journalists from being required to turn over to law enforcement any work product and documentary materials, including sources, before it is disseminated to the public.
+
+### Spain 🇪🇸
+
+- [EIDF: guía y casos de uso - Metodología aplicada de la avaluación de impacto sobre los derechos fundamentales en el diseño y desarrollo de la IA-](https://www.dpdenxarxa.cat/pluginfile.php/2468/mod_folder/content/0/CAST-APDcat-281.pdf)
 
 ## Reports
 
@@ -799,89 +882,6 @@ For consumers:
 - [AudioSeal: Proactive Localized Watermarking](https://github.com/facebookresearch/audioseal) `Python` `Facebook`
 - [MarkLLM: An Open-Source Toolkit for LLM Watermarking](https://github.com/thu-bpm/markllm) `Python`
 - [SynthID Text](https://github.com/google-deepmind/synthid-text) `Python` `Google`
-
-## Regulations
-
-### Definition
-
-**What are regulations?**
-
-Regulations are requirements established by governments.
-
-### Interesting resources
-
-- [Data Protection and Privacy Legislation Worldwide](https://unctad.org/page/data-protection-and-privacy-legislation-worldwide) `UNCTAD`
-- [Data Protection Laws of the Word](https://www.dlapiperdataprotection.com)
-- [Digital Policy Alert](https://digitalpolicyalert.org/analysis)
-- [ETO Agora](emerging-technology-observatory/)
-- [GDPR Comparison](https://www.activemind.legal/law/)
-- [Global AI Regulation](https://global-ai-regulations.glitch.me)
-- [National AI policies & strategies](https://oecd.ai/en/dashboards/overview)
-- [Policy Database](https://aistandardshub.org/policy-and-strategy-search/)
-- [SCL Artificial Intelligence Contractual Clauses](https://www.scl.org/wp-content/uploads/2024/02/AI-Clauses-Project-October-2023-final-1.pdf)
-
-### Australia 🇦🇺
-
-- [AI and ESG](https://www.industry.gov.au/publications/ai-and-esg)
-- [The AI Impact Navigator](https://www.industry.gov.au/publications/ai-impact-navigator)
-- [Voluntary AI Safety Standard](https://www.industry.gov.au/publications/voluntary-ai-safety-standard)
-
-### Canada 🇨🇦
-
-- [Algorithmic Impact Assessment tool](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/algorithmic-impact-assessment.html)
-- [Directive on Automated Decision-Making](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32592)
-- [Directive on Privacy Practices](https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=18309)
-- [Directive on Security Management](https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=32611)
-- [Directive on Service and Digital](https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=32601)
-- [Policy on Government Security](https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=16578)
-- [Policy on Service and Digital](https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=32603)
-- [Privacy Act](https://laws-lois.justice.gc.ca/eng/ACTS/P-21/)
-- [Pan-Canadian Artificial Intelligence Strategy](https://ised-isde.canada.ca/site/ai-strategy/en)
-- [Artificial Intelligence and Data Act](https://ised-isde.canada.ca/site/innovation-better-canada/en/artificial-intelligence-and-data-act-aida-companion-document) (Bill C-27)
-- [Voluntary Code of Conduct on the Responsible Development and Management of Advanced Generative AI Systems](https://ised-isde.canada.ca/site/ised/en/voluntary-code-conduct-responsible-development-and-management-advanced-generative-ai-systems)
-- [Guidelines for secure AI system development](https://www.cyber.gc.ca/en/news-events/guidelines-secure-ai-system-development)
-
-### China 🇨🇳
-
-- [Chinese AI Governance Documents](https://airtable.com/appwGTl7Auvtwtoga/shrc5OzekCZKw5OJH/tbl35IgyBt2e2dHVt/viwnNAwqZt84d9hDZ?blocks=hide)
-
-### European Union 🇪🇺
-
-Short Name | Code | Description | Status | Website | Legal text
----|---|---|---|---|---
-Cyber Resilience Act (CRA) - horizontal cybersecurity requirements for products with digital elements | 2022/0272(COD)| It introduces mandatory cybersecurity requirements for hardware and software products, throughout their whole lifecycle. | Proposal | [Website](https://digital-strategy.ec.europa.eu/en/policies/cyber-resilience-act) |[Source](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202402847)
-Data Act | EU/2023/2854 | It enables a fair distribution of the value of data by establishing clear and fair rules for accessing and using data within the European data economy. | Published | [Website](https://digital-strategy.ec.europa.eu/en/policies/data-act)| [Source](https://eur-lex.europa.eu/eli/reg/2023/2854)
-Data Governance Act | EU/2022/868 | It supports the setup and development of Common European Data Spaces in strategic domains, involving both private and public players, in sectors such as health, environment, energy, agriculture, mobility, finance, manufacturing, public administration and skills. | Published | [Website](https://digital-strategy.ec.europa.eu/en/policies/data-governance-act) | [Source](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R0868)
-Digital Market Act | EU/2022/1925 | It establishes a set of clearly defined objective criteria to identify “gatekeepers”. Gatekeepers are large digital platforms providing so called core platform services, such as for example online search engines, app stores, messenger services. Gatekeepers will have to comply with the do’s (i.e. obligations) and don’ts (i.e. prohibitions) listed in the DMA. | Published | [Website](https://digital-markets-act.ec.europa.eu/index_en) | [Source](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32022R1925)
-Digital Services Act | EU/2022/2026 | It regulates online intermediaries and platforms such as marketplaces, social networks, content-sharing platforms, app stores, and online travel and accommodation platforms. Its main goal is to prevent illegal and harmful activities online and the spread of disinformation. It ensures user safety, protects fundamental rights, and creates a fair and open online platform environment. | Published | [Website](https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/digital-services-act_en) | [Source](https://eur-lex.europa.eu/legal-content/EN/TXT/?toc=OJ%3AL%3A2022%3A277%3ATOC&uri=uriserv%3AOJ.L_.2022.277.01.0001.01.ENG)
-DMS Directive | EU/2019/790 | It is intended to ensure a well-functioning marketplace for copyright. | Published | [Website](https://digital-strategy.ec.europa.eu/en/policies/copyright-legislation) | [Source](https://eur-lex.europa.eu/eli/dir/2019/790/oj)
-Energy Efficiency Directive | EU/2023/1791 | It establishes ‘energy efficiency first’ as a fundamental principle of EU energy policy, giving it legal-standing for the first time. In practical terms, this means that energy efficiency must be considered by EU countries in all relevant policy and major investment decisions taken in the energy and non-energy sectors. | Published | [Website](https://energy.ec.europa.eu/topics/energy-efficiency/energy-efficiency-targets-directive-and-rules/energy-efficiency-directive_en) | [Source](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AJOL_2023_231_R_0001&qid=1695186598766)
-EU AI ACT | EU/2024/1689 | It assigns applications of AI to three risk categories. First, applications and systems that create an unacceptable risk are banned. Second, high-risk applications are subject to specific legal requirements. Lastly, applications not explicitly banned or listed as high-risk are largely left unregulated. | Published | [Website](https://artificialintelligenceact.eu) | [Source](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401689)
-General Data Protection Regulation (GDPR) | EU/2016/679 | It strengthens individuals' fundamental rights in the digital age and facilitate business by clarifying rules for companies and public bodies in the digital single market. | Published | [Website](https://gdpr.eu/) | [Source](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32016R0679)
-NIS2 Directive | EU/2022/2555 |It provides legal measures to boost the overall level of cybersecurity in the EU by ensuring preparedness, cooperation and security cultere across the Member States. | Published | [Website](https://digital-strategy.ec.europa.eu/en/policies/nis2-directive) | [Source](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32022L2555)
-
-- [Hiroshima Process International Guiding Principles for Advanced AI system](https://digital-strategy.ec.europa.eu/en/library/hiroshima-process-international-guiding-principles-advanced-ai-system)
-
-### Singapore 🇸🇬
-
-- [Singapore’s Approach to AI Governance - Verify](https://www.pdpc.gov.sg/help-and-resources/2020/01/model-ai-governance-framework)
-
-### United Arab Emirates 🇦🇪
-
-- [AI Principles & Ethics/Ethical AI Toolkit](https://www.digitaldubai.ae/initiatives/ai-principles-ethics)
-
-### United States 🇺🇸
-
-- State laws: California ([CCPA](https://www.oag.ca.gov/privacy/ccpa) and its amendment, [CPRA](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202120220AB1490)), Virginia ([VCDPA](https://lis.virginia.gov/cgi-bin/legp604.exe?212+sum+HB2307)), Colorado ([ColoPA - Colorado SB21-190](https://leg.colorado.gov/sites/default/files/documents/2021A/bills/2021a_190_rer.pdf) and [Colorado SB21-169: Regulation prohibiting unfair discrimination in insurance](https://doi.colorado.gov/for-consumers/sb21-169-protecting-consumers-from-unfair-discrimination-in-insurance-practices)) and New York [NYC Local Law 144: Mandatory bias audits for automated employment decision tools](https://www.nyc.gov/site/dca/about/automated-employment-decision-tools.page).
-- Specific and limited privacy data laws: [HIPAA](https://www.cdc.gov/phlp/publications/topic/hipaa.html), [FCRA](https://www.ftc.gov/enforcement/statutes/fair-credit-reporting-act), [FERPA](https://www.cdc.gov/phlp/publications/topic/ferpa.html), [GLBA](https://www.ftc.gov/tips-advice/business-center/privacy-and-security/gramm-leach-bliley-act), [ECPA](https://bja.ojp.gov/program/it/privacy-civil-liberties/authorities/statutes/1285), [COPPA](https://www.ftc.gov/enforcement/rules/rulemaking-regulatory-reform-proceedings/childrens-online-privacy-protection-rule), [VPPA](https://www.law.cornell.edu/uscode/text/18/2710) and [FTC](https://www.ftc.gov/enforcement/statutes/federal-trade-commission-act).
-- [EU-U.S. and Swiss-U.S. Privacy Shield Frameworks](https://www.privacyshield.gov/welcome) - The EU-U.S. and Swiss-U.S. Privacy Shield Frameworks were designed by the U.S. Department of Commerce and the European Commission and Swiss Administration to provide companies on both sides of the Atlantic with a mechanism to comply with data protection requirements when transferring personal data from the European Union and Switzerland to the United States in support of transatlantic commerce.
-- [REMOVING BARRIERS TO AMERICAN LEADERSHIP IN ARTIFICIAL INTELLIGENCE](https://www.whitehouse.gov/presidential-actions/2025/01/removing-barriers-to-american-leadership-in-artificial-intelligence/) - Official mandate by the President of the US to position the country at the forefront of AI innovation.
-- [Privacy Act of 1974](https://www.justice.gov/opcl/privacy-act-1974) - The privacy act of 1974 which establishes a code of fair information practices that governs the collection, maintenance, use and dissemination of information about individuals that is maintained in systems of records by federal agencies.
-- [Privacy Protection Act of 1980](https://epic.org/privacy/ppa/) - The Privacy Protection Act of 1980 protects journalists from being required to turn over to law enforcement any work product and documentary materials, including sources, before it is disseminated to the public.
-
-### Spain 🇪🇸
-
-- [EIDF: guía y casos de uso - Metodología aplicada de la avaluación de impacto sobre los derechos fundamentales en el diseño y desarrollo de la IA-](https://www.dpdenxarxa.cat/pluginfile.php/2468/mod_folder/content/0/CAST-APDcat-281.pdf)
 
 ## Standards
 
