@@ -6,7 +6,7 @@
 [![GitHub](https://img.shields.io/twitter/follow/athenacoreai.svg?label=Follow)](https://twitter.com/athenacoreai)
 
 # Awesome Responsible AI
-A curated list of awesome academic research, books, code of ethics, courses, data sets, databases, frameworks, institutes, maturity models, newsletters, principles, podcasts, reports, tools, regulations and standards related to Responsible, Trustworthy, and Human-Centered AI. 
+A curated list of awesome academic research, books, code of ethics, courses, data sets, databases, frameworks, institutes, maturity models, newsletters, principles, podcasts, regulations, respnsible scale policies, reports, tools and standards related to Responsible, Trustworthy, and Human-Centered AI. 
 
 ## Main Concepts
 
@@ -60,6 +60,7 @@ AI is a transformative technology prone to reshape industries, yet it requires c
 - [Principles](#principles)
 - [Podcasts](#podcasts)
 - [Regulations](#regulations)
+- [Responsible Scale Policies](#respnsible-scale-policies)
 - [Reports](#reports)
 - [Tools](#tools)
 - [Standards](#standards)
@@ -500,6 +501,27 @@ NIS2 Directive | EU/2022/2555 |It provides legal measures to boost the overall l
 ### Spain 🇪🇸
 
 - [EIDF: guía y casos de uso - Metodología aplicada de la avaluación de impacto sobre los derechos fundamentales en el diseño y desarrollo de la IA-](https://www.dpdenxarxa.cat/pluginfile.php/2468/mod_folder/content/0/CAST-APDcat-281.pdf)
+
+## Responsible Scale Policies
+
+### Definition
+
+Responsible Scale Policies (RSPs) specify what level of AI capabilities an AI developer is prepared to handle safely with their current protective measures, and conditions under which it would be too dangerous to continue deploying AI systems and/or scaling up AI capabilities until protective measures improve.
+
+### RSP List
+
+- Anthropic: [Responsible Scaling Policy](https://www-cdn.anthropic.com/17310f6d70ae5627f55313ed067afc1a762a4068.pdf). Published: September 19, 2023 , Last updated: March 31, 2025
+- OpenAI: [Preparedness Framework](https://cdn.openai.com/pdf/18a02b5d-6b67-4cec-ab64-68cdfbddebcd/preparedness-framework-v2.pdf). Published: April 15, 2025
+- Google DeepMind: [Frontier Safety Framework](https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/updating-the-frontier-safety-framework/Frontier%20Safety%20Framework%202.0%20(1).pdf). Published: May 17, 2024 , Last updated: February 4, 2025
+- Magic: [AGI Readiness Policy](https://magic.dev/agi-readiness-policy). Published: July 2, 2024
+- NAVER: [AI Safety Framework](https://clova.ai/en/tech-blog/en-navers-ai-safety-framework-asf). Published: August 7, 2024
+- Meta: [Frontier AI Framework](https://ai.meta.com/static-resource/meta-frontier-ai-framework/). Published: February 3, 2025
+- G42: [Frontier AI Safety Framework](https://www.g42.ai/application/files/9517/3882/2182/G42_Frontier_Safety_Framework_Publication_Version.pdf). Published: February 6, 2025
+- Cohere: [Secure AI Frontier Model Framework](https://cohere.com/security/the-cohere-secure-ai-frontier-model-framework-february-2025.pdf). Published: February 7, 2025
+- Microsoft: [Frontier Governance Framework](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/final/en-us/microsoft-brand/documents/Microsoft-Frontier-Governance-Framework.pdf). Published: February 8, 2025
+- Amazon: [Frontier Model Safety Framework](https://www.amazon.science/publications/amazons-frontier-model-safety-framework). Published: February 10, 2025
+- xAI: [Risk Management Framework (Draft)](https://x.ai/documents/2025.02.20-RMF-Draft.pdf). Published: February 10, 2025
+- Nvidia: [Frontier AI Risk Assessment](https://images.nvidia.com/content/pdf/NVIDIA-Frontier-AI-Risk-Assessment.pdf). Published: February 17, 2025
 
 ## Reports
 
