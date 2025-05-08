@@ -60,7 +60,7 @@ AI is a transformative technology prone to reshape industries, yet it requires c
 - [Principles](#principles)
 - [Podcasts](#podcasts)
 - [Regulations](#regulations)
-- [Responsible Scale Policies](#respnsible-scale-policies)
+- [Responsible Scale Policies](#responsible-scale-policies)
 - [Reports](#reports)
 - [Tools](#tools)
 - [Standards](#standards)
@@ -541,6 +541,7 @@ Responsible Scale Policies (RSPs) specify what level of AI capabilities an AI de
 ### AI Safety
 
 - [International AI Safety Report](https://assets.publishing.service.gov.uk/media/679a0c48a77d250007d313ee/International_AI_Safety_Report_2025_accessible_f.pdf) `AI Action Summit`
+- [The Singapore Consensus on Global AI Safety Research Priorities](https://aisafetypriorities.org) `SCAI`
 
 ### Copyright
 
