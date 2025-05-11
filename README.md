@@ -657,6 +657,7 @@ Responsible Scale Policies (RSPs) specify what level of AI capabilities an AI de
 - [Diverse Counterfactual Explanations (DiCE)](https://github.com/interpretml/DiCE) `Python` `Microsoft`
 - [dtreeviz](https://github.com/parrt/dtreeviz) `Python` 
 - [ecco](https://pypi.org/project/ecco/) [article](https://jalammar.github.io/explaining-transformers/) `Python`
+- [effector](https://github.com/givasile/effector) `Python`
 - [effectplots](https://github.com/mayer79/effectplots) `R`
 - [eli5](https://github.com/TeamHG-Memex/eli5) `Python`
 - [explabox](https://explabox.readthedocs.io/en/latest/index.html) `Python` `National Police Lab AI`
