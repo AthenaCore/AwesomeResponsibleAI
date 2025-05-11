@@ -725,6 +725,7 @@ Measuring progress is fundamental to the advancement of any scientific field. As
 - [AlignEval: Making Evals Easy, Fun, and Semi-Automated](https://aligneval.com) [Motivation](https://eugeneyan.com/writing/aligneval/)
 - [AlpacaEval](https://github.com/tatsu-lab/alpaca_eval) `Python`
 - [ARES](https://github.com/stanford-futuredata/ARES) `Python` `Standorf Future Data Systems`
+- [Autoeval](https://auto-eval.github.io) `Python`
 - [Azure AI Evaluation](https://github.com/Azure/azure-sdk-for-python/tree/main/sdk/evaluation/azure-ai-evaluation) `Python` `Microsoft`
 - [Banana-lyzer](https://github.com/reworkd/bananalyzer) `Python`
 - [BALROG](https://github.com/balrog-ai/BALROG) `Python`
