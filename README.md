@@ -680,6 +680,7 @@ Responsible Scale Policies (RSPs) specify what level of AI capabilities an AI de
 - [lime: Local Interpretable Model-Agnostic Explanations](https://cran.r-project.org/web/packages/lime/index.html) `R`
 - [Network Dissection](http://netdissect.csail.mit.edu) `Python` `Neural Networks` `MIT` 
 - [OmniXAI](https://github.com/salesforce/OmniXAI) `Python` `Salesforce`
+- [pre](https://cran.r-project.org/web/packages/pre/index.html) `R`
 - [ReasonGraph](https://github.com/ZongqianLi/ReasonGraph) `Python`
 - [Shap](https://github.com/slundberg/shap) `Python`
 - [Shapash](https://github.com/maif/shapash) `Python`
