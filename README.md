@@ -734,6 +734,7 @@ Measuring progress is fundamental to the advancement of any scientific field. As
 - [BIG-Bench Extra Hard](https://github.com/google-deepmind/bbeh) `Python` `Deepmind`
 - [Chinese Safety Evaluations](https://airtable.com/appkPf0Rw2P7KCY5i/shrpXozZcomLjmBf3/tblV6tS87aqOgrDJX/viwukUaSfInPLoQun) `Concordia AI`
 - [CLUE benchmark](https://github.com/CLUEbenchmark/CLUE) `Python`
+- [DarkBench](https://github.com/smarter/DarkBench) `Python`
 - [DeepEval](https://github.com/confident-ai/deepeval) `Python` 
 - [evals](https://github.com/openai/evals) `Python` `OpenAI`
 - [EvalScope](https://github.com/modelscope/evalscope) `Python`
