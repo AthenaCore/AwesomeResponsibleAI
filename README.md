@@ -437,6 +437,7 @@ Regulations are requirements established by governments.
 - [Global AI Regulation](https://global-ai-regulations.glitch.me)
 - [National AI policies & strategies](https://oecd.ai/en/dashboards/overview)
 - [Policy Database](https://aistandardshub.org/policy-and-strategy-search/)
+- [SEA Observatory](https://seaobservatory.com) `AI Safety`
 - [SCL Artificial Intelligence Contractual Clauses](https://www.scl.org/wp-content/uploads/2024/02/AI-Clauses-Project-October-2023-final-1.pdf)
 
 ### Australia 🇦🇺
