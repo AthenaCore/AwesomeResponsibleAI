@@ -264,6 +264,7 @@ An interesting curated collection of articules (updated until 2021) [A Living an
 
 ## Data Sets
 
+- [AI Hallucination Cases](https://www.damiencharlotin.com/hallucinations/)
 - [AI Risk Database](https://airisk.io/) `MITRE`
 - [AI Risk Repository](https://airisk.mit.edu) `MIT`
 - [ARC AGI](https://github.com/fchollet/ARC-AGI)
