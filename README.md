@@ -665,7 +665,8 @@ Responsible Scale Policies (RSPs) specify what level of AI capabilities an AI de
 - [explabox](https://explabox.readthedocs.io/en/latest/index.html) `Python` `National Police Lab AI`
 - [eXplainability Toolbox](https://ethical.institute/xai.html) `Python`
 - [ExplainaBoard](https://github.com/neulab/ExplainaBoard) `Python` `Carnegie Mellon University`
-- [ExplainerHub](https://explainerdashboard.readthedocs.io/en/latest/index.html) [in github](https://github.com/oegedijk/explainerdashboard) `Python` 
+- [ExplainerHub](https://explainerdashboard.readthedocs.io/en/latest/index.html) [in github](https://github.com/oegedijk/explainerdashboard) `Python`
+- [e2tree](https://cran.r-project.org/web/packages/e2tree/index.html) `R`
 - [fastshap](https://github.com/bgreenwell/fastshap) `R`
 - [fasttreeshap](https://github.com/linkedin/fasttreeshap) `Python` `LinkedIn`
 - [FAT Forensics](https://fat-forensics.org/) `Python`
