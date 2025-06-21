@@ -726,6 +726,7 @@ Responsible Scale Policies (RSPs) specify what level of AI capabilities an AI de
 
 Measuring progress is fundamental to the advancement of any scientific field. As benchmarks play an increasingly central role, they also grow more susceptible to distortion. Read more about it in Sing, S., et al. (2025) **The Leaderboard Illusion**. arXiv preprint [arXiv:2504.2087](https://arxiv.org/pdf/2504.20879). In addition to the problem of distursion, we must remember that this is nascent discipline as stated in Weidinger, L., et al. (2025). **Toward an evaluation science for generative AI systems**. arXiv preprint [arXiv:2503.05336](https://arxiv.org/pdf/2503.05336).
 
+- [AbsenceBench](https://github.com/harvey-fin/absence-bench) `Python`
 - [AIluminate](https://mlcommons.org/ailuminate/)
 - [AlignEval: Making Evals Easy, Fun, and Semi-Automated](https://aligneval.com) [Motivation](https://eugeneyan.com/writing/aligneval/)
 - [AlpacaEval](https://github.com/tatsu-lab/alpaca_eval) `Python`
