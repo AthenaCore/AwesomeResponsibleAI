@@ -545,6 +545,10 @@ Responsible Scale Policies (RSPs) specify what level of AI capabilities an AI de
 - [International AI Safety Report](https://assets.publishing.service.gov.uk/media/679a0c48a77d250007d313ee/International_AI_Safety_Report_2025_accessible_f.pdf) `AI Action Summit`
 - [The Singapore Consensus on Global AI Safety Research Priorities](https://aisafetypriorities.org) `SCAI`
 
+### AI Testing
+
+- [OWASP AI Testing Guide](https://owasp.org/www-project-ai-testing-guide/)
+
 ### Copyright
 
 - [Copyright and Artificial Intelligence](https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyrightability-Report.pdf) `US Copyright Office`
