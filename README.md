@@ -751,6 +751,7 @@ Measuring progress is fundamental to the advancement of any scientific field. As
 - [FBI: Finding Blindspots in LLM Evaluations with Interpretable Checklists](https://github.com/AI4Bharat/FBI) `Python`
 - [FrontierMath](https://epoch.ai/frontiermath)
 - [Geekbench AI](https://www.geekbench.com/ai/)
+- [GPQA: A Graduate-Level Google-Proof Q&A Benchmark](https://github.com/idavidrein/gpqa) `Python` `dataset`
 - [Giskard](https://github.com/Giskard-AI/giskard) `Python`
 - [HAL Harness](https://github.com/princeton-pli/hal-harness) `Python` `PLI`
 - [HELM](https://github.com/stanford-crfm/helm) `Python`
