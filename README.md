@@ -631,6 +631,7 @@ Responsible Scale Policies (RSPs) specify what level of AI capabilities an AI de
 - [EDFfair: Explicitly Deweighted Features](https://github.com/matloff/EDFfair) `R`
 - [EquiPy](https://github.com/equilibration/equipy) `Python`
 - [Fairlearn](https://fairlearn.org) `Python` `Microsoft`
+- [fairmetrics](https://jianhuig.github.io/fairmetrics/) `R`
 - [Fairmodels](https://fairmodels.drwhy.ai) `R` `University of California`
 - [fairness](https://cran.r-project.org/web/packages/fairness/) `R`
 - [Fairness Indicators](https://github.com/tensorflow/fairness-indicators) `Python` `Google`
