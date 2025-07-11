@@ -434,6 +434,7 @@ Regulations are requirements established by governments.
 - [Data Protection Laws of the Word](https://www.dlapiperdataprotection.com)
 - [Digital Policy Alert](https://digitalpolicyalert.org/analysis)
 - [ETO Agora](emerging-technology-observatory/)
+- [GAIIN: The Global AI Initiatives Navigator](https://oecd.ai/en/dashboards/overview) 
 - [GDPR Comparison](https://www.activemind.legal/law/)
 - [Global AI Regulation](https://global-ai-regulations.glitch.me)
 - [National AI policies & strategies](https://oecd.ai/en/dashboards/overview)
@@ -1002,6 +1003,8 @@ AI Privacy | ISO/IEC AWI 27091 Cybersecurity and Privacy — Artificial Intellig
 AI Governance | ISO/IEC 38507:2022 Information technology — Governance of IT — Governance implications of the use of artificial intelligence by organizations | Published | https://www.iso.org/standard/56641.html
 AI Safety | ISO/IEC CD TR 5469 Artificial intelligence — Functional safety and AI systems | Published | https://www.iso.org/standard/81283.html
 Beneficial AI Systems | ISO/IEC AWI TR 21221 Information technology – Artificial intelligence – Beneficial AI systems | Under Development  | https://www.iso.org/standard/86690.html
+AI Impact Assessment | ISO/IEC 42005:2025 Information technology — Artificial intelligence (AI) — AI system impact assessment | Published | https://www.iso.org/standard/42005
+AI Audit and Certification | ISO/IEC 42006:2025 Information technology — Artificial intelligence — Requirements for bodies providing audit and certification of artificial intelligence management systems | Published  | https://www.iso.org/standard/42006
 
 ### NIST Publications
 
