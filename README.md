@@ -253,6 +253,10 @@ An interesting curated collection of articules (updated until 2021) [A Living an
 
 - [Machine Learning in Production (17-445/17-645/17-745) / AI Engineering (11-695)](https://mlip-cmu.github.io/s2025/) `CMU`
 
+### LLM Evaluation
+
+- [LLM evaluation](https://nebius-academy.github.io/knowledge-base/evaluation-1-basics/) `Nebius Academy` `Evidently`
+
 ### Privacy
 
 - [Privacy Preserving AI Series](https://courses.openmined.org) 
