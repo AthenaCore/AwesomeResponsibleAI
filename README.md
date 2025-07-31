@@ -619,6 +619,10 @@ Responsible Scale Policies (RSPs) specify what level of AI capabilities an AI de
 
 - [DvC](https://dvc.org)
 
+### Disclosure
+
+- [Open Ethics Label](https://openethics.ai/label/)
+
 ### Drift
 
 - [Alibi Detect](https://github.com/SeldonIO/alibi-detect) `Python`
