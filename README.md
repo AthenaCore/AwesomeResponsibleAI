@@ -689,6 +689,7 @@ Responsible Scale Policies (RSPs) specify what level of AI capabilities an AI de
 - [intepretML](https://interpret.ml) `Python`
 - [interactions: Comprehensive, User-Friendly Toolkit for Probing Interactions](https://cran.r-project.org/web/packages/interactions/index.html) `R`
 - [kernelshap: Kernel SHAP](https://cran.r-project.org/web/packages/kernelshap/index.html) `R`
+- [midr](https://cran.r-project.org/web/packages/midr/index.html) `R`
 - [Learning Interpretability Tool](https://pair-code.github.io/lit/) `Python` `Google`
 - [lime: Local Interpretable Model-Agnostic Explanations](https://cran.r-project.org/web/packages/lime/index.html) `R`
 - [Network Dissection](http://netdissect.csail.mit.edu) `Python` `Neural Networks` `MIT` 
