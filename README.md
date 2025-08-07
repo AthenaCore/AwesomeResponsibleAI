@@ -323,12 +323,13 @@ An interesting curated collection of articules (updated until 2021) [A Living an
 
 **[Japan AISI](https://aisi.go.jp)**
 
-| Code | Title   |  Description | Status  | Source |
+| Code | Title | Description | Status | Source |
 |---|---|---|---|---|
 | AI Safety Evaluation v1.10 | A guide to red teaming techniques for AI safety | Presents basic concepts that those involved in the development and provision of AI systems can refer to when conducting AI Safety evaluations | Published | [Source](https://aisi.go.jp/assets/pdf/ai_safety_eval_v1.10_en.pdf) |
 | AI Safety RT v1.10 | Guide to Red Teaming Methodology on AI Safety | Intended to help developers and providers of AI systems to evaluate the basic considerations of red teaming methodologies for AI systems from the viewpoint of attackers | Published | [Source](https://aisi.go.jp/assets/pdf/E1_ai_safety_RT_v1.10_en.pdf) |
 | Data Quality Management v1.0.0 | A guide about Data Quality linked to AI Safety | Intended to help developers and providers of AI systems to adopt data quality management practices | Published | [Source](https://aisi.go.jp/assets/pdf/250331_Data_quality_management_guidebook.pdf) |
 | AI Business Guidelines v1.1.0 | A guide for organizations to adopt agile AI  Governance | Intended to help all the stakeholders in an organization to adopt voluntary agile AI Governance practices | Published | [Source](https://www-meti-go-jp.translate.goog/shingikai/mono_info_service/ai_shakai_jisso/20240419_report.html?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=es) |
+| Known Attacks and Their Impacts on AI Systems (March 2025) | Known Attacks and Their Impacts on AI Systems | An accessible overview of adversarial attacks unique to predictive and generative AI systems| Published |[Source 1](https://aisi.go.jp/assets/pdf/Known_Attacks_and_Their_Impacts_on_AI_Systems_EN.pdf), [Source 2](https://arxiv.org/abs/2506.23296) |
 
 **[US CAISI](https://www.nist.gov/caisi)**
 
