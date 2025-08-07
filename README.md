@@ -913,6 +913,7 @@ For consumers:
 - [Carbon Tracker](https://github.com/lfwa/carbontracker) [Website](https://carbontracker.info) `Python`
 - [CodeCarbon](https://github.com/mlco2/codecarbon) [Website](https://codecarbon.io) `Python`
 - [Computer Progress](https://www.computerprogress.com)
+- [Eco2AI](https://github.com/sb-ai-lab/Eco2AI) `Python`
 - [Impact Framework](https://if.greensoftware.foundation) `API`
 
 ### (RAI) Toolkit
