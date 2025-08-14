@@ -271,7 +271,6 @@ An interesting curated collection of articules (updated until 2021) [A Living an
 - [AI Hallucination Cases](https://www.damiencharlotin.com/hallucinations/)
 - [AI Risk Database](https://airisk.io/) `MITRE`
 - [AI Risk Repository](https://airisk.mit.edu) `MIT`
-- [ARC AGI](https://github.com/fchollet/ARC-AGI)
 - [Common Corpus](https://huggingface.co/collections/PleIAs/common-corpus-65d46e3ea3980fdcd66a5613)
 - [An ImageNet replacement for self-supervised pretraining without humans](https://www.robots.ox.ac.uk/~vgg/research/pass/)
 - [Huggingface Data Sets](https://huggingface.co/datasets)
@@ -742,6 +741,7 @@ Measuring progress is fundamental to the advancement of any scientific field. As
 - [AIluminate](https://mlcommons.org/ailuminate/)
 - [AlignEval: Making Evals Easy, Fun, and Semi-Automated](https://aligneval.com) [Motivation](https://eugeneyan.com/writing/aligneval/)
 - [AlpacaEval](https://github.com/tatsu-lab/alpaca_eval) `Python`
+- [ARC AGI](https://arcprize.org/arc-agi) `Python`
 - [ARES](https://github.com/stanford-futuredata/ARES) `Python` `Standorf Future Data Systems`
 - [Autoeval](https://auto-eval.github.io) `Python`
 - [Azure AI Evaluation](https://github.com/Azure/azure-sdk-for-python/tree/main/sdk/evaluation/azure-ai-evaluation) `Python` `Microsoft`
