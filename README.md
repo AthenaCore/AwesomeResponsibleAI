@@ -769,6 +769,7 @@ Measuring progress is fundamental to the advancement of any scientific field. As
 - [JailBreakV-28K](https://eddyluo1232.github.io/JailBreakV28K/) `Python`
 - [JGLUE: Japanese General Language Understanding Evaluation](https://github.com/yahoojapan/JGLUE) `Python`
 - [KLUE: Korean Language Understanding Evaluation](https://github.com/KLUE-benchmark/KLUE) `Python`
+- [MalayMMLU](https://github.com/UMxYTL-AI-Labs/MalayMMLU) `Python`
 - [Mask Benchmark](https://www.mask-benchmark.ai) `Python` `Center for AI Safety` `Scale AI`
 - [MixEval](https://mixeval.github.io) `Python`
 - [ML Commons Safety Benchmark for general purpose AI chat model](https://mlcommons.org/benchmarks/ai-safety/general_purpose_ai_chat_benchmark/)
