@@ -801,6 +801,7 @@ Measuring progress is fundamental to the advancement of any scientific field. As
 - [simple evals](https://github.com/openai/simple-evals) `Python` `OpenAI`
 - [SnitchBench](https://github.com/t3dotgg/SnitchBench) `Python`
 - [StrongREJECT jailbreak benchmark](https://github.com/dsbowen/strong_reject) `Python`
+- [TextQuests](https://www.textquests.ai) `Python`
 - [τ-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains](https://github.com/sierra-research/tau-bench) `Python`
 - [Yet Another Applied LLM Benchmark](https://github.com/carlini/yet-another-applied-llm-benchmark) `Python`
 - [Verdict](https://github.com/haizelabs/verdict) `Python`
