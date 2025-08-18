@@ -805,6 +805,7 @@ Measuring progress is fundamental to the advancement of any scientific field. As
 - [τ-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains](https://github.com/sierra-research/tau-bench) `Python`
 - [Yet Another Applied LLM Benchmark](https://github.com/carlini/yet-another-applied-llm-benchmark) `Python`
 - [Verdict](https://github.com/haizelabs/verdict) `Python`
+- [vitals](https://vitals.tidyverse.org) `R` `Posit`
 - [VLMEvalKit](https://github.com/open-compass/VLMEvalKit) `Python`
 - [WindowsAgentArena](https://github.com/microsoft/windowsagentarena) `Python` `Microsoft`
 
