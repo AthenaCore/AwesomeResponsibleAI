@@ -829,6 +829,7 @@ Additional benchmarks can be found [here](https://airtable.com/app83SBBFk9WO25hJ
 - [NNI: Neural Network Intelligence](https://github.com/microsoft/nni) `Python` `Microsoft`
 - [performance](https://github.com/easystats/performance) `R`
 - [rliable](https://github.com/google-research/rliable) `Python` `Google`
+- [Silhouette](https://cran.r-project.org/web/packages/Silhouette/index.html) `R`
 - [SLmetrics](https://github.com/serkor1/SLmetrics/) `R`
 - [TensorFlow Model Analysis](https://github.com/tensorflow/model-analysis) `Python` `Google`
 - [TPOT](http://epistasislab.github.io/tpot/) `Python`
