@@ -277,6 +277,8 @@ An interesting curated collection of articules (updated until 2021) [A Living an
 - [The Stack](https://www.bigcode-project.org/docs/about/the-stack/)
 - [Open Ethics Data Passport](https://openethics.ai/oedp/) `Open Ethics`
 
+If you are looking for public data sets for your project, this is a [curated collection](https://github.com/awesomedata/awesome-public-datasets).
+
 ## Databases
 
 ### (AI) Incidents databases/trackers
@@ -735,18 +737,19 @@ Responsible Scale Policies (RSPs) specify what level of AI capabilities an AI de
 
 ### LLM Evaluations and Benchmarks
 
-Measuring progress is fundamental to the advancement of any scientific field. As benchmarks play an increasingly central role, they also grow more susceptible to distortion. Read more about it in Sing, S., et al. (2025) **The Leaderboard Illusion**. arXiv preprint [arXiv:2504.2087](https://arxiv.org/pdf/2504.20879). In addition to the problem of distursion, we must remember that this is nascent discipline as stated in Weidinger, L., et al. (2025). **Toward an evaluation science for generative AI systems**. arXiv preprint [arXiv:2503.05336](https://arxiv.org/pdf/2503.05336).
+Measuring progress is fundamental to the advancement of any scientific field. As benchmarks play an increasingly central role, they also grow more susceptible to distortion. Read more about it in Sing, S., et al. (2025) **The Leaderboard Illusion**. arXiv preprint [arXiv:2504.2087](https://arxiv.org/pdf/2504.20879). In addition to the problem of distursion, we must remember that this is nascent discipline as stated in Weidinger, L., et al. (2025). **Toward an evaluation science for generative AI systems**. arXiv preprint [arXiv:2503.05336](https://arxiv.org/pdf/2503.05336). Benchmarks may appear as neutral scoreboards; however, they embody more than that. Each one signifies a particular philosophy: the types of work valued, the definition of success, and what can be safely disregarded. The development of a truly effective benchmark is equally challenging and indispensable as the development of the model itself.
 
 - [AbsenceBench](https://github.com/harvey-fin/absence-bench) `Python`
 - [AIluminate](https://mlcommons.org/ailuminate/)
 - [AlignEval: Making Evals Easy, Fun, and Semi-Automated](https://aligneval.com) [Motivation](https://eugeneyan.com/writing/aligneval/)
 - [AlpacaEval](https://github.com/tatsu-lab/alpaca_eval) `Python`
 - [ARC AGI](https://arcprize.org/arc-agi) `Python`
-- [ARES](https://github.com/stanford-futuredata/ARES) `Python` `Standorf Future Data Systems`
+- [ARES](https://github.com/stanford-futuredata/ARES) `Python` `Stanford Future Data Systems`
 - [Autoeval](https://auto-eval.github.io) `Python`
 - [Azure AI Evaluation](https://github.com/Azure/azure-sdk-for-python/tree/main/sdk/evaluation/azure-ai-evaluation) `Python` `Microsoft`
 - [Banana-lyzer](https://github.com/reworkd/bananalyzer) `Python`
 - [BALROG](https://github.com/balrog-ai/BALROG) `Python`
+- [The Berkeley Function Calling Leaderboard (BFCL)](https://gorilla.cs.berkeley.edu/leaderboard.html) `Python` `Berkeley`
 - [BIG-Bench Extra Hard](https://github.com/google-deepmind/bbeh) `Python` `Deepmind`
 - [Chinese Safety Evaluations](https://airtable.com/appkPf0Rw2P7KCY5i/shrpXozZcomLjmBf3/tblV6tS87aqOgrDJX/viwukUaSfInPLoQun) `Concordia AI`
 - [CLUE benchmark](https://github.com/CLUEbenchmark/CLUE) `Python`
@@ -764,7 +767,8 @@ Measuring progress is fundamental to the advancement of any scientific field. As
 - [HAL Harness](https://github.com/princeton-pli/hal-harness) `Python` `PLI`
 - [HELM](https://github.com/stanford-crfm/helm) `Python`
 - [Humanity's Last Exam](https://lastexam.ai) `Scale AI` `Center for AI Safety`
-- [Inspect](https://ukgovernmentbeis.github.io/inspect_ai/) `UK AISI` `Python`
+- [Inspect](https://ukgovernmentbeis.github.io/inspect_ai/) `Python` `UK AISI`
+- [Intima Benchmark](https://huggingface.co/AI-companionship) [Paper](https://arxiv.org/abs/2508.09998) `HuggingFace`
 - [Jailbreakbench](https://jailbreakbench.github.io) `Python`
 - [JailBreakV-28K](https://eddyluo1232.github.io/JailBreakV28K/) `Python`
 - [JGLUE: Japanese General Language Understanding Evaluation](https://github.com/yahoojapan/JGLUE) `Python`
@@ -804,6 +808,7 @@ Measuring progress is fundamental to the advancement of any scientific field. As
 - [TextQuests](https://www.textquests.ai) `Python`
 - [τ-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains](https://github.com/sierra-research/tau-bench) `Python`
 - [Yet Another Applied LLM Benchmark](https://github.com/carlini/yet-another-applied-llm-benchmark) `Python`
+- [Vending Bench](https://andonlabs.com/evals/vending-bench) `Andon Labs`
 - [Verdict](https://github.com/haizelabs/verdict) `Python`
 - [vitals](https://vitals.tidyverse.org) `R` `Posit`
 - [VLMEvalKit](https://github.com/open-compass/VLMEvalKit) `Python`
