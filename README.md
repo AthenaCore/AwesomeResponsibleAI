@@ -534,6 +534,10 @@ Responsible Scale Policies (RSPs) specify what level of AI capabilities an AI de
 
 ## Reports
 
+### AI Ethics
+
+- State of AI Ethics. MAIEI [Website](https://montrealethics.ai/state/)
+
 ### AI Governance
 
 - Araujo, R. 2024. **Understanding the First Wave of AI Safety Institutes: Characteristics, Functions, and Challenges**. Institute for AI Policy and Strategy (IAPS) [Article](https://www.iaps.ai/research/understanding-aisis)
