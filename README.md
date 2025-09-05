@@ -779,6 +779,7 @@ Measuring progress is fundamental to the advancement of any scientific field. As
 - [KLUE: Korean Language Understanding Evaluation](https://github.com/KLUE-benchmark/KLUE) `Python`
 - [MalayMMLU](https://github.com/UMxYTL-AI-Labs/MalayMMLU) `Python`
 - [Mask Benchmark](https://www.mask-benchmark.ai) `Python` `Center for AI Safety` `Scale AI`
+- [Math Science Bench](https://math.science-bench.ai)
 - [MixEval](https://mixeval.github.io) `Python`
 - [ML Commons Safety Benchmark for general purpose AI chat model](https://mlcommons.org/benchmarks/ai-safety/general_purpose_ai_chat_benchmark/)
 - [MLflow LLM Evaluation](https://mlflow.org/docs/latest/llms/llm-evaluate/index.html) `Python`
@@ -816,6 +817,7 @@ Measuring progress is fundamental to the advancement of any scientific field. As
 - [Verdict](https://github.com/haizelabs/verdict) `Python`
 - [vitals](https://vitals.tidyverse.org) `R` `Posit`
 - [VLMEvalKit](https://github.com/open-compass/VLMEvalKit) `Python`
+- [Werewolf Social Bench](https://werewolf.foaster.ai)
 - [WindowsAgentArena](https://github.com/microsoft/windowsagentarena) `Python` `Microsoft`
 
 Additional benchmarks can be found [here](https://airtable.com/app83SBBFk9WO25hJ/shrSs3bXSx2bBDrso/tblNpnE4pzBnaC5lT?viewControls=on).
