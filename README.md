@@ -573,6 +573,11 @@ Responsible Scale Policies (RSPs) specify what level of AI capabilities an AI de
 - [State of AI](https://www.stateof.ai) - from 2018 up to now -
 - [The AI Index Report](https://aiindex.stanford.edu). Edition: [2017](https://hai.stanford.edu/ai-index/2017-ai-index-report), [2018](https://hai.stanford.edu/ai-index/2018-ai-index-report), [2019](https://hai.stanford.edu/ai-index/2019-ai-index-report), [2021](https://hai.stanford.edu/ai-index/2021-ai-index-report), [2022](https://hai.stanford.edu/ai-index/2022-ai-index-report), [2023](https://hai.stanford.edu/ai-index/2023-ai-index-report), [2024](https://hai.stanford.edu/ai-index/2024-ai-index-report) and [2025](https://hai.stanford.edu/ai-index/2025-ai-index-report)  `Stanford Institute for Human-Centered Artificial Intelligence`
 
+### AI Labs
+
+- [AI Lab Watch](https://ailabwatch.org)
+- [AI Safety Claims Analysis](https://aisafetyclaims.org)
+
 ### Other
 
 - [Four Principles of Explainable Artificial Intelligence](https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8312.pdf) `NIST` `Explainability`
