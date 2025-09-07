@@ -212,16 +212,13 @@ An interesting curated collection of articules (updated until 2021) [A Living an
 | ------------- | ------------- | ------------- |------------- |
 | [AGI Strategy](https://bluedot.org/courses/agi-strategy)  | BlueDot Impact | A course abour AGI to understand to understand the race, the risks, and how you can make a difference. | AGI Strategy |
 | [AI Alignment](https://bluedot.org/courses/alignment)  | BlueDot Impact | A course designed to introduce the key concepts in AI safety and alignment.  | AI Alignment, AI Safety  |
-| [AI Ethics & Governance (AEG)](https://alan-turing-institute.github.io/turing-commons/skills-tracks/aeg/index.html) | The Alan Turing Institute | Content Cell | AI Governance |
+| [AI Ethics & Governance (AEG)](https://alan-turing-institute.github.io/turing-commons/skills-tracks/aeg/index.html) | The Alan Turing Institute | This course is designed to help you understand the fundamentals of AI Ethics and Governance | AI Ethics, AI Governance |
 | [AI Governance](https://bluedot.org/courses/governance)  | BlueDot Impact | A course designed to Examine the risks posed by advanced AI systems, standards and regulations to address them, and foreign policy approaches.  | AI Governance |
 | [AI Policy Clinic](https://www.caidp.org/global-academic-network/ai-policy-clinic/) | Center for AI and Digital Policy | The Center has launched a comprehensive certification program for AI Policy. | AI Governance |
 | [AI Security and Governance](https://education.securiti.ai/certifications/ai-governance/)  | Securiti  | This certification covers core concepts in generative AI, global AI laws, compliance obligations, AI risk management, and AI governance frameworks that ensure responsible innovation. | AI Security, AI Governance |
+| [CS594 - Causal Inference and Learning](https://www.cs.uic.edu/~elena/courses/fall19/cs594cil.html)  | University of Illinois at Chicago | The goal of the course on Causal is to introduce students to methodologies and algorithms for causal reasoning and connect various aspects of causal inference, including methods developed within computer science, statistics, and economics. | Causal Inference |
 | [Explainable Artificial Intelligence](https://interpretable-ml-class.github.io) | Harvard University | This course aims to familiarize students with the recent advances in the emerging field of eXplainable Artificial Intelligence (XAI) | Explainability, Interpretability |
 | [Future of AI](https://bluedot.org/courses/future-of-ai)  | BlueDot Impact | A course to understand to understand AI's impact and be part of the conversation about its future. | AI Fundamentals |
-
-### Causality
-
-- [CS594 - Causal Inference and Learning](https://www.cs.uic.edu/~elena/courses/fall19/cs594cil.html) `University of Illinois at Chicago`
 
 ### Data/AI Ethics
 
@@ -1072,4 +1069,4 @@ Curto, J., et al. "Awesome Responsible Artificial Intelligence." GitHub. Last mo
 
 **MLA (Modern Language Association) 9th Edition**
 
-Curto, J., et al. "Awesome Responsible Artificial Intelligence". *GitHub*, 2025, https://github.com/AthenaCore/AwesomeResponsibleAI. Accessed 07 Aug 2025.
+Curto, J., et al. "Awesome Responsible Artificial Intelligence". *GitHub*, 2025, https://github.com/AthenaCore/AwesomeResponsibleAI. Accessed 07 Sep 2025.
