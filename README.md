@@ -208,21 +208,16 @@ An interesting curated collection of articules (updated until 2021) [A Living an
 
 ## Courses
 
-### AI Alignment
-
-- [AI Alignment](https://aisafetyfundamentals.com/alignment/) `BlueDot Impact`
-- [AI Fast-Track](https://aisafetyfundamentals.com/alignment-fast-track/) `BlueDot Impact`
-
-### AI Governance
-
-- [AI Ethics & Governance (AEG)](https://alan-turing-institute.github.io/turing-commons/skills-tracks/aeg/index.html) `The Alan Turing Institute`
-- [AI Governance](https://aisafetyfundamentals.com/governance/) `BlueDot Impact`
-- [AI Policy Clinic](https://www.caidp.org/global-academic-network/ai-policy-clinic/) `Center for AI and Digital Policy`
-- [AI Security and Governance](https://education.securiti.ai/certifications/ai-governance/) `Securiti`
-
-### Explainability/Interpretability
-
-- [Explainable Artificial Intelligence](https://interpretable-ml-class.github.io) `Harvard University`
+| Course  | Organization | Description | Topic | 
+| ------------- | ------------- | ------------- |
+| [AGI Strategy](https://bluedot.org/courses/agi-strategy)  | BlueDot Impact | A course abour AGI to understand to understand the race, the risks, and how you can make a difference. | AGI Strategy |
+| [AI Alignment](https://bluedot.org/courses/alignment)  | BlueDot Impact | A course designed to introduce the key concepts in AI safety and alignment.  | AI Alignment, AI Safety  |
+| [AI Ethics & Governance (AEG)](https://alan-turing-institute.github.io/turing-commons/skills-tracks/aeg/index.html) | The Alan Turing Institute | Content Cell | AI Governance |
+| [AI Governance](https://bluedot.org/courses/governance)  | BlueDot Impact | A course designed to Examine the risks posed by advanced AI systems, standards and regulations to address them, and foreign policy approaches.  | AI Governance |
+| [AI Policy Clinic](https://www.caidp.org/global-academic-network/ai-policy-clinic/) | Center for AI and Digital Policy | The Center has launched a comprehensive certification program for AI Policy. | AI Governance |
+| [AI Security and Governance](https://education.securiti.ai/certifications/ai-governance/)  | Securiti  | This certification covers core concepts in generative AI, global AI laws, compliance obligations, AI risk management, and AI governance frameworks that ensure responsible innovation. | AI Security, AI Governance |
+| [Explainable Artificial Intelligence](https://interpretable-ml-class.github.io) | Harvard University | This course aims to familiarize students with the recent advances in the emerging field of eXplainable Artificial Intelligence (XAI) | Explainability, Interpretability |
+| [Future of AI](https://bluedot.org/courses/future-of-ai)  | BlueDot Impact | A course to understand to understand AI's impact and be part of the conversation about its future. | AI Fundamentals |
 
 ### Causality
 
