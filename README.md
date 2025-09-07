@@ -209,7 +209,7 @@ An interesting curated collection of articules (updated until 2021) [A Living an
 ## Courses
 
 | Course  | Organization | Description | Topic | 
-| ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- |------------- |
 | [AGI Strategy](https://bluedot.org/courses/agi-strategy)  | BlueDot Impact | A course abour AGI to understand to understand the race, the risks, and how you can make a difference. | AGI Strategy |
 | [AI Alignment](https://bluedot.org/courses/alignment)  | BlueDot Impact | A course designed to introduce the key concepts in AI safety and alignment.  | AI Alignment, AI Safety  |
 | [AI Ethics & Governance (AEG)](https://alan-turing-institute.github.io/turing-commons/skills-tracks/aeg/index.html) | The Alan Turing Institute | Content Cell | AI Governance |
