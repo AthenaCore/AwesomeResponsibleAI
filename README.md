@@ -211,22 +211,25 @@ An interesting curated collection of articules (updated until 2021) [A Living an
 | Course  | Organization | Description | Topic | 
 | ------------- | ------------- | ------------- |------------- |
 | [AGI Strategy](https://bluedot.org/courses/agi-strategy)  | BlueDot Impact | A course abour AGI to understand to understand the race, the risks, and how you can make a difference. | AGI Strategy |
-| [AI Alignment](https://bluedot.org/courses/alignment)  | BlueDot Impact | A course designed to introduce the key concepts in AI safety and alignment.  | AI Alignment, AI Safety  |
+| [AI Alignment](https://bluedot.org/courses/alignment) | BlueDot Impact | A course designed to introduce the key concepts in AI safety and alignment.  | AI Alignment, AI Safety  |
 | [AI Ethics & Governance (AEG)](https://alan-turing-institute.github.io/turing-commons/skills-tracks/aeg/index.html) | The Alan Turing Institute | This course is designed to help you understand the fundamentals of AI Ethics and Governance | AI Ethics, AI Governance |
-| [AI Governance](https://bluedot.org/courses/governance)  | BlueDot Impact | A course designed to Examine the risks posed by advanced AI systems, standards and regulations to address them, and foreign policy approaches.  | AI Governance |
+| [AI Governance](https://bluedot.org/courses/governance) | BlueDot Impact | A course designed to Examine the risks posed by advanced AI systems, standards and regulations to address them, and foreign policy approaches.  | AI Governance |
 | [AI Policy Clinic](https://www.caidp.org/global-academic-network/ai-policy-clinic/) | Center for AI and Digital Policy | The Center has launched a comprehensive certification program for AI Policy. | AI Governance |
+| [AI Safety, Ethics and Society](https://www.aisafetybook.com/virtual-course) | Center for AI Safety | A course aims to provide a comprehensive introduction to how current AI systems work, why many experts are concerned that continued advances in AI may pose severe societal-scale risks, and how society can manage and mitigate these risks. | AI Safety, AI Ethics, AI Governance |
 | [AI Security and Governance](https://education.securiti.ai/certifications/ai-governance/)  | Securiti  | This certification covers core concepts in generative AI, global AI laws, compliance obligations, AI risk management, and AI governance frameworks that ensure responsible innovation. | AI Security, AI Governance |
 | [CS594 - Causal Inference and Learning](https://www.cs.uic.edu/~elena/courses/fall19/cs594cil.html)  | University of Illinois at Chicago | The goal of the course on Causal is to introduce students to methodologies and algorithms for causal reasoning and connect various aspects of causal inference, including methods developed within computer science, statistics, and economics. | Causal Inference |
 | [Explainable Artificial Intelligence](https://interpretable-ml-class.github.io) | Harvard University | This course aims to familiarize students with the recent advances in the emerging field of eXplainable Artificial Intelligence (XAI) | Explainability, Interpretability |
 | [Future of AI](https://bluedot.org/courses/future-of-ai)  | BlueDot Impact | A course to understand AI's impact and be part of the conversation about its future. | AI Fundamentals |
 | [Introduction to AI Ethics](https://www.kaggle.com/learn/intro-to-ai-ethics) | Kaggle | A course to explore practical tools to guide the moral design of AI systems. | AI Ethics |
+| [Introduction to ML Safety](https://course.mlsafety.org) | Center for AI Safety | A course discusses how researchers can shape the process that will lead to strong AI systems and steer that process in a safer direction. | AI Safety |
 | [Machine Learning Explainability](https://www.kaggle.com/learn/machine-learning-explainability) | Kaggle | A course to extract human-understandable insights from any model. | Explainability, Interpretability |
+| [MATS](https://www.matsprogram.org/program) | Kaggle | The main goal of the course is to help scholars develop as AI alignment researchers. | AI Alignment, AI Safety |
+| [Practical Data Ethics](https://ethics.fast.ai) | Fast.ai | A course focus on topics that are both urgent and practical. | Data Ethics |
+| [Public Engagement of Data Science and AI (PED)](https://alan-turing-institute.github.io/turing-commons/skills-tracks/ped/index.html) | The Alan Turing Institute | A course is designed to help you understand the practical and ethical value of public engagement with data science and AI. | Ethics |
 
 ### Data/AI Ethics
 
 - [Modern-Day Oracles or Bullshit Machines?](https://thebullshitmachines.com/instructor-guide/index.html)
-- [Practical Data Ethics](https://ethics.fast.ai) `Fast.ai`
-- [Public Engagement of Data Science and AI (PED)](https://alan-turing-institute.github.io/turing-commons/skills-tracks/ped/index.html) `The Alan Turing Institute`
 
 ### Data Justice
 
@@ -249,15 +252,6 @@ An interesting curated collection of articules (updated until 2021) [A Living an
 ### LLM Evaluation
 
 - [LLM evaluation](https://nebius-academy.github.io/knowledge-base/evaluation-1-basics/) `Nebius Academy` `Evidently`
-
-### Privacy
-
-- [Privacy Preserving AI Series](https://courses.openmined.org) 
-
-### Safety
-
-- [AI Safety, Ethics and Society](https://www.aisafetybook.com/virtual-course) `Center for AI Safety`
-- [Introduction to ML Safety](https://course.mlsafety.org) `Center for AI Safety`
 
 ## Data Sets
 
@@ -1070,4 +1064,4 @@ Curto, J., et al. "Awesome Responsible Artificial Intelligence." GitHub. Last mo
 
 **MLA (Modern Language Association) 9th Edition**
 
-Curto, J., et al. "Awesome Responsible Artificial Intelligence". *GitHub*, 2025, https://github.com/AthenaCore/AwesomeResponsibleAI. Accessed 07 Sep 2025.
+Curto, J., et al. "Awesome Responsible Artificial Intelligence". *GitHub*, 2025, https://github.com/AthenaCore/AwesomeResponsibleAI. Accessed 08 Sep 2025.
