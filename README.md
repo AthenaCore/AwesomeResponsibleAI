@@ -223,7 +223,7 @@ An interesting curated collection of articules (updated until 2021) [A Living an
 | [Introduction to AI Ethics](https://www.kaggle.com/learn/intro-to-ai-ethics) | Kaggle | A course to explore practical tools to guide the moral design of AI systems. | AI Ethics |
 | [Introduction to ML Safety](https://course.mlsafety.org) | Center for AI Safety | A course discusses how researchers can shape the process that will lead to strong AI systems and steer that process in a safer direction. | AI Safety |
 | [Machine Learning Explainability](https://www.kaggle.com/learn/machine-learning-explainability) | Kaggle | A course to extract human-understandable insights from any model. | Explainability, Interpretability |
-| [MATS](https://www.matsprogram.org/program) | Kaggle | The main goal of the course is to help scholars develop as AI alignment researchers. | AI Alignment, AI Safety |
+| [MATS](https://www.matsprogram.org/program) | MATS Research | The main goal of the course is to help scholars develop as AI alignment researchers. | AI Alignment, AI Safety |
 | [Practical Data Ethics](https://ethics.fast.ai) | Fast.ai | A course focus on topics that are both urgent and practical. | Data Ethics |
 | [Public Engagement of Data Science and AI (PED)](https://alan-turing-institute.github.io/turing-commons/skills-tracks/ped/index.html) | The Alan Turing Institute | A course is designed to help you understand the practical and ethical value of public engagement with data science and AI. | Ethics |
 
@@ -812,7 +812,7 @@ Measuring progress is fundamental to the advancement of any scientific field. As
 - [Werewolf Social Bench](https://werewolf.foaster.ai)
 - [WindowsAgentArena](https://github.com/microsoft/windowsagentarena) `Python` `Microsoft`
 
-Additional benchmarks can be found [here](https://airtable.com/app83SBBFk9WO25hJ/shrSs3bXSx2bBDrso/tblNpnE4pzBnaC5lT?viewControls=on).
+Additional benchmarks can be found [here](https://airtable.com/app83SBBFk9WO25hJ/shrSs3bXSx2bBDrso/tblNpnE4pzBnaC5lT?viewControls=on) and this is a dashboard from Epoch [AI Benchmarking Hub](https://epoch.ai/benchmarks) that compares the latest frontier AI models against each other.
 
 ### Performance (& Automated ML)
 
