@@ -218,11 +218,12 @@ An interesting curated collection of articules (updated until 2021) [A Living an
 | [AI Security and Governance](https://education.securiti.ai/certifications/ai-governance/)  | Securiti  | This certification covers core concepts in generative AI, global AI laws, compliance obligations, AI risk management, and AI governance frameworks that ensure responsible innovation. | AI Security, AI Governance |
 | [CS594 - Causal Inference and Learning](https://www.cs.uic.edu/~elena/courses/fall19/cs594cil.html)  | University of Illinois at Chicago | The goal of the course on Causal is to introduce students to methodologies and algorithms for causal reasoning and connect various aspects of causal inference, including methods developed within computer science, statistics, and economics. | Causal Inference |
 | [Explainable Artificial Intelligence](https://interpretable-ml-class.github.io) | Harvard University | This course aims to familiarize students with the recent advances in the emerging field of eXplainable Artificial Intelligence (XAI) | Explainability, Interpretability |
-| [Future of AI](https://bluedot.org/courses/future-of-ai)  | BlueDot Impact | A course to understand to understand AI's impact and be part of the conversation about its future. | AI Fundamentals |
+| [Future of AI](https://bluedot.org/courses/future-of-ai)  | BlueDot Impact | A course to understand AI's impact and be part of the conversation about its future. | AI Fundamentals |
+| [Introduction to AI Ethics](https://www.kaggle.com/learn/intro-to-ai-ethics) | Kaggle | A course to explore practical tools to guide the moral design of AI systems. | AI Ethics |
+| [Machine Learning Explainability](https://www.kaggle.com/learn/machine-learning-explainability) | Kaggle | A course to extract human-understandable insights from any model. | Explainability, Interpretability |
 
 ### Data/AI Ethics
 
-- [Introduction to AI Ethics](https://www.kaggle.com/learn/intro-to-ai-ethics) `Kaggle`
 - [Modern-Day Oracles or Bullshit Machines?](https://thebullshitmachines.com/instructor-guide/index.html)
 - [Practical Data Ethics](https://ethics.fast.ai) `Fast.ai`
 - [Public Engagement of Data Science and AI (PED)](https://alan-turing-institute.github.io/turing-commons/skills-tracks/ped/index.html) `The Alan Turing Institute`
