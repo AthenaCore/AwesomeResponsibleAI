@@ -217,39 +217,25 @@ An interesting curated collection of articules (updated until 2021) [A Living an
 | [AI Policy Clinic](https://www.caidp.org/global-academic-network/ai-policy-clinic/) | Center for AI and Digital Policy | The Center has launched a comprehensive certification program for AI Policy. | AI Governance |
 | [AI Safety, Ethics and Society](https://www.aisafetybook.com/virtual-course) | Center for AI Safety | A course aims to provide a comprehensive introduction to how current AI systems work, why many experts are concerned that continued advances in AI may pose severe societal-scale risks, and how society can manage and mitigate these risks. | AI Safety, AI Ethics, AI Governance |
 | [AI Security and Governance](https://education.securiti.ai/certifications/ai-governance/)  | Securiti  | This certification covers core concepts in generative AI, global AI laws, compliance obligations, AI risk management, and AI governance frameworks that ensure responsible innovation. | AI Security, AI Governance |
+| [CIS 4230/5230 - Ethical Algorithm Design](https://www.cis.upenn.edu/~mkearns/teaching/EADSpring24/) | University of Pennsylvania | This course is about the social and human problems that can arise from algorithms, AI and machine learning, and how we might design these technologies to be "better behaved" in the first place. | AI Safety, Responsible AI |
 | [CS 294-131: Trustworthy Deep Learning](https://berkeley-deep-learning.github.io/cs294-131-s19/)  | Berkeley University  |  This course helps to develop a deeper understanding of deep learning and explore new research directions and applications of AI/deep learning and privacy/security | Explainability, Privacy, Security |
 | [CS 594 - Causal Inference and Learning](https://www.cs.uic.edu/~elena/courses/fall19/cs594cil.html)  | University of Illinois at Chicago | The goal of the course on Causal is to introduce students to methodologies and algorithms for causal reasoning and connect various aspects of causal inference, including methods developed within computer science, statistics, and economics. | Causal Inference |
+| [CS 7880 - Rigorous Approaches to Data Privacy](https://www.khoury.northeastern.edu/home/jullman/cs7880s17/syllabus.html) | Northeastern University | This course covers the theory of differential privacy, its application, and its connections to other areas of computer science, covering roughly the state-of-the-art in the field. | Data Privacy |
+| [CS 860 - Algorithms for Private Data Analysis](http://www.gautamkamath.com/courses/CS860-fa2022.html)  | University of Waterloo | This course is on algorithms for differentially private analysis of data. | Data Privacy |
 | [Data Justice (DJ)](https://alan-turing-institute.github.io/turing-commons/skills-tracks/dj/index.html) | The Alan Turing Institute | A course that explores the emerging movement of data justice, which seeks to apply a social justice-oriented approach to examining the range of social, political, and material concerns arising within our increasingly datafied society | Ethics, Data Justice |
 | [Explainable Artificial Intelligence](https://interpretable-ml-class.github.io) | Harvard University | This course aims to familiarize students with the recent advances in the emerging field of eXplainable Artificial Intelligence (XAI) | Explainability, Interpretability |
 | [Future of AI](https://bluedot.org/courses/future-of-ai)  | BlueDot Impact | A course to understand AI's impact and be part of the conversation about its future. | AI Fundamentals |
 | [Introduction to AI Ethics](https://www.kaggle.com/learn/intro-to-ai-ethics) | Kaggle | A course to explore practical tools to guide the moral design of AI systems. | AI Ethics |
 | [Introduction to ML Safety](https://course.mlsafety.org) | Center for AI Safety | A course discusses how researchers can shape the process that will lead to strong AI systems and steer that process in a safer direction. | AI Safety |
+| [Introduction to Responsible Machine Learning](https://jphall663.github.io/GWU_rml/) | The George Washington University | Materials for a technical, nuts-and-bolts course about increasing transparency, fairness, robustness, and security in machine learning. | Responsible AI |
+| [LLM evaluation](https://nebius-academy.github.io/knowledge-base/evaluation-1-basics/) | Nebius Academy, Evidently | A course about LLM evaluation using Evidently. | AI Safety, LLM Evaluation |
 | [Machine Learning Explainability](https://www.kaggle.com/learn/machine-learning-explainability) | Kaggle | A course to extract human-understandable insights from any model. | Explainability, Interpretability |
+| [Machine Learning in Production (17-445/17-645/17-745) / AI Engineering (11-695)](https://mlip-cmu.github.io/s2025/) | Carnegie Mellon University | A course that covers how to build, deploy, assure, and maintain software products with machine-learned models. | MLOps, Responsible AI |
 | [MATS](https://www.matsprogram.org/program) | MATS Research | The main goal of the course is to help scholars develop as AI alignment researchers. | AI Alignment, AI Safety |
+| [Modern-Day Oracles or Bullshit Machines?](https://thebullshitmachines.com/instructor-guide/index.html) | Bergstrom, C. T., & West, J. D. | A course about how data and statistical analysis — the keystones of scientific reasoning — can be abused to mislead people. | Ethics |
 | [Practical Data Ethics](https://ethics.fast.ai) | Fast.ai | A course focus on topics that are both urgent and practical. | Data Ethics |
 | [Public Engagement of Data Science and AI (PED)](https://alan-turing-institute.github.io/turing-commons/skills-tracks/ped/index.html) | The Alan Turing Institute | A course is designed to help you understand the practical and ethical value of public engagement with data science and AI. | Ethics |
-
-### Data/AI Ethics
-
-- [Modern-Day Oracles or Bullshit Machines?](https://thebullshitmachines.com/instructor-guide/index.html)
-
-### Data Privacy
-
-- [CS 7880 - Rigorous Approaches to Data Privacy](https://www.khoury.northeastern.edu/home/jullman/cs7880s17/syllabus.html) `Northeastern University`
-- [CS 860 - Algorithms for Private Data Analysis](http://www.gautamkamath.com/courses/CS860-fa2022.html) `University of Waterloo`
-
-### Ethical Design
-
-- [CIS 4230/5230 - Ethical Algorithm Design](https://www.cis.upenn.edu/~mkearns/teaching/EADSpring24/) `University of Pennsylvania`
-- [Responsible Research and Innovation (RRI)](https://alan-turing-institute.github.io/turing-commons/skills-tracks/rri/index.html) `The Alan Turing Institute`
-
-### MLOps (including responsible practices)
-
-- [Machine Learning in Production (17-445/17-645/17-745) / AI Engineering (11-695)](https://mlip-cmu.github.io/s2025/) `CMU`
-
-### LLM Evaluation
-
-- [LLM evaluation](https://nebius-academy.github.io/knowledge-base/evaluation-1-basics/) `Nebius Academy` `Evidently`
+| [Responsible Research and Innovation (RRI)](https://alan-turing-institute.github.io/turing-commons/skills-tracks/rri/index.html) | The Alan Turing Institute | This course explores what it means to take (individual and collective) responsibility for (and over) the processes and outcomes of research and innovation in data science and AI. | Responsible AI |
 
 ## Data Sets
 
