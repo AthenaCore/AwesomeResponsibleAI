@@ -208,6 +208,8 @@ An interesting curated collection of articules (updated until 2021) [A Living an
 
 ## Courses
 
+This section features a curated selection of open courses focused on Responsible AI, AI Ethics, AI Safety and other related topics. The classes range from introductory courses on data ethics to specialized training in AI Safety.
+
 | Course  | Organization | Description | Topic | 
 | ------------- | ------------- | ------------- |------------- |
 | [AGI Strategy](https://bluedot.org/courses/agi-strategy) | BlueDot Impact | A course abour AGI to understand to understand the race, the risks, and how you can make a difference. | AGI Strategy |
@@ -391,11 +393,14 @@ Additional:
 
 ## Podcasts
 
-- [AI Safety Fundamentals](https://podcasts.apple.com/gb/podcast/ai-safety-fundamentals/id1687830086)
-- [AI Safety Newsletter](https://podcasts.apple.com/gb/podcast/ai-safety-newsletter/id1702875110)
-- [Me, Myself and AI](https://podcasts.apple.com/gb/podcast/me-myself-and-ai/id1533115958)
-- [The Human-Centered AI Podcast](https://podcasts.apple.com/us/podcast/the-human-centered-ai-podcast/id1499839858)
-- [Responsible AI Podcast](https://open.spotify.com/show/63Fx70r96P3ghWavisvPEQ)
+This section features podcasts that offer insightful commentary and explanations on responsible AI, AI Governance, AI Safety and machine learning interpretability.
+
+| Podcast      | Description | Creator |
+| ------------- | ------------- | ------------- |
+| [AI Frontiers](https://podcasts.apple.com/gb/podcast/ai-frontiers/id1806906344) | A space for expert dialogue about the impact of AI. | Center for AI Safety |
+| [AI Safety Fundamentals](https://podcasts.apple.com/gb/podcast/ai-safety-fundamentals/id1687830086) | Listen to the Bluedot Impact courses content | BlueDot Impact |
+| [AI Safety Newsletter](https://podcasts.apple.com/gb/podcast/ai-safety-newsletter/id1702875110) | Narrations of the newsletter. | Center for AI Safety |
+| [Me, Myself and AI](https://podcasts.apple.com/gb/podcast/me-myself-and-ai/id1533115958) | Interviews with experts | MIT Sloan Management Review |
 
 ## Regulations
 
