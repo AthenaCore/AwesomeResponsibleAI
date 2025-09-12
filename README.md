@@ -255,7 +255,13 @@ If you are looking for public data sets for your project, this is a [curated col
 
 ## Databases
 
-### (AI) Incidents databases/trackers
+This section features a curated selection of databases focused on tracking incidents, issues, litigations and vulnerabilities.
+
+### (AI) Incidents Trackers
+
+| Tracker | Paper | Organization | Description | Topic | 
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| [Political Deepfakes Incidents Database](https://airtable.com/appOU03dlKuBdbmty/shrEkrIYINbrcKQ3z/tbleGYjNLn2D4Xfzs) | [Merging AI Incidents Research with Political Misinformation Research: Introducing the Political Deepfakes Incidents Database](https://arxiv.org/abs/2409.15319) | Purdue University | A collection of politically-salient deepfakes, encompassing synthetically-created videos, images, and less-sophisticated `cheapfakes.' | Deepfakes |
 
 - [AIAAIC](https://www.aiaaic.org/)
 - [AI Badness: An open catalog of generative AI badness](https://badness.ai/)
@@ -263,7 +269,6 @@ If you are looking for public data sets for your project, this is a [curated col
 - [AI Incident Tracker](https://airisk.mit.edu/ai-incident-tracker) `MIT`
 - [AI Vulnerability Database (AVID)](https://avidml.org/)
 - [George Washington University Law School's AI Litigation Database](https://blogs.gwu.edu/law-eti/ai-litigation-database/)
-- [Merging AI Incidents Research with Political Misinformation Research: Introducing the Political Deepfakes Incidents Database](https://osf.io/fvqg3/)
 - [OECD AI Incidents Monitor](https://oecd.ai/en/incidents)
 - [Verica Open Incident Database (VOID)](https://www.thevoid.community/)
 
