@@ -575,6 +575,17 @@ Responsible Scale Policies (RSPs) specify what level of AI capabilities an AI de
 
 ## Tools
 
+This section features tools and libraries that help to design, implement and manage AI in a responsible way.
+
+| Tool | Language | Description | Creator | Status | 
+| ------------- | ------------- | ------------- | ------------- | ------------- | 
+| [balance](https://import-balance.org) | Python | A package for balancing biased data samples | META | Active | Bias |
+| [smclafify](https://github.com/aws/amazon-sagemaker-clarify) | Python | Bias detection and mitigation for datasets and models | Amazon | Inactive | Bias |
+| [SolasAI](https://github.com/SolasAI/solas-ai-disparity) | Python | A Library of Curated Disparity Testing Metrics for Use in Real-World Settings | SolasAI | Active | Fairness |
+| [TRAK (Attributing Model Behaviour at Scale)](https://github.com/MadryLab/trak) | Python | A data attribution method called TRAK (Tracing with the Randomly-Projected After Kernel) to make accurate counterfactual predictions. See: [Article](https://arxiv.org/pdf/2303.14186) | MIT | Inactive | Causal Inference |
+
+This section is under review. 
+
 ### AI Governance
 
 - [Governance Mega-Map Application](https://github.com/The-Company-Ethos/doing-ai-governance) `The Company Ethos`
@@ -583,12 +594,6 @@ Responsible Scale Policies (RSPs) specify what level of AI capabilities an AI de
 
 - [The Assessment List for Trustworthy Artificial Intelligence](https://altai.insight-centre.org)
 
-### Bias
-
-- [balance](https://import-balance.org) `Python` `Facebook`
-- [smclafify](https://github.com/aws/amazon-sagemaker-clarify) `Python` `Amazon`
-- [SolasAI](https://github.com/SolasAI/solas-ai-disparity) `Python`
-- [TRAK (Attributing Model Behaviour at Scale)](https://github.com/MadryLab/trak) [Article](https://arxiv.org/pdf/2303.14186) `Python`
 
 ### Causal Inference
 
