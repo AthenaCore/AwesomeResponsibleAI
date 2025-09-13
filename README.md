@@ -805,6 +805,7 @@ Measuring progress is fundamental to the advancement of any scientific field. As
 - [Verdict](https://github.com/haizelabs/verdict) `Python`
 - [vitals](https://vitals.tidyverse.org) `R` `Posit`
 - [VLMEvalKit](https://github.com/open-compass/VLMEvalKit) `Python`
+- [Weapons of Mass Destruction Proxy (WMDP) benchmark](https://www.wmdp.ai) `Python`
 - [Werewolf Social Bench](https://werewolf.foaster.ai)
 - [WindowsAgentArena](https://github.com/microsoft/windowsagentarena) `Python` `Microsoft`
 
