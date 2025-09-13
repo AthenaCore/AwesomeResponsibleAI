@@ -242,9 +242,6 @@ This section features a curated selection of open courses focused on Responsible
 
 ## Data Sets
 
-- [AI Hallucination Cases](https://www.damiencharlotin.com/hallucinations/)
-- [AI Risk Database](https://airisk.io/) `MITRE`
-- [AI Risk Repository](https://airisk.mit.edu) `MIT`
 - [Common Corpus](https://huggingface.co/collections/PleIAs/common-corpus-65d46e3ea3980fdcd66a5613)
 - [An ImageNet replacement for self-supervised pretraining without humans](https://www.robots.ox.ac.uk/~vgg/research/pass/)
 - [Huggingface Data Sets](https://huggingface.co/datasets)
@@ -255,16 +252,19 @@ If you are looking for public data sets for your project, this is a [curated col
 
 ## Databases
 
-This section features a curated selection of databases focused on tracking incidents, issues, litigations and vulnerabilities.
+This section features a curated selection of databases focused on tracking incidents, issues, litigations, vulnerabilities and Ai for good initiatives.
 
 ### (AI) Incidents Trackers
 
-| Tracker | Paper | Organization | Description | Topic | 
+| Tracker | Paper | Organization/Creator | Description | Topic | 
 | ------------- | ------------- | ------------- | ------------- | ------------- |
+| [AI for Good Lab](https://microsoft.github.io/aiforgoodlab/) | N/A | Microsoft | An open source database of assets for social and environmental good. | AI for Good |
+| [AI Hallucination Cases](https://www.damiencharlotin.com/hallucinations/) | N/A | Damien Charlotin | This database tracks legal decisions1  in cases where generative AI produced hallucinated content – typically fake citations, but also other types of arguments. | Deepfakes, Misinformation |
 | [Political Deepfakes Incidents Database](https://airtable.com/appOU03dlKuBdbmty/shrEkrIYINbrcKQ3z/tbleGYjNLn2D4Xfzs) | [Merging AI Incidents Research with Political Misinformation Research: Introducing the Political Deepfakes Incidents Database](https://arxiv.org/abs/2409.15319) | Purdue University | A collection of politically-salient deepfakes, encompassing synthetically-created videos, images, and less-sophisticated `cheapfakes.' | Deepfakes |
 
+- [AI Risk Database](https://airisk.io/) `MITRE`
+- [AI Risk Repository](https://airisk.mit.edu) `MIT`
 - [AIAAIC](https://www.aiaaic.org/)
-- [AI Badness: An open catalog of generative AI badness](https://badness.ai/)
 - [AI Incident Database](https://incidentdatabase.ai)
 - [AI Incident Tracker](https://airisk.mit.edu/ai-incident-tracker) `MIT`
 - [AI Vulnerability Database (AVID)](https://avidml.org/)
@@ -789,6 +789,7 @@ Measuring progress is fundamental to the advancement of any scientific field. As
 - [Phoenix](https://github.com/Arize-ai/phoenix) `Arize AI` `Python`
 - [Prometheus](https://github.com/prometheus-eval/prometheus) `Python`
 - [Promptfoo](https://github.com/promptfoo/promptfoo) `Python`
+- [Prophet Arena](https://www.prophetarena.co) `Sigma Research Lab @UChicago`
 - [ragas](https://github.com/explodinggradients/ragas) `Python`
 - [RewardBench: Evaluating Reward Models](https://github.com/allenai/reward-bench) `Python` `Ai2`
 - [Rouge](https://pypi.org/project/rouge/) `Python`
