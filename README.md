@@ -260,10 +260,12 @@ This section features a curated selection of databases focused on tracking incid
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | [AI for Good Lab](https://microsoft.github.io/aiforgoodlab/) | N/A | Microsoft | An open source database of assets for social and environmental good. | AI for Good |
 | [AI Hallucination Cases](https://www.damiencharlotin.com/hallucinations/) | N/A | Damien Charlotin | This database tracks legal decisions1  in cases where generative AI produced hallucinated content – typically fake citations, but also other types of arguments. | Deepfakes, Misinformation |
+| [AI Risk Repository](https://airisk.mit.edu) | [The AI Risk Repository: A Comprehensive Meta-Review, Database, and Taxonomy of Risks From Artificial Intelligence](https://arxiv.org/abs/2408.12622) | MIT | A comprehensive living database of over 1600 AI risks categorized by their cause and risk domain. | AI Risk |
 | [Political Deepfakes Incidents Database](https://airtable.com/appOU03dlKuBdbmty/shrEkrIYINbrcKQ3z/tbleGYjNLn2D4Xfzs) | [Merging AI Incidents Research with Political Misinformation Research: Introducing the Political Deepfakes Incidents Database](https://arxiv.org/abs/2409.15319) | Purdue University | A collection of politically-salient deepfakes, encompassing synthetically-created videos, images, and less-sophisticated `cheapfakes.' | Deepfakes |
 
+This section is under review and the rest of entries will be added to the table with extended information. 
+
 - [AI Risk Database](https://airisk.io/) `MITRE`
-- [AI Risk Repository](https://airisk.mit.edu) `MIT`
 - [AIAAIC](https://www.aiaaic.org/)
 - [AI Incident Database](https://incidentdatabase.ai)
 - [AI Incident Tracker](https://airisk.mit.edu/ai-incident-tracker) `MIT`
@@ -580,11 +582,12 @@ This section features tools and libraries that help to design, implement and man
 | Tool | Language | Description | Creator | Status | 
 | ------------- | ------------- | ------------- | ------------- | ------------- | 
 | [balance](https://import-balance.org) | Python | A package for balancing biased data samples | META | Active | Bias |
+| [clav](https://jbryer.github.io/clav/) | R | This package provides utilities for conducting cluster (profile) analysis with an emphasis on the validating the stability of the profiles both within a given data set as well as across data sets. | Jason Bryer | Active | Cluster Validation |
 | [smclafify](https://github.com/aws/amazon-sagemaker-clarify) | Python | Bias detection and mitigation for datasets and models | Amazon | Inactive | Bias |
 | [SolasAI](https://github.com/SolasAI/solas-ai-disparity) | Python | A Library of Curated Disparity Testing Metrics for Use in Real-World Settings | SolasAI | Active | Fairness |
 | [TRAK (Attributing Model Behaviour at Scale)](https://github.com/MadryLab/trak) | Python | A data attribution method called TRAK (Tracing with the Randomly-Projected After Kernel) to make accurate counterfactual predictions. See: [Article](https://arxiv.org/pdf/2303.14186) | MIT | Inactive | Causal Inference |
 
-This section is under review. 
+This section is under review and the rest of entries will be added to the table with extended information. 
 
 ### AI Governance
 
@@ -1066,4 +1069,4 @@ Curto, J., et al. "Awesome Responsible Artificial Intelligence." GitHub. Last mo
 
 **MLA (Modern Language Association) 9th Edition**
 
-Curto, J., et al. "Awesome Responsible Artificial Intelligence". *GitHub*, 2025, https://github.com/AthenaCore/AwesomeResponsibleAI. Accessed 08 Sep 2025.
+Curto, J., et al. "Awesome Responsible Artificial Intelligence". *GitHub*, 2025, https://github.com/AthenaCore/AwesomeResponsibleAI. Accessed 23 Sep 2025.
