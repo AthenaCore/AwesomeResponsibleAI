@@ -11,18 +11,15 @@ A curated list of awesome academic research, books, code of ethics, courses, dat
 ## Main Concepts
 
 ### What is AI Governance?
-
-AI governance is a system of rules, processes, frameworks, and tools within an organization to ensure the ethical and responsible development of AI.
+**AI governance** is a system of rules, processes, frameworks, and tools within an organization to ensure the ethical and responsible development of AI.
 
 ### What is Human-Centered AI?
-
-Human-Centered Artificial Intelligence (HCAI) is an approach to AI development that prioritizes human users' needs, experiences, and well-being.
+**Human-Centered Artificial Intelligence** (HCAI) is an approach to AI development that prioritizes human users' needs, experiences, and well-being.
 
 ### What is Open Source AI?
-
 When we refer to a “system,” we are speaking both broadly about a fully functional structure and its discrete structural elements. To be considered Open Source, the requirements are the same, whether applied to a system, a model, weights and parameters, or other structural elements.
 
-An Open Source AI is an AI system made available under terms and in a way that grant the freedoms1 to:
+An **Open Source AI** is an AI system made available under terms and in a way that grant the freedoms1 to:
 
 - Use the system for any purpose and without having to ask for permission.
 - Study how the system works and inspect its components.
@@ -32,18 +29,16 @@ An Open Source AI is an AI system made available under terms and in a way that g
 [Source](https://opensource.org/ai/open-source-ai-definition)
 
 ### What is Responsible AI?
-Responsible AI (RAI) refers to the development, deployment, and use of artificial intelligence (AI) systems in ways that are ethical, transparent, accountable, and aligned with human values. 
+**Responsible AI** (RAI) refers to the development, deployment, and use of artificial intelligence (AI) systems in ways that are ethical, transparent, accountable, and aligned with human values. 
 
 ### What is a Responsible AI framework?
 Responsible AI frameworks often encompass guidelines, principles, and practices that prioritize fairness, safety, and respect for individual rights.
 
 ### What is Trustworthy AI?
-
-Trustworthy AI (TAI) refers to artificial intelligence systems designed and deployed to be transparent, robust and respectful of data privacy.
+**Trustworthy AI** (TAI) refers to artificial intelligence systems designed and deployed to be transparent, robust and respectful of data privacy.
 
 ### Why is Responsible, Trustworthy, and Human-Centered AI important?
-
-AI is a transformative technology prone to reshape industries, yet it requires careful governance to balance the benefits of automation and insight with protections against unintended social, economic, and security impacts. You can read more about the current wave [here](https://www.thecompendium.ai).
+AI is a transformative and dual-side technology prone to reshape industries, yet it requires careful governance to balance the benefits of automation and insight with protections against unintended social, economic, and security impacts. You can read more about the current wave [here](https://www.thecompendium.ai).
 
 ## Content
 
@@ -593,11 +588,6 @@ This section is under review and the rest of entries will be added to the table 
 
 - [Governance Mega-Map Application](https://github.com/The-Company-Ethos/doing-ai-governance) `The Company Ethos`
 
-### Assessments
-
-- [The Assessment List for Trustworthy Artificial Intelligence](https://altai.insight-centre.org)
-
-
 ### Causal Inference
 
 - [CausalAI](https://github.com/salesforce/causalai) `Python` `Salesforce`
@@ -761,6 +751,7 @@ Measuring progress is fundamental to the advancement of any scientific field. As
 - [FBI: Finding Blindspots in LLM Evaluations with Interpretable Checklists](https://github.com/AI4Bharat/FBI) `Python`
 - [FrontierMath](https://epoch.ai/frontiermath)
 - [Geekbench AI](https://www.geekbench.com/ai/)
+- [GDPval](https://huggingface.co/datasets/openai/gdpval) [Paper](https://cdn.openai.com/pdf/d5eb7428-c4e9-4a33-bd86-86dd4bcf12ce/GDPval.pdf) `OpenAI`
 - [GPQA: A Graduate-Level Google-Proof Q&A Benchmark](https://github.com/idavidrein/gpqa) `Python` `dataset`
 - [Giskard](https://github.com/Giskard-AI/giskard) `Python`
 - [HAL Harness](https://github.com/princeton-pli/hal-harness) `Python` `PLI`
@@ -812,6 +803,7 @@ Measuring progress is fundamental to the advancement of any scientific field. As
 - [Vending Bench](https://andonlabs.com/evals/vending-bench) `Andon Labs`
 - [Verdict](https://github.com/haizelabs/verdict) `Python`
 - [vitals](https://vitals.tidyverse.org) `R` `Posit`
+- [VCBench](https://www.vcbench.com) [Paper](https://arxiv.org/abs/2509.14448)
 - [VLMEvalKit](https://github.com/open-compass/VLMEvalKit) `Python`
 - [Weapons of Mass Destruction Proxy (WMDP) benchmark](https://www.wmdp.ai) `Python`
 - [Werewolf Social Bench](https://werewolf.foaster.ai)
