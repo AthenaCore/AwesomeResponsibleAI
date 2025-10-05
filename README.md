@@ -852,6 +852,7 @@ Additional benchmarks can be found [here](https://airtable.com/app83SBBFk9WO25hJ
 - [diffpriv](https://github.com/brubinstein/diffpriv) `R`
 - [Diffprivlib](https://github.com/IBM/differential-privacy-library) `Python` `IBM`
 - [Discrete Gaussian for Differential Privacy](https://github.com/IBM/discrete-gaussian-differential-privacy) `Python` `IBM`
+- [GRANDpriv](https://cran.r-project.org/web/packages/GRANDpriv/index.html) `R`
 - [Opacus](https://opacus.ai) `Python` `Facebook`
 - [Privacy Meter](https://github.com/privacytrustlab/ml_privacy_meter) `Python` `National University of Singapore`
 - [PyVacy: Privacy Algorithms for PyTorch](https://github.com/ChrisWaites/pyvacy) `Python`
