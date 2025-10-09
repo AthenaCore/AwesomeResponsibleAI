@@ -347,6 +347,8 @@ This section is under review and the rest of entries will be added to the table 
 
 ## Maturity Models
 
+This section features a curated selection of maturity models that can help organizations to adopt AI in a responsible way.
+
 ### AI Governance
 
 - [The AIGA AI Governance Framework](https://ai-governance.eu)
@@ -360,6 +362,8 @@ This section is under review and the rest of entries will be added to the table 
 - [The GSMA Responsible AI Maturity Roadmap](https://www.gsma.com/solutions-and-impact/connectivity-for-good/external-affairs/responsible-ai/)
 
 ## Newsletters
+
+This section features a curated selection of newsletters that keep you informed about this domain.
 
 - [AI Frontiers](https://www.ai-frontiers.org/) `Center for AI Safety`
 - [AI Policy Perspectives](https://www.aipolicyperspectives.com)
@@ -406,6 +410,8 @@ This section features podcasts that offer insightful commentary and explanations
 | [Me, Myself and AI](https://podcasts.apple.com/gb/podcast/me-myself-and-ai/id1533115958) | Interviews with experts | MIT Sloan Management Review |
 
 ## Regulations
+
+This section features a curated selection of regulations.
 
 ### Definition
 
@@ -512,6 +518,8 @@ Responsible Scale Policies (RSPs) specify what level of AI capabilities an AI de
 - Nvidia: [Frontier AI Risk Assessment](https://images.nvidia.com/content/pdf/NVIDIA-Frontier-AI-Risk-Assessment.pdf). Published: February 17, 2025
 
 ## Reports
+
+This section features a curated selection of reports relevant to understand the current situation and trends related to Responsible AI, AI Ethics and AI Governance.
 
 ### AI Ethics
 
@@ -952,6 +960,8 @@ There are some open standards such as [RSL](https://rslstandard.org), focused on
 
 ###  Standards
 
+This section features a curated selection of standards related to Responsible AI.
+
 ### CEN Standards
 
 The European Committee for Standardization is one of three European Standardization Organizations (together with CENELEC and ETSI) that have been officially recognized by the European Union and by the European Free Trade Association (EFTA) as being responsible for developing and defining voluntary standards at European level.
@@ -1062,4 +1072,4 @@ Curto, J., et al. "Awesome Responsible Artificial Intelligence." GitHub. Last mo
 
 **MLA (Modern Language Association) 9th Edition**
 
-Curto, J., et al. "Awesome Responsible Artificial Intelligence". *GitHub*, 2025, https://github.com/AthenaCore/AwesomeResponsibleAI. Accessed 23 Sep 2025.
+Curto, J., et al. "Awesome Responsible Artificial Intelligence". *GitHub*, 2025, https://github.com/AthenaCore/AwesomeResponsibleAI. Accessed 09 Oct 2025.
