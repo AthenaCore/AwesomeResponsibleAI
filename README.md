@@ -791,6 +791,7 @@ Measuring progress is fundamental to the advancement of any scientific field. As
 - [lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval) `Python`
 - [OffsetBias: Leveraging Debiased Data for Tuning Evaluators](https://github.com/ncsoft/offsetbias) `Python`
 - [opik](https://github.com/comet-ml/opik) `Comet` `Python`
+- [Petri](https://github.com/safety-research/petri) `Python`
 - [Phare LLM Benchmark](https://phare.giskard.ai) `Python` `Giskard AI`
 - [Pydantic Evals](https://ai.pydantic.dev/evals/#datasets-and-cases) `Python`
 - [Phoenix](https://github.com/Arize-ai/phoenix) `Arize AI` `Python`
