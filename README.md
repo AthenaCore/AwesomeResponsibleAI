@@ -641,6 +641,7 @@ This section is under review and the rest of entries will be added to the table 
 - [Fairness Indicators](https://github.com/tensorflow/fairness-indicators) `Python` `Google`
 - [FairRankTune](https://kcachel.github.io/fairranktune/) `Python`
 - [FairPAN - Fair Predictive Adversarial Network](https://modeloriented.github.io/FairPAN/) `R`
+- [Intersectional Fairness (ISF)](https://github.com/intersectional-fairness/isf) `Python`
 - [OxonFair](https://github.com/oxfordinternetinstitute/oxonfair) `Python` `Oxford Internet Institute`
 - [Themis ML](https://github.com/cosmicBboy/themis-ml) `Python`
 - [What-If Tool](https://github.com/PAIR-code/what-if-tool) `Python` `Google`
