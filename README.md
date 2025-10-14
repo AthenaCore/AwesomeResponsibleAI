@@ -775,6 +775,7 @@ Measuring progress is fundamental to the advancement of any scientific field. As
 - [MalayMMLU](https://github.com/UMxYTL-AI-Labs/MalayMMLU) `Python`
 - [Mask Benchmark](https://www.mask-benchmark.ai) `Python` `Center for AI Safety` `Scale AI`
 - [Math Science Bench](https://math.science-bench.ai)
+- [MCPBench: A Benchmark for Evaluating MCP Servers](https://github.com/modelscope/MCPBench) `Python` `ModelScope`
 - [MixEval](https://mixeval.github.io) `Python`
 - [ML Commons Safety Benchmark for general purpose AI chat model](https://mlcommons.org/benchmarks/ai-safety/general_purpose_ai_chat_benchmark/)
 - [MLflow LLM Evaluation](https://mlflow.org/docs/latest/llms/llm-evaluate/index.html) `Python`
