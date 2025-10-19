@@ -758,6 +758,7 @@ Measuring progress is fundamental to the advancement of any scientific field. As
 - [FMBench](https://github.com/aws-samples/foundation-model-benchmarking-tool) `Python` `Amazon`
 - [FlagEval](https://github.com/flageval-baai/FlagEval) `Python` `BAAI`
 - [FBI: Finding Blindspots in LLM Evaluations with Interpretable Checklists](https://github.com/AI4Bharat/FBI) `Python`
+- [ForecastBench](https://www.forecastbench.org)
 - [FrontierMath](https://epoch.ai/frontiermath)
 - [Geekbench AI](https://www.geekbench.com/ai/)
 - [GDPval](https://huggingface.co/datasets/openai/gdpval) [Paper](https://cdn.openai.com/pdf/d5eb7428-c4e9-4a33-bd86-86dd4bcf12ce/GDPval.pdf) `OpenAI`
