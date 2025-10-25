@@ -242,6 +242,7 @@ This section features a curated selection of open courses focused on Responsible
 | [Modern-Day Oracles or Bullshit Machines?](https://thebullshitmachines.com/instructor-guide/index.html) | Bergstrom, C. T., & West, J. D. | A course about how data and statistical analysis — the keystones of scientific reasoning — can be abused to mislead people. | Ethics |
 | [Practical Data Ethics](https://ethics.fast.ai) | Fast.ai | A course focus on topics that are both urgent and practical. | Data Ethics |
 | [Public Engagement of Data Science and AI (PED)](https://alan-turing-institute.github.io/turing-commons/skills-tracks/ped/index.html) | The Alan Turing Institute | A course is designed to help you understand the practical and ethical value of public engagement with data science and AI. | Ethics |
+| [Responsible AI)](https://alltechishuman.org/rai-courses) | All Tech is Human | This series of short courses, which can be completed in just a few hours, offers a foundational understanding of Responsible AI. | Responsible AI |
 | [Responsible Research and Innovation (RRI)](https://alan-turing-institute.github.io/turing-commons/skills-tracks/rri/index.html) | The Alan Turing Institute | This course explores what it means to take (individual and collective) responsibility for (and over) the processes and outcomes of research and innovation in data science and AI. | Responsible AI |
 
 ## Data Sets
