@@ -135,6 +135,10 @@ An interesting curated collection of articules (updated until 2021) [A Living an
 
 - Slattery, P., et al. (2024). **The ai risk repository: A comprehensive meta-review, database, and taxonomy of risks from artificial intelligence**. arXiv preprint arXiv:2408.12622. [Article](https://arxiv.org/pdf/2408.12622)
 
+### Systems Risks
+
+- Uuk, R., et al. (2024). **A Taxonomy of Systemic Risks from General-Purpose AI**. arXiv preprint arXiv:2412.07780. [Article](https://arxiv.org/abs/2412.07780)
+
 ### Sustainability
 
 - Lacoste, A., Luccioni, A., Schmidt, V., & Dandres, T. (2019). **Quantifying the carbon emissions of machine learning**. arXiv preprint arXiv:1910.09700. [Article](https://arxiv.org/abs/1910.09700)
