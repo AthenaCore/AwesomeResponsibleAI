@@ -749,6 +749,7 @@ Measuring progress is fundamental to the advancement of any scientific field. As
 - [BALROG](https://github.com/balrog-ai/BALROG) `Python`
 - [The Berkeley Function Calling Leaderboard (BFCL)](https://gorilla.cs.berkeley.edu/leaderboard.html) `Python` `Berkeley`
 - [BIG-Bench Extra Hard](https://github.com/google-deepmind/bbeh) `Python` `Deepmind`
+- [BrokenMath: A Benchmark for Sycophancy in Theorem Proving with LLMs](https://www.sycophanticmath.ai) `Python` `INSAIT` `SRILAB` `ETHZürich`
 - [Chinese Safety Evaluations](https://airtable.com/appkPf0Rw2P7KCY5i/shrpXozZcomLjmBf3/tblV6tS87aqOgrDJX/viwukUaSfInPLoQun) `Concordia AI`
 - [CLUE benchmark](https://github.com/CLUEbenchmark/CLUE) `Python`
 - [DarkBench](https://github.com/smarter/DarkBench) `Python`
@@ -999,8 +1000,9 @@ Domain | Standard | Status | URL
 Calidad del dato | UNE 0079:2023 | Published | [Source](https://tienda.aenor.com/norma-une-especificacion-une-0079-2023-n0071118)
 Gestión del dato | UNE 0078:2023 | Published | [Source](https://tienda.aenor.com/norma-une-especificacion-une-0078-2023-n0071117)
 Gobierno del dato | UNE 0077:2023 | Published | [Source](https://tienda.aenor.com/norma-une-especificacion-une-0077-2023-n0071116)
-Guía de evaluación de la Calidad de un Conjunto de Datos. | UNE 0081:2023 | Published | [Source](https://tienda.aenor.com/norma-une-especificacion-une-0081-2023-n0071807)
-Guía de evaluación del Gobierno, Gestión y Gestión de la Calidad del Dato. | UNE 0080:2023 | Published | [Source](https://tienda.aenor.com/norma-une-especificacion-une-0080-2023-n0071383)
+Guía de evaluación de la Calidad de un Conjunto de Datos | UNE 0081:2023 | Published | [Source](https://tienda.aenor.com/norma-une-especificacion-une-0081-2023-n0071807)
+Guía de evaluación del Gobierno, Gestión y Gestión de la Calidad del Dato | UNE 0080:2023 | Published | [Source](https://tienda.aenor.com/norma-une-especificacion-une-0080-2023-n0071383)
+Medición del consumo energético, huella de carbono, consumo del agua y rendimiento de sistemas de Inteligencia Artificial | UNE 0086:2025 | Published | [Source](https://www.une.org/encuentra-tu-norma/busca-tu-norma/norma/?c=N0075012)
 
 Additional translations in Spanish can be found [here](https://tienda.aenor.com/Buscador).
 
