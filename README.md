@@ -432,15 +432,15 @@ Regulations are requirements established by governments.
 ### Interesting resources
 
 - [Data Protection and Privacy Legislation Worldwide](https://unctad.org/page/data-protection-and-privacy-legislation-worldwide) `UNCTAD`
-- [Data Protection Laws of the Word](https://www.dlapiperdataprotection.com)
+- [Data Protection Laws of the Word](https://www.dlapiperdataprotection.com) `DLAPiper`
 - [Digital Policy Alert](https://digitalpolicyalert.org/analysis)
-- [ETO Agora](emerging-technology-observatory/)
-- [GAIIN: The Global AI Initiatives Navigator](https://oecd.ai/en/dashboards/overview) 
+- [ETO Agora](https://agora.eto.tech) `CSET`
+- [GAIIN: The Global AI Initiatives Navigator](https://oecd.ai/en/dashboards/overview) `OECD`
 - [GDPR Comparison](https://www.activemind.legal/law/)
 - [Global AI Regulation](https://global-ai-regulations.glitch.me)
-- [National AI policies & strategies](https://oecd.ai/en/dashboards/overview)
-- [Policy Database](https://aistandardshub.org/policy-and-strategy-search/)
-- [SEA Observatory](https://seaobservatory.com) `AI Safety`
+- [INTERACTIVE MAPPING OF THE AI REGULATION LANDSCAPE](https://diversifair-project.eu/courses/interactive-mapping-of-ai-regulation-landscape/) `DiversiFair`
+- [Policy Database](https://aistandardshub.org/policy-and-strategy-search/) `AI Standards Hub`
+- [SEA Observatory](https://seaobservatory.com) `AI Safety Asia`
 - [SCL Artificial Intelligence Contractual Clauses](https://www.scl.org/wp-content/uploads/2024/02/AI-Clauses-Project-October-2023-final-1.pdf)
 
 ### Australia 🇦🇺
