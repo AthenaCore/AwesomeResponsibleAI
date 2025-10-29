@@ -612,6 +612,7 @@ This section is under review and the rest of entries will be added to the table 
 - [CausalNex](https://causalnex.readthedocs.io) `Python`
 - [CausalImpact](https://cran.r-project.org/web/packages/CausalImpact) `R`
 - [Causalinference](https://causalinferenceinpython.org) `Python`
+- [causalDT: Causal Distillation Trees](https://cran.r-project.org/web/packages/causalDT/index.html) `R`
 - [Causal Inference 360](https://github.com/BiomedSciAI/causallib) `Python`
 - [CausalPy](https://github.com/pymc-labs/CausalPy) `Python`
 - [CIMTx: Causal Inference for Multiple Treatments with a Binary Outcome](https://cran.r-project.org/web/packages/CIMTx) `R`
