@@ -734,6 +734,7 @@ This section is under review and the rest of entries will be added to the table 
 - [interpretML](https://github.com/interpretml/interpret) `Python` `Microsoft` [`R`](https://cran.r-project.org/web/packages/interpret/index.html)
 - [PiML Toolbox](https://github.com/SelfExplainML/PiML-Toolbox) `Python`
 - [Tensorflow Lattice](https://github.com/tensorflow/lattice) `Python` `Google`
+- [Trust-free](https://pypi.org/project/trust-free/) `Python` 
 
 ### Model Verification
 
