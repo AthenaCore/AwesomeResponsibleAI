@@ -641,6 +641,7 @@ This section is under review and the rest of entries will be added to the table 
 - [Evidently](https://github.com/evidentlyai/evidently) `Python`
 - [nannyML](https://github.com/NannyML/nannyml) `Python`
 - [phoenix](https://github.com/Arize-ai/phoenix) `Python`
+- [PKBooks](https://github.com/Pushp-Kharat1/pkboost) `Rust`
 
 ### Fairness
 
