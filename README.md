@@ -610,6 +610,10 @@ This section is under review and the rest of entries will be added to the table 
 
 - [Governance Mega-Map Application](https://github.com/The-Company-Ethos/doing-ai-governance) `The Company Ethos`
 
+### Audit
+
+- [glassalpha](https://github.com/asibic/glassalpha) `Python`
+
 ### Causal Inference
 
 - [CausalAI](https://github.com/salesforce/causalai) `Python` `Salesforce`
