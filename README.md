@@ -276,7 +276,8 @@ This section is under review and the rest of entries will be added to the table 
 
 - [AI Risk Database](https://airisk.io/) `MITRE`
 - [AIAAIC](https://www.aiaaic.org/)
-- [AI Incident Database](https://incidentdatabase.ai)
+- [AI Harm Map](https://ethicalaialliance.org/ai-harm-map) `Ethical AI Alliance`
+- [AI Incident Database](https://incidentdatabase.ai) 
 - [AI Incident Tracker](https://airisk.mit.edu/ai-incident-tracker) `MIT`
 - [AI Vulnerability Database (AVID)](https://avidml.org/)
 - [George Washington University Law School's AI Litigation Database](https://blogs.gwu.edu/law-eti/ai-litigation-database/)
