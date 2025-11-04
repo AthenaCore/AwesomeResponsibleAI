@@ -999,6 +999,16 @@ Data governance and quality for AI within the European context | CEN/CLC/TR 1811
 
 CEN AI Work programme can be found [here](https://standards.cencenelec.eu/dyn/www/f?p=205:22:0::::FSP_ORG_ID,FSP_LANG_ID:2916257,25&cs=1827B89DA69577BF3631EE2B6070F207D).
 
+### DGSI Standards
+
+The Digital Governance Standards Institute, part of the Digital Governance Council, is an accredited standards development body. The Institute enables greater trust and confidence in Canada’s digital systems through developing technology governance standards collaboratively across a range of stakeholders.
+
+Domain | Standard | Status | URL
+---|---|---|---
+Design, Implementation and Evaluation of Regulatory Sandboxes|CAN/DGSI 123|Published|[Source](https://dgc-cgn.org/product/can-dgsi-123/)
+Ethical Design and Use of Artificial Intelligence by Small and Medium Organizations|CAN/DGSI 101|Published|[Source](https://dgc-cgn.org/product/can-dgsi-101/)
+Machine Learning and AI Implementation in Research Institutions|CAN/DGSI 128|Published|[Source](https://dgc-cgn.org/product/can-dgsi-128/)
+
 ### IEEE Standards
 
 Domain | Standard | Status | URL
