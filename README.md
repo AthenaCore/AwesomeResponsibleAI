@@ -911,7 +911,7 @@ Additional benchmarks can be found [here](https://airtable.com/app83SBBFk9WO25hJ
 - [BackdoorBench](https://github.com/SCLBD/BackdoorBench) `Python`
 - [Factool](https://github.com/GAIR-NLP/factool) `Python`
 - [Foolbox](https://github.com/bethgelab/foolbox) `Python`
-- [Guardrails](https://github.com/guardrails-ai/guardrails) `Python`
+- [Guardrails](https://github.com/guardrails-ai/guardrails) `Python` [Guardrails Hub](https://hub.guardrailsai.com)
 - [NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) `Python` `Amazon`
 
 ### Safety
@@ -1110,4 +1110,4 @@ Curto, J., et al. "Awesome Responsible Artificial Intelligence." GitHub. Last mo
 
 **MLA (Modern Language Association) 9th Edition**
 
-Curto, J., et al. "Awesome Responsible Artificial Intelligence". *GitHub*, 2025, https://github.com/AthenaCore/AwesomeResponsibleAI. Accessed 05 Nov 2025.
+Curto, J., et al. "Awesome Responsible Artificial Intelligence". *GitHub*, 2025, https://github.com/AthenaCore/AwesomeResponsibleAI. Accessed 06 Nov 2025.
