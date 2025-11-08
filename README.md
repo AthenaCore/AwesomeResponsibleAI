@@ -183,6 +183,7 @@ An interesting curated collection of articules (updated until 2021) [A Living an
 - Fourrier, C. and et all. (2024) **LLM Evaluation Guidebook**. Github Repository. [Web](https://github.com/huggingface/evaluation-guidebook) `LLM Evaluation`
 - Freiesleben, T. & Molnar, C. (2024). **Supervised Machine Learning for Science: How to stop worrying and love your black box.** [Book](https://ml-science-book.com/)
 - Huntington-Klein, N. (2012) **The effect: An introduction to research design and causality**. Chapman and Hall/CRC. [Book](https://theeffectbook.net) `Causal Inference`
+- Kamath, U. et al. (2023) **Applied Causal Inference** [Book](https://appliedcausalinference.github.io/aci_book/)
 - Matloff, N et al. (2204) **Data Science Looks at Discrimination** [Book](https://htmlpreview.github.io/?https://github.com/matloff/dsldBook/blob/main/_book/index.html) `Fairness` `R`
 - Molnar, C. (2020). **Interpretable Machine Learning**. Lulu.com. [Book](https://christophm.github.io/interpretable-ml-book/) `Explainability` `Interpretability` `Transparency` `R`
 - Vizquez, S. & Kubersky, W. (2025) **The Little Book of ML Metrics**. [Book](https://github.com/NannyML/The-Little-Book-of-ML-Metrics) `ML Evaluation`
@@ -1110,4 +1111,4 @@ Curto, J., et al. "Awesome Responsible Artificial Intelligence." GitHub. Last mo
 
 **MLA (Modern Language Association) 9th Edition**
 
-Curto, J., et al. "Awesome Responsible Artificial Intelligence". *GitHub*, 2025, https://github.com/AthenaCore/AwesomeResponsibleAI. Accessed 06 Nov 2025.
+Curto, J., et al. "Awesome Responsible Artificial Intelligence". *GitHub*, 2025, https://github.com/AthenaCore/AwesomeResponsibleAI. Accessed 08 Nov 2025.
