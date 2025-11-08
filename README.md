@@ -125,6 +125,8 @@ An interesting curated collection of articules (updated until 2021) [A Living an
 - Coston, A., Mishler, A., Kennedy, E. H., & Chouldechova, A. (2020, January). **Counterfactual risk assessments, evaluation, and fairness**. In Proceedings of the 2020 conference on fairness, accountability, and transparency (pp. 582-593). [Article](https://arxiv.org/abs/1909.00066) 
 - Kleinberg, J., Mullainathan, S., & Raghavan, M. (2016). **Inherent trade-offs in the fair determination of risk scores**. arXiv preprint arXiv:1609.05807. [Article](https://arxiv.org/abs/1609.05807)
 - Jesus, S., Saleiro, P., Jorge, B. M., Ribeiro, R. P., Gama, J., Bizarro, P., & Ghani, R. (2024). **Aequitas Flow: Streamlining Fair ML Experimentation**. arXiv preprint arXiv:2405.05809. [Article](https://arxiv.org/abs/2405.05809)
+- Plečko, D, and Bareinboim, E. (2024), **Causal Fairness Analysis**, Foundations and Trends in Machine Learning: Vol. 17, No. 3, pp 1–238. DOI:
+10.1561/2200000106. [Article and Materials](https://fairness.causalai.net)
 - Saleiro, P., Kuester, B., Hinkson, L., London, J., Stevens, A., Anisfeld, A., ... & Ghani, R. (2018). **Aequitas: A bias and fairness audit toolkit**. arXiv preprint arXiv:1811.05577. [Article](https://arxiv.org/abs/1811.05577)
 - Vasudevan, S., & Kenthapadi, K. (2020, October). **Lift: A scalable framework for measuring fairness in ml applications**. In Proceedings of the 29th ACM international conference on information & knowledge management (pp. 2773-2780). [Article](https://arxiv.org/abs/2008.07433) `LinkedIn`
 
