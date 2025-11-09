@@ -791,6 +791,7 @@ Measuring progress is fundamental to the advancement of any scientific field. As
 - [GPQA: A Graduate-Level Google-Proof Q&A Benchmark](https://github.com/idavidrein/gpqa) `Python` `dataset`
 - [Giskard](https://github.com/Giskard-AI/giskard) `Python`
 - [HAL Harness](https://github.com/princeton-pli/hal-harness) `Python` `PLI`
+- [Harbor](https://harborframework.com) `Python`
 - [HELM](https://github.com/stanford-crfm/helm) `Python`
 - [Humanity's Last Exam](https://lastexam.ai) `Scale AI` `Center for AI Safety`
 - [Inspect](https://ukgovernmentbeis.github.io/inspect_ai/) `Python` `UK AISI`
@@ -835,6 +836,7 @@ Measuring progress is fundamental to the advancement of any scientific field. As
 - [simple evals](https://github.com/openai/simple-evals) `Python` `OpenAI`
 - [SnitchBench](https://github.com/t3dotgg/SnitchBench) `Python`
 - [StrongREJECT jailbreak benchmark](https://github.com/dsbowen/strong_reject) `Python`
+- [TerminalBench](https://www.tbench.ai)
 - [TextQuests](https://www.textquests.ai) `Python`
 - [τ-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains](https://github.com/sierra-research/tau-bench) `Python`
 - [Yet Another Applied LLM Benchmark](https://github.com/carlini/yet-another-applied-llm-benchmark) `Python`
