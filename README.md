@@ -1023,6 +1023,7 @@ IEEE Recommended Practice for the Quality Management of Datasets for Medical Art
 IEEE Standard for Ethical Considerations in Emulated Empathy in Autonomous and Intelligent Systems | IEEE 7014-2024 | Published | [Source](https://www.iso.org/standard/74296.html)
 IEEE Standard for Robustness Testing and Evaluation of Artificial Intelligence (AI)-based Image Recognition Service | IEEE 3129-2023 | Published | [Source](https://store.accuristech.com/ieee/standards/ieee-2801-2022?product_id=2245612)
 IEEE Standard for Performance Benchmarking for Artificial Intelligence Server Systems | IEEE 2937-2022 | Published | [Source](https://store.accuristech.com/ieee/standards/ieee-2937-2022?product_id=2252712)
+IEEE Standard for Security Requirement of Privacy-Preserving Computation | IEEE 3169-2025 | Published | [Source](https://standards.ieee.org/ieee/3169/10935/)
 
 ### UNE Standards
 
