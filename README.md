@@ -541,7 +541,7 @@ This section features a curated selection of reports relevant to understand the 
 
 ### AI Ethics
 
-- State of AI Ethics. MAIEI [Website](https://montrealethics.ai/state/)
+- State of AI Ethics. MAIEI [Website](https://montrealethics.ai/state/) (latest version 7, November 2025)
 
 ### AI Governance
 
