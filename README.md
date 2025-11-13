@@ -130,7 +130,6 @@ An interesting curated collection of articules (updated until 2021) [A Living an
 - Saleiro, P., Kuester, B., Hinkson, L., London, J., Stevens, A., Anisfeld, A., ... & Ghani, R. (2018). **Aequitas: A bias and fairness audit toolkit**. arXiv preprint arXiv:1811.05577. [Article](https://arxiv.org/abs/1811.05577)
 - Vasudevan, S., & Kenthapadi, K. (2020, October). **Lift: A scalable framework for measuring fairness in ml applications**. In Proceedings of the 29th ACM international conference on information & knowledge management (pp. 2773-2780). [Article](https://arxiv.org/abs/2008.07433) `LinkedIn`
 
-
 ### Regulation
 
 - Wasil, A. R. et al. (2024). **Verification methods for international AI agreements**. arXiv preprint arXiv:2408.16074. [Article](https://arxiv.org/pdf/2408.16074)
@@ -408,7 +407,7 @@ This section features a curated selection of Responsible AI principles adopted b
 | ------------- | ------------- | ------------- |
 | Allianz | [Principles for a responsible usage of AI](https://www.allianz.com/en/about-us/strategy-values/data-ethics-and-responsible-ai.html) | 2022 |
 | Deutsche Telekom | [Guidelines for Artificial Intelligence](https://www.telekom.com/en/company/digital-responsibility/details/artificial-intelligence-ai-guideline-524366) | 2018 |
-| European Commission | [Guidelines for Trustworthy AI]([https://ec.europa.eu/futurium/en/ai-alliance-consultation](https://www.europarl.europa.eu/cmsdata/196377/AI%20HLEG_Ethics%20Guidelines%20for%20Trustworthy%20AI.pdf)) | 2019 |
+| European Commission | [Guidelines for Trustworthy AI](https://www.europarl.europa.eu/cmsdata/196377/AI%20HLEG_Ethics%20Guidelines%20for%20Trustworthy%20AI.pdf) | 2019 |
 | Future of Life Institute | [Asilomar AI principles](https://futureoflife.org/open-letter/ai-principles/) | 2017 |
 | Google | [AI Principles](https://ai.google/principles/) | 2019 |
 | IEEE | [Ethically Aligned Design](https://sagroups.ieee.org/global-initiative/wp-content/uploads/sites/542/2023/01/ead1e.pdf) | 2023 |
@@ -1121,4 +1120,4 @@ Curto, J., et al. "Awesome Responsible Artificial Intelligence." GitHub. Last mo
 
 **MLA (Modern Language Association) 9th Edition**
 
-Curto, J., et al. "Awesome Responsible Artificial Intelligence". *GitHub*, 2025, https://github.com/AthenaCore/AwesomeResponsibleAI. Accessed 08 Nov 2025.
+Curto, J., et al. "Awesome Responsible Artificial Intelligence". *GitHub*, 2025, https://github.com/AthenaCore/AwesomeResponsibleAI. Accessed 13 Nov 2025.
