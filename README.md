@@ -174,6 +174,8 @@ An interesting curated collection of articules (updated until 2021) [A Living an
 
 ## Books
 
+This section features a curated selection of books.
+
 ### Open Access
 
 - Barocas, S., Hardt, M., & Narayanan, A. (2023). **Fairness and machine learning: Limitations and opportunities**. MIT press. [Book](https://www.fairmlbook.org)
@@ -208,8 +210,9 @@ An interesting curated collection of articules (updated until 2021) [A Living an
 
 ## Code of Ethics
 
+This section features a curated selection of code of ethics.
+
 - [ACS Code of Professional Conduct](https://www.acs.org.au/content/dam/acs/rules-and-regulations/Code-of-Professional-Conduct_v2.1.pdf) by Australian ICT (Information and Communication Technology)
-- [AI Standards Hub](https://aistandardshub.org)
 - [Association for Computer Machinery's Code of Ethics and Professional Conduct](https://www.acm.org/code-of-ethics)
 - [IEEE Global Initiative for Ethical Considerations in Artificial Intelligence (AI) and Autonomous Systems (AS)](https://ethicsinaction.ieee.org/)
 - [ISO/IEC's Standards for Artificial Intelligence](https://www.iso.org/committee/6794475/x/catalogue/)
@@ -252,6 +255,8 @@ This section features a curated selection of open courses focused on Responsible
 | [Responsible Research and Innovation (RRI)](https://alan-turing-institute.github.io/turing-commons/skills-tracks/rri/index.html) | The Alan Turing Institute | This course explores what it means to take (individual and collective) responsibility for (and over) the processes and outcomes of research and innovation in data science and AI. | Responsible AI |
 
 ## Data Sets
+
+This section features a curated selection of data sets.
 
 - [Common Corpus](https://huggingface.co/collections/PleIAs/common-corpus-65d46e3ea3980fdcd66a5613)
 - [An ImageNet replacement for self-supervised pretraining without humans](https://www.robots.ox.ac.uk/~vgg/research/pass/)
@@ -302,6 +307,8 @@ This section is under review and the rest of entries will be added to the table 
 - [RAI Toolkit](https://rai.tradewindai.com) `US Department of Defense`
 
 ## Institutes
+
+This section features a curated selection of institutes that research about Responsible AI and related topics.
 
 ### AI Safety Institutes (or equivalent)
 
@@ -401,7 +408,7 @@ This section features a curated selection of newsletters that keep you informed 
 
 ## Principles
 
-This section features a curated selection of Responsible AI principles adopted by several organizations. _Note: some publication dates may be accurate._
+This section features a curated selection of Responsible AI principles adopted by several organizations. _Note: some publication dates may not be accurate._
 
 | Company      | Document | Year |
 | ------------- | ------------- | ------------- |
@@ -519,6 +526,8 @@ NIS2 Directive | EU/2022/2555 |It provides legal measures to boost the overall l
 - [EIDF: guía y casos de uso - Metodología aplicada de la avaluación de impacto sobre los derechos fundamentales en el diseño y desarrollo de la IA-](https://www.dpdenxarxa.cat/pluginfile.php/2468/mod_folder/content/0/CAST-APDcat-281.pdf)
 
 ## Responsible Scale Policies
+
+This section features a curated selection of responsible scale policies adopted by AI Labs and organizations developing frontier models.
 
 ### Definition
 
