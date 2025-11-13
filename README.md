@@ -767,10 +767,6 @@ This section is under review and the rest of entries will be added to the table 
 
 - [Model Transparency](https://github.com/sigstore/model-transparency) `Python` `Google` `Open Source Security Foundation`
 
-### LLM Regulation Compliance
-
-- [COMPL-AI](https://compl-ai.org) `Python` `ETH Zurich` `Insait` `LaticeFlow AI`
-
 ### LLM Evaluations and Benchmarks
 
 Measuring progress is fundamental to the advancement of any scientific field. As benchmarks play an increasingly central role, they also grow more susceptible to distortion. Read more about it in Sing, S., et al. (2025) **The Leaderboard Illusion**. arXiv preprint [arXiv:2504.2087](https://arxiv.org/pdf/2504.20879). In addition to the problem of distursion, we must remember that this is nascent discipline as stated in Weidinger, L., et al. (2025). **Toward an evaluation science for generative AI systems**. arXiv preprint [arXiv:2503.05336](https://arxiv.org/pdf/2503.05336). Benchmarks may appear as neutral scoreboards; however, they embody more than that. Each one signifies a particular philosophy: the types of work valued, the definition of success, and what can be safely disregarded. The development of a truly effective benchmark is equally challenging and indispensable as the development of the model itself.
@@ -863,6 +859,14 @@ Measuring progress is fundamental to the advancement of any scientific field. As
 - [WindowsAgentArena](https://github.com/microsoft/windowsagentarena) `Python` `Microsoft`
 
 Additional benchmarks can be found [here](https://airtable.com/app83SBBFk9WO25hJ/shrSs3bXSx2bBDrso/tblNpnE4pzBnaC5lT?viewControls=on) and this is a dashboard from Epoch [AI Benchmarking Hub](https://epoch.ai/benchmarks) that compares the latest frontier AI models against each other.
+
+### LLM Regulation Compliance
+
+- [Tunix](https://github.com/google/tunix) `Python` `Google`
+
+### LLM Regulation Compliance
+
+- [COMPL-AI](https://compl-ai.org) `Python` `ETH Zurich` `Insait` `LaticeFlow AI`
 
 ### Performance (& Automated ML)
 
