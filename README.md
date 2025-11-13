@@ -402,15 +402,20 @@ This section features a curated selection of newsletters that keep you informed 
 
 ## Principles
 
-- [Allianz's Principles for a responsible usage of AI](https://www.allianz.com/en/about-us/strategy-values/data-ethics-and-responsible-ai.html) `Allianz`
-- [Asilomar AI principles](https://futureoflife.org/open-letter/ai-principles/)
-- [European Commission's Guidelines for Trustworthy AI](https://ec.europa.eu/futurium/en/ai-alliance-consultation)
-- [Google's AI Principles](https://ai.google/principles/) `Google`
-- [IEEE's Ethically Aligned Design](https://ethicsinaction.ieee.org/) `IEEE`
-- [Microsoft's AI principles](https://www.microsoft.com/en-us/ai/responsible-ai) `Microsoft`
-- [OECD's AI principles](https://oecd.ai/en/ai-principles) `OECD`
-- [Telefonica's AI principles](https://www.telefonica.com/en/sustainability-innovation/how-we-work/business-principles/#artificial-intelligence-principles) `Telefonica`
-- [The Institute for Ethical AI & Machine Learning: The Responsible Machine Learning Principles](https://ethical.institute/principles.html)
+This section features a curated selection of Responsible AI principles adopted by several organizations. _Note: some publication dates may be accurate._
+
+| Company      | Document | Year |
+| ------------- | ------------- | ------------- |
+| Allianz | [Principles for a responsible usage of AI](https://www.allianz.com/en/about-us/strategy-values/data-ethics-and-responsible-ai.html) | 2022 |
+| Deutsche Telekom | [Guidelines for Artificial Intelligence](https://www.telekom.com/en/company/digital-responsibility/details/artificial-intelligence-ai-guideline-524366) | 2018 |
+| European Commission | [Guidelines for Trustworthy AI]([https://ec.europa.eu/futurium/en/ai-alliance-consultation](https://www.europarl.europa.eu/cmsdata/196377/AI%20HLEG_Ethics%20Guidelines%20for%20Trustworthy%20AI.pdf)) | 2019 |
+| Future of Life Institute | [Asilomar AI principles](https://futureoflife.org/open-letter/ai-principles/) | 2017 |
+| Google | [AI Principles](https://ai.google/principles/) | 2019 |
+| IEEE | [Ethically Aligned Design](https://sagroups.ieee.org/global-initiative/wp-content/uploads/sites/542/2023/01/ead1e.pdf) | 2023 |
+| Microsoft | [AI Principles](https://www.microsoft.com/en-us/ai/principles-and-approach) | 2022 |
+| OECD | [AI principles](https://oecd.ai/en/ai-principles) | 2019 |
+| Telefonica | [AI Principles](https://www.microsoft.com/en-us/ai/principles-and-approach) | 2018 |
+| The Institute for Ethical AI & Machine Learning | [The Responsible Machine Learning Principles](https://ethical.institute/principles.html) | 2018 |
 
 Additional:
 
