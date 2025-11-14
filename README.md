@@ -671,6 +671,7 @@ This section is under review and the rest of entries will be added to the table 
 - [dsld: Data Science Looks at Discrimination](https://cran.r-project.org/web/packages/dsld/index.html) `R`
 - [EDFfair: Explicitly Deweighted Features](https://github.com/matloff/EDFfair) `R`
 - [EquiPy](https://github.com/equilibration/equipy) `Python`
+- [faircause](https://github.com/dplecko/CFA) `R`
 - [Fairlearn](https://fairlearn.org) `Python` `Microsoft`
 - [fairmetrics](https://jianhuig.github.io/fairmetrics/) `R`
 - [Fairmodels](https://fairmodels.drwhy.ai) `R` `University of California`
