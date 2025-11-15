@@ -834,11 +834,12 @@ Measuring progress is fundamental to the advancement of any scientific field. As
 - [opik](https://github.com/comet-ml/opik) `Comet` `Python`
 - [Petri](https://github.com/safety-research/petri) `Python`
 - [Phare LLM Benchmark](https://phare.giskard.ai) `Python` `Giskard AI`
-- [Pydantic Evals](https://ai.pydantic.dev/evals/#datasets-and-cases) `Python`
 - [Phoenix](https://github.com/Arize-ai/phoenix) `Arize AI` `Python`
+- [Political Even-handedness Evaluation](https://github.com/anthropics/political-neutrality-eval) `Python` `Anthropic AI`
 - [Prometheus](https://github.com/prometheus-eval/prometheus) `Python`
 - [Promptfoo](https://github.com/promptfoo/promptfoo) `Python`
 - [Prophet Arena](https://www.prophetarena.co) `Sigma Research Lab @UChicago`
+- [Pydantic Evals](https://ai.pydantic.dev/evals/#datasets-and-cases) `Python`
 - [ragas](https://github.com/explodinggradients/ragas) `Python`
 - [RewardBench: Evaluating Reward Models](https://github.com/allenai/reward-bench) `Python` `Ai2`
 - [Rouge](https://pypi.org/project/rouge/) `Python`
@@ -860,7 +861,7 @@ Measuring progress is fundamental to the advancement of any scientific field. As
 - [Werewolf Social Bench](https://werewolf.foaster.ai)
 - [WindowsAgentArena](https://github.com/microsoft/windowsagentarena) `Python` `Microsoft`
 
-Additional benchmarks can be found [here](https://airtable.com/app83SBBFk9WO25hJ/shrSs3bXSx2bBDrso/tblNpnE4pzBnaC5lT?viewControls=on) and this is a dashboard from Epoch [AI Benchmarking Hub](https://epoch.ai/benchmarks) that compares the latest frontier AI models against each other.
+Additional benchmarks can be found [here](https://airtable.com/app83SBBFk9WO25hJ/shrSs3bXSx2bBDrso/tblNpnE4pzBnaC5lT?viewControls=on), this is a dashboard from Epoch [AI Benchmarking Hub](https://epoch.ai/benchmarks) that compares the latest frontier AI models against each other, and you can learn about prompt evaluations [here](https://github.com/anthropics/courses/blob/master/prompt_evaluations/README.md).
 
 ### LLM Regulation Compliance
 
