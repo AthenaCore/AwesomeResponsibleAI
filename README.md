@@ -646,6 +646,10 @@ This section is under review and the rest of entries will be added to the table 
 - [mediation: Causal Mediation Analysis](https://cran.r-project.org/web/packages/mediation) `R`
 - [MRPC](https://cran.r-project.org/web/packages/MRPC) `R`
 
+### Data Management
+
+- [DataRec](https://github.com/sisinflab/DataRec) `Python`
+
 ### Data Quality
 
 - [Pointblank](https://posit-dev.github.io/pointblank/) `Python`
