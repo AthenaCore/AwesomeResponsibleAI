@@ -508,6 +508,10 @@ NIS2 Directive | EU/2022/2555 |It provides legal measures to boost the overall l
 
 - [Singapore’s Approach to AI Governance - Verify](https://www.pdpc.gov.sg/help-and-resources/2020/01/model-ai-governance-framework)
 
+### South Korea 🇰🇷
+
+- [AI Basic Act](https://artificialintelligenceact.kr)
+
 ### United Arab Emirates 🇦🇪
 
 - [AI Principles & Ethics/Ethical AI Toolkit](https://www.digitaldubai.ae/initiatives/ai-principles-ethics)
