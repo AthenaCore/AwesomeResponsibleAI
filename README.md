@@ -787,6 +787,7 @@ Measuring progress is fundamental to the advancement of any scientific field. As
 - [AlpacaEval](https://github.com/tatsu-lab/alpaca_eval) `Python`
 - [ARC AGI](https://arcprize.org/arc-agi) `Python`
 - [ARES](https://github.com/stanford-futuredata/ARES) `Python` `Stanford Future Data Systems`
+- [Artificial Analysis Omniscience Index](https://artificialanalysis.ai/evaluations/omniscience) `Artificial Analysis`
 - [Autoeval](https://auto-eval.github.io) `Python`
 - [Azure AI Evaluation](https://github.com/Azure/azure-sdk-for-python/tree/main/sdk/evaluation/azure-ai-evaluation) `Python` `Microsoft`
 - [Banana-lyzer](https://github.com/reworkd/bananalyzer) `Python`
@@ -849,6 +850,7 @@ Measuring progress is fundamental to the advancement of any scientific field. As
 - [Prophet Arena](https://www.prophetarena.co) `Sigma Research Lab @UChicago`
 - [Pydantic Evals](https://ai.pydantic.dev/evals/#datasets-and-cases) `Python`
 - [ragas](https://github.com/explodinggradients/ragas) `Python`
+- [Remote Labor Index](https://www.remotelabor.ai) `Center for AI Safety`
 - [RewardBench: Evaluating Reward Models](https://github.com/allenai/reward-bench) `Python` `Ai2`
 - [Rouge](https://pypi.org/project/rouge/) `Python`
 - [SALAD-BENCH](https://github.com/OpenSafetyLab/SALAD-BENCH) [Article](https://arxiv.org/abs/2402.05044) `Python`
@@ -869,7 +871,7 @@ Measuring progress is fundamental to the advancement of any scientific field. As
 - [Werewolf Social Bench](https://werewolf.foaster.ai)
 - [WindowsAgentArena](https://github.com/microsoft/windowsagentarena) `Python` `Microsoft`
 
-Additional benchmarks can be found [here](https://airtable.com/app83SBBFk9WO25hJ/shrSs3bXSx2bBDrso/tblNpnE4pzBnaC5lT?viewControls=on), this is a dashboard from Epoch [AI Benchmarking Hub](https://epoch.ai/benchmarks) that compares the latest frontier AI models against each other, and you can learn about prompt evaluations [here](https://github.com/anthropics/courses/blob/master/prompt_evaluations/README.md).
+Additional benchmarks can be found [here](https://airtable.com/app83SBBFk9WO25hJ/shrSs3bXSx2bBDrso/tblNpnE4pzBnaC5lT?viewControls=on), the [AI Benchmarking Hub](https://epoch.ai/benchmarks) (from Epoch) compares the latest frontier AI models against each other, the [CAIS AI Dashboard](https://dashboard.safe.ai/#safety) (from the Center for AI Safety) provides their latest benchmarks (text, vision, safety and automation), and you can learn about prompt evaluations [here](https://github.com/anthropics/courses/blob/master/prompt_evaluations/README.md) (by Anthropic).
 
 ### LLM Regulation Compliance
 
