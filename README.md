@@ -418,6 +418,7 @@ This section features a curated selection of Responsible AI principles adopted b
 | Future of Life Institute | [Asilomar AI principles](https://futureoflife.org/open-letter/ai-principles/) | 2017 |
 | Google | [AI Principles](https://ai.google/principles/) | 2019 |
 | IEEE | [Ethically Aligned Design](https://sagroups.ieee.org/global-initiative/wp-content/uploads/sites/542/2023/01/ead1e.pdf) | 2023 |
+| Logitech | [Principles for Responsible AI](https://www.logitech.com/content/dam/logitech/en/principles/responsible-ai-principles.pdf) | 2024 | 
 | Microsoft | [AI Principles](https://www.microsoft.com/en-us/ai/principles-and-approach) | 2022 |
 | OECD | [AI principles](https://oecd.ai/en/ai-principles) | 2019 |
 | Telefonica | [AI Principles](https://www.microsoft.com/en-us/ai/principles-and-approach) | 2018 |
@@ -1148,4 +1149,4 @@ Curto, J., et al. "Awesome Responsible Artificial Intelligence." GitHub. Last mo
 
 **MLA (Modern Language Association) 9th Edition**
 
-Curto, J., et al. "Awesome Responsible Artificial Intelligence". *GitHub*, 2025, https://github.com/AthenaCore/AwesomeResponsibleAI. Accessed 13 Nov 2025.
+Curto, J., et al. "Awesome Responsible Artificial Intelligence". *GitHub*, 2025, https://github.com/AthenaCore/AwesomeResponsibleAI. Accessed 21 Nov 2025.
