@@ -428,6 +428,8 @@ Additional:
 
 - [FAIR Principles](https://www.go-fair.org/fair-principles/) `Findability` `Accessibility` `Interoperability` `Reuse`
 
+If you want to read on how to move from AI principles to commitments, we recommend hte article ['Getting from commitment to content in AI and data ethics: Justice and explainability'](https://www.atlanticcouncil.org/in-depth-research-reports/report/specifying-normative-content/).
+
 ## Podcasts
 
 This section features podcasts that offer insightful commentary and explanations on responsible AI, AI Governance, AI Safety and machine learning interpretability.
@@ -466,6 +468,7 @@ Regulations are requirements established by governments.
 ### Australia 🇦🇺
 
 - [AI and ESG](https://www.industry.gov.au/publications/ai-and-esg)
+- [National framework for the assurance of artificial intelligence in government](https://www.finance.gov.au/government/public-data/data-and-digital-ministers-meeting/national-framework-assurance-artificial-intelligence-government)
 - [The AI Impact Navigator](https://www.industry.gov.au/publications/ai-impact-navigator)
 - [Voluntary AI Safety Standard](https://www.industry.gov.au/publications/voluntary-ai-safety-standard)
 
@@ -496,6 +499,7 @@ Cyber Resilience Act (CRA) - horizontal cybersecurity requirements for products 
 Data Act | EU/2023/2854 | It enables a fair distribution of the value of data by establishing clear and fair rules for accessing and using data within the European data economy. | Published | [Website](https://digital-strategy.ec.europa.eu/en/policies/data-act)| [Source](https://eur-lex.europa.eu/eli/reg/2023/2854)
 Data Governance Act | EU/2022/868 | It supports the setup and development of Common European Data Spaces in strategic domains, involving both private and public players, in sectors such as health, environment, energy, agriculture, mobility, finance, manufacturing, public administration and skills. | Published | [Website](https://digital-strategy.ec.europa.eu/en/policies/data-governance-act) | [Source](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R0868)
 Digital Market Act | EU/2022/1925 | It establishes a set of clearly defined objective criteria to identify “gatekeepers”. Gatekeepers are large digital platforms providing so called core platform services, such as for example online search engines, app stores, messenger services. Gatekeepers will have to comply with the do’s (i.e. obligations) and don’ts (i.e. prohibitions) listed in the DMA. | Published | [Website](https://digital-markets-act.ec.europa.eu/index_en) | [Source](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32022R1925)
+Digital Operational Resilience Act (DORA) | EU/2022/2554  |  IT is a regulation to strengthen the digital resilience of financial entities, and ensures that banks, insurance companies, investment firms and other financial entities can withstand, respond to, and recover from ICT (Information and Communication Technology) disruptions, such as cyberattacks or system failures. | Published | [Website](https://www.eiopa.europa.eu/digital-operational-resilience-act-dora_en) | [Source](https://eur-lex.europa.eu/eli/reg/2022/2554/oj)
 Digital Services Act | EU/2022/2026 | It regulates online intermediaries and platforms such as marketplaces, social networks, content-sharing platforms, app stores, and online travel and accommodation platforms. Its main goal is to prevent illegal and harmful activities online and the spread of disinformation. It ensures user safety, protects fundamental rights, and creates a fair and open online platform environment. | Published | [Website](https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/digital-services-act_en) | [Source](https://eur-lex.europa.eu/legal-content/EN/TXT/?toc=OJ%3AL%3A2022%3A277%3ATOC&uri=uriserv%3AOJ.L_.2022.277.01.0001.01.ENG)
 DMS Directive | EU/2019/790 | It is intended to ensure a well-functioning marketplace for copyright. | Published | [Website](https://digital-strategy.ec.europa.eu/en/policies/copyright-legislation) | [Source](https://eur-lex.europa.eu/eli/dir/2019/790/oj)
 Energy Efficiency Directive | EU/2023/1791 | It establishes ‘energy efficiency first’ as a fundamental principle of EU energy policy, giving it legal-standing for the first time. In practical terms, this means that energy efficiency must be considered by EU countries in all relevant policy and major investment decisions taken in the energy and non-energy sectors. | Published | [Website](https://energy.ec.europa.eu/topics/energy-efficiency/energy-efficiency-targets-directive-and-rules/energy-efficiency-directive_en) | [Source](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AJOL_2023_231_R_0001&qid=1695186598766)
@@ -519,7 +523,7 @@ NIS2 Directive | EU/2022/2555 |It provides legal measures to boost the overall l
 
 ### United States 🇺🇸
 
-- State laws: California ([CCPA](https://www.oag.ca.gov/privacy/ccpa) and its amendment, [CPRA](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202120220AB1490)), Virginia ([VCDPA](https://lis.virginia.gov/cgi-bin/legp604.exe?212+sum+HB2307)), Colorado ([ColoPA - Colorado SB21-190](https://leg.colorado.gov/sites/default/files/documents/2021A/bills/2021a_190_rer.pdf) and [Colorado SB21-169: Regulation prohibiting unfair discrimination in insurance](https://doi.colorado.gov/for-consumers/sb21-169-protecting-consumers-from-unfair-discrimination-in-insurance-practices)) and New York [NYC Local Law 144: Mandatory bias audits for automated employment decision tools](https://www.nyc.gov/site/dca/about/automated-employment-decision-tools.page).
+- State laws: California ([CCPA](https://www.oag.ca.gov/privacy/ccpa) and its amendment, [CPRA](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202120220AB1490)), and [SB-53 Artificial intelligence models: large developers.](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB53); Virginia ([VCDPA](https://lis.virginia.gov/cgi-bin/legp604.exe?212+sum+HB2307)); Colorado ([ColoPA - Colorado SB21-190](https://leg.colorado.gov/sites/default/files/documents/2021A/bills/2021a_190_rer.pdf) and [SB21-169: Regulation prohibiting unfair discrimination in insurance](https://doi.colorado.gov/for-consumers/sb21-169-protecting-consumers-from-unfair-discrimination-in-insurance-practices)); and New York [NYC Local Law 144: Mandatory bias audits for automated employment decision tools](https://www.nyc.gov/site/dca/about/automated-employment-decision-tools.page).
 - Specific and limited privacy data laws: [HIPAA](https://www.cdc.gov/phlp/publications/topic/hipaa.html), [FCRA](https://www.ftc.gov/enforcement/statutes/fair-credit-reporting-act), [FERPA](https://www.cdc.gov/phlp/publications/topic/ferpa.html), [GLBA](https://www.ftc.gov/tips-advice/business-center/privacy-and-security/gramm-leach-bliley-act), [ECPA](https://bja.ojp.gov/program/it/privacy-civil-liberties/authorities/statutes/1285), [COPPA](https://www.ftc.gov/enforcement/rules/rulemaking-regulatory-reform-proceedings/childrens-online-privacy-protection-rule), [VPPA](https://www.law.cornell.edu/uscode/text/18/2710) and [FTC](https://www.ftc.gov/enforcement/statutes/federal-trade-commission-act).
 - [EU-U.S. and Swiss-U.S. Privacy Shield Frameworks](https://www.privacyshield.gov/welcome) - The EU-U.S. and Swiss-U.S. Privacy Shield Frameworks were designed by the U.S. Department of Commerce and the European Commission and Swiss Administration to provide companies on both sides of the Atlantic with a mechanism to comply with data protection requirements when transferring personal data from the European Union and Switzerland to the United States in support of transatlantic commerce.
 - [REMOVING BARRIERS TO AMERICAN LEADERSHIP IN ARTIFICIAL INTELLIGENCE](https://www.whitehouse.gov/presidential-actions/2025/01/removing-barriers-to-american-leadership-in-artificial-intelligence/) - Official mandate by the President of the US to position the country at the forefront of AI innovation.
@@ -540,7 +544,7 @@ Responsible Scale Policies (RSPs) specify what level of AI capabilities an AI de
 
 ### RSP List
 
-- Anthropic: [Responsible Scaling Policy](https://www-cdn.anthropic.com/17310f6d70ae5627f55313ed067afc1a762a4068.pdf). Published: September 19, 2023 , Last updated: March 31, 2025
+- Anthropic: [Responsible Scaling Policy](https://www-cdn.anthropic.com/17310f6d70ae5627f55313ed067afc1a762a4068.pdf). Version 2.1. Fist Published: September 19, 2023 , Last Updated: March 31, 2025 (part of [Anthropic’s Transparency Hub](https://www.anthropic.com/transparency/voluntary-commitments))
 - OpenAI: [Preparedness Framework](https://cdn.openai.com/pdf/18a02b5d-6b67-4cec-ab64-68cdfbddebcd/preparedness-framework-v2.pdf). Published: April 15, 2025
 - Google DeepMind: [Frontier Safety Framework](https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/updating-the-frontier-safety-framework/Frontier%20Safety%20Framework%202.0%20(1).pdf). Published: May 17, 2024 , Last updated: February 4, 2025
 - Magic: [AGI Readiness Policy](https://magic.dev/agi-readiness-policy). Published: July 2, 2024
@@ -638,6 +642,7 @@ This section is under review and the rest of entries will be added to the table 
 
 ### Causal Inference
 
+- [AIPW: Augmented Inverse Probability Weighting](https://cran.r-project.org/web/packages/AIPW/index.html)
 - [CausalAI](https://github.com/salesforce/causalai) `Python` `Salesforce`
 - [CausalNex](https://causalnex.readthedocs.io) `Python`
 - [CausalImpact](https://cran.r-project.org/web/packages/CausalImpact) `R`
