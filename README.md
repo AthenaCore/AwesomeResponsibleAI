@@ -544,9 +544,9 @@ Responsible Scale Policies (RSPs) specify what level of AI capabilities an AI de
 
 ### RSP List
 
-- Anthropic: [Responsible Scaling Policy](https://www-cdn.anthropic.com/17310f6d70ae5627f55313ed067afc1a762a4068.pdf). Version 2.1. Fist Published: September 19, 2023 , Last Updated: March 31, 2025 (part of [Anthropic’s Transparency Hub](https://www.anthropic.com/transparency/voluntary-commitments))
+- Anthropic: [Responsible Scaling Policy](https://www-cdn.anthropic.com/17310f6d70ae5627f55313ed067afc1a762a4068.pdf). Version 2.1. Fist Published: September, 2023, Last Updated: March, 2025 (part of [Anthropic’s Transparency Hub](https://www.anthropic.com/transparency/voluntary-commitments))
 - OpenAI: [Preparedness Framework](https://cdn.openai.com/pdf/18a02b5d-6b67-4cec-ab64-68cdfbddebcd/preparedness-framework-v2.pdf). Published: April 15, 2025
-- Google DeepMind: [Frontier Safety Framework](https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/updating-the-frontier-safety-framework/Frontier%20Safety%20Framework%202.0%20(1).pdf). Published: May 17, 2024 , Last updated: February 4, 2025
+- Google DeepMind: [Frontier Safety Framework]([https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/updating-the-frontier-safety-framework/Frontier%20Safety%20Framework%202.0%20(1).pdf](https://storage.googleapis.com/deepmind-media/gemini/gemini_3_pro_fsf_report.pdf)). Version 3. First Published: May, 2024 , Last Updated: September, 2025
 - Magic: [AGI Readiness Policy](https://magic.dev/agi-readiness-policy). Published: July 2, 2024
 - NAVER: [AI Safety Framework](https://clova.ai/en/tech-blog/en-navers-ai-safety-framework-asf). Published: August 7, 2024
 - Meta: [Frontier AI Framework](https://ai.meta.com/static-resource/meta-frontier-ai-framework/). Published: February 3, 2025
@@ -1154,4 +1154,4 @@ Curto, J., et al. "Awesome Responsible Artificial Intelligence." GitHub. Last mo
 
 **MLA (Modern Language Association) 9th Edition**
 
-Curto, J., et al. "Awesome Responsible Artificial Intelligence". *GitHub*, 2025, https://github.com/AthenaCore/AwesomeResponsibleAI. Accessed 21 Nov 2025.
+Curto, J., et al. "Awesome Responsible Artificial Intelligence". *GitHub*, 2025, https://github.com/AthenaCore/AwesomeResponsibleAI. Accessed 22 Nov 2025.
