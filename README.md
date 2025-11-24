@@ -954,7 +954,6 @@ Additional benchmarks can be found [here](https://airtable.com/app83SBBFk9WO25hJ
 - [Factool](https://github.com/GAIR-NLP/factool) `Python`
 - [Foolbox](https://github.com/bethgelab/foolbox) `Python`
 - [Guardrails](https://github.com/guardrails-ai/guardrails) `Python` [Guardrails Hub](https://hub.guardrailsai.com)
-- [NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) `Python` `Amazon`
 
 ### Safety
 
@@ -962,7 +961,10 @@ Additional benchmarks can be found [here](https://airtable.com/app83SBBFk9WO25hJ
 - [Bandit](https://github.com/PyCQA/bandit) `Python`
 - [Diotra](https://github.com/usnistgov/dioptra) `Python` `NIST`
 - [Garak](https://github.com/NVIDIA/garak) `Python` `Nvidia`
+- [NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) `Python` `Amazon`
+- [Qwen3Guard](https://github.com/QwenLM/Qwen3Guard) `Python` `Alibaba`
 - [Safety CLI](https://github.com/pyupio/safety) `Python`
+- [wildguard](https://github.com/allenai/wildguard) `Python` `AllenAI`
 
 ### Security
 
