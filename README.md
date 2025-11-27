@@ -961,6 +961,7 @@ Additional benchmarks can be found [here](https://airtable.com/app83SBBFk9WO25hJ
 - [Bandit](https://github.com/PyCQA/bandit) `Python`
 - [Diotra](https://github.com/usnistgov/dioptra) `Python` `NIST`
 - [Garak](https://github.com/NVIDIA/garak) `Python` `Nvidia`
+- [Model Inversion Attack ToolBox](https://github.com/ffhibnese/Model-Inversion-Attack-ToolBox) `Python`
 - [NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) `Python` `Amazon`
 - [Qwen3Guard](https://github.com/QwenLM/Qwen3Guard) `Python` `Alibaba`
 - [Safety CLI](https://github.com/pyupio/safety) `Python`
