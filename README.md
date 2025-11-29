@@ -65,7 +65,7 @@ AI is a transformative and dual-side technology prone to reshape industries, yet
 
 ### Adversarial ML
 
-- Oprea, A., & Vassilev, A. (2023). **Adversarial machine learning: A taxonomy and terminology of attacks and mitigations**. National Institute of Standards and Technology. [Article](https://www.nist.gov/publications/adversarial-machine-learning-taxonomy-and-terminology-attacks-and-mitigations?utm_source=substack&utm_medium=email)
+- Oprea, A. et al. (2023). **Adversarial machine learning: A taxonomy and terminology of attacks and mitigations**. National Institute of Standards and Technology. [Article](https://www.nist.gov/publications/adversarial-machine-learning-taxonomy-and-terminology-attacks-and-mitigations?utm_source=substack&utm_medium=email)
 
 ### Artificial General Intelligence (AGI)
 
@@ -73,31 +73,31 @@ AI is a transformative and dual-side technology prone to reshape industries, yet
 
 ### Artificial Intelligence Governance (AI Governance)
 
-- Eisenberg, I. W., Gamboa, L., & Sherman, E. (2025). **The Unified Control Framework: Establishing a Common Foundation for Enterprise AI Governance, Risk Management and Regulatory Compliance**. arXiv preprint arXiv:2503.05937. [Article](https://arxiv.org/abs/2503.05937) [Visualization](https://ianatcredoai.github.io/UCF_Figures/) `Credo`
+- Eisenberg, I. W. et al. (2025). **The Unified Control Framework: Establishing a Common Foundation for Enterprise AI Governance, Risk Management and Regulatory Compliance**. arXiv preprint arXiv:2503.05937. [Article](https://arxiv.org/abs/2503.05937) [Visualization](https://ianatcredoai.github.io/UCF_Figures/) `Credo`
 
 ### Bias
 
-- Schwartz, R., et al. (2022). **Towards a standard for identifying and managing bias in artificial intelligence** (Vol. 3, p. 00). US Department of Commerce, National Institute of Standards and Technology. [Article](https://www.nist.gov/publications/towards-standard-identifying-and-managing-bias-artificial-intelligence) `NIST`
+- Schwartz, R. et al. (2022). **Towards a standard for identifying and managing bias in artificial intelligence** (Vol. 3, p. 00). US Department of Commerce, National Institute of Standards and Technology. [Article](https://www.nist.gov/publications/towards-standard-identifying-and-managing-bias-artificial-intelligence) `NIST`
 
 ### Challenges
 
-- D'Amour, A., et al. (2022). **Underspecification presents challenges for credibility in modern machine learning**. Journal of Machine Learning Research, 23(226), 1-61. [Article](https://arxiv.org/abs/2011.03395) `Google`
+- D'Amour, A. et al. (2022). **Underspecification presents challenges for credibility in modern machine learning**. Journal of Machine Learning Research, 23(226), 1-61. [Article](https://arxiv.org/abs/2011.03395) `Google`
 
 ### Drift
 
-- Ackerman, S., et al. (2021, June). **Machine learning model drift detection via weak data slices**. In 2021 IEEE/ACM Third International Workshop on Deep Learning for Testing and Testing for Deep Learning (DeepTest) (pp. 1-8). IEEE. [Article](https://arxiv.org/pdf/2108.05319.pdf) `IBM`
-- Ackerman, S., Raz, O., & Zalmanovici, M. (2020, February). **FreaAI: Automated extraction of data slices to test machine learning models**. In International Workshop on Engineering Dependable and Secure Machine Learning Systems (pp. 67-83). Cham: Springer International Publishing. [Article](https://arxiv.org/pdf/2108.05620.pdf) `IBM`
+- Ackerman, S. et al. (2021, June). **Machine learning model drift detection via weak data slices**. In 2021 IEEE/ACM Third International Workshop on Deep Learning for Testing and Testing for Deep Learning (DeepTest) (pp. 1-8). IEEE. [Article](https://arxiv.org/pdf/2108.05319.pdf) `IBM`
+- Ackerman, S. et al. (2020, February). **FreaAI: Automated extraction of data slices to test machine learning models**. In International Workshop on Engineering Dependable and Secure Machine Learning Systems (pp. 67-83). Cham: Springer International Publishing. [Article](https://arxiv.org/pdf/2108.05620.pdf) `IBM`
 
 ### Explainability
 
-- Dhurandhar, A., Chen, P. Y., Luss, R., Tu, C. C., Ting, P., Shanmugam, K., & Das, P. (2018). **Explanations based on the missing: Towards contrastive explanations with pertinent negatives**. Advances in neural information processing systems, 31. [Article](https://papers.nips.cc/paper/7340-explanations-based-on-the-missing-towards-contrastive-explanations-with-pertinent-negatives) `University of Michigan` `IBM Research`
-- Dhurandhar, A., Shanmugam, K., Luss, R., & Olsen, P. A. (2018). **Improving simple models with confidence profiles**. Advances in Neural Information Processing Systems, 31. [Article](https://papers.nips.cc/paper/8231-improving-simple-models-with-confidence-profiles) `IBM Research`
-- Gurumoorthy, K. S., Dhurandhar, A., Cecchi, G., & Aggarwal, C. (2019, November). **Efficient data representation by selecting prototypes with importance weights**. In 2019 IEEE International Conference on Data Mining (ICDM) (pp. 260-269). IEEE. [Article](https://arxiv.org/abs/1707.01212) `Amazon Development Center` `IBM Research`
-- Hind, M., Wei, D., Campbell, M., Codella, N. C., Dhurandhar, A., Mojsilović, A., ... & Varshney, K. R. (2019, January). **TED: Teaching AI to explain its decisions**. In Proceedings of the 2019 AAAI/ACM Conference on AI, Ethics, and Society (pp. 123-129)[Article](https://doi.org/10.1145/3306618.3314273) `IBM Research`
-- Lundberg, S. M., & Lee, S. I. (2017). **A unified approach to interpreting model predictions**. Advances in neural information processing systems, 30. [Article](http://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predictions), [Github](https://github.com/slundberg/shap) `University of Washington`
-- Luss, R., Chen, P. Y., Dhurandhar, A., Sattigeri, P., Zhang, Y., Shanmugam, K., & Tu, C. C. (2021, August). **Leveraging latent features for local explanations**. In Proceedings of the 27th ACM SIGKDD conference on knowledge discovery & data mining (pp. 1139-1149). [Article](https://arxiv.org/abs/1905.12698) `IBM Research` `University of Michigan`
-- Ribeiro, M. T., Singh, S., & Guestrin, C. (2016, August). **"Why should i trust you?" Explaining the predictions of any classifier**. In Proceedings of the 22nd ACM SIGKDD international conference on knowledge discovery and data mining (pp. 1135-1144). [Article](https://arxiv.org/abs/1602.04938), [Github](https://github.com/marcotcr/lime) `University of Washington`
-- Wei, D., Dash, S., Gao, T., & Gunluk, O. (2019, May). **Generalized linear rule models**. In International conference on machine learning (pp. 6687-6696). PMLR. [Article](http://proceedings.mlr.press/v97/wei19a.html) `IBM Research`
+- Dhurandhar, A. et al. (2018). **Explanations based on the missing: Towards contrastive explanations with pertinent negatives**. Advances in neural information processing systems, 31. [Article](https://papers.nips.cc/paper/7340-explanations-based-on-the-missing-towards-contrastive-explanations-with-pertinent-negatives) `University of Michigan` `IBM Research`
+- Dhurandhar, A. et al. (2018). **Improving simple models with confidence profiles**. Advances in Neural Information Processing Systems, 31. [Article](https://papers.nips.cc/paper/8231-improving-simple-models-with-confidence-profiles) `IBM Research`
+- Gurumoorthy, K. S. et al. (2019, November). **Efficient data representation by selecting prototypes with importance weights**. In 2019 IEEE International Conference on Data Mining (ICDM) (pp. 260-269). IEEE. [Article](https://arxiv.org/abs/1707.01212) `Amazon Development Center` `IBM Research`
+- Hind, M. et al. (2019, January). **TED: Teaching AI to explain its decisions**. In Proceedings of the 2019 AAAI/ACM Conference on AI, Ethics, and Society (pp. 123-129)[Article](https://doi.org/10.1145/3306618.3314273) `IBM Research`
+- Lundberg, S. M. et al. (2017). **A unified approach to interpreting model predictions**. Advances in neural information processing systems, 30. [Article](http://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predictions), [Github](https://github.com/slundberg/shap) `University of Washington`
+- Luss, R. et al. (2021, August). **Leveraging latent features for local explanations**. In Proceedings of the 27th ACM SIGKDD conference on knowledge discovery & data mining (pp. 1139-1149). [Article](https://arxiv.org/abs/1905.12698) `IBM Research` `University of Michigan`
+- Ribeiro, M. T. et al. (2016, August). **"Why should i trust you?" Explaining the predictions of any classifier**. In Proceedings of the 22nd ACM SIGKDD international conference on knowledge discovery and data mining (pp. 1135-1144). [Article](https://arxiv.org/abs/1602.04938), [Github](https://github.com/marcotcr/lime) `University of Washington`
+- Wei, D. et al. (2019, May). **Generalized linear rule models**. In International conference on machine learning (pp. 6687-6696). PMLR. [Article](http://proceedings.mlr.press/v97/wei19a.html) `IBM Research`
 - Contrastive Explanations Method with Monotonic Attribute Functions ([Luss et al., 2019](https://arxiv.org/abs/1905.12698))
 - Boolean Decision Rules via Column Generation (Light Edition) ([Dash et al., 2018](https://papers.nips.cc/paper/7716-boolean-decision-rules-via-column-generation)) `IBM Research`
 - Towards Robust Interpretability with Self-Explaining Neural Networks ([Alvarez-Melis et al., 2018](https://papers.nips.cc/paper/8003-towards-robust-interpretability-with-self-explaining-neural-networks)) `MIT`
@@ -106,29 +106,29 @@ An interesting curated collection of articules (updated until 2021) [A Living an
 
 ### Ethical Data Products
 
-- Gebru, T., Morgenstern, J., Vecchione, B., Vaughan, J. W., Wallach, H., Iii, H. D., & Crawford, K. (2021). **Datasheets for datasets**. Communications of the ACM, 64(12), 86-92. [Article](https://arxiv.org/abs/1803.09010) `Google`
-- Mitchell, M., Wu, S., Zaldivar, A., Barnes, P., Vasserman, L., Hutchinson, B., ... & Gebru, T. (2019, January). **Model cards for model reporting**. In Proceedings of the conference on fairness, accountability, and transparency (pp. 220-229). [Article](https://arxiv.org/abs/1810.03993) `Google`
-- Pushkarna, M., Zaldivar, A., & Kjartansson, O. (2022, June). **Data cards: Purposeful and transparent dataset documentation for responsible ai**. In Proceedings of the 2022 ACM Conference on Fairness, Accountability, and Transparency (pp. 1776-1826). [Article](https://dl.acm.org/doi/10.1145/3531146.3533231) `Google`
-- Rostamzadeh, N., Mincu, D., Roy, S., Smart, A., Wilcox, L., Pushkarna, M., ... & Heller, K. (2022, June). **Healthsheet: development of a transparency artifact for health datasets**. In Proceedings of the 2022 ACM Conference on Fairness, Accountability, and Transparency (pp. 1943-1961). [Article](https://arxiv.org/abs/2202.13028) `Google`
-- Saint-Jacques, G., Sepehri, A., Li, N., & Perisic, I. (2020). **Fairness through Experimentation: Inequality in A/B testing as an approach to responsible design**. arXiv preprint arXiv:2002.05819. [Article](https://arxiv.org/pdf/2002.05819) `LinkedIn`
+- Gebru, T. et al. (2021). **Datasheets for datasets**. Communications of the ACM, 64(12), 86-92. [Article](https://arxiv.org/abs/1803.09010) `Google`
+- Mitchell, M. et al. (2019, January). **Model cards for model reporting**. In Proceedings of the conference on fairness, accountability, and transparency (pp. 220-229). [Article](https://arxiv.org/abs/1810.03993) `Google`
+- Pushkarna, M. et al. (2022, June). **Data cards: Purposeful and transparent dataset documentation for responsible ai**. In Proceedings of the 2022 ACM Conference on Fairness, Accountability, and Transparency (pp. 1776-1826). [Article](https://dl.acm.org/doi/10.1145/3531146.3533231) `Google`
+- Rostamzadeh, N. et al. (2022, June). **Healthsheet: development of a transparency artifact for health datasets**. In Proceedings of the 2022 ACM Conference on Fairness, Accountability, and Transparency (pp. 1943-1961). [Article](https://arxiv.org/abs/2202.13028) `Google`
+- Saint-Jacques, G. et al. (2020). **Fairness through Experimentation: Inequality in A/B testing as an approach to responsible design**. arXiv preprint arXiv:2002.05819. [Article](https://arxiv.org/pdf/2002.05819) `LinkedIn`
 
 ### Evaluation (of model explanations)
 
-- Agarwal, C., et al. (2022). **Openxai: Towards a transparent evaluation of model explanations**. Advances in Neural Information Processing Systems, 35, 15784-15799. [Article](https://arxiv.org/abs/2206.11104)
-- Liesenfeld, A., and Dingemanse, M. (2024). **Rethinking Open Source Generative AI: Open-Washing and the EU AI Act**. In The 2024 ACM Conference on Fairness, Accountability, and Transparency (FAccT ’24). Rio de Janeiro, Brazil: ACM. [Article](https://pure.mpg.de/rest/items/item_3588217_2/component/file_3588218/content) [Benchmark](https://opening-up-chatgpt.github.io)
+- Agarwal, C. et al. (2022). **Openxai: Towards a transparent evaluation of model explanations**. Advances in Neural Information Processing Systems, 35, 15784-15799. [Article](https://arxiv.org/abs/2206.11104)
+- Liesenfeld, A. et al. (2024). **Rethinking Open Source Generative AI: Open-Washing and the EU AI Act**. In The 2024 ACM Conference on Fairness, Accountability, and Transparency (FAccT ’24). Rio de Janeiro, Brazil: ACM. [Article](https://pure.mpg.de/rest/items/item_3588217_2/component/file_3588218/content) [Benchmark](https://opening-up-chatgpt.github.io)
 
 ### Fairness
 
-- Caton, S., & Haas, C. (2024). **Fairness in machine learning: A survey.** ACM Computing Surveys, 56(7), 1-38. [Article](https://dl.acm.org/doi/full/10.1145/3616865)
+- Caton, S. et al. (2024). **Fairness in machine learning: A survey.** ACM Computing Surveys, 56(7), 1-38. [Article](https://dl.acm.org/doi/full/10.1145/3616865)
 - Chouldechova, A. (2017). **Fair prediction with disparate impact: A study of bias in recidivism prediction instruments**. Big data, 5(2), 153-163. [Article](https://arxiv.org/abs/1703.00056)
-- Chouldechova, A., & G'Sell, M. (2017). **Fairer and more accurate, but for whom?** arXiv preprint arXiv:1707.00046. [Article](https://arxiv.org/abs/1707.00046)
-- Coston, A., Mishler, A., Kennedy, E. H., & Chouldechova, A. (2020, January). **Counterfactual risk assessments, evaluation, and fairness**. In Proceedings of the 2020 conference on fairness, accountability, and transparency (pp. 582-593). [Article](https://arxiv.org/abs/1909.00066) 
-- Kleinberg, J., Mullainathan, S., & Raghavan, M. (2016). **Inherent trade-offs in the fair determination of risk scores**. arXiv preprint arXiv:1609.05807. [Article](https://arxiv.org/abs/1609.05807)
-- Jesus, S., Saleiro, P., Jorge, B. M., Ribeiro, R. P., Gama, J., Bizarro, P., & Ghani, R. (2024). **Aequitas Flow: Streamlining Fair ML Experimentation**. arXiv preprint arXiv:2405.05809. [Article](https://arxiv.org/abs/2405.05809)
-- Plečko, D, and Bareinboim, E. (2024), **Causal Fairness Analysis**, Foundations and Trends in Machine Learning: Vol. 17, No. 3, pp 1–238. DOI:
+- Chouldechova, A. et al. (2017). **Fairer and more accurate, but for whom?** arXiv preprint arXiv:1707.00046. [Article](https://arxiv.org/abs/1707.00046)
+- Coston, A. et al. (2020, January). **Counterfactual risk assessments, evaluation, and fairness**. In Proceedings of the 2020 conference on fairness, accountability, and transparency (pp. 582-593). [Article](https://arxiv.org/abs/1909.00066) 
+- Kleinberg, J. et al. (2016). **Inherent trade-offs in the fair determination of risk scores**. arXiv preprint arXiv:1609.05807. [Article](https://arxiv.org/abs/1609.05807)
+- Saleiro, P. et al.  (2024). **Aequitas Flow: Streamlining Fair ML Experimentation**. arXiv preprint arXiv:2405.05809. [Article](https://arxiv.org/abs/2405.05809)
+- Plečko, D. et al. (2024), **Causal Fairness Analysis**, Foundations and Trends in Machine Learning: Vol. 17, No. 3, pp 1–238. DOI:
 10.1561/2200000106. [Article and Materials](https://fairness.causalai.net)
-- Saleiro, P., Kuester, B., Hinkson, L., London, J., Stevens, A., Anisfeld, A., ... & Ghani, R. (2018). **Aequitas: A bias and fairness audit toolkit**. arXiv preprint arXiv:1811.05577. [Article](https://arxiv.org/abs/1811.05577)
-- Vasudevan, S., & Kenthapadi, K. (2020, October). **Lift: A scalable framework for measuring fairness in ml applications**. In Proceedings of the 29th ACM international conference on information & knowledge management (pp. 2773-2780). [Article](https://arxiv.org/abs/2008.07433) `LinkedIn`
+- Saleiro, P. et al. (2018). **Aequitas: A bias and fairness audit toolkit**. arXiv preprint arXiv:1811.05577. [Article](https://arxiv.org/abs/1811.05577)
+- Vasudevan, S. et al. (2020, October). **Lift: A scalable framework for measuring fairness in ml applications**. In Proceedings of the 29th ACM international conference on information & knowledge management (pp. 2773-2780). [Article](https://arxiv.org/abs/2008.07433) `LinkedIn`
 
 ### Regulation
 
@@ -149,13 +149,13 @@ An interesting curated collection of articules (updated until 2021) [A Living an
 
 ### Sustainability
 
-- Lacoste, A., Luccioni, A., Schmidt, V., & Dandres, T. (2019). **Quantifying the carbon emissions of machine learning**. arXiv preprint arXiv:1910.09700. [Article](https://arxiv.org/abs/1910.09700)
-- P. Li, J. Yang, M. A. Islam, S. Ren, (2023) **Making AI Less “Thirsty”: Uncovering and Addressing the Secret Water Footprint of AI Models**. arXiv:2304.03271 [Article](https://arxiv.org/pdf/2304.03271)
-- Parcollet, T., & Ravanelli, M. (2021). **The energy and carbon footprint of training end-to-end speech recognizers**. [Article](https://hal.archives-ouvertes.fr/hal-03190119/document)
-- Patterson, D., Gonzalez, J., Le, Q., Liang, C., Munguia, L.M., Rothchild, D., So, D., Texier, M. and Dean, J. (2021). **Carbon emissions and large neural network training**. arXiv preprint arXiv:2104.10350. [Article](https://arxiv.org/abs/2104.10350)
-- Sculley, D., Holt, G., Golovin, D., Davydov, E., Phillips, T., Ebner, D., ... & Dennison, D. (2015). **Hidden technical debt in machine learning systems**. Advances in neural information processing systems, 28. [Article](https://proceedings.neurips.cc/paper_files/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf) `Google`
-- Sculley, D., Holt, G., Golovin, D., Davydov, E., Phillips, T., Ebner, D., ... & Young, M. (2014, December). **Machine learning: The high interest credit card of technical debt**. In SE4ML: software engineering for machine learning (NIPS 2014 Workshop) (Vol. 111, p. 112). [Article](https://research.google/pubs/pub43146/) `Google`
-- Strubell, E., Ganesh, A., & McCallum, A. (2019). **Energy and policy considerations for deep learning in NLP**. arXiv preprint arXiv:1906.02243. [Article](https://arxiv.org/abs/1906.02243)
+- Lacoste, A. et al. (2019). **Quantifying the carbon emissions of machine learning**. arXiv preprint arXiv:1910.09700. [Article](https://arxiv.org/abs/1910.09700)
+- Li, P. et al. (2023) **Making AI Less “Thirsty”: Uncovering and Addressing the Secret Water Footprint of AI Models**. arXiv:2304.03271 [Article](https://arxiv.org/pdf/2304.03271)
+- Parcollet, T. et al. (2021). **The energy and carbon footprint of training end-to-end speech recognizers**. [Article](https://hal.archives-ouvertes.fr/hal-03190119/document)
+- Patterson, D. et al. (2021). **Carbon emissions and large neural network training**. arXiv preprint arXiv:2104.10350. [Article](https://arxiv.org/abs/2104.10350)
+- Sculley, D. et al. (2015). **Hidden technical debt in machine learning systems**. Advances in neural information processing systems, 28. [Article](https://proceedings.neurips.cc/paper_files/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf) `Google`
+- Sculley, D. et al. (2014, December). **Machine learning: The high interest credit card of technical debt**. In SE4ML: software engineering for machine learning (NIPS 2014 Workshop) (Vol. 111, p. 112). [Article](https://research.google/pubs/pub43146/) `Google`
+- Strubell, E. et al. (2019). **Energy and policy considerations for deep learning in NLP**. arXiv preprint arXiv:1906.02243. [Article](https://arxiv.org/abs/1906.02243)
 - Sustainable AI: AI for sustainability and the sustainability of AI ([van Wynsberghe, A. 2021](https://link.springer.com/article/10.1007/s43681-021-00043-6)). AI and Ethics, 1-6
 - Green Algorithms: Quantifying the carbon emissions of computation ([Lannelongue, L. et al. 2020](https://arxiv.org/abs/2007.07610))
 - C.-J. Wu, R. Raghavendra, U. Gupta, B. Acun, N. Ardalani, K. Maeng, G. Chang, F. Aga, J. Huang, C. Bai, M. Gschwind, A. Gupta, M. Ott, A. Melnikov, S. Candido, D. Brooks, G. Chauhan, B. Lee, H.-H. Lee,  K. Hazelwood, **Sustainable AI: Environmental implications, challenges and opportunities**. Proceedings of the 5th Conference on Machine Learning and Systems (MLSys) (2022) vol. 4, pp. 795–813. [Article](https://proceedings.mlsys.org/paper_files/paper/2022/file/462211f67c7d858f663355eff93b745e-Paper.pdf)
@@ -1157,4 +1157,4 @@ Curto, J., et al. "Awesome Responsible Artificial Intelligence." GitHub. Last mo
 
 **MLA (Modern Language Association) 9th Edition**
 
-Curto, J., et al. "Awesome Responsible Artificial Intelligence". *GitHub*, 2025, https://github.com/AthenaCore/AwesomeResponsibleAI. Accessed 22 Nov 2025.
+Curto, J., et al. "Awesome Responsible Artificial Intelligence". *GitHub*, 2025, https://github.com/AthenaCore/AwesomeResponsibleAI. Accessed 29 Nov 2025.
