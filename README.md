@@ -632,6 +632,10 @@ This section features tools and libraries that help to design, implement and man
 
 This section is under review and the rest of entries will be added to the table with extended information. 
 
+### AI Alignment
+
+- [Circuit Breakers](https://github.com/GraySwanAI/circuit-breakers) `Python`
+
 ### AI Governance
 
 - [Governance Mega-Map Application](https://github.com/The-Company-Ethos/doing-ai-governance) `The Company Ethos`
