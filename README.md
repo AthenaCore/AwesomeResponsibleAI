@@ -697,6 +697,7 @@ This section is under review and the rest of entries will be added to the table 
 - [fairness](https://cran.r-project.org/web/packages/fairness/) `R`
 - [Fairness Indicators](https://github.com/tensorflow/fairness-indicators) `Python` `Google`
 - [FairRankTune](https://kcachel.github.io/fairranktune/) `Python`
+- [Fairsight Toolkit](https://github.com/KS-Vijay/fairsight) `Python`
 - [FairPAN - Fair Predictive Adversarial Network](https://modeloriented.github.io/FairPAN/) `R`
 - [Intersectional Fairness (ISF)](https://github.com/intersectional-fairness/isf) `Python`
 - [OxonFair](https://github.com/oxfordinternetinstitute/oxonfair) `Python` `Oxford Internet Institute`
