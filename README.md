@@ -507,6 +507,9 @@ EU AI ACT | EU/2024/1689 | It assigns applications of AI to three risk categorie
 General Data Protection Regulation (GDPR) | EU/2016/679 | It strengthens individuals' fundamental rights in the digital age and facilitate business by clarifying rules for companies and public bodies in the digital single market. | Published | [Website](https://gdpr.eu/) | [Source](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32016R0679)
 NIS2 Directive | EU/2022/2555 |It provides legal measures to boost the overall level of cybersecurity in the EU by ensuring preparedness, cooperation and security cultere across the Member States. | Published | [Website](https://digital-strategy.ec.europa.eu/en/policies/nis2-directive) | [Source](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32022L2555)
 
+Additionally,
+
+- [AI Act Whistleblower Tool] (https://ai-act-whistleblower.integrityline.app)
 - [Hiroshima Process International Guiding Principles for Advanced AI system](https://digital-strategy.ec.europa.eu/en/library/hiroshima-process-international-guiding-principles-advanced-ai-system)
 
 ### Singapore 🇸🇬
