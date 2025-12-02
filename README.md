@@ -809,6 +809,7 @@ Measuring progress is fundamental to the advancement of any scientific field. As
 - [The Berkeley Function Calling Leaderboard (BFCL)](https://gorilla.cs.berkeley.edu/leaderboard.html) `Python` `Berkeley`
 - [BIG-Bench Extra Hard](https://github.com/google-deepmind/bbeh) `Python` `Deepmind`
 - [BrokenMath: A Benchmark for Sycophancy in Theorem Proving with LLMs](https://www.sycophanticmath.ai) `Python` `INSAIT` `SRILAB` `ETHZürich`
+- [Catastrophic Cyber Capabilities Benchmark (3CB)](`Python`) `Python`
 - [Chinese Safety Evaluations](https://airtable.com/appkPf0Rw2P7KCY5i/shrpXozZcomLjmBf3/tblV6tS87aqOgrDJX/viwukUaSfInPLoQun) `Concordia AI`
 - [CLUE benchmark](https://github.com/CLUEbenchmark/CLUE) `Python`
 - [DarkBench](https://github.com/smarter/DarkBench) `Python`
