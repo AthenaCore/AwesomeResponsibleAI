@@ -549,7 +549,7 @@ Responsible Scale Policies (RSPs) specify what level of AI capabilities an AI de
 
 - Anthropic: [Responsible Scaling Policy](https://www-cdn.anthropic.com/17310f6d70ae5627f55313ed067afc1a762a4068.pdf). Version 2.1. Fist Published: September, 2023, Last Updated: March, 2025 (part of [Anthropic’s Transparency Hub](https://www.anthropic.com/transparency/voluntary-commitments))
 - OpenAI: [Preparedness Framework](https://cdn.openai.com/pdf/18a02b5d-6b67-4cec-ab64-68cdfbddebcd/preparedness-framework-v2.pdf). Published: April 15, 2025
-- Google DeepMind: [Frontier Safety Framework]([https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/updating-the-frontier-safety-framework/Frontier%20Safety%20Framework%202.0%20(1).pdf](https://storage.googleapis.com/deepmind-media/gemini/gemini_3_pro_fsf_report.pdf)). Version 3. First Published: May, 2024 , Last Updated: September, 2025
+- Google DeepMind: [Frontier Safety Framework]([https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/updating-the-frontier-safety-framework/Frontier%20Safety%20Framework%202.0%20(1).pdf](https://storage.googleapis.com/deepmind-media/gemini/gemini_3_pro_fsf_report.pdf)). Version 3. First Published: May, 2024. Last Updated: September, 2025
 - Magic: [AGI Readiness Policy](https://magic.dev/agi-readiness-policy). Published: July 2, 2024
 - NAVER: [AI Safety Framework](https://clova.ai/en/tech-blog/en-navers-ai-safety-framework-asf). Published: August 7, 2024
 - Meta: [Frontier AI Framework](https://ai.meta.com/static-resource/meta-frontier-ai-framework/). Published: February 3, 2025
@@ -557,7 +557,7 @@ Responsible Scale Policies (RSPs) specify what level of AI capabilities an AI de
 - Cohere: [Secure AI Frontier Model Framework](https://cohere.com/security/the-cohere-secure-ai-frontier-model-framework-february-2025.pdf). Published: February 7, 2025
 - Microsoft: [Frontier Governance Framework](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/final/en-us/microsoft-brand/documents/Microsoft-Frontier-Governance-Framework.pdf). Published: February 8, 2025
 - Amazon: [Frontier Model Safety Framework](https://www.amazon.science/publications/amazons-frontier-model-safety-framework). Published: February 10, 2025
-- xAI: [Risk Management Framework (Draft)](https://x.ai/documents/2025.02.20-RMF-Draft.pdf). Published: February 10, 2025
+- xAI: [Risk Management Framework](https://data.x.ai/2025-08-20-xai-risk-management-framework.pdf). First Published: February 30, 2025. Last Update: August 20, 2025. 
 - Nvidia: [Frontier AI Risk Assessment](https://images.nvidia.com/content/pdf/NVIDIA-Frontier-AI-Risk-Assessment.pdf). Published: February 17, 2025
 
 ## Reports
