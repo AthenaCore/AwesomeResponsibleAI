@@ -835,7 +835,8 @@ Measuring progress is fundamental to the advancement of any scientific field. As
 - [JailBreakV-28K](https://eddyluo1232.github.io/JailBreakV28K/) `Python`
 - [JGLUE: Japanese General Language Understanding Evaluation](https://github.com/yahoojapan/JGLUE) `Python`
 - [KLUE: Korean Language Understanding Evaluation](https://github.com/KLUE-benchmark/KLUE) `Python`
-- [MalayMMLU](https://github.com/UMxYTL-AI-Labs/MalayMMLU) `Python`
+- [Machiavelli](https://aypan17.github.io/machiavelli/) `Python` `Center for AI Safety`
+- [MalayMMLU](https://github.com/UMxYTL-AI-Labs/MalayMMLU) `Python` `YTL AI Labs`
 - [Mask Benchmark](https://www.mask-benchmark.ai) `Python` `Center for AI Safety` `Scale AI`
 - [Math Science Bench](https://math.science-bench.ai)
 - [MCPBench: A Benchmark for Evaluating MCP Servers](https://github.com/modelscope/MCPBench) `Python` `ModelScope`
@@ -874,11 +875,12 @@ Measuring progress is fundamental to the advancement of any scientific field. As
 - [SnitchBench](https://github.com/t3dotgg/SnitchBench) `Python`
 - [StrongREJECT jailbreak benchmark](https://github.com/dsbowen/strong_reject) `Python`
 - [TerminalBench](https://www.tbench.ai)
-- [TextQuests](https://www.textquests.ai) `Python`
+- [TextQuests](https://www.textquests.ai) `Python` `Center for AI Safety`
 - [τ-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains](https://github.com/sierra-research/tau-bench) `Python`
 - [Yet Another Applied LLM Benchmark](https://github.com/carlini/yet-another-applied-llm-benchmark) `Python`
 - [Vending Bench](https://andonlabs.com/evals/vending-bench) `Andon Labs`
 - [Verdict](https://github.com/haizelabs/verdict) `Python`
+- [Virology Capabilities Test](https://www.virologytest.ai) `Center for AI Safety`
 - [vitals](https://vitals.tidyverse.org) `R` `Posit`
 - [VCBench](https://www.vcbench.com) [Paper](https://arxiv.org/abs/2509.14448)
 - [VLMEvalKit](https://github.com/open-compass/VLMEvalKit) `Python`
