@@ -509,7 +509,7 @@ NIS2 Directive | EU/2022/2555 |It provides legal measures to boost the overall l
 
 Additionally,
 
-- [AI Act Whistleblower Tool] (https://ai-act-whistleblower.integrityline.app)
+- [AI Act Whistleblower Tool](https://ai-act-whistleblower.integrityline.app)
 - [Hiroshima Process International Guiding Principles for Advanced AI system](https://digital-strategy.ec.europa.eu/en/library/hiroshima-process-international-guiding-principles-advanced-ai-system)
 
 ### Singapore 🇸🇬
@@ -806,12 +806,13 @@ Measuring progress is fundamental to the advancement of any scientific field. As
 - [Azure AI Evaluation](https://github.com/Azure/azure-sdk-for-python/tree/main/sdk/evaluation/azure-ai-evaluation) `Python` `Microsoft`
 - [Banana-lyzer](https://github.com/reworkd/bananalyzer) `Python`
 - [BALROG](https://github.com/balrog-ai/BALROG) `Python`
-- [The Berkeley Function Calling Leaderboard (BFCL)](https://gorilla.cs.berkeley.edu/leaderboard.html) `Python` `Berkeley`
 - [BIG-Bench Extra Hard](https://github.com/google-deepmind/bbeh) `Python` `Deepmind`
+- [BountyBench](https://bountybench.github.io/) `Python`
 - [BrokenMath: A Benchmark for Sycophancy in Theorem Proving with LLMs](https://www.sycophanticmath.ai) `Python` `INSAIT` `SRILAB` `ETHZürich`
 - [Catastrophic Cyber Capabilities Benchmark (3CB)](`Python`) `Python`
 - [Chinese Safety Evaluations](https://airtable.com/appkPf0Rw2P7KCY5i/shrpXozZcomLjmBf3/tblV6tS87aqOgrDJX/viwukUaSfInPLoQun) `Concordia AI`
 - [CLUE benchmark](https://github.com/CLUEbenchmark/CLUE) `Python`
+- [Cybench](https://cybench.github.io/) `Python`
 - [DarkBench](https://github.com/smarter/DarkBench) `Python`
 - [DeepEval](https://github.com/confident-ai/deepeval) `Python` 
 - [evals](https://github.com/openai/evals) `Python` `OpenAI`
@@ -830,6 +831,7 @@ Measuring progress is fundamental to the advancement of any scientific field. As
 - [HELM](https://github.com/stanford-crfm/helm) `Python`
 - [Humanity's Last Exam](https://lastexam.ai) `Scale AI` `Center for AI Safety`
 - [Inspect](https://ukgovernmentbeis.github.io/inspect_ai/) `Python` `UK AISI`
+- [Intercode](https://intercode-benchmark.github.io/) `Python`
 - [Intima Benchmark](https://huggingface.co/AI-companionship) [Paper](https://arxiv.org/abs/2508.09998) `HuggingFace`
 - [Jailbreakbench](https://jailbreakbench.github.io) `Python`
 - [JailBreakV-28K](https://eddyluo1232.github.io/JailBreakV28K/) `Python`
@@ -849,6 +851,7 @@ Measuring progress is fundamental to the advancement of any scientific field. As
 - [Moonshoot](https://github.com/aiverify-foundation/moonshot) `AI Verify Foundation` `Python`
 - [Multi-SWE-bench: A Multilingual Benchmark for Issue Resolving](https://multi-swe-bench.github.io/) `Python` `ByteDance`
 - [NaturalBench](https://linzhiqiu.github.io/papers/naturalbench/) `Python`
+- [NYU CFT Bench](https://nyu-llm-ctf.github.io/) `Python`
 - [Langchain](https://docs.smith.langchain.com) [Evaluations](https://docs.smith.langchain.com/evaluation) `Python`
 - [Langfuse](https://github.com/langfuse/langfuse) [Scores](https://langfuse.com/docs/scores/overview) `Python`
 - [LightEval](https://github.com/huggingface/lighteval) `HuggingFace` `Python`
@@ -864,6 +867,7 @@ Measuring progress is fundamental to the advancement of any scientific field. As
 - [Prometheus](https://github.com/prometheus-eval/prometheus) `Python`
 - [Promptfoo](https://github.com/promptfoo/promptfoo) `Python`
 - [Prophet Arena](https://www.prophetarena.co) `Sigma Research Lab @UChicago`
+- [PurpleLlama](https://github.com/meta-llama/PurpleLlama) `Python` `Meta`
 - [Pydantic Evals](https://ai.pydantic.dev/evals/#datasets-and-cases) `Python`
 - [ragas](https://github.com/explodinggradients/ragas) `Python`
 - [Remote Labor Index](https://www.remotelabor.ai) `Center for AI Safety`
@@ -876,7 +880,8 @@ Measuring progress is fundamental to the advancement of any scientific field. As
 - [StrongREJECT jailbreak benchmark](https://github.com/dsbowen/strong_reject) `Python`
 - [TerminalBench](https://www.tbench.ai)
 - [TextQuests](https://www.textquests.ai) `Python` `Center for AI Safety`
-- [τ-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains](https://github.com/sierra-research/tau-bench) `Python`
+- [The Berkeley Function Calling Leaderboard (BFCL)](https://gorilla.cs.berkeley.edu/leaderboard.html) `Python` `Berkeley`
+- [τ²-bench: Evaluating Conversational Agents in a Dual-Control Environment](https://github.com/sierra-research/tau2-bench) `Python`
 - [Yet Another Applied LLM Benchmark](https://github.com/carlini/yet-another-applied-llm-benchmark) `Python`
 - [Vending Bench](https://andonlabs.com/evals/vending-bench) `Andon Labs`
 - [Verdict](https://github.com/haizelabs/verdict) `Python`
