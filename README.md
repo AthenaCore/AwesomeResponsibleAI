@@ -596,7 +596,8 @@ This section features a curated selection of reports relevant to understand the 
 
 ### Market Analysis
 
-- [AI Safety Index](https://futureoflife.org/document/fli-ai-safety-index-2024/) - 2024 - `Future of Life`
+- AI Safety Index: [2024](https://futureoflife.org/document/fli-ai-safety-index-2024/), [2025](https://futureoflife.org/ai-safety-index-winter-2025/) `Future of Life`
+- [AI World](https://aiworld.eu)
 - [European Open Source AI Index](https://osai-index.eu)
 - [Global Index for AI Safety](https://agile-index.ai/global-index-for-ai-safety)
 - [Impact Report](https://safe.ai). Edition: [2023](https://safe.ai/work/impact-report/2023) and [2024](https://safe.ai/work/impact-report/2024) `Center for AI Safety`
@@ -660,6 +661,7 @@ This section is under review and the rest of entries will be added to the table 
 - [CIMTx: Causal Inference for Multiple Treatments with a Binary Outcome](https://cran.r-project.org/web/packages/CIMTx) `R`
 - [dagitty](https://cran.r-project.org/web/packages/dagitty) `R`
 - [DoWhy](https://github.com/Microsoft/dowhy) `Python` `Microsoft`
+- [ForCausality](https://cran.r-project.org/web/packages/ForCausality/index.html) `R`
 - [mediation: Causal Mediation Analysis](https://cran.r-project.org/web/packages/mediation) `R`
 - [MRPC](https://cran.r-project.org/web/packages/MRPC) `R`
 
@@ -921,6 +923,7 @@ Additional benchmarks can be found [here](https://airtable.com/app83SBBFk9WO25hJ
 - [NNI: Neural Network Intelligence](https://github.com/microsoft/nni) `Python` `Microsoft`
 - [performance](https://github.com/easystats/performance) `R`
 - [rliable](https://github.com/google-research/rliable) `Python` `Google`
+- [roclab: ROC-Optimizing Binary Classifiers](https://cran.r-project.org/web/packages/roclab/index.html) `R`
 - [ROCnGO](https://cran.r-project.org/web/packages/ROCnGO/index.html) `R`
 - [Silhouette](https://cran.r-project.org/web/packages/Silhouette/index.html) `R`
 - [SLmetrics](https://github.com/serkor1/SLmetrics/) `R`
@@ -944,6 +947,7 @@ Additional benchmarks can be found [here](https://airtable.com/app83SBBFk9WO25hJ
 - [diffpriv](https://github.com/brubinstein/diffpriv) `R`
 - [Diffprivlib](https://github.com/IBM/differential-privacy-library) `Python` `IBM`
 - [Discrete Gaussian for Differential Privacy](https://github.com/IBM/discrete-gaussian-differential-privacy) `Python` `IBM`
+- [FakeDataR: Privacy-Preserving Synthetic Data for 'LLM' Workflows](https://cran.r-project.org/web/packages/FakeDataR/index.html) `R`
 - [GRANDpriv](https://cran.r-project.org/web/packages/GRANDpriv/index.html) `R`
 - [JAX-Privacy](https://github.com/google-deepmind/jax_privacy) `Python` `DeepMind`
 - [Opacus](https://opacus.ai) `Python` `Facebook`
@@ -1173,4 +1177,4 @@ Curto, J., et al. "Awesome Responsible Artificial Intelligence." GitHub. Last mo
 
 **MLA (Modern Language Association) 9th Edition**
 
-Curto, J., et al. "Awesome Responsible Artificial Intelligence". *GitHub*, 2025, https://github.com/AthenaCore/AwesomeResponsibleAI. Accessed 29 Nov 2025.
+Curto, J., et al. "Awesome Responsible Artificial Intelligence". *GitHub*, 2025, https://github.com/AthenaCore/AwesomeResponsibleAI. Accessed 07 Dec 2025.
