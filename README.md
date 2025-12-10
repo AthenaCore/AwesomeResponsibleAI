@@ -984,6 +984,7 @@ Additional benchmarks can be found [here](https://airtable.com/app83SBBFk9WO25hJ
 - [Model Inversion Attack ToolBox](https://github.com/ffhibnese/Model-Inversion-Attack-ToolBox) `Python`
 - [NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) `Python` `Amazon`
 - [Qwen3Guard](https://github.com/QwenLM/Qwen3Guard) `Python` `Alibaba`
+- [RAXE](https://github.com/raxe-ai/raxe-ce) `Python`
 - [Safety CLI](https://github.com/pyupio/safety) `Python`
 - [wildguard](https://github.com/allenai/wildguard) `Python` `AllenAI`
 
