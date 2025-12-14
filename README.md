@@ -536,6 +536,8 @@ Additionally,
 ### Spain 🇪🇸
 
 - [EIDF: guía y casos de uso - Metodología aplicada de la avaluación de impacto sobre los derechos fundamentales en el diseño y desarrollo de la IA-](https://www.dpdenxarxa.cat/pluginfile.php/2468/mod_folder/content/0/CAST-APDcat-281.pdf)
+- [Modelo PIO](https://oeiac.cat/es/el-modelo-pio/) `OEIAC`
+- [Recursos para el uso de IA](https://aesia.digital.gob.es/es/guias) `AESIA`
 
 ## Responsible Scale Policies
 
