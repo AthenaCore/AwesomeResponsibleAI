@@ -57,8 +57,8 @@ AI is a transformative and dual-side technology prone to reshape industries, yet
 - [Regulations](#regulations)
 - [Responsible Scale Policies](#responsible-scale-policies)
 - [Reports](#reports)
-- [Tools](#tools)
 - [Standards](#standards)
+- [Tools](#tools)
 - [Citing this repository](#Citing-this-repository)
 
 ## Academic Research
@@ -624,6 +624,111 @@ This section features a curated selection of reports relevant to understand the 
 
 - [https://aimodelratings.com](https://aimodelratings.com)
 
+## Standards
+
+### Definition
+
+**What are standards?**
+
+Standards are **voluntary**, **consensus solutions**. They document an **agreement** on how a material, product, process, or service should be **specified**, **performed** or **delivered**. They keep people safe and **ensure things work**. They create **confidence** and provide **security** for investment.
+
+Standards can be understood as formal specifications of best practices as well. There is a growing number of standards related to AI. You can search for the latest in the [Standards Database](https://aistandardshub.org/ai-standards-search/) from [AI Standards Hub](https://aistandardshub.org).
+
+There are some open standards such as [RSL](https://rslstandard.org), focused on content licensing, that still need to gain traction in the market.
+
+###  Standards
+
+This section features a curated selection of standards related to Responsible AI.
+
+### CEN Standards
+
+The European Committee for Standardization is one of three European Standardization Organizations (together with CENELEC and ETSI) that have been officially recognized by the European Union and by the European Free Trade Association (EFTA) as being responsible for developing and defining voluntary standards at European level.
+
+Domain | Standard | Status | URL
+---|---|---|---
+Data governance and quality for AI within the European context | CEN/CLC/TR 18115:2024 | Published | [Source](https://standards.cencenelec.eu/dyn/www/f?p=CEN:110:0::::FSP_PROJECT,FSP_ORG_ID:76985,2916257&cs=1D8677F053BD6A69827AAF37B45211997)
+
+CEN AI Work programme can be found [here](https://standards.cencenelec.eu/dyn/www/f?p=205:22:0::::FSP_ORG_ID,FSP_LANG_ID:2916257,25&cs=1827B89DA69577BF3631EE2B6070F207D).
+
+### DGSI Standards
+
+The Digital Governance Standards Institute, part of the Digital Governance Council, is an accredited standards development body. The Institute enables greater trust and confidence in Canada’s digital systems through developing technology governance standards collaboratively across a range of stakeholders.
+
+Domain | Standard | Status | URL
+---|---|---|---
+Design, Implementation and Evaluation of Regulatory Sandboxes|CAN/DGSI 123|Published|[Source](https://dgc-cgn.org/product/can-dgsi-123/)
+Ethical Design and Use of Artificial Intelligence by Small and Medium Organizations|CAN/DGSI 101|Published|[Source](https://dgc-cgn.org/product/can-dgsi-101/)
+Machine Learning and AI Implementation in Research Institutions|CAN/DGSI 128|Published|[Source](https://dgc-cgn.org/product/can-dgsi-128/)
+
+### IEEE Standards
+
+Domain | Standard | Status | URL
+---|---|---|---
+IEEE Guide for an Architectural Framework for Explainable Artificial Intelligence | IEEE 2894-2024 | Published | [Source](https://standards.ieee.org/ieee/2894/11296/)
+IEEE Recommended Practice for the Quality Management of Datasets for Medical Artificial Intelligence | IEEE 2801-2022 | Published | [Source](https://store.accuristech.com/ieee/standards/ieee-2801-2022?product_id=2245612)
+IEEE Standard for Ethical Considerations in Emulated Empathy in Autonomous and Intelligent Systems | IEEE 7014-2024 | Published | [Source](https://www.iso.org/standard/74296.html)
+IEEE Standard for Robustness Testing and Evaluation of Artificial Intelligence (AI)-based Image Recognition Service | IEEE 3129-2023 | Published | [Source](https://store.accuristech.com/ieee/standards/ieee-2801-2022?product_id=2245612)
+IEEE Standard for Performance Benchmarking for Artificial Intelligence Server Systems | IEEE 2937-2022 | Published | [Source](https://store.accuristech.com/ieee/standards/ieee-2937-2022?product_id=2252712)
+IEEE Standard for Security Requirement of Privacy-Preserving Computation | IEEE 3169-2025 | Published | [Source](https://standards.ieee.org/ieee/3169/10935/)
+
+### UNE Standards
+
+[UNE](https://www.en.une.org) is Spain's only Standardisation Organisation, designated by the Spanish Ministry of Economy, Industry and Competitiveness to the European Commission. It helps Spanish organizations to keep up-to-date on all aspects related to standardisation:​​​​
+
+- Discover the new regulatory developments;
+- Take part in developing standards;
+- Learn how to integrate standardisation in your R&D&i project;
+
+Domain | Standard | Status | URL
+---|---|---|---
+Calidad del dato | UNE 0079:2023 | Published | [Source](https://tienda.aenor.com/norma-une-especificacion-une-0079-2023-n0071118)
+Gestión del dato | UNE 0078:2023 | Published | [Source](https://tienda.aenor.com/norma-une-especificacion-une-0078-2023-n0071117)
+Gobierno del dato | UNE 0077:2023 | Published | [Source](https://tienda.aenor.com/norma-une-especificacion-une-0077-2023-n0071116)
+Guía de evaluación de la Calidad de un Conjunto de Datos | UNE 0081:2023 | Published | [Source](https://tienda.aenor.com/norma-une-especificacion-une-0081-2023-n0071807)
+Guía de evaluación del Gobierno, Gestión y Gestión de la Calidad del Dato | UNE 0080:2023 | Published | [Source](https://tienda.aenor.com/norma-une-especificacion-une-0080-2023-n0071383)
+Medición del consumo energético, huella de carbono, consumo del agua y rendimiento de sistemas de Inteligencia Artificial | UNE 0086:2025 | Published | [Source](https://www.une.org/encuentra-tu-norma/busca-tu-norma/norma/?c=N0075012)
+
+Additional translations in Spanish can be found [here](https://tienda.aenor.com/Buscador).
+
+### ISO/IEC Standards
+
+Domain | Standard | Status | URL
+---|---|---|---
+AI Concepts and Terminology| ISO/IEC 22989:2022 Information technology — Artificial intelligence — Artificial intelligence concepts and terminology | Published | https://www.iso.org/standard/74296.html
+AI Controllabitlity | ISO/IEC CD TS 8200 Information technology — Artificial intelligence — Controllability of automated artificial intelligence systems | Published | https://www.iso.org/standard/83012.html
+AI Governance | ISO/IEC 38507:2022 Information technology — Governance of IT — Governance implications of the use of artificial intelligence by organizations | Published | https://www.iso.org/standard/56641.html
+AI Management System | ISO/IEC DIS 42001 Information technology — Artificial intelligence — Management system | Published | https://www.iso.org/standard/81230.html
+AI Impact Assessment | ISO/IEC 42005:2025 Information technology — Artificial intelligence (AI) — AI system impact assessment | Published | https://www.iso.org/standard/42005
+AI Performance | ISO/IEC TS 4213:2022 Information technology — Artificial intelligence — Assessment of machine learning classification performance | Published | https://www.iso.org/standard/79799.html
+AI Privacy | ISO/IEC AWI 27091 Cybersecurity and Privacy — Artificial Intelligence — Privacy protection | Under Development | https://www.iso.org/standard/56582.html
+AI Quality | ISO/IEC AWI TR 42106 Information technology — Artificial intelligence — Overview of differentiated benchmarking of AI system quality characteristics | Under Development | https://www.iso.org/standard/86903.html
+AI Risk Management | ISO/IEC 23894:2023 Information technology - Artificial intelligence - Guidance on risk management | Published | 	https://www.iso.org/standard/77304.html
+AI Security | ISO/IEC DIS 27090 Cybersecurity — Artificial Intelligence — Guidance for addressing security threats and failures in artificial intelligence systems | Under Development | https://www.iso.org/standard/56581.html
+AI Sustainability | ISO/IEC AWI TR 20226 Information technology — Artificial intelligence — Environmental sustainability aspects of AI systems | Published | https://www.iso.org/standard/86177.html
+AI Verification and Validation | ISO/IEC AWI TS 17847 Information technology — Artificial intelligence — Verification and validation analysis of AI systems | Under Development | https://www.iso.org/standard/85072.html
+AI Audit and Certification | ISO/IEC 42006:2025 Information technology — Artificial intelligence — Requirements for bodies providing audit and certification of artificial intelligence management systems | Published  | https://www.iso.org/standard/42006
+Biases in AI | ISO/IEC TR 24027:2021 Information technology — Artificial intelligence (AI) — Bias in AI systems and AI aided decision making | Published | https://www.iso.org/standard/77607.html
+Ethical and societal concerns | ISO/IEC TR 24368:2022 Information technology — Artificial intelligence — Overview of ethical and societal concerns | Published | https://www.iso.org/standard/78507.html
+Explainability | ISO/IEC AWI TS 6254 Information technology — Artificial intelligence — Objectives and approaches for explainability of ML models and AI systems | Under Development | https://www.iso.org/standard/82148.html
+Biases in AI | ISO/IEC CD TS 12791 Information technology — Artificial intelligence — Treatment of unwanted bias in classification and regression machine learning tasks | Published | https://www.iso.org/standard/84110.html
+Data Quality for AI/ML | ISO/IEC DIS 5259 Artificial intelligence — Data quality for analytics and machine learning (ML) (1 to 6) | Published | https://www.iso.org/standard/81088.html
+Data Lifecycle | ISO/IEC FDIS 8183 Information technology — Artificial intelligence — Data life cycle framework | Published | https://www.iso.org/standard/83002.html
+Transparency | ISO/IEC AWI 12792 Information technology — Artificial intelligence — Transparency taxonomy of AI systems | Under Development | https://www.iso.org/standard/84111.html
+Trustworthy AI | ISO/IEC TR 24028:2020 Information technology — Artificial intelligence — Overview of trustworthiness in artificial intelligence | Published | https://www.iso.org/standard/77608.html
+Synthetic Data | ISO/IEC AWI TR 42103 Information technology — Artificial intelligence — Overview of synthetic data in the context of AI systems | Under Development | https://www.iso.org/standard/86899.html
+AI Safety | ISO/IEC CD TR 5469 Artificial intelligence — Functional safety and AI systems | Published | https://www.iso.org/standard/81283.html
+Beneficial AI Systems | ISO/IEC AWI TR 21221 Information technology – Artificial intelligence – Beneficial AI systems | Under Development  | https://www.iso.org/standard/86690.html
+
+### NIST Publications
+
+| Resource     | Description      | Source              |
+| :----------- | :--------------- | :------------------------- |
+| AI RMF (Risk Management Framework) | The AI Risk Management Framework (AI RMF) is intended for voluntary use and to improve the ability to incorporate trustworthiness considerations into the design, development, use, and evaluation of AI products, services, and systems. | [Source](https://airc.nist.gov/AI_RMF_Knowledge_Base/Playbook)  |
+| AI RMF Playbook | The Playbook provides suggested actions for achieving the outcomes laid out in the AI Risk Management Framework (AI RMF) Core (Tables 1 – 4 in AI RMF 1.0). Suggestions are aligned to each sub-category within the four AI RMF functions (Govern, Map, Measure, Manage). | [Source](https://airc.nist.gov/AI_RMF_Knowledge_Base/Playbook) |
+| AI RMF Glossary | This glossary seeks to promote a shared understanding and improve communication among individuals and organizations seeking to operationalize trustworthy and responsible AI through approaches such as the NIST AI Risk Management Framework (AI RMF). | [Source](https://airc.nist.gov/AI_RMF_Knowledge_Base/Glossary) |
+
+Additional standards can be found using the [Standards Database](https://aistandardshub.org/ai-standards-search/), we recommend to review [NIST Assessing Risks and Impacts of AI (ARIA)](https://ai-challenges.nist.gov/aria), and [EU AI Act Harmonised Standards Mapping](https://ai-act-standards.com) as well. Another interesting repository for AI Governance is the [AI Governance Library](https://www.aigl.blog).
+
 ## Tools
 
 This section features tools and libraries that help to design, implement and manage AI in a responsible way.
@@ -1042,113 +1147,6 @@ For consumers:
 - [MarkLLM: An Open-Source Toolkit for LLM Watermarking](https://github.com/thu-bpm/markllm) `Python`
 - [SynthID Text](https://github.com/google-deepmind/synthid-text) `Python` `Google`
 
-## Standards
-
-### Definition
-
-**What are standards?**
-
-Standards are **voluntary**, **consensus solutions**. They document an **agreement** on how a material, product, process, or service should be **specified**, **performed** or **delivered**. They keep people safe and **ensure things work**. They create **confidence** and provide **security** for investment.
-
-Standards can be understood as formal specifications of best practices as well. There is a growing number of standards related to AI. You can search for the latest in the [Standards Database](https://aistandardshub.org/ai-standards-search/) from [AI Standards Hub](https://aistandardshub.org).
-
-There are some open standards such as [RSL](https://rslstandard.org), focused on content licensing, that still need to gain traction in the market.
-
-###  Standards
-
-This section features a curated selection of standards related to Responsible AI.
-
-### CEN Standards
-
-The European Committee for Standardization is one of three European Standardization Organizations (together with CENELEC and ETSI) that have been officially recognized by the European Union and by the European Free Trade Association (EFTA) as being responsible for developing and defining voluntary standards at European level.
-
-Domain | Standard | Status | URL
----|---|---|---
-Data governance and quality for AI within the European context | CEN/CLC/TR 18115:2024 | Published | [Source](https://standards.cencenelec.eu/dyn/www/f?p=CEN:110:0::::FSP_PROJECT,FSP_ORG_ID:76985,2916257&cs=1D8677F053BD6A69827AAF37B45211997)
-
-CEN AI Work programme can be found [here](https://standards.cencenelec.eu/dyn/www/f?p=205:22:0::::FSP_ORG_ID,FSP_LANG_ID:2916257,25&cs=1827B89DA69577BF3631EE2B6070F207D).
-
-### DGSI Standards
-
-The Digital Governance Standards Institute, part of the Digital Governance Council, is an accredited standards development body. The Institute enables greater trust and confidence in Canada’s digital systems through developing technology governance standards collaboratively across a range of stakeholders.
-
-Domain | Standard | Status | URL
----|---|---|---
-Design, Implementation and Evaluation of Regulatory Sandboxes|CAN/DGSI 123|Published|[Source](https://dgc-cgn.org/product/can-dgsi-123/)
-Ethical Design and Use of Artificial Intelligence by Small and Medium Organizations|CAN/DGSI 101|Published|[Source](https://dgc-cgn.org/product/can-dgsi-101/)
-Machine Learning and AI Implementation in Research Institutions|CAN/DGSI 128|Published|[Source](https://dgc-cgn.org/product/can-dgsi-128/)
-
-### IEEE Standards
-
-Domain | Standard | Status | URL
----|---|---|---
-IEEE Guide for an Architectural Framework for Explainable Artificial Intelligence | IEEE 2894-2024 | Published | [Source](https://standards.ieee.org/ieee/2894/11296/)
-IEEE Recommended Practice for the Quality Management of Datasets for Medical Artificial Intelligence | IEEE 2801-2022 | Published | [Source](https://store.accuristech.com/ieee/standards/ieee-2801-2022?product_id=2245612)
-IEEE Standard for Ethical Considerations in Emulated Empathy in Autonomous and Intelligent Systems | IEEE 7014-2024 | Published | [Source](https://www.iso.org/standard/74296.html)
-IEEE Standard for Robustness Testing and Evaluation of Artificial Intelligence (AI)-based Image Recognition Service | IEEE 3129-2023 | Published | [Source](https://store.accuristech.com/ieee/standards/ieee-2801-2022?product_id=2245612)
-IEEE Standard for Performance Benchmarking for Artificial Intelligence Server Systems | IEEE 2937-2022 | Published | [Source](https://store.accuristech.com/ieee/standards/ieee-2937-2022?product_id=2252712)
-IEEE Standard for Security Requirement of Privacy-Preserving Computation | IEEE 3169-2025 | Published | [Source](https://standards.ieee.org/ieee/3169/10935/)
-
-### UNE Standards
-
-[UNE](https://www.en.une.org) is Spain's only Standardisation Organisation, designated by the Spanish Ministry of Economy, Industry and Competitiveness to the European Commission. It helps Spanish organizations to keep up-to-date on all aspects related to standardisation:​​​​
-
-- Discover the new regulatory developments;
-- Take part in developing standards;
-- Learn how to integrate standardisation in your R&D&i project;
-
-Domain | Standard | Status | URL
----|---|---|---
-Calidad del dato | UNE 0079:2023 | Published | [Source](https://tienda.aenor.com/norma-une-especificacion-une-0079-2023-n0071118)
-Gestión del dato | UNE 0078:2023 | Published | [Source](https://tienda.aenor.com/norma-une-especificacion-une-0078-2023-n0071117)
-Gobierno del dato | UNE 0077:2023 | Published | [Source](https://tienda.aenor.com/norma-une-especificacion-une-0077-2023-n0071116)
-Guía de evaluación de la Calidad de un Conjunto de Datos | UNE 0081:2023 | Published | [Source](https://tienda.aenor.com/norma-une-especificacion-une-0081-2023-n0071807)
-Guía de evaluación del Gobierno, Gestión y Gestión de la Calidad del Dato | UNE 0080:2023 | Published | [Source](https://tienda.aenor.com/norma-une-especificacion-une-0080-2023-n0071383)
-Medición del consumo energético, huella de carbono, consumo del agua y rendimiento de sistemas de Inteligencia Artificial | UNE 0086:2025 | Published | [Source](https://www.une.org/encuentra-tu-norma/busca-tu-norma/norma/?c=N0075012)
-
-Additional translations in Spanish can be found [here](https://tienda.aenor.com/Buscador).
-
-### ISO/IEC Standards
-
-Domain | Standard | Status | URL
----|---|---|---
-AI Concepts and Terminology| ISO/IEC 22989:2022 Information technology — Artificial intelligence — Artificial intelligence concepts and terminology | Published | https://www.iso.org/standard/74296.html
-AI Controllabitlity | ISO/IEC CD TS 8200 Information technology — Artificial intelligence — Controllability of automated artificial intelligence systems | Published | https://www.iso.org/standard/83012.html
-AI Governance | ISO/IEC 38507:2022 Information technology — Governance of IT — Governance implications of the use of artificial intelligence by organizations | Published | https://www.iso.org/standard/56641.html
-AI Management System | ISO/IEC DIS 42001 Information technology — Artificial intelligence — Management system | Published | https://www.iso.org/standard/81230.html
-AI Impact Assessment | ISO/IEC 42005:2025 Information technology — Artificial intelligence (AI) — AI system impact assessment | Published | https://www.iso.org/standard/42005
-AI Performance | ISO/IEC TS 4213:2022 Information technology — Artificial intelligence — Assessment of machine learning classification performance | Published | https://www.iso.org/standard/79799.html
-AI Privacy | ISO/IEC AWI 27091 Cybersecurity and Privacy — Artificial Intelligence — Privacy protection | Under Development | https://www.iso.org/standard/56582.html
-AI Quality | ISO/IEC AWI TR 42106 Information technology — Artificial intelligence — Overview of differentiated benchmarking of AI system quality characteristics | Under Development | https://www.iso.org/standard/86903.html
-AI Risk Management | ISO/IEC 23894:2023 Information technology - Artificial intelligence - Guidance on risk management | Published | 	https://www.iso.org/standard/77304.html
-AI Security | ISO/IEC DIS 27090 Cybersecurity — Artificial Intelligence — Guidance for addressing security threats and failures in artificial intelligence systems | Under Development | https://www.iso.org/standard/56581.html
-AI Sustainability | ISO/IEC AWI TR 20226 Information technology — Artificial intelligence — Environmental sustainability aspects of AI systems | Published | https://www.iso.org/standard/86177.html
-AI Verification and Validation | ISO/IEC AWI TS 17847 Information technology — Artificial intelligence — Verification and validation analysis of AI systems | Under Development | https://www.iso.org/standard/85072.html
-AI Audit and Certification | ISO/IEC 42006:2025 Information technology — Artificial intelligence — Requirements for bodies providing audit and certification of artificial intelligence management systems | Published  | https://www.iso.org/standard/42006
-Biases in AI | ISO/IEC TR 24027:2021 Information technology — Artificial intelligence (AI) — Bias in AI systems and AI aided decision making | Published | https://www.iso.org/standard/77607.html
-Ethical and societal concerns | ISO/IEC TR 24368:2022 Information technology — Artificial intelligence — Overview of ethical and societal concerns | Published | https://www.iso.org/standard/78507.html
-Explainability | ISO/IEC AWI TS 6254 Information technology — Artificial intelligence — Objectives and approaches for explainability of ML models and AI systems | Under Development | https://www.iso.org/standard/82148.html
-Biases in AI | ISO/IEC CD TS 12791 Information technology — Artificial intelligence — Treatment of unwanted bias in classification and regression machine learning tasks | Published | https://www.iso.org/standard/84110.html
-Data Quality for AI/ML | ISO/IEC DIS 5259 Artificial intelligence — Data quality for analytics and machine learning (ML) (1 to 6) | Published | https://www.iso.org/standard/81088.html
-Data Lifecycle | ISO/IEC FDIS 8183 Information technology — Artificial intelligence — Data life cycle framework | Published | https://www.iso.org/standard/83002.html
-Transparency | ISO/IEC AWI 12792 Information technology — Artificial intelligence — Transparency taxonomy of AI systems | Under Development | https://www.iso.org/standard/84111.html
-Trustworthy AI | ISO/IEC TR 24028:2020 Information technology — Artificial intelligence — Overview of trustworthiness in artificial intelligence | Published | https://www.iso.org/standard/77608.html
-Synthetic Data | ISO/IEC AWI TR 42103 Information technology — Artificial intelligence — Overview of synthetic data in the context of AI systems | Under Development | https://www.iso.org/standard/86899.html
-AI Safety | ISO/IEC CD TR 5469 Artificial intelligence — Functional safety and AI systems | Published | https://www.iso.org/standard/81283.html
-Beneficial AI Systems | ISO/IEC AWI TR 21221 Information technology – Artificial intelligence – Beneficial AI systems | Under Development  | https://www.iso.org/standard/86690.html
-
-### NIST Publications
-
-| Resource     | Description      | Source              |
-| :----------- | :--------------- | :------------------------- |
-| AI RMF (Risk Management Framework) | The AI Risk Management Framework (AI RMF) is intended for voluntary use and to improve the ability to incorporate trustworthiness considerations into the design, development, use, and evaluation of AI products, services, and systems. | [Source](https://airc.nist.gov/AI_RMF_Knowledge_Base/Playbook)  |
-| AI RMF Playbook | The Playbook provides suggested actions for achieving the outcomes laid out in the AI Risk Management Framework (AI RMF) Core (Tables 1 – 4 in AI RMF 1.0). Suggestions are aligned to each sub-category within the four AI RMF functions (Govern, Map, Measure, Manage). | [Source](https://airc.nist.gov/AI_RMF_Knowledge_Base/Playbook) |
-| AI RMF Glossary | This glossary seeks to promote a shared understanding and improve communication among individuals and organizations seeking to operationalize trustworthy and responsible AI through approaches such as the NIST AI Risk Management Framework (AI RMF). | [Source](https://airc.nist.gov/AI_RMF_Knowledge_Base/Glossary) |
-
-Additional standards can be found using the [Standards Database](https://aistandardshub.org/ai-standards-search/) and we recommend to review [NIST Assessing Risks and Impacts of AI (ARIA)](https://ai-challenges.nist.gov/aria) as well. 
-
-Another interesting repository for AI Governance is the [AI Governance Library](https://www.aigl.blog).
-
 ## Citing this repository
 
 Contributors with over 50 edits can be named coauthors in the citation of visible names. Otherwise, all contributors with fewer than 50 edits are included under "et al."
@@ -1180,4 +1178,4 @@ Curto, J., et al. "Awesome Responsible Artificial Intelligence." GitHub. Last mo
 
 **MLA (Modern Language Association) 9th Edition**
 
-Curto, J., et al. "Awesome Responsible Artificial Intelligence". *GitHub*, 2025, https://github.com/AthenaCore/AwesomeResponsibleAI. Accessed 07 Dec 2025.
+Curto, J., et al. "Awesome Responsible Artificial Intelligence". *GitHub*, 2025, https://github.com/AthenaCore/AwesomeResponsibleAI. Accessed 17 Dec 2025.
