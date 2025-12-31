@@ -958,6 +958,7 @@ Measuring progress is fundamental to the advancement of any scientific field. As
 - [MLPerf Training Benchmark](https://mlcommons.org/benchmarks/training/) `Training`
 - [MMMU](https://github.com/MMMU-Benchmark/MMMU) `Apple` `Python`
 - [Moonshoot](https://github.com/aiverify-foundation/moonshot) `AI Verify Foundation` `Python`
+- [MoReBench](https://morebench.github.io) `Python`
 - [Multi-SWE-bench: A Multilingual Benchmark for Issue Resolving](https://multi-swe-bench.github.io/) `Python` `ByteDance`
 - [NaturalBench](https://linzhiqiu.github.io/papers/naturalbench/) `Python`
 - [NYU CFT Bench](https://nyu-llm-ctf.github.io/) `Python`
