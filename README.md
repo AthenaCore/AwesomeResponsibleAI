@@ -88,7 +88,7 @@ AI is a transformative and dual-side technology prone to reshape industries, yet
 - Ackerman, S. et al. (2021, June). **Machine learning model drift detection via weak data slices**. In 2021 IEEE/ACM Third International Workshop on Deep Learning for Testing and Testing for Deep Learning (DeepTest) (pp. 1-8). IEEE. [Article](https://arxiv.org/pdf/2108.05319.pdf) `IBM`
 - Ackerman, S. et al. (2020, February). **FreaAI: Automated extraction of data slices to test machine learning models**. In International Workshop on Engineering Dependable and Secure Machine Learning Systems (pp. 67-83). Cham: Springer International Publishing. [Article](https://arxiv.org/pdf/2108.05620.pdf) `IBM`
 
-### Explainability
+### Explainability/Interpretability/Mechanical Interpretability
 
 - Dhurandhar, A. et al. (2018). **Explanations based on the missing: Towards contrastive explanations with pertinent negatives**. Advances in neural information processing systems, 31. [Article](https://papers.nips.cc/paper/7340-explanations-based-on-the-missing-towards-contrastive-explanations-with-pertinent-negatives) `University of Michigan` `IBM Research`
 - Dhurandhar, A. et al. (2018). **Improving simple models with confidence profiles**. Advances in Neural Information Processing Systems, 31. [Article](https://papers.nips.cc/paper/8231-improving-simple-models-with-confidence-profiles) `IBM Research`
@@ -103,6 +103,8 @@ AI is a transformative and dual-side technology prone to reshape industries, yet
 - Towards Robust Interpretability with Self-Explaining Neural Networks ([Alvarez-Melis et al., 2018](https://papers.nips.cc/paper/8003-towards-robust-interpretability-with-self-explaining-neural-networks)) `MIT`
 
 An interesting curated collection of articules (updated until 2021) [A Living and Curated Collection of Explainable AI Methods](https://utwente-dmb.github.io/xai-papers/#/).
+
+A shared effort can be found at [Neuronpedia](https://www.neuronpedia.org).
 
 ### Ethical Data Products
 
