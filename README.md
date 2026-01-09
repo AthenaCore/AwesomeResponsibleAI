@@ -429,6 +429,8 @@ This section features a curated selection of Responsible AI principles adopted b
 Additional:
 
 - [FAIR Principles](https://www.go-fair.org/fair-principles/) `Findability` `Accessibility` `Interoperability` `Reuse`
+- [The CARE Principles for Indigenous Data Governance](https://www.gida-global.org/care) `Data Governance`
+- [The First Nations Principles of OCAP](https://fnigc.ca/ocap-training/) `Data Governance`
 
 If you want to read on how to move from AI principles to commitments, we recommend hte article ['Getting from commitment to content in AI and data ethics: Justice and explainability'](https://www.atlanticcouncil.org/in-depth-research-reports/report/specifying-normative-content/).
 
