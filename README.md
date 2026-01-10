@@ -1071,6 +1071,7 @@ Additional benchmarks can be found [here](https://airtable.com/app83SBBFk9WO25hJ
 ### Red Teaming
 
 - [AutoDan](https://autodans.github.io/AutoDAN/) `Python`
+- [Rival AI](https://github.com/sarthakrastogi/rival) `Python`
 - [TextAttack](https://github.com/QData/TextAttack) `Python`
 
 ### Reliability Evaluation (of post hoc explanation methods and LLMs evaluations) 
@@ -1109,6 +1110,7 @@ Additional benchmarks can be found [here](https://airtable.com/app83SBBFk9WO25hJ
 - [NB Defense](https://nbdefense.ai) `Python`
 - [PyRIT](https://github.com/Azure/PyRIT) `Python` `Microsoft`
 - [Rebuff Playground](https://www.rebuff.ai/playground) `Python`
+- [Resk-LLM](https://github.com/Resk-Security/Resk-LLM) `Python`
 - [Turing Data Safe Haven](https://github.com/alan-turing-institute/data-safe-haven) `Python` `The Alan Turing Institute`
 
 For consumers:
