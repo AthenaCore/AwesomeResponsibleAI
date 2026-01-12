@@ -476,6 +476,8 @@ Regulations are requirements established by governments.
 - [The AI Impact Navigator](https://www.industry.gov.au/publications/ai-impact-navigator)
 - [Voluntary AI Safety Standard](https://www.industry.gov.au/publications/voluntary-ai-safety-standard)
 
+Additionally, we recommend this [comprehensive, community-maintained index of Australian AI Security standards, policies, frameworks, and guidance](https://github.com/Benjamin-KY/Australian-AI-Security).
+
 ### Canada 🇨🇦
 
 - [Algorithmic Impact Assessment tool](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/algorithmic-impact-assessment.html)
