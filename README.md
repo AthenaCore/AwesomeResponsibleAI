@@ -1061,6 +1061,7 @@ Additional benchmarks can be found [here](https://airtable.com/app83SBBFk9WO25hJ
 - [diffpriv](https://github.com/brubinstein/diffpriv) `R`
 - [Diffprivlib](https://github.com/IBM/differential-privacy-library) `Python` `IBM`
 - [Discrete Gaussian for Differential Privacy](https://github.com/IBM/discrete-gaussian-differential-privacy) `Python` `IBM`
+- [Faker](https://pypi.org/project/Faker/) `Python`
 - [FakeDataR: Privacy-Preserving Synthetic Data for 'LLM' Workflows](https://cran.r-project.org/web/packages/FakeDataR/index.html) `R`
 - [GRANDpriv](https://cran.r-project.org/web/packages/GRANDpriv/index.html) `R`
 - [JAX-Privacy](https://github.com/google-deepmind/jax_privacy) `Python` `DeepMind`
