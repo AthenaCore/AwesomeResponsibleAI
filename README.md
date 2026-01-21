@@ -666,6 +666,14 @@ Design, Implementation and Evaluation of Regulatory Sandboxes|CAN/DGSI 123|Publi
 Ethical Design and Use of Artificial Intelligence by Small and Medium Organizations|CAN/DGSI 101|Published|[Source](https://dgc-cgn.org/product/can-dgsi-101/)
 Machine Learning and AI Implementation in Research Institutions|CAN/DGSI 128|Published|[Source](https://dgc-cgn.org/product/can-dgsi-128/)
 
+### ETSI Standards
+
+The European Telecommunications Standards Institute (ETSI) is an independent, not-for-profit, standardization organization operating in the field of information and communications.
+
+Domain | Standard | Status | URL
+---|---|---|---
+Securing Artificial Intelligence (SAI); Baseline Cyber Security Requirements for AI Models and Systems | ETSI EN 304 223 V2.1.1 (2025-12) | Published | [Source](https://www.etsi.org/deliver/etsi_en/304200_304299/304223/02.01.01_60/en_304223v020101p.pdf)
+
 ### IEEE Standards
 
 Domain | Standard | Status | URL
