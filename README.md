@@ -340,6 +340,10 @@ This section features a curated selection of institutes that research about Resp
 |---|---|---|---|---|
 | NIST AI 800-1 | Managing Misuse Risk for Dual-Use Foundation Models | Outlines voluntary best practices for identifying, measuring, and mitigating risks to public safety and national security across the AI lifecycle | Draft (second Version) | [Source](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.800-1.ipd2.pdf) |
 
+### Responsible AI Institutes
+
+ - [Canadian Centre for Responsible AI Governance](https://www.ccraig.ca)
+
 ### Research Institutes
 
 - [Ada Lovelace Institute](https://www.adalovelaceinstitute.org/) `United Kingdom`   
