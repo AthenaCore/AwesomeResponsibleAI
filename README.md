@@ -525,6 +525,8 @@ Additionally,
 ### Singapore 🇸🇬
 
 - [Singapore’s Approach to AI Governance - Verify](https://www.pdpc.gov.sg/help-and-resources/2020/01/model-ai-governance-framework)
+- [Personal Data Protection Act 2012](https://sso.agc.gov.sg/Act/PDPA2012)
+- [Protection From Online Falsehoods and Manipulation Act 2019](https://sso.agc.gov.sg/Acts-Supp/18-2019/Published/20190625?DocDate=20190625)
 
 ### South Korea 🇰🇷
 
