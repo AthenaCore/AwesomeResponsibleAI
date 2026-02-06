@@ -298,6 +298,7 @@ This section is under review and the rest of entries will be added to the table 
 - [CVE](https://www.cve.org)
 - [European Union Vulnerability Database](https://euvd.enisa.europa.eu) `Enisa`
 - [GCVE: Global CVE Allocation System](https://gcve.eu)
+- [MITRE Atlas](https://atlas.mitre.org)
 
 ## Frameworks
 
@@ -476,6 +477,7 @@ Regulations are requirements established by governments.
 ### Australia 🇦🇺
 
 - [AI and ESG](https://www.industry.gov.au/publications/ai-and-esg)
+- [Artificial intelligence impact assessment tool](https://www.digital.gov.au/ai/impact-assessment-tool)
 - [National framework for the assurance of artificial intelligence in government](https://www.finance.gov.au/government/public-data/data-and-digital-ministers-meeting/national-framework-assurance-artificial-intelligence-government)
 - [The AI Impact Navigator](https://www.industry.gov.au/publications/ai-impact-navigator)
 - [Voluntary AI Safety Standard](https://www.industry.gov.au/publications/voluntary-ai-safety-standard)
@@ -597,8 +599,12 @@ This section features a curated selection of reports relevant to understand the 
 
 ### AI Safety
 
-- [International AI Safety Report](https://assets.publishing.service.gov.uk/media/679a0c48a77d250007d313ee/International_AI_Safety_Report_2025_accessible_f.pdf) `AI Action Summit`
+- [International AI Safety Report](https://internationalaisafetyreport.org)
 - [The Singapore Consensus on Global AI Safety Research Priorities](https://aisafetypriorities.org) `SCAI`
+
+### AI Security
+
+- [GENAI Security Project - Resources Library](https://genai.owasp.org/resources/?e-filter-3b7adda-resource-item=cheat-sheets) `OWASP`
 
 ### AI Testing
 
@@ -747,7 +753,9 @@ Beneficial AI Systems | ISO/IEC AWI TR 21221 Information technology – Artifici
 | AI RMF Playbook | The Playbook provides suggested actions for achieving the outcomes laid out in the AI Risk Management Framework (AI RMF) Core (Tables 1 – 4 in AI RMF 1.0). Suggestions are aligned to each sub-category within the four AI RMF functions (Govern, Map, Measure, Manage). | [Source](https://airc.nist.gov/AI_RMF_Knowledge_Base/Playbook) |
 | AI RMF Glossary | This glossary seeks to promote a shared understanding and improve communication among individuals and organizations seeking to operationalize trustworthy and responsible AI through approaches such as the NIST AI Risk Management Framework (AI RMF). | [Source](https://airc.nist.gov/AI_RMF_Knowledge_Base/Glossary) |
 
-Additional standards can be found using the [Standards Database](https://aistandardshub.org/ai-standards-search/), we recommend to review [NIST Assessing Risks and Impacts of AI (ARIA)](https://ai-challenges.nist.gov/aria), and [EU AI Act Harmonised Standards Mapping](https://ai-act-standards.com) as well. Another interesting repository for AI Governance is the [AI Governance Library](https://www.aigl.blog).
+### Other resources
+
+Additional standards can be found using the [Standards Database](https://aistandardshub.org/ai-standards-search/) and [AIDG Hub](https://ai-standards-normes-ia.ca/en/home/standards-database), we recommend to review [NIST Assessing Risks and Impacts of AI (ARIA)](https://ai-challenges.nist.gov/aria), and [EU AI Act Harmonised Standards Mapping](https://ai-act-standards.com) as well. Another interesting repository for AI Governance is the [AI Governance Library](https://www.aigl.blog).
 
 ## Tools
 
@@ -778,6 +786,7 @@ This section is under review and the rest of entries will be added to the table 
 ### Causal Inference
 
 - [AIPW: Augmented Inverse Probability Weighting](https://cran.r-project.org/web/packages/AIPW/index.html)
+- [caugi (Causal Graph Interface)](https://cran.r-project.org/web/packages/caugi/index.html) `R`
 - [CausalAI](https://github.com/salesforce/causalai) `Python` `Salesforce`
 - [CausalNex](https://causalnex.readthedocs.io) `Python`
 - [CausalImpact](https://cran.r-project.org/web/packages/CausalImpact) `R`
@@ -1202,4 +1211,4 @@ Curto, J., et al. "Awesome Responsible Artificial Intelligence." GitHub. Last mo
 
 **MLA (Modern Language Association) 9th Edition**
 
-Curto, J., et al. "Awesome Responsible Artificial Intelligence". *GitHub*, 2026, https://github.com/AthenaCore/AwesomeResponsibleAI. Accessed 10 Jan 2026.
+Curto, J., et al. "Awesome Responsible Artificial Intelligence". *GitHub*, 2026, https://github.com/AthenaCore/AwesomeResponsibleAI. Accessed 06 Feb 2026.
