@@ -308,6 +308,7 @@ This section is under review and the rest of entries will be added to the table 
 - [Ethics & Algorithms Toolkit](http://ethicstoolkit.ai)
 - [Open Ethics Transparency Protocol (OETP)](https://openethics.ai/oetp/) `Open Ethics`
 - [RAI Toolkit](https://rai.tradewindai.com) `US Department of Defense`
+- [SHELET Protocol](https://mordechaipotash.github.io/poly-wiki-public/) — A human-AI governance framework using structured compression loops (Sense → Hypothesize → Elect → Let → Evaluate → Tighten) to maintain human sovereignty over AI decision-making systems. [Source](https://github.com/mordechaipotash/poly-wiki-public) `AI Governance` `Human-Centered AI`
 
 ## Institutes
 
