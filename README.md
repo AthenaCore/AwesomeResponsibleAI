@@ -782,6 +782,7 @@ This section is under review and the rest of entries will be added to the table 
 ### Audit
 
 - [glassalpha](https://github.com/asibic/glassalpha) `Python`
+- [MOSS](https://pypi.org/project/moss-sdk/) `Python` `TypeScript` `Rust` `Java` `C#` - Cryptographic signing for AI agents using ML-DSA-44 post-quantum signatures. Creates tamper-proof audit trails for attribution, compliance, and policy enforcement. Integrates with LangChain, LangGraph, CrewAI, AutoGen.
 
 ### Causal Inference
 
