@@ -967,7 +967,8 @@ Measuring progress is fundamental to the advancement of any scientific field. As
 - [HAL Harness](https://github.com/princeton-pli/hal-harness) `Python` `PLI`
 - [Harbor](https://harborframework.com) `Python`
 - [HELM](https://github.com/stanford-crfm/helm) `Python`
-- [Humanity's Last Exam](https://lastexam.ai) `Scale AI` `Center for AI Safety`
+- [Humanity's Last Exam (HLE)](https://lastexam.ai) `Scale AI` `Center for AI Safety`
+- [Humanity's Last Exam (HLE)-Verified](https://github.com/SKYLENAGE-AI/HLE-Verified)
 - [Inspect](https://ukgovernmentbeis.github.io/inspect_ai/) `Python` `UK AISI`
 - [Intercode](https://intercode-benchmark.github.io/) `Python`
 - [Intima Benchmark](https://huggingface.co/AI-companionship) [Paper](https://arxiv.org/abs/2508.09998) `HuggingFace`
