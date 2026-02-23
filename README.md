@@ -441,14 +441,14 @@ If you want to read on how to move from AI principles to commitments, we recomme
 
 ## Podcasts
 
-This section features podcasts that offer insightful commentary and explanations on responsible AI, AI Governance, AI Safety and machine learning interpretability.
+This section features podcasts that offer insightful commentary and explanations on Responsible AI, AI Governance, AI Safety, AI Alignment and Machine Learning Interpretability.
 
 | Podcast      | Description | Creator |
-| ------------- | ------------- | ------------- |
 | [AI Frontiers](https://podcasts.apple.com/gb/podcast/ai-frontiers/id1806906344) | A space for expert dialogue about the impact of AI. | Center for AI Safety |
 | [AI Safety Fundamentals](https://podcasts.apple.com/gb/podcast/ai-safety-fundamentals/id1687830086) | Listen to the Bluedot Impact courses content | BlueDot Impact |
 | [AI Safety Newsletter](https://podcasts.apple.com/gb/podcast/ai-safety-newsletter/id1702875110) | Narrations of the newsletter. | Center for AI Safety |
 | [Me, Myself and AI](https://podcasts.apple.com/gb/podcast/me-myself-and-ai/id1533115958) | Interviews with experts | MIT Sloan Management Review |
+| [Practical AI](https://practicalai.fm) | Practical AI is a show in which technology professionals, business people, students, enthusiasts, and expert guests engage in lively discussions about Artificial Intelligence and related topics. | Chris Benson |
 
 ## Regulations
 
