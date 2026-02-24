@@ -317,6 +317,7 @@ This section features a curated selection of institutes that research about Resp
 
 - [Beijing AISI](https://beijing.ai-safety-and-governance.institute) `China`
 - [Canada AISI](https://ised-isde.canada.ca/site/ised/en/canadian-artificial-intelligence-safety-institute) `Canada`
+- [China AI Development and Safety Network](https://ai-development-and-safety-network.cn) `China`
 - [EU AI Office](https://digital-strategy.ec.europa.eu/en/policies/ai-office) `Europe`
 - [Korea AISI](https://www.aisi.re.kr/kor) `South Korea`
 - [Singapore AISI](https://www.ntu.edu.sg/dtc) `Singapore`
@@ -960,6 +961,7 @@ Measuring progress is fundamental to the advancement of any scientific field. As
 - [FlagEval](https://github.com/flageval-baai/FlagEval) `Python` `BAAI`
 - [FBI: Finding Blindspots in LLM Evaluations with Interpretable Checklists](https://github.com/AI4Bharat/FBI) `Python`
 - [ForecastBench](https://www.forecastbench.org)
+- [ForesightSafety-Bench](https://github.com/Beijing-AISI/ForesightSafety-Bench) `Python` `Beijing AISI`
 - [FrontierMath](https://epoch.ai/frontiermath)
 - [Geekbench AI](https://www.geekbench.com/ai/)
 - [GDPval](https://huggingface.co/datasets/openai/gdpval) [Paper](https://cdn.openai.com/pdf/d5eb7428-c4e9-4a33-bd86-86dd4bcf12ce/GDPval.pdf) `OpenAI`
@@ -978,6 +980,7 @@ Measuring progress is fundamental to the advancement of any scientific field. As
 - [JailBreakV-28K](https://eddyluo1232.github.io/JailBreakV28K/) `Python`
 - [JGLUE: Japanese General Language Understanding Evaluation](https://github.com/yahoojapan/JGLUE) `Python`
 - [KLUE: Korean Language Understanding Evaluation](https://github.com/KLUE-benchmark/KLUE) `Python`
+- [LABBench2](https://lab-bench.ai) `Python` `Edison`
 - [Machiavelli](https://aypan17.github.io/machiavelli/) `Python` `Center for AI Safety`
 - [MalayMMLU](https://github.com/UMxYTL-AI-Labs/MalayMMLU) `Python` `YTL AI Labs`
 - [Mask Benchmark](https://www.mask-benchmark.ai) `Python` `Center for AI Safety` `Scale AI`
