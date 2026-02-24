@@ -690,7 +690,7 @@ Securing Artificial Intelligence (SAI); Baseline Cyber Security Requirements for
 Securing Artificial Intelligence (SAI); AI Threat Ontology | ETSI GR SAI 001 V1.1.1 (2022-01) | Published | [Source]()
 Securing Artificial Intelligence (SAI); Explicability and transparency of AI processing |  ETSI GR SAI 007 V1.1.1 (2023-03)| Published | [Source](https://www.etsi.org/deliver/etsi_gr/SAI/001_099/007/01.01.01_60/gr_SAI007v010101p.pdf)
 Securing Artificial Intelligence (SAI); Artificial Intelligence Computing Platform Security Framework | ETSI GR SAI 009 V1.1.1 (2023-02) | Published | [Source](https://www.etsi.org/deliver/etsi_gr/SAI/001_099/009/01.01.01_60/gr_SAI009v010101p.pdf)
-Securing ArtificiaI Intelligence (SAI);The role of hardware in security of AI | ETSI GR SAI 006 V1.1.1 (2022-03) | Published | [Source}(https://www.etsi.org/deliver/etsi_gr/SAI/001_099/006/01.01.01_60/gr_SAI006v010101p.pdf)
+Securing ArtificiaI Intelligence (SAI);The role of hardware in security of AI | ETSI GR SAI 006 V1.1.1 (2022-03) | Published | [Source](https://www.etsi.org/deliver/etsi_gr/SAI/001_099/006/01.01.01_60/gr_SAI006v010101p.pdf)
 
 ### IEEE Standards
 
