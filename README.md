@@ -819,6 +819,10 @@ This section is under review and the rest of entries will be added to the table 
 
 - [DvC](https://dvc.org)
 
+### Disclosure
+
+- [Open Ethics Label](https://openethics.ai/label/)
+
 ### Drift
 
 - [Alibi Detect](https://github.com/SeldonIO/alibi-detect) `Python`
