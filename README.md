@@ -265,6 +265,7 @@ This section features a curated selection of data sets.
 - [Huggingface Data Sets](https://huggingface.co/datasets)
 - [The Stack](https://www.bigcode-project.org/docs/about/the-stack/)
 - [Open Ethics Data Passport](https://openethics.ai/oedp/) `Open Ethics`
+- [AI Displacement Tracker](https://github.com/noahaust2/ai-displacement-tracker) - An open-source dataset tracking 14 AI displacement mechanisms across 5 categories (Labor, Creative, Cognitive, Social, Institutional) with structured JSON data, licensed under CC BY 4.0.
 
 If you are looking for public data sets for your project, this is a [curated collection](https://github.com/awesomedata/awesome-public-datasets).
 
