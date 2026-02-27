@@ -693,6 +693,10 @@ Securing Artificial Intelligence (SAI); Artificial Intelligence Computing Platfo
 Securing ArtificiaI Intelligence (SAI);The role of hardware in security of AI | ETSI GR SAI 006 V1.1.1 (2022-03) | Published | [Source](https://www.etsi.org/deliver/etsi_gr/SAI/001_099/006/01.01.01_60/gr_SAI006v010101p.pdf)
 Securing Artificial Intelligence TC (SAI);Privacy aspects of AI/ML systems | ETSI TR 104 225 V1.1.1 (2024-04) | Published | [Source](https://www.etsi.org/deliver/etsi_tr/104200_104299/104225/01.01.01_60/tr_104225v010101p.pdf)
 Securing Artificial Intelligence (SAI); Explicability and transparency of AI processing | ETSI TS 104 224 V1.1.1 (2025-03) | Published | [Source](https://www.etsi.org/deliver/etsi_ts/104200_104299/104224/01.01.01_60/ts_104224v010101p.pdf)
+Methods for Testing & Specification (MTS); AI Testing; Guidelines for Documentation of AI-enabled Systems | ETSI TR 104 119 V1.1.1 (2025-09) | Published | [Source](https://www.etsi.org/deliver/etsi_tr/104100_104199/104119/01.01.01_60/tr_104119v010101p.pdf)
+Securing Artificial Intelligence;Security Testing of AI | ETSI TR 104 066 V1.1.1 (2024-07) | Published | [Source](https://www.etsi.org/deliver/etsi_tr/104000_104099/104066/01.01.01_60/tr_104066v010101p.pdf)
+Securing Artificial Intelligence (SAI);Baseline Cyber Security Requirements for AI Models and Systems | ETSI TS 104 223 V1.1.1 (2025-04) | Published | [Source](https://www.etsi.org/deliver/etsi_ts/104200_104299/104223/01.01.01_60/ts_104223v010101p.pdf)
+Securing Artificial Intelligence (SAI);Baseline Cyber Security Requirements for AI Models and Systems|  ETSI EN 304 223 V2.1.1 (2025-12)| Published | [Source](https://www.etsi.org/deliver/etsi_en/304200_304299/304223/02.01.01_60/en_304223v020101p.pdf)
 
 ### IEEE Standards
 
