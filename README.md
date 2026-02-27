@@ -74,6 +74,7 @@ AI is a transformative and dual-side technology prone to reshape industries, yet
 ### Artificial Intelligence Governance (AI Governance)
 
 - Eisenberg, I. W. et al. (2025). **The Unified Control Framework: Establishing a Common Foundation for Enterprise AI Governance, Risk Management and Regulatory Compliance**. arXiv preprint arXiv:2503.05937. [Article](https://arxiv.org/abs/2503.05937) [Visualization](https://ianatcredoai.github.io/UCF_Figures/) `Credo`
+- Bagehorn, F. et al. (2025). **AI Risk Atlas: Taxonomy and Tooling for Navigating AI Risks and Resources**. arXiv preprint arXiv:2503.05780. [Article](https://arxiv.org/abs/2503.05780) `IBM`
 
 ### Bias
 
@@ -790,6 +791,7 @@ This section is under review and the rest of entries will be added to the table 
 ### AI Governance
 
 - [Governance Mega-Map Application](https://github.com/The-Company-Ethos/doing-ai-governance) `The Company Ethos`
+- [AI Atlas Nexus](https://github.com/IBM/ai-atlas-nexus) `Python` `IBM`
 
 ### Audit
 
