@@ -1064,6 +1064,7 @@ Additional benchmarks can be found [here](https://airtable.com/app83SBBFk9WO25hJ
 ### LLM Regulation Compliance
 
 - [COMPL-AI](https://compl-ai.org) `Python` `ETH Zurich` `Insait` `LaticeFlow AI`
+- [AIR Blackbox](https://github.com/airblackbox) `Python` `AIR Blackbox` — EU AI Act compliance scanner and trust layer for AI agents. Scans code against Articles 9, 10, 11, 12, 14, and 15 with framework-specific integrations for LangChain, CrewAI, AutoGen, OpenAI, and Anthropic SDKs. Features HMAC-SHA256 audit chains, PII tokenization, consent gating, and prompt injection detection.
 
 ### Performance (& Automated ML)
 
