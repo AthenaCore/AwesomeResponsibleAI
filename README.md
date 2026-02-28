@@ -945,6 +945,9 @@ This section is under review and the rest of entries will be added to the table 
 
 Measuring progress is fundamental to the advancement of any scientific field. As benchmarks play an increasingly central role, they also grow more susceptible to distortion. Read more about it in Sing, S., et al. (2025) **The Leaderboard Illusion**. arXiv preprint [arXiv:2504.2087](https://arxiv.org/pdf/2504.20879). In addition to the problem of distursion, we must remember that this is nascent discipline as stated in Weidinger, L., et al. (2025). **Toward an evaluation science for generative AI systems**. arXiv preprint [arXiv:2503.05336](https://arxiv.org/pdf/2503.05336). Benchmarks may appear as neutral scoreboards; however, they embody more than that. Each one signifies a particular philosophy: the types of work valued, the definition of success, and what can be safely disregarded. The development of a truly effective benchmark is equally challenging and indispensable as the development of the model itself.
 
+New approaches are emerging to established protocol or methodology for conducting AI evaluations such as [PREP-Eval v1.0
+Pre-registration and REporting Protocol for AI Evaluations](https://prep-eval.github.io/prep-eval/) or [Evals-Consensus](https://evals-consensus.ai).
+
 - [AbsenceBench](https://github.com/harvey-fin/absence-bench) `Python`
 - [AIluminate](https://mlcommons.org/ailuminate/)
 - [AlignEval: Making Evals Easy, Fun, and Semi-Automated](https://aligneval.com) [Motivation](https://eugeneyan.com/writing/aligneval/)
@@ -954,6 +957,7 @@ Measuring progress is fundamental to the advancement of any scientific field. As
 - [Artificial Analysis Omniscience Index](https://artificialanalysis.ai/evaluations/omniscience) `Artificial Analysis`
 - [Autoeval](https://auto-eval.github.io) `Python`
 - [Azure AI Evaluation](https://github.com/Azure/azure-sdk-for-python/tree/main/sdk/evaluation/azure-ai-evaluation) `Python` `Microsoft`
+- [BabyReasoningBench](https://github.com/kaustubhdhole/baby-reasoning-bench) `Python`
 - [Banana-lyzer](https://github.com/reworkd/bananalyzer) `Python`
 - [BALROG](https://github.com/balrog-ai/BALROG) `Python`
 - [BIG-Bench Extra Hard](https://github.com/google-deepmind/bbeh) `Python` `Deepmind`
@@ -961,12 +965,14 @@ Measuring progress is fundamental to the advancement of any scientific field. As
 - [BrokenMath: A Benchmark for Sycophancy in Theorem Proving with LLMs](https://www.sycophanticmath.ai) `Python` `INSAIT` `SRILAB` `ETHZürich`
 - [Catastrophic Cyber Capabilities Benchmark (3CB)](`Python`) `Python`
 - [Chinese Safety Evaluations](https://airtable.com/appkPf0Rw2P7KCY5i/shrpXozZcomLjmBf3/tblV6tS87aqOgrDJX/viwukUaSfInPLoQun) `Concordia AI`
+- [CL-Bench](https://www.clbench.com) `Python`
 - [CLUE benchmark](https://github.com/CLUEbenchmark/CLUE) `Python`
 - [Cybench](https://cybench.github.io/) `Python`
 - [DarkBench](https://github.com/smarter/DarkBench) `Python`
 - [DeepEval](https://github.com/confident-ai/deepeval) `Python` 
 - [evals](https://github.com/openai/evals) `Python` `OpenAI`
 - [EvalScope](https://github.com/modelscope/evalscope) `Python`
+- [evmbench](https://paradigm.xyz/evmbench) `Python`
 - [FMBench](https://github.com/aws-samples/foundation-model-benchmarking-tool) `Python` `Amazon`
 - [FlagEval](https://github.com/flageval-baai/FlagEval) `Python` `BAAI`
 - [FBI: Finding Blindspots in LLM Evaluations with Interpretable Checklists](https://github.com/AI4Bharat/FBI) `Python`
@@ -1047,6 +1053,7 @@ Measuring progress is fundamental to the advancement of any scientific field. As
 - [Weapons of Mass Destruction Proxy (WMDP) benchmark](https://www.wmdp.ai) `Python`
 - [Werewolf Social Bench](https://werewolf.foaster.ai)
 - [WindowsAgentArena](https://github.com/microsoft/windowsagentarena) `Python` `Microsoft`
+- [XEvalAD](https://github.com/SabaFathi/XEvalAD) `Python`
 
 Additional benchmarks can be found [here](https://airtable.com/app83SBBFk9WO25hJ/shrSs3bXSx2bBDrso/tblNpnE4pzBnaC5lT?viewControls=on), the [AI Benchmarking Hub](https://epoch.ai/benchmarks) (from Epoch) compares the latest frontier AI models against each other, the [CAIS AI Dashboard](https://dashboard.safe.ai/#safety) (from the Center for AI Safety) provides their latest benchmarks (text, vision, safety and automation), and you can learn about prompt evaluations [here](https://github.com/anthropics/courses/blob/master/prompt_evaluations/README.md) (by Anthropic).
 
