@@ -697,8 +697,11 @@ Methods for Testing & Specification (MTS); AI Testing; Guidelines for Documentat
 Securing Artificial Intelligence;Security Testing of AI | ETSI TR 104 066 V1.1.1 (2024-07) | Published | [Source](https://www.etsi.org/deliver/etsi_tr/104000_104099/104066/01.01.01_60/tr_104066v010101p.pdf)
 Securing Artificial Intelligence (SAI);Baseline Cyber Security Requirements for AI Models and Systems | ETSI TS 104 223 V1.1.1 (2025-04) | Published | [Source](https://www.etsi.org/deliver/etsi_ts/104200_104299/104223/01.01.01_60/ts_104223v010101p.pdf)
 Securing Artificial Intelligence (SAI);Baseline Cyber Security Requirements for AI Models and Systems|  ETSI EN 304 223 V2.1.1 (2025-12)| Published | [Source](https://www.etsi.org/deliver/etsi_en/304200_304299/304223/02.01.01_60/en_304223v020101p.pdf)
+Securing Artificial Intelligence (SAI); AI Threat Ontology and definitions |  ETSI TS 104 050 V1.1.1 (2025-03)| Published | [Source](https://www.etsi.org/deliver/etsi_ts/104000_104099/104050/01.01.01_60/ts_104050v010101p.pdf)
 
 ### IEEE Standards
+
+The Institute of Electrical and Electronics Engineers (IEEE) is an American 501 charitable professional organization for electrical engineering, electronics engineering, and related disciplines. Today, it is a global network of more than 486,000 engineering and STEM professionals across a variety of disciplines whose core purpose is to foster technological innovation for the benefit of humanity.
 
 Domain | Standard | Status | URL
 ---|---|---|---
@@ -708,6 +711,13 @@ IEEE Standard for Ethical Considerations in Emulated Empathy in Autonomous and I
 IEEE Standard for Robustness Testing and Evaluation of Artificial Intelligence (AI)-based Image Recognition Service | IEEE 3129-2023 | Published | [Source](https://store.accuristech.com/ieee/standards/ieee-2801-2022?product_id=2245612)
 IEEE Standard for Performance Benchmarking for Artificial Intelligence Server Systems | IEEE 2937-2022 | Published | [Source](https://store.accuristech.com/ieee/standards/ieee-2937-2022?product_id=2252712)
 IEEE Standard for Security Requirement of Privacy-Preserving Computation | IEEE 3169-2025 | Published | [Source](https://standards.ieee.org/ieee/3169/10935/)
+
+### SAE Standards
+
+SAE International is community of more than 200,000 aerospace, commercial vehicle, and ground vehicle engineers and technical experts, SAE solves challenges, creates connections, and develops resources that allow us to drive industry forward.
+
+Domain | Standard | Status | URL
+---|---|---|---
 
 ### UNE Standards
 
