@@ -554,6 +554,7 @@ Additionally,
 - [EIDF: guía y casos de uso - Metodología aplicada de la avaluación de impacto sobre los derechos fundamentales en el diseño y desarrollo de la IA-](https://www.dpdenxarxa.cat/pluginfile.php/2468/mod_folder/content/0/CAST-APDcat-281.pdf)
 - [Modelo PIO](https://oeiac.cat/es/el-modelo-pio/) `OEIAC`
 - [Recursos para el uso de IA](https://aesia.digital.gob.es/es/guias) `AESIA`
+- [Registre de sistemes d'intel·ligència artificial i altres algorismes](https://registreia.administraciodigital.gencat.cat/)
 
 ## Responsible Scale Policies
 
@@ -698,6 +699,8 @@ Securing Artificial Intelligence;Security Testing of AI | ETSI TR 104 066 V1.1.1
 Securing Artificial Intelligence (SAI);Baseline Cyber Security Requirements for AI Models and Systems | ETSI TS 104 223 V1.1.1 (2025-04) | Published | [Source](https://www.etsi.org/deliver/etsi_ts/104200_104299/104223/01.01.01_60/ts_104223v010101p.pdf)
 Securing Artificial Intelligence (SAI);Baseline Cyber Security Requirements for AI Models and Systems|  ETSI EN 304 223 V2.1.1 (2025-12)| Published | [Source](https://www.etsi.org/deliver/etsi_en/304200_304299/304223/02.01.01_60/en_304223v020101p.pdf)
 Securing Artificial Intelligence (SAI); AI Threat Ontology and definitions |  ETSI TS 104 050 V1.1.1 (2025-03)| Published | [Source](https://www.etsi.org/deliver/etsi_ts/104000_104099/104050/01.01.01_60/ts_104050v010101p.pdf)
+Securing Artificial Intelligence (SAI);Traceability of AI Models | ETSI TR 104 032 V1.1.1 (2024-02) | Published | [Source](https://www.etsi.org/deliver/etsi_tr/104000_104099/104032/01.01.01_60/tr_104032v010101p.pdf)
+Methods for Testing & Specification (MTS);Continuous Auditing Based Conformity Assessment for AI-enabled systems | ETSI TS 104 008 V1.1.1 (2026-01) | Published | [Source](https://www.etsi.org/deliver/etsi_ts/104000_104099/104008/01.01.01_60/ts_104008v010101p.pdf)
 
 ### IEEE Standards
 
@@ -718,6 +721,12 @@ SAE International is community of more than 200,000 aerospace, commercial vehicl
 
 Domain | Standard | Status | URL
 ---|---|---|---
+Artificial intelligence Simulation: Best Practices | 3347 | WIP | [Source](https://www.sae.org/standards/3347-artificial-intelligence-simulation-best-practices)
+Assessment of Human Factors concerns for the development of safety-related AI-based Systems in Aviation | AIR8493 | WIP | [Source](https://www.sae.org/standards/air8493-assessment-human-factors-concerns-development-safety-related-ai-based-systems-aviation)
+Verification & Validation of AI/ML based Components & Systems in Ground Vehicles | J3321 | WIP | [Source](https://www.sae.org/standards/j3321-verification-validation-ai-ml-based-components-systems-ground-vehicles)
+AI Regulations, Standards & Applications Challenges | J3329 | WIP | [Source](https://www.sae.org/standards/j3329-ai-regulations-standards-applications-challenges)
+Managing the Development of Artificial Intelligence Software | CRB1 | Published | [source](https://www.sae.org/standards/crb1-managing-development-artificial-intelligence-software)
+Artificial Intelligence in Aeronautical Systems: Statement of Concerns | AIR6988 | Published | [Source](https://www.sae.org/standards/air6988-artificial-intelligence-aeronautical-systems-statement-concerns)
 
 ### UNE Standards
 
