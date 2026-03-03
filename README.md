@@ -345,6 +345,7 @@ This section features a curated selection of institutes that research about Resp
 ### Responsible AI Institutes
 
  - [Canadian Centre for Responsible AI Governance](https://www.ccraig.ca)
+ - [IBGIA - Instituto Brasileiro de Governança em IA](https://ibgia.org) - Brazilian nonprofit institute for AI governance, compliance, ethics, and regulation. `Brazil`
 
 ### Research Institutes
 
