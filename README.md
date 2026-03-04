@@ -702,6 +702,9 @@ Securing Artificial Intelligence (SAI);Baseline Cyber Security Requirements for 
 Securing Artificial Intelligence (SAI); AI Threat Ontology and definitions |  ETSI TS 104 050 V1.1.1 (2025-03)| Published | [Source](https://www.etsi.org/deliver/etsi_ts/104000_104099/104050/01.01.01_60/ts_104050v010101p.pdf)
 Securing Artificial Intelligence (SAI);Traceability of AI Models | ETSI TR 104 032 V1.1.1 (2024-02) | Published | [Source](https://www.etsi.org/deliver/etsi_tr/104000_104099/104032/01.01.01_60/tr_104032v010101p.pdf)
 Methods for Testing & Specification (MTS);Continuous Auditing Based Conformity Assessment for AI-enabled systems | ETSI TS 104 008 V1.1.1 (2026-01) | Published | [Source](https://www.etsi.org/deliver/etsi_ts/104000_104099/104008/01.01.01_60/ts_104008v010101p.pdf)
+Securing Artificial Intelligence (SAI); Guide to Cyber Security for AI Models and Systems | ETSI TR 104 128 V1.1.1 (2025-05) | Published | [Source](https://www.etsi.org/deliver/etsi_tr/104100_104199/104128/01.01.01_60/tr_104128v010101p.pdf)
+Securing Artificial Intelligence (SAI); Understanding and Preventing Harm from Generative AI | ETSI TR 104 159 V1.1.1 (2026-01) | Published | [Source](https://www.etsi.org/deliver/etsi_tr/104100_104199/104159/01.01.01_60/tr_104159v010101p.pdf)
+Securing Artificial Intelligence (SAI); Proofs of Concepts Framework | ETSI GR SAI 013 V1.1.1 (2023-03) | Published | [Source](https://www.etsi.org/deliver/etsi_gr/SAI/001_099/013/01.01.01_60/gr_SAI013v010101p.pdf)
 
 ### IEEE Standards
 
