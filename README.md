@@ -1226,6 +1226,11 @@ For consumers:
 - [MarkLLM: An Open-Source Toolkit for LLM Watermarking](https://github.com/thu-bpm/markllm) `Python`
 - [SynthID Text](https://github.com/google-deepmind/synthid-text) `Python` `Google`
 
+### Content Provenance
+
+- [AttestTrail](https://attesttrail.com/c2pa-api) - C2PA verification API and viewer for signer trust checks, provenance inspection, and Article 50 labeling workflows
+- [What is C2PA? The Complete Guide to Content Provenance](https://attesttrail.com/c2pa) - Technical guide to the C2PA standard and its role in content authenticity
+
 ## Citing this repository
 
 Contributors with over 50 edits can be named coauthors in the citation of visible names. Otherwise, all contributors with fewer than 50 edits are included under "et al."
