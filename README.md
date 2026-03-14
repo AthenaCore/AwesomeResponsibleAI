@@ -817,6 +817,7 @@ This section is under review and the rest of entries will be added to the table 
 ### Audit
 
 - [glassalpha](https://github.com/asibic/glassalpha) `Python`
+- [Systima Comply](https://github.com/systima-ai/comply) `TypeScript` `Systima`
 
 ### Causal Inference
 
