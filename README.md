@@ -1087,6 +1087,7 @@ Additional benchmarks can be found [here](https://airtable.com/app83SBBFk9WO25hJ
 ### LLM Regulation Compliance
 
 - [COMPL-AI](https://compl-ai.org) `Python` `ETH Zurich` `Insait` `LaticeFlow AI`
+- [Venturalitica SDK](https://github.com/Venturalitica/venturalitica-sdk) `Python` `Venturalitica`
 
 ### Performance (& Automated ML)
 
