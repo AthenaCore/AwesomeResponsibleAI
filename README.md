@@ -1203,12 +1203,17 @@ For consumers:
 
 ### Sustainability
 
+- [AI Energy Consumption Calculator](https://aienergycalculator.com)
+- [AI Energy Score](https://huggingface.co/AIEnergyScore)
 - [Azure Sustainability Calculator](https://appsource.microsoft.com/en-us/product/power-bi/coi-sustainability.sustainability_dashboard) `Microsoft`
 - [Carbon Tracker](https://github.com/lfwa/carbontracker) [Website](https://carbontracker.info) `Python`
 - [CodeCarbon](https://github.com/mlco2/codecarbon) [Website](https://codecarbon.io) `Python`
 - [Computer Progress](https://www.computerprogress.com)
 - [Eco2AI](https://github.com/sb-ai-lab/Eco2AI) `Python`
+- [Green Algorithms](https://www.green-algorithms.org)
 - [Impact Framework](https://if.greensoftware.foundation) `API`
+- [ML CO2 IMPACT](https://mlco2.github.io/impact/)
+- [The ML.ENERGY Data & Toolkit](https://ml.energy/data/) [The ML.ENERGY Leaderboard](https://ml.energy/leaderboard/)
 
 ### (RAI) Toolkit
 
