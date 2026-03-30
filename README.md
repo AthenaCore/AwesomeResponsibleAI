@@ -816,6 +816,7 @@ This section is under review and the rest of entries will be added to the table 
 
 ### Audit
 
+- [AIR Blackbox](https://github.com/airblackbox/gateway) `Python` - Open-source EU AI Act compliance scanner and runtime trust layer for Python AI agents. HMAC-SHA256 tamper-evident audit chains, PII detection, and prompt injection blocking. Trust layers for LangChain, CrewAI, AutoGen, OpenAI, Google ADK, and Claude Agent SDK. ([Website](https://airblackbox.ai) | [PyPI](https://pypi.org/project/air-blackbox/))
 - [glassalpha](https://github.com/asibic/glassalpha) `Python`
 
 ### Causal Inference
