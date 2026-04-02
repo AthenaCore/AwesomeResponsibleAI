@@ -55,7 +55,7 @@ AI is a transformative and dual-side technology prone to reshape industries, yet
 - [Principles](#principles)
 - [Podcasts](#podcasts)
 - [Regulations](#regulations)
-- [Responsible Scale Policies](#responsible-scale-policies)
+- [Responsible Scaling Policies](#responsible-scaling-policies)
 - [Reports](#reports)
 - [Standards](#standards)
 - [Tools](#tools)
@@ -557,7 +557,7 @@ Additionally,
 - [Recursos para el uso de IA](https://aesia.digital.gob.es/es/guias) `AESIA`
 - [Registre de sistemes d'intel·ligència artificial i altres algorismes](https://registreia.administraciodigital.gencat.cat/)
 
-## Responsible Scale Policies
+## Responsible Scaling Policies
 
 This section features a curated selection of responsible scale policies adopted by AI Labs and organizations developing frontier models.
 
@@ -567,7 +567,13 @@ Responsible Scale Policies (RSPs) specify what level of AI capabilities an AI de
 
 ### RSP List
 
-- Anthropic: [Responsible Scaling Policy](https://www-cdn.anthropic.com/17310f6d70ae5627f55313ed067afc1a762a4068.pdf). Version 2.1. Fist Published: September, 2023, Last Updated: March, 2025 (part of [Anthropic’s Transparency Hub](https://www.anthropic.com/transparency/voluntary-commitments))
+- Anthropic: part of [Anthropic’s Transparency Hub](https://www.anthropic.com/transparency/voluntary-commitments))
+  - [Version 3.0](https://www-cdn.anthropic.com/e670587677525f28df69b59e5fb4c22cc5461a17.pdf) and [RSP Noncompliance Reporting and
+Anti-Retaliation Policy](https://www-cdn.anthropic.com/b7a5629e40b391b2adfb4cc8c0888ac9d6bfddf6/RSP%20Noncompliance%20Reporting%20and%20Anti-Retaliation%20Policy.pdf) (effective February 24, 2026)
+  - [Version 2.2](https://www-cdn.anthropic.com/872c653b2d0501d6ab44cf87f43e1dc4853e4d37.pdf) (effective May 14, 2025)
+  - [Version 2.1](https://www-cdn.anthropic.com/17310f6d70ae5627f55313ed067afc1a762a4068.pdf) (effective March 31, 2025)
+  - [Version 2.0](https://www-cdn.anthropic.com/616dee633636e5bd309cb73aed8622e80fe47839.pdf) (effective October 15, 2024)
+  - [Version 1.0](https://www-cdn.anthropic.com/1adf000c8f675958c2ee23805d91aaade1cd4613/responsible-scaling-policy.pdf) (effective September 19, 2023)
 - OpenAI: [Preparedness Framework](https://cdn.openai.com/pdf/18a02b5d-6b67-4cec-ab64-68cdfbddebcd/preparedness-framework-v2.pdf). First Published: December, 2025. Last Updated: April, 2025
 - Google DeepMind: [Frontier Safety Framework](https://storage.googleapis.com/deepmind-media/gemini/gemini_3_pro_fsf_report.pdf). Version 3. First Published: May, 2024. Last Updated: September, 2025
 - Magic: [AGI Readiness Policy](https://magic.dev/agi-readiness-policy). Published: July 2, 2024
