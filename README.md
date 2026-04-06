@@ -803,7 +803,11 @@ Additional standards can be found using the [Standards Database](https://aistand
 This section features tools and libraries that help to design, implement and manage AI in a responsible way.
 
 | Tool | Language | Description | Creator | Status | 
-| ------------- | ------------- | ------------- | ------------- | ------------- | 
+| ------------### AI Agent Governance
+
+- [asqav](https://github.com/jagmarques/asqav-sdk) - Open-source AI agent governance SDK with quantum-safe (ML-DSA-65) signed audit trails, policy enforcement, and threat detection. Addresses EU AI Act and NIST AI RMF compliance requirements. Python, MIT license. [Web](https://asqav.com) | [Docs](https://asqav.com/docs/) | [PyPI](https://pypi.org/project/asqav/)
+
+- | ------------- | ------------- | ------------- | ------------- | 
 | [balance](https://import-balance.org) | Python | A package for balancing biased data samples | META | Active | Bias |
 | [clav](https://jbryer.github.io/clav/) | R | This package provides utilities for conducting cluster (profile) analysis with an emphasis on the validating the stability of the profiles both within a given data set as well as across data sets. | Jason Bryer | Active | Cluster Validation |
 | [smclafify](https://github.com/aws/amazon-sagemaker-clarify) | Python | Bias detection and mitigation for datasets and models | Amazon | Inactive | Bias |
