@@ -818,7 +818,13 @@ This section is under review and the rest of entries will be added to the table 
 
 ### AI Governance
 
+Licensing AI models adds new layers of complexity beyond what traditional software licenses manage. Models may have separate licenses for: (1) The code used to train the model, (2) The model weights after training, (3) The datasets used during training, and (4) The outputs generated when users interact with the model.
+
 - [Governance Mega-Map Application](https://github.com/The-Company-Ethos/doing-ai-governance) `The Company Ethos`
+
+### AI Licensing
+
+- [https://www.licenses.ai](https://www.licenses.ai)
 
 ### Audit
 
@@ -1270,4 +1276,4 @@ Curto, J., et al. "Awesome Responsible Artificial Intelligence." GitHub. Last mo
 
 **MLA (Modern Language Association) 9th Edition**
 
-Curto, J., et al. "Awesome Responsible Artificial Intelligence". *GitHub*, 2026, https://github.com/AthenaCore/AwesomeResponsibleAI. Accessed 24 Feb 2026.
+Curto, J., et al. "Awesome Responsible Artificial Intelligence". *GitHub*, 2026, https://github.com/AthenaCore/AwesomeResponsibleAI. Accessed 14 Apr 2026.
