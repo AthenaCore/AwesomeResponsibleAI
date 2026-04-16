@@ -398,6 +398,7 @@ This section features a curated selection of maturity models that can help organ
 
 This section features a curated selection of newsletters that keep you informed about this domain.
 
+- [8bitconcepts Research](https://8bitconcepts.com/) - Independent research on enterprise AI strategy, governance, accountability, and operational risk. Practical papers for executives and engineering leaders (e.g. *The Agentic Accountability Gap*, *The Guardrails Gap*, *The Hallucination Budget*).
 - [AI Frontiers](https://www.ai-frontiers.org/) `Center for AI Safety`
 - [AI Policy Perspectives](https://www.aipolicyperspectives.com)
 - [AI Policy Weekly](https://aipolicyus.substack.com)
