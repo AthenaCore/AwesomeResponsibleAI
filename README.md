@@ -188,6 +188,7 @@ This section features a curated selection of books.
 - Fourrier, C. and et all. (2024) **LLM Evaluation Guidebook**. Github Repository. [Web](https://github.com/huggingface/evaluation-guidebook) `LLM Evaluation`
 - Freiesleben, T. & Molnar, C. (2024). **Supervised Machine Learning for Science: How to stop worrying and love your black box.** [Book](https://ml-science-book.com/)
 - Huntington-Klein, N. (2012) **The effect: An introduction to research design and causality**. Chapman and Hall/CRC. [Book](https://theeffectbook.net) `Causal Inference`
+- Leveson, N. G. (2016). Engineering a safer world: Systems thinking applied to safety. MIT press. [Book](https://direct.mit.edu/books/oa-monograph/2908/Engineering-a-Safer-WorldSystems-Thinking-Applied)
 - Kamath, U. et al. (2023) **Applied Causal Inference** [Book](https://appliedcausalinference.github.io/aci_book/)
 - Matloff, N et al. (2204) **Data Science Looks at Discrimination** [Book](https://htmlpreview.github.io/?https://github.com/matloff/dsldBook/blob/main/_book/index.html) `Fairness` `R`
 - Molnar, C. (2020). **Interpretable Machine Learning**. Lulu.com. [Book](https://christophm.github.io/interpretable-ml-book/) `Explainability` `Interpretability` `Transparency` `R`
@@ -632,7 +633,7 @@ This section features a curated selection of reports relevant to understand the 
 - [Global Index for AI Safety](https://agile-index.ai/global-index-for-ai-safety)
 - [Impact Report](https://safe.ai). Edition: [2023](https://safe.ai/work/impact-report/2023) and [2024](https://safe.ai/work/impact-report/2024) `Center for AI Safety`
 - [State of AI](https://www.stateof.ai) - from 2018 up to now -
-- [The AI Index Report](https://aiindex.stanford.edu). Edition: [2017](https://hai.stanford.edu/ai-index/2017-ai-index-report), [2018](https://hai.stanford.edu/ai-index/2018-ai-index-report), [2019](https://hai.stanford.edu/ai-index/2019-ai-index-report), [2021](https://hai.stanford.edu/ai-index/2021-ai-index-report), [2022](https://hai.stanford.edu/ai-index/2022-ai-index-report), [2023](https://hai.stanford.edu/ai-index/2023-ai-index-report), [2024](https://hai.stanford.edu/ai-index/2024-ai-index-report) and [2025](https://hai.stanford.edu/ai-index/2025-ai-index-report)  `Stanford Institute for Human-Centered Artificial Intelligence`
+- [The AI Index Report](https://aiindex.stanford.edu). Edition: [2017](https://hai.stanford.edu/ai-index/2017-ai-index-report), [2018](https://hai.stanford.edu/ai-index/2018-ai-index-report), [2019](https://hai.stanford.edu/ai-index/2019-ai-index-report), [2021](https://hai.stanford.edu/ai-index/2021-ai-index-report), [2022](https://hai.stanford.edu/ai-index/2022-ai-index-report), [2023](https://hai.stanford.edu/ai-index/2023-ai-index-report), [2024](https://hai.stanford.edu/ai-index/2024-ai-index-report), [2025](https://hai.stanford.edu/ai-index/2025-ai-index-report), and [2026](https://hai.stanford.edu/ai-index/2026-ai-index-report).  `Stanford Institute for Human-Centered Artificial Intelligence`
 
 ### AI Labs
 
