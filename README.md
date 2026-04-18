@@ -830,6 +830,7 @@ Licensing AI models adds new layers of complexity beyond what traditional softwa
 ### Audit
 
 - [AIR Blackbox](https://github.com/airblackbox/gateway) `Python` - Open-source EU AI Act compliance scanner and runtime trust layer for Python AI agents. HMAC-SHA256 tamper-evident audit chains, PII detection, and prompt injection blocking. Trust layers for LangChain, CrewAI, AutoGen, OpenAI, Google ADK, and Claude Agent SDK. ([Website](https://airblackbox.ai) | [PyPI](https://pypi.org/project/air-blackbox/))
+- [Asqav](https://github.com/jagmarques/asqav-sdk) `Python` - Open-source Python SDK for AI agent audit trails, governance, and EU AI Act compliance with quantum-safe signatures. ([Website](https://asqav.com) | [PyPI](https://pypi.org/project/asqav/))
 - [glassalpha](https://github.com/asibic/glassalpha) `Python`
 - [Systima Comply](https://github.com/systima-ai/comply) `TypeScript` `Systima`
 
@@ -1257,7 +1258,7 @@ Contributors with over 50 edits can be named coauthors in the citation of visibl
   author={Josep Curto et al.},
   title={Awesome Responsible Artificial Intelligence},
   year={2026},
-  note={\url{https://github.com/AthenaCore/AwesomeResponsibleAI}}
+  note={ rl{https://github.com/AthenaCore/AwesomeResponsibleAI}}
 }
 ```
 
