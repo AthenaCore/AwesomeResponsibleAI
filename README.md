@@ -831,6 +831,7 @@ Licensing AI models adds new layers of complexity beyond what traditional softwa
 
 - [AIR Blackbox](https://github.com/airblackbox/gateway) `Python` - Open-source EU AI Act compliance scanner and runtime trust layer for Python AI agents. HMAC-SHA256 tamper-evident audit chains, PII detection, and prompt injection blocking. Trust layers for LangChain, CrewAI, AutoGen, OpenAI, Google ADK, and Claude Agent SDK. ([Website](https://airblackbox.ai) | [PyPI](https://pypi.org/project/air-blackbox/))
 - [glassalpha](https://github.com/asibic/glassalpha) `Python`
+- [semantix-ai](https://github.com/labrat-akhona/semantix-ai) `Python` - Open-source library for validating LLM outputs against plain-English intents using local NLI inference. Hash-chained JSON-LD audit certificates (tamper-evident), DSPy/LangChain/Pydantic-AI/Guardrails integrations, pytest plugin. POPIA/GDPR/EU AI Act aligned. ([Docs](https://labrat-akhona.github.io/semantix-ai/) | [PyPI](https://pypi.org/project/semantix-ai/))
 - [Systima Comply](https://github.com/systima-ai/comply) `TypeScript` `Systima`
 
 ### Causal Inference
