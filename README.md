@@ -841,12 +841,14 @@ Licensing AI models adds new layers of complexity beyond what traditional softwa
 - [CausalNex](https://causalnex.readthedocs.io) `Python`
 - [CausalImpact](https://cran.r-project.org/web/packages/CausalImpact) `R`
 - [Causalinference](https://causalinferenceinpython.org) `Python`
+- [causaldef](https://cran.r-project.org/web/packages/causaldef/index.html) `R`
 - [causalDT: Causal Distillation Trees](https://cran.r-project.org/web/packages/causalDT/index.html) `R`
 - [Causal Inference 360](https://github.com/BiomedSciAI/causallib) `Python`
 - [CausalPy](https://github.com/pymc-labs/CausalPy) `Python`
 - [CIMTx: Causal Inference for Multiple Treatments with a Binary Outcome](https://cran.r-project.org/web/packages/CIMTx) `R`
 - [dagitty](https://cran.r-project.org/web/packages/dagitty) `R`
 - [DoWhy](https://github.com/Microsoft/dowhy) `Python` `Microsoft`
+- [flexCausal](https://cran.r-project.org/web/packages/flexCausal/index.html) `R`
 - [ForCausality](https://cran.r-project.org/web/packages/ForCausality/index.html) `R`
 - [mediation: Causal Mediation Analysis](https://cran.r-project.org/web/packages/mediation) `R`
 - [MRPC](https://cran.r-project.org/web/packages/MRPC) `R`
