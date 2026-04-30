@@ -990,6 +990,7 @@ Pre-registration and REporting Protocol for AI Evaluations](https://prep-eval.gi
 
 - [AbsenceBench](https://github.com/harvey-fin/absence-bench) `Python`
 - [AIluminate](https://mlcommons.org/ailuminate/)
+- [AI Wellbeing](https://www.ai-wellbeing.org) `CAIS`
 - [AlignEval: Making Evals Easy, Fun, and Semi-Automated](https://aligneval.com) [Motivation](https://eugeneyan.com/writing/aligneval/)
 - [AlpacaEval](https://github.com/tatsu-lab/alpaca_eval) `Python`
 - [ARC AGI](https://arcprize.org/arc-agi) `Python`
