@@ -307,6 +307,7 @@ This section is under review and the rest of entries will be added to the table 
 - [Data Ethics Canvas](https://theodi.org/insights/tools/the-data-ethics-canvas-2021/) `Open Data Institute`
 - [Deon](https://deon.drivendata.org) `Python` `Drivendata`
 - [Ethics & Algorithms Toolkit](http://ethicstoolkit.ai)
+- [Made by Human](https://madebyhuman.iamjarl.com) - Self-disclosure labeling system for human-AI collaboration in creative work `Open Source`
 - [Open Ethics Transparency Protocol (OETP)](https://openethics.ai/oetp/) `Open Ethics`
 - [RAI Toolkit](https://rai.tradewindai.com) `US Department of Defense`
 
