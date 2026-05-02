@@ -192,6 +192,8 @@ This section features a curated selection of books.
 - Kamath, U. et al. (2023) **Applied Causal Inference** [Book](https://appliedcausalinference.github.io/aci_book/)
 - Matloff, N et al. (2204) **Data Science Looks at Discrimination** [Book](https://htmlpreview.github.io/?https://github.com/matloff/dsldBook/blob/main/_book/index.html) `Fairness` `R`
 - Molnar, C. (2020). **Interpretable Machine Learning**. Lulu.com. [Book](https://christophm.github.io/interpretable-ml-book/) `Explainability` `Interpretability` `Transparency` `R`
+- Tegomoh, B. (2025). The Biosecurity Handbook: Biological Security in the AI Era. [Book](biosecurityhandbook.com)
+- Tegomoh, B. (2025). The Public Health AI Handbook: Evaluating AI Tools for Public Health Practice. [Book](publichealthaihandbook.com)
 - Vizquez, S. & Kubersky, W. (2025) **The Little Book of ML Metrics**. [Book](https://github.com/NannyML/The-Little-Book-of-ML-Metrics) `ML Evaluation`
 
 ### Commercial / Propietary / Closed Access
