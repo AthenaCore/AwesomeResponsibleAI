@@ -1082,6 +1082,7 @@ Pre-registration and REporting Protocol for AI Evaluations](https://prep-eval.gi
 - [simple evals](https://github.com/openai/simple-evals) `Python` `OpenAI`
 - [SnitchBench](https://github.com/t3dotgg/SnitchBench) `Python`
 - [StrongREJECT jailbreak benchmark](https://github.com/dsbowen/strong_reject) `Python`
+- [TealTiger](https://github.com/agentguard-ai/tealtiger) `Python` `TypeScript`
 - [TerminalBench](https://www.tbench.ai)
 - [TextQuests](https://www.textquests.ai) `Python` `Center for AI Safety`
 - [The Berkeley Function Calling Leaderboard (BFCL)](https://gorilla.cs.berkeley.edu/leaderboard.html) `Python` `Berkeley`
