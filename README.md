@@ -831,6 +831,7 @@ Licensing AI models adds new layers of complexity beyond what traditional softwa
 
 ### Audit
 
+- [ai-audit-trail](https://github.com/sundsoffice-tech/ai-audit-trail) `Python` - Cryptographically verifiable audit trails for AI systems: Ed25519-signed, hash-chained Decision Receipts with EU AI Act / ISO 42001 / NIST AI RMF compliance mappings. Drop-in adapters for FastAPI, LangChain, OpenAI, Anthropic. ([PyPI](https://pypi.org/project/ai-audit-trail/))
 - [AIR Blackbox](https://github.com/airblackbox/gateway) `Python` - Open-source EU AI Act compliance scanner and runtime trust layer for Python AI agents. HMAC-SHA256 tamper-evident audit chains, PII detection, and prompt injection blocking. Trust layers for LangChain, CrewAI, AutoGen, OpenAI, Google ADK, and Claude Agent SDK. ([Website](https://airblackbox.ai) | [PyPI](https://pypi.org/project/air-blackbox/))
 - [glassalpha](https://github.com/asibic/glassalpha) `Python`
 - [Systima Comply](https://github.com/systima-ai/comply) `TypeScript` `Systima`
