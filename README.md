@@ -818,6 +818,7 @@ This section is under review and the rest of entries will be added to the table 
 ### AI Alignment
 
 - [Circuit Breakers](https://github.com/GraySwanAI/circuit-breakers) `Python`
+- [ejentum-mcp](https://github.com/ejentum/ejentum-mcp) `Node.js` - Reasoning Harness with anti-deception cognitive scaffold injection for runtime sycophancy and hallucination resistance. Pre-generation scaffold ingestion (failure pattern, executable procedure, suppression vectors, falsification test) steers the model away from validation-pressure shortcuts and authority-appeal compliance. MIT, free tier 100 calls. ([Website](https://ejentum.com))
 
 ### AI Governance
 
