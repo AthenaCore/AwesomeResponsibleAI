@@ -1288,4 +1288,4 @@ Curto, J., et al. "Awesome Responsible Artificial Intelligence." GitHub. Last mo
 
 **MLA (Modern Language Association) 9th Edition**
 
-Curto, J., et al. "Awesome Responsible Artificial Intelligence". *GitHub*, 2026, https://github.com/AthenaCore/AwesomeResponsibleAI. Accessed 14 Apr 2026.
+Curto, J., et al. "Awesome Responsible Artificial Intelligence". *GitHub*, 2026, https://github.com/AthenaCore/AwesomeResponsibleAI. Accessed 11 May 2026.
