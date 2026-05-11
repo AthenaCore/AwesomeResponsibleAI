@@ -1033,6 +1033,11 @@ Pre-registration and REporting Protocol for AI Evaluations](https://prep-eval.gi
 - [Humanity's Last Exam (HLE)-Verified](https://github.com/SKYLENAGE-AI/HLE-Verified)
 - [HybridRAG-Bench](https://junhongmit.github.io/HybridRAG-Bench/)
 - [Inspect](https://ukgovernmentbeis.github.io/inspect_ai/) `Python` `UK AISI`
+    - [Inspect Petri](https://meridianlabs-ai.github.io/inspect_petri/) `Python` `UK AISI` `Meridian Labs`
+    - [Inspect Scout](https://meridianlabs-ai.github.io/inspect_scout/) `Python` `Meridian Labs`
+    - [Inspect Flow](https://meridianlabs-ai.github.io/inspect_flow/) `Python` `Meridian Labs`
+    - [Inspect Petri Dish](https://github.com/meridianlabs-ai/petri_dish) `Python` `Meridian Labs`
+    - [Inspect Petri Bloom](https://meridianlabs-ai.github.io/petri_bloom/) `Python` `Meridian Labs`
 - [Intercode](https://intercode-benchmark.github.io/) `Python`
 - [Intima Benchmark](https://huggingface.co/AI-companionship) [Paper](https://arxiv.org/abs/2508.09998) `HuggingFace`
 - [Jailbreakbench](https://jailbreakbench.github.io) `Python`
