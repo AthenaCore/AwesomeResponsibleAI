@@ -791,10 +791,10 @@ Beneficial AI Systems | ISO/IEC AWI TR 21221 Information technology – Artifici
 
 ### Learning Resources for ISO/IEC Standards
 
-- [ISO 42001 Visual Library](https://github.com/nelsambrose/ISO-42001-Visual-Library) 
-— A visual learning library for ISO/IEC 42001:2023 covering all clauses, 
-Annex A controls and the PDCA cycle through reference cards, memory cards 
-and deep dives. Open source, CC BY 4.0.
+- [ISO 42001 Visual Library](https://github.com/nelsambrose/ISO-42001-Visual-Library)
+  — A visual learning library for ISO/IEC 42001:2023 covering all clauses,
+  Annex A controls and the PDCA cycle through reference cards, memory cards
+  and deep dives. Open source, CC BY 4.0.
 
 ### NIST Publications
 
