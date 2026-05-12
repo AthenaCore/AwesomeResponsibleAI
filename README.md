@@ -530,6 +530,13 @@ Additionally,
 - [AI Act Whistleblower Tool](https://ai-act-whistleblower.integrityline.app)
 - [Hiroshima Process International Guiding Principles for Advanced AI system](https://digital-strategy.ec.europa.eu/en/library/hiroshima-process-international-guiding-principles-advanced-ai-system)
 
+### India 🇮🇳
+
+- [IT Amendment Rules, 2026](https://www.meity.gov.in/static/uploads/2026/02/550681ab908f8afb135b0ad42816a1c9.pdf)
+- [The Digital Personal Data Protection (DPDP) Act](https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/nov/doc20251117695301.pdf)
+- [The National Strategy for Artificial Intelligence](https://www.niti.gov.in/sites/default/files/2023-03/National-Strategy-for-Artificial-Intelligence.pdf)
+- [The Principles for Responsible AI](https://www.niti.gov.in/sites/default/files/2021-02/Responsible-AI-22022021.pdf)
+
 ### Singapore 🇸🇬
 
 - [Singapore’s Approach to AI Governance - Verify](https://www.pdpc.gov.sg/help-and-resources/2020/01/model-ai-governance-framework)
@@ -1288,4 +1295,4 @@ Curto, J., et al. "Awesome Responsible Artificial Intelligence." GitHub. Last mo
 
 **MLA (Modern Language Association) 9th Edition**
 
-Curto, J., et al. "Awesome Responsible Artificial Intelligence". *GitHub*, 2026, https://github.com/AthenaCore/AwesomeResponsibleAI. Accessed 11 May 2026.
+Curto, J., et al. "Awesome Responsible Artificial Intelligence". *GitHub*, 2026, https://github.com/AthenaCore/AwesomeResponsibleAI. Accessed 12 May 2026.
