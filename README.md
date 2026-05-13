@@ -828,11 +828,14 @@ This section is under review and the rest of entries will be added to the table 
 
 ### AI Governance
 
-Licensing AI models adds new layers of complexity beyond what traditional software licenses manage. Models may have separate licenses for: (1) The code used to train the model, (2) The model weights after training, (3) The datasets used during training, and (4) The outputs generated when users interact with the model.
-
+- [Agent Governance Toolkit](https://github.com/microsoft/agent-governance-toolkit) `Microsoft`
 - [Governance Mega-Map Application](https://github.com/The-Company-Ethos/doing-ai-governance) `The Company Ethos`
+- [Verifywise](https://github.com/verifywise-ai/verifywise) `VerifyWise`
+- [Venturalitica SDK](https://github.com/Venturalitica/venturalitica-sdk)
 
 ### AI Licensing
+
+Licensing AI models adds new layers of complexity beyond what traditional software licenses manage. Models may have separate licenses for: (1) The code used to train the model, (2) The model weights after training, (3) The datasets used during training, and (4) The outputs generated when users interact with the model.
 
 - [https://www.licenses.ai](https://www.licenses.ai)
 
@@ -1115,11 +1118,8 @@ Additional benchmarks can be found [here](https://airtable.com/app83SBBFk9WO25hJ
 
 ### LLM Regulation Compliance
 
-- [Tunix](https://github.com/google/tunix) `Python` `Google`
-
-### LLM Regulation Compliance
-
 - [COMPL-AI](https://compl-ai.org) `Python` `ETH Zurich` `Insait` `LaticeFlow AI`
+- [Tunix](https://github.com/google/tunix) `Python` `Google`
 
 ### Performance (& Automated ML)
 
