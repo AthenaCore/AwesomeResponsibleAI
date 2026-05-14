@@ -1005,7 +1005,8 @@ Pre-registration and REporting Protocol for AI Evaluations](https://prep-eval.gi
 - [AI Wellbeing](https://www.ai-wellbeing.org) `CAIS`
 - [AlignEval: Making Evals Easy, Fun, and Semi-Automated](https://aligneval.com) [Motivation](https://eugeneyan.com/writing/aligneval/)
 - [AlpacaEval](https://github.com/tatsu-lab/alpaca_eval) `Python`
-- [ARC AGI](https://arcprize.org/arc-agi) `Python`
+- [ARC AGI 1](https://arcprize.org/arc-agi/1) `Python`
+- [ARC AGI 2](https://arcprize.org/arc-agi/2) `Python`
 - [ARES](https://github.com/stanford-futuredata/ARES) `Python` `Stanford Future Data Systems`
 - [Artificial Analysis Omniscience Index](https://artificialanalysis.ai/evaluations/omniscience) `Artificial Analysis`
 - [Autoeval](https://auto-eval.github.io) `Python`
@@ -1020,9 +1021,11 @@ Pre-registration and REporting Protocol for AI Evaluations](https://prep-eval.gi
 - [Chinese Safety Evaluations](https://airtable.com/appkPf0Rw2P7KCY5i/shrpXozZcomLjmBf3/tblV6tS87aqOgrDJX/viwukUaSfInPLoQun) `Concordia AI`
 - [CL-Bench](https://www.clbench.com) `Python`
 - [CLUE benchmark](https://github.com/CLUEbenchmark/CLUE) `Python`
+- [CritPt](https://critpt.com) `Python`
 - [Cybench](https://cybench.github.io/) `Python`
 - [DarkBench](https://github.com/smarter/DarkBench) `Python`
 - [DeepEval](https://github.com/confident-ai/deepeval) `Python` 
+- [DELEGATE-52](https://github.com/microsoft/DELEGATE52) `Python` `Microsoft` Paper [LLMs Corrupt Your Documents When You Delegate](https://arxiv.org/abs/2604.15597)
 - [evals](https://github.com/openai/evals) `Python` `OpenAI`
 - [EvalScope](https://github.com/modelscope/evalscope) `Python`
 - [evmbench](https://paradigm.xyz/evmbench) `Python`
@@ -1034,7 +1037,7 @@ Pre-registration and REporting Protocol for AI Evaluations](https://prep-eval.gi
 - [FrontierMath](https://epoch.ai/frontiermath)
 - [Geekbench AI](https://www.geekbench.com/ai/)
 - [GDPval](https://huggingface.co/datasets/openai/gdpval) [Paper](https://cdn.openai.com/pdf/d5eb7428-c4e9-4a33-bd86-86dd4bcf12ce/GDPval.pdf) `OpenAI`
-- [GPQA: A Graduate-Level Google-Proof Q&A Benchmark](https://github.com/idavidrein/gpqa) `Python` `dataset`
+- [GPQA: A Graduate-Level Google-Proof Q&A Benchmark](https://github.com/idavidrein/gpqa) `Python` `dataset` [Epoch Dashboard](https://epoch.ai/benchmarks/gpqa-diamond?view=graph&tab=release-date)
 - [Giskard](https://github.com/Giskard-AI/giskard) `Python`
 - [HAL Harness](https://github.com/princeton-pli/hal-harness) `Python` `PLI`
 - [Harbor](https://harborframework.com) `Python`
@@ -1093,12 +1096,14 @@ Pre-registration and REporting Protocol for AI Evaluations](https://prep-eval.gi
 - [RewardBench: Evaluating Reward Models](https://github.com/allenai/reward-bench) `Python` `Ai2`
 - [Rouge](https://pypi.org/project/rouge/) `Python`
 - [SALAD-BENCH](https://github.com/OpenSafetyLab/SALAD-BENCH) [Article](https://arxiv.org/abs/2402.05044) `Python`
+- [SciCode](https://scicode-bench.github.io) `Python`
 - [Selene Mini](https://github.com/atla-ai/selene-mini) `Python` `Atla`
 - [simple evals](https://github.com/openai/simple-evals) `Python` `OpenAI`
 - [SnitchBench](https://github.com/t3dotgg/SnitchBench) `Python`
 - [StrongREJECT jailbreak benchmark](https://github.com/dsbowen/strong_reject) `Python`
+- [SWE-bench Verified](https://www.swebench.com/verified.html) `Python`
 - [TealTiger](https://github.com/agentguard-ai/tealtiger) `Python` `TypeScript`
-- [TerminalBench](https://www.tbench.ai)
+- [terminal-bench](https://www.tbench.ai)
 - [TextQuests](https://www.textquests.ai) `Python` `Center for AI Safety`
 - [The Berkeley Function Calling Leaderboard (BFCL)](https://gorilla.cs.berkeley.edu/leaderboard.html) `Python` `Berkeley`
 - [τ²-bench: Evaluating Conversational Agents in a Dual-Control Environment](https://github.com/sierra-research/tau2-bench) `Python`
