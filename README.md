@@ -407,6 +407,7 @@ This section features a curated selection of newsletters that keep you informed 
 - [AI Safety in China](https://aisafetychina.substack.com)
 - [AI Safety Newsletter](https://newsletter.safe.ai) `Center for AI Safety`
 - [AI Snake Oil](https://www.aisnakeoil.com)
+- [Audaria](https://audaria.fr)
 - [Import AI](importai.substack.com)
 - [Marcus on AI](https://garymarcus.substack.com)
 - [ML Safety Newsletter](https://newsletter.mlsafety.org)
