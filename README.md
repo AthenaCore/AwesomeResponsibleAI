@@ -887,6 +887,11 @@ Licensing AI models adds new layers of complexity beyond what traditional softwa
 - [phoenix](https://github.com/Arize-ai/phoenix) `Python`
 - [PKBooks](https://github.com/Pushp-Kharat1/pkboost) `Rust`
 
+### EU AI Act Compliance
+ 
+- [AI Act Skills](https://github.com/abk1969/ai-act-skills) `Skills` `Gemini` `Claude` `OpenAI`
+- [EuConform](https://euconform.eu) `Python`
+
 ### Fairness
 
 - [Aequitas' Bias & Fairness Audit Toolkit](http://aequitas.dssg.io/) `Python`
