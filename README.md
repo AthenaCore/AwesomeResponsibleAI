@@ -796,6 +796,13 @@ Synthetic Data | ISO/IEC AWI TR 42103 Information technology — Artificial inte
 AI Safety | ISO/IEC CD TR 5469 Artificial intelligence — Functional safety and AI systems | Published | https://www.iso.org/standard/81283.html
 Beneficial AI Systems | ISO/IEC AWI TR 21221 Information technology – Artificial intelligence – Beneficial AI systems | Under Development  | https://www.iso.org/standard/86690.html
 
+### Learning Resources for ISO/IEC Standards
+
+- [ISO 42001 Visual Library](https://github.com/nelsambrose/ISO-42001-Visual-Library)
+  — A visual learning library for ISO/IEC 42001:2023 covering all clauses,
+  Annex A controls and the PDCA cycle through reference cards, memory cards
+  and deep dives. Open source, CC BY 4.0.
+
 ### NIST Publications
 
 | Resource     | Description      | Source              |
