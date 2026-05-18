@@ -416,7 +416,7 @@ This section features a curated selection of newsletters that keep you informed 
 - [The AI Evaluation Substack](https://aievaluation.substack.com)
 - [The EU AI Act Newsletter](https://artificialintelligenceact.substack.com)
 - [The Machine Learning Engineer](https://ethical.institute/mle.html)
-- [Turing Post](https://turingpost.substack.com)
+- [Turing Post](https://www.turingpost.com)
 
 ## Principles
 
