@@ -824,6 +824,7 @@ This section is under review and the rest of entries will be added to the table 
 
 ### AI Alignment
 
+- [CausalLayer / FaultKey](https://github.com/smq9sn5jck-coder/causallayer-mcp) - Deterministic AI liability attribution for EU AI Act compliance. Creates immutable audit trails for AI decisions without using LLMs.
 - [Circuit Breakers](https://github.com/GraySwanAI/circuit-breakers) `Python`
 
 ### AI Governance
