@@ -910,6 +910,7 @@ Licensing AI models adds new layers of complexity beyond what traditional softwa
 - [faircause](https://github.com/dplecko/CFA) `R`
 - [Fairlearn](https://fairlearn.org) `Python` `Microsoft`
 - [fairmetrics](https://jianhuig.github.io/fairmetrics/) `R`
+- [fmm-fairness-eval](https://github.com/Ces107/fmm-fairness-eval-cli) `Python`
 - [Fairmodels](https://fairmodels.drwhy.ai) `R` `University of California`
 - [fairness](https://cran.r-project.org/web/packages/fairness/) `R`
 - [Fairness Indicators](https://github.com/tensorflow/fairness-indicators) `Python` `Google`
