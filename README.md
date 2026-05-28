@@ -1051,6 +1051,8 @@ Pre-registration and REporting Protocol for AI Evaluations](https://prep-eval.gi
 - [ForecastBench](https://www.forecastbench.org)
 - [ForesightSafety-Bench](https://github.com/Beijing-AISI/ForesightSafety-Bench) `Python` `Beijing AISI`
 - [FrontierMath](https://epoch.ai/frontiermath)
+- [Future AGI ai-evaluation](https://github.com/future-agi/ai-evaluation) `Python` Open-source LLM evaluation framework with 50+ metrics, LLM-as-Judge augmentation, and guardrail scanners (jailbreak, PII, prompt-injection); AutoEval pipelines with CI/CD support.
+- [Future AGI](https://github.com/future-agi/future-agi) Open-source self-hostable end-to-end agent engineering and optimization platform unifying tracing, evaluation, simulation, datasets, gateway, and guardrails in one feedback loop.
 - [Geekbench AI](https://www.geekbench.com/ai/)
 - [GDPval](https://huggingface.co/datasets/openai/gdpval) [Paper](https://cdn.openai.com/pdf/d5eb7428-c4e9-4a33-bd86-86dd4bcf12ce/GDPval.pdf) `OpenAI`
 - [GPQA: A Graduate-Level Google-Proof Q&A Benchmark](https://github.com/idavidrein/gpqa) `Python` `dataset` [Epoch Dashboard](https://epoch.ai/benchmarks/gpqa-diamond?view=graph&tab=release-date)
