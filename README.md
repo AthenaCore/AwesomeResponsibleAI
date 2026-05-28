@@ -468,6 +468,7 @@ Regulations are requirements established by governments.
 
 ### Interesting resources
 
+- [AI Regulations Tracker](https://regulations.ai/regulations/tracker)
 - [Data Protection and Privacy Legislation Worldwide](https://unctad.org/page/data-protection-and-privacy-legislation-worldwide) `UNCTAD`
 - [Data Protection Laws of the Word](https://www.dlapiperdataprotection.com) `DLAPiper`
 - [Digital Policy Alert](https://digitalpolicyalert.org/analysis)
@@ -1038,7 +1039,8 @@ Pre-registration and REporting Protocol for AI Evaluations](https://prep-eval.gi
 - [CritPt](https://critpt.com) `Python`
 - [Cybench](https://cybench.github.io/) `Python`
 - [DarkBench](https://github.com/smarter/DarkBench) `Python`
-- [DeepEval](https://github.com/confident-ai/deepeval) `Python` 
+- [DeepEval](https://github.com/confident-ai/deepeval) `Python`
+- [DeepSWE](https://github.com/datacurve-ai/deep-swe) `Python`
 - [DELEGATE-52](https://github.com/microsoft/DELEGATE52) `Python` `Microsoft` Paper [LLMs Corrupt Your Documents When You Delegate](https://arxiv.org/abs/2604.15597)
 - [evals](https://github.com/openai/evals) `Python` `OpenAI`
 - [EvalScope](https://github.com/modelscope/evalscope) `Python`
@@ -1314,4 +1316,4 @@ Curto, J., et al. "Awesome Responsible Artificial Intelligence." GitHub. Last mo
 
 **MLA (Modern Language Association) 9th Edition**
 
-Curto, J., et al. "Awesome Responsible Artificial Intelligence". *GitHub*, 2026, https://github.com/AthenaCore/AwesomeResponsibleAI. Accessed 15 May 2026.
+Curto, J., et al. "Awesome Responsible Artificial Intelligence". *GitHub*, 2026, https://github.com/AthenaCore/AwesomeResponsibleAI. Accessed 28 May 2026.
