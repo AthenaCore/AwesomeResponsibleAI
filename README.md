@@ -900,6 +900,7 @@ Licensing AI models adds new layers of complexity beyond what traditional softwa
  
 - [AI Act Skills](https://github.com/abk1969/ai-act-skills) `Skills` `Gemini` `Claude` `OpenAI`
 - [EuConform](https://euconform.eu) `Python`
+- [eu-ai-act-checklist](https://github.com/GatisOzols/eu-ai-act-checklist) `Markdown` `Python` `JSON` - Open-source compliance checklist for Regulation (EU) 2024/1689. 7-step self-audit, Annex III mapping, Article 50 disclosure templates (chatbot, synthetic content, deepfake, emotion recognition), Python risk classifier, Article 99 penalty bands as JSON. MIT.
 
 ### Fairness
 
