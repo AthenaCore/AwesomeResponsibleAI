@@ -836,6 +836,9 @@ This section is under review and the rest of entries will be added to the table 
 
 ### AI Governance
 
+Licensing AI models adds new layers of complexity beyond what traditional software licenses manage. Models may have separate licenses for: (1) The code used to train the model, (2) The model weights after training, (3) The datasets used during training, and (4) The outputs generated when users interact with the model.
+
+- [GenOps Framework](https://github.com/neerazz/genops-framework) `Neeraj Kumar Singh` - Open-source CI/CD governance framework for embedding generative AI agents into production pipelines. Provides risk-scored deployment gates, LLM audit logging, and policy-as-code controls. Companion to the JISEM paper [GenOps: Operationalizing Generative AI](https://jisem-journal.com/article/view/14322).
 - [Agent Governance Toolkit](https://github.com/microsoft/agent-governance-toolkit) `Microsoft`
 - [Governance Mega-Map Application](https://github.com/The-Company-Ethos/doing-ai-governance) `The Company Ethos`
 - [Verifywise](https://github.com/verifywise-ai/verifywise) `VerifyWise`
