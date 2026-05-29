@@ -468,6 +468,7 @@ Regulations are requirements established by governments.
 
 ### Interesting resources
 
+- [AI Regulations Tracker](https://regulations.ai/regulations/tracker)
 - [Data Protection and Privacy Legislation Worldwide](https://unctad.org/page/data-protection-and-privacy-legislation-worldwide) `UNCTAD`
 - [Data Protection Laws of the Word](https://www.dlapiperdataprotection.com) `DLAPiper`
 - [Digital Policy Alert](https://digitalpolicyalert.org/analysis)
@@ -529,6 +530,13 @@ Additionally,
 
 - [AI Act Whistleblower Tool](https://ai-act-whistleblower.integrityline.app)
 - [Hiroshima Process International Guiding Principles for Advanced AI system](https://digital-strategy.ec.europa.eu/en/library/hiroshima-process-international-guiding-principles-advanced-ai-system)
+
+### India 🇮🇳
+
+- [IT Amendment Rules, 2026](https://www.meity.gov.in/static/uploads/2026/02/550681ab908f8afb135b0ad42816a1c9.pdf)
+- [The Digital Personal Data Protection (DPDP) Act](https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/nov/doc20251117695301.pdf)
+- [The National Strategy for Artificial Intelligence](https://www.niti.gov.in/sites/default/files/2023-03/National-Strategy-for-Artificial-Intelligence.pdf)
+- [The Principles for Responsible AI](https://www.niti.gov.in/sites/default/files/2021-02/Responsible-AI-22022021.pdf)
 
 ### Singapore 🇸🇬
 
@@ -789,6 +797,13 @@ Synthetic Data | ISO/IEC AWI TR 42103 Information technology — Artificial inte
 AI Safety | ISO/IEC CD TR 5469 Artificial intelligence — Functional safety and AI systems | Published | https://www.iso.org/standard/81283.html
 Beneficial AI Systems | ISO/IEC AWI TR 21221 Information technology – Artificial intelligence – Beneficial AI systems | Under Development  | https://www.iso.org/standard/86690.html
 
+### Learning Resources for ISO/IEC Standards
+
+- [ISO 42001 Visual Library](https://github.com/nelsambrose/ISO-42001-Visual-Library)
+  — A visual learning library for ISO/IEC 42001:2023 covering all clauses,
+  Annex A controls and the PDCA cycle through reference cards, memory cards
+  and deep dives. Open source, CC BY 4.0.
+
 ### NIST Publications
 
 | Resource     | Description      | Source              |
@@ -824,15 +839,21 @@ This section is under review and the rest of entries will be added to the table 
 Licensing AI models adds new layers of complexity beyond what traditional software licenses manage. Models may have separate licenses for: (1) The code used to train the model, (2) The model weights after training, (3) The datasets used during training, and (4) The outputs generated when users interact with the model.
 
 - [GenOps Framework](https://github.com/neerazz/genops-framework) `Neeraj Kumar Singh` - Open-source CI/CD governance framework for embedding generative AI agents into production pipelines. Provides risk-scored deployment gates, LLM audit logging, and policy-as-code controls. Companion to the JISEM paper [GenOps: Operationalizing Generative AI](https://jisem-journal.com/article/view/14322).
+- [Agent Governance Toolkit](https://github.com/microsoft/agent-governance-toolkit) `Microsoft`
 - [Governance Mega-Map Application](https://github.com/The-Company-Ethos/doing-ai-governance) `The Company Ethos`
+- [Verifywise](https://github.com/verifywise-ai/verifywise) `VerifyWise`
+- [Venturalitica SDK](https://github.com/Venturalitica/venturalitica-sdk)
 
 ### AI Licensing
+
+Licensing AI models adds new layers of complexity beyond what traditional software licenses manage. Models may have separate licenses for: (1) The code used to train the model, (2) The model weights after training, (3) The datasets used during training, and (4) The outputs generated when users interact with the model.
 
 - [https://www.licenses.ai](https://www.licenses.ai)
 
 ### Audit
 
 - [AIR Blackbox](https://github.com/airblackbox/gateway) `Python` - Open-source EU AI Act compliance scanner and runtime trust layer for Python AI agents. HMAC-SHA256 tamper-evident audit chains, PII detection, and prompt injection blocking. Trust layers for LangChain, CrewAI, AutoGen, OpenAI, Google ADK, and Claude Agent SDK. ([Website](https://airblackbox.ai) | [PyPI](https://pypi.org/project/air-blackbox/))
+- [PRML / falsify](https://github.com/studio-11-co/falsify) `Python, JS, Go, Rust` `Studio 11` - Pre-Registered ML Manifest specification (CC BY 4.0). Commits an evaluation claim (metric, comparator, threshold, dataset hash, seed, producer identity) to a SHA-256 hash before the experiment runs. Tamper-evident audit trail; subcategory crosswalks for [EU AI Act Article 12](https://spec.falsify.dev/eu-ai-act/article-12/), [NIST AI RMF](https://spec.falsify.dev/nist-ai-rmf/), [ISO/IEC 42001](https://spec.falsify.dev/iso-42001/). Four byte-equivalent reference implementations across 20 conformance vectors. Zenodo DOI [10.5281/zenodo.20177839](https://doi.org/10.5281/zenodo.20177839), in [SchemaStore](https://www.schemastore.org/) catalog.
 - [glassalpha](https://github.com/asibic/glassalpha) `Python`
 - [Systima Comply](https://github.com/systima-ai/comply) `TypeScript` `Systima`
 
@@ -878,6 +899,11 @@ Licensing AI models adds new layers of complexity beyond what traditional softwa
 - [phoenix](https://github.com/Arize-ai/phoenix) `Python`
 - [PKBooks](https://github.com/Pushp-Kharat1/pkboost) `Rust`
 
+### EU AI Act Compliance
+ 
+- [AI Act Skills](https://github.com/abk1969/ai-act-skills) `Skills` `Gemini` `Claude` `OpenAI`
+- [EuConform](https://euconform.eu) `Python`
+
 ### Fairness
 
 - [Aequitas' Bias & Fairness Audit Toolkit](http://aequitas.dssg.io/) `Python`
@@ -889,6 +915,7 @@ Licensing AI models adds new layers of complexity beyond what traditional softwa
 - [faircause](https://github.com/dplecko/CFA) `R`
 - [Fairlearn](https://fairlearn.org) `Python` `Microsoft`
 - [fairmetrics](https://jianhuig.github.io/fairmetrics/) `R`
+- [fmm-fairness-eval](https://github.com/Ces107/fmm-fairness-eval-cli) `Python`
 - [Fairmodels](https://fairmodels.drwhy.ai) `R` `University of California`
 - [fairness](https://cran.r-project.org/web/packages/fairness/) `R`
 - [Fairness Indicators](https://github.com/tensorflow/fairness-indicators) `Python` `Google`
@@ -996,7 +1023,8 @@ Pre-registration and REporting Protocol for AI Evaluations](https://prep-eval.gi
 - [AI Wellbeing](https://www.ai-wellbeing.org) `CAIS`
 - [AlignEval: Making Evals Easy, Fun, and Semi-Automated](https://aligneval.com) [Motivation](https://eugeneyan.com/writing/aligneval/)
 - [AlpacaEval](https://github.com/tatsu-lab/alpaca_eval) `Python`
-- [ARC AGI](https://arcprize.org/arc-agi) `Python`
+- [ARC AGI 1](https://arcprize.org/arc-agi/1) `Python`
+- [ARC AGI 2](https://arcprize.org/arc-agi/2) `Python`
 - [ARES](https://github.com/stanford-futuredata/ARES) `Python` `Stanford Future Data Systems`
 - [Artificial Analysis Omniscience Index](https://artificialanalysis.ai/evaluations/omniscience) `Artificial Analysis`
 - [Autoeval](https://auto-eval.github.io) `Python`
@@ -1011,9 +1039,12 @@ Pre-registration and REporting Protocol for AI Evaluations](https://prep-eval.gi
 - [Chinese Safety Evaluations](https://airtable.com/appkPf0Rw2P7KCY5i/shrpXozZcomLjmBf3/tblV6tS87aqOgrDJX/viwukUaSfInPLoQun) `Concordia AI`
 - [CL-Bench](https://www.clbench.com) `Python`
 - [CLUE benchmark](https://github.com/CLUEbenchmark/CLUE) `Python`
+- [CritPt](https://critpt.com) `Python`
 - [Cybench](https://cybench.github.io/) `Python`
 - [DarkBench](https://github.com/smarter/DarkBench) `Python`
-- [DeepEval](https://github.com/confident-ai/deepeval) `Python` 
+- [DeepEval](https://github.com/confident-ai/deepeval) `Python`
+- [DeepSWE](https://github.com/datacurve-ai/deep-swe) `Python`
+- [DELEGATE-52](https://github.com/microsoft/DELEGATE52) `Python` `Microsoft` Paper [LLMs Corrupt Your Documents When You Delegate](https://arxiv.org/abs/2604.15597)
 - [evals](https://github.com/openai/evals) `Python` `OpenAI`
 - [EvalScope](https://github.com/modelscope/evalscope) `Python`
 - [evmbench](https://paradigm.xyz/evmbench) `Python`
@@ -1025,7 +1056,7 @@ Pre-registration and REporting Protocol for AI Evaluations](https://prep-eval.gi
 - [FrontierMath](https://epoch.ai/frontiermath)
 - [Geekbench AI](https://www.geekbench.com/ai/)
 - [GDPval](https://huggingface.co/datasets/openai/gdpval) [Paper](https://cdn.openai.com/pdf/d5eb7428-c4e9-4a33-bd86-86dd4bcf12ce/GDPval.pdf) `OpenAI`
-- [GPQA: A Graduate-Level Google-Proof Q&A Benchmark](https://github.com/idavidrein/gpqa) `Python` `dataset`
+- [GPQA: A Graduate-Level Google-Proof Q&A Benchmark](https://github.com/idavidrein/gpqa) `Python` `dataset` [Epoch Dashboard](https://epoch.ai/benchmarks/gpqa-diamond?view=graph&tab=release-date)
 - [Giskard](https://github.com/Giskard-AI/giskard) `Python`
 - [HAL Harness](https://github.com/princeton-pli/hal-harness) `Python` `PLI`
 - [Harbor](https://harborframework.com) `Python`
@@ -1034,6 +1065,11 @@ Pre-registration and REporting Protocol for AI Evaluations](https://prep-eval.gi
 - [Humanity's Last Exam (HLE)-Verified](https://github.com/SKYLENAGE-AI/HLE-Verified)
 - [HybridRAG-Bench](https://junhongmit.github.io/HybridRAG-Bench/)
 - [Inspect](https://ukgovernmentbeis.github.io/inspect_ai/) `Python` `UK AISI`
+    - [Inspect Petri](https://meridianlabs-ai.github.io/inspect_petri/) `Python` `UK AISI` `Meridian Labs`
+    - [Inspect Scout](https://meridianlabs-ai.github.io/inspect_scout/) `Python` `Meridian Labs`
+    - [Inspect Flow](https://meridianlabs-ai.github.io/inspect_flow/) `Python` `Meridian Labs`
+    - [Inspect Petri Dish](https://github.com/meridianlabs-ai/petri_dish) `Python` `Meridian Labs`
+    - [Inspect Petri Bloom](https://meridianlabs-ai.github.io/petri_bloom/) `Python` `Meridian Labs`
 - [Intercode](https://intercode-benchmark.github.io/) `Python`
 - [Intima Benchmark](https://huggingface.co/AI-companionship) [Paper](https://arxiv.org/abs/2508.09998) `HuggingFace`
 - [Jailbreakbench](https://jailbreakbench.github.io) `Python`
@@ -1079,11 +1115,14 @@ Pre-registration and REporting Protocol for AI Evaluations](https://prep-eval.gi
 - [RewardBench: Evaluating Reward Models](https://github.com/allenai/reward-bench) `Python` `Ai2`
 - [Rouge](https://pypi.org/project/rouge/) `Python`
 - [SALAD-BENCH](https://github.com/OpenSafetyLab/SALAD-BENCH) [Article](https://arxiv.org/abs/2402.05044) `Python`
+- [SciCode](https://scicode-bench.github.io) `Python`
 - [Selene Mini](https://github.com/atla-ai/selene-mini) `Python` `Atla`
 - [simple evals](https://github.com/openai/simple-evals) `Python` `OpenAI`
 - [SnitchBench](https://github.com/t3dotgg/SnitchBench) `Python`
 - [StrongREJECT jailbreak benchmark](https://github.com/dsbowen/strong_reject) `Python`
-- [TerminalBench](https://www.tbench.ai)
+- [SWE-bench Verified](https://www.swebench.com/verified.html) `Python`
+- [TealTiger](https://github.com/agentguard-ai/tealtiger) `Python` `TypeScript`
+- [terminal-bench](https://www.tbench.ai)
 - [TextQuests](https://www.textquests.ai) `Python` `Center for AI Safety`
 - [The Berkeley Function Calling Leaderboard (BFCL)](https://gorilla.cs.berkeley.edu/leaderboard.html) `Python` `Berkeley`
 - [τ²-bench: Evaluating Conversational Agents in a Dual-Control Environment](https://github.com/sierra-research/tau2-bench) `Python`
@@ -1103,11 +1142,8 @@ Additional benchmarks can be found [here](https://airtable.com/app83SBBFk9WO25hJ
 
 ### LLM Regulation Compliance
 
-- [Tunix](https://github.com/google/tunix) `Python` `Google`
-
-### LLM Regulation Compliance
-
 - [COMPL-AI](https://compl-ai.org) `Python` `ETH Zurich` `Insait` `LaticeFlow AI`
+- [Tunix](https://github.com/google/tunix) `Python` `Google`
 
 ### Performance (& Automated ML)
 
@@ -1283,4 +1319,4 @@ Curto, J., et al. "Awesome Responsible Artificial Intelligence." GitHub. Last mo
 
 **MLA (Modern Language Association) 9th Edition**
 
-Curto, J., et al. "Awesome Responsible Artificial Intelligence". *GitHub*, 2026, https://github.com/AthenaCore/AwesomeResponsibleAI. Accessed 14 Apr 2026.
+Curto, J., et al. "Awesome Responsible Artificial Intelligence". *GitHub*, 2026, https://github.com/AthenaCore/AwesomeResponsibleAI. Accessed 28 May 2026.
