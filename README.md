@@ -839,6 +839,7 @@ This section is under review and the rest of entries will be added to the table 
 - [Agent Governance Toolkit](https://github.com/microsoft/agent-governance-toolkit) `Microsoft`
 - [Governance Mega-Map Application](https://github.com/The-Company-Ethos/doing-ai-governance) `The Company Ethos`
 - [Verifywise](https://github.com/verifywise-ai/verifywise) `VerifyWise`
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) `JavaScript/TypeScript` `Solana` - Trust scoring and x402 micropayment verification for AI agents. Enables autonomous agents to verify counterparty trustworthiness before transactions via MCP. ([PyPI](https://pypi.org/project/twzrd-agent-intel/) | [MCP](https://intel.twzrd.xyz/mcp))
 - [Venturalitica SDK](https://github.com/Venturalitica/venturalitica-sdk)
 
 ### AI Licensing
