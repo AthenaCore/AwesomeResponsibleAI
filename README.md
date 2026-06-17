@@ -898,6 +898,7 @@ Licensing AI models adds new layers of complexity beyond what traditional softwa
 
 ### EU AI Act Compliance
  
+- [AI Act Companion](https://github.com/JKasteele/ai-act-companion) `Python`
 - [AI Act Skills](https://github.com/abk1969/ai-act-skills) `Skills` `Gemini` `Claude` `OpenAI`
 - [EuConform](https://euconform.eu) `Python`
 
