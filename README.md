@@ -211,7 +211,7 @@ This section features a curated selection of books.
 - Responsible AI ([Hall, P., Chowdhury, R., 2023](https://learning.oreilly.com/library/view/responsible-ai/9781098102425/)) `Governance` `Safety` `Drift`
 - Marcus, G., and Davis, E. (2019). **Rebooting AI: Building artificial intelligence we can trust**. Vintage. [Book](https://www.penguinrandomhouse.com/books/603982/rebooting-ai-by-gary-marcus-and-ernest-davis/)
 - Marcus, G. F. (2024). **Taming Silicon Valley: How We Can Ensure That AI Works for Us**. MIT Press. [Book](https://mitpress.mit.edu/9780262551069/taming-silicon-valley/)
-- Yampolskiy, R. V. (2024) **AI: Unexplainable, Unpredictable, Uncontrollable**. 2024. CRC Press  [Book](https://mitpressbookstore.mit.edu/book/9781032576275)
+- Yampolskiy, R. V. (2024) **AI: Unexplainable, Unpredictable, Uncontrollable**. 2024. CRC Press [Book](https://mitpressbookstore.mit.edu/book/9781032576275)
 
 ## Code of Ethics
 
@@ -1051,6 +1051,7 @@ Pre-registration and REporting Protocol for AI Evaluations](https://prep-eval.gi
 - [ForecastBench](https://www.forecastbench.org)
 - [ForesightSafety-Bench](https://github.com/Beijing-AISI/ForesightSafety-Bench) `Python` `Beijing AISI`
 - [FrontierMath](https://epoch.ai/frontiermath)
+- [Future AGI](https://github.com/future-agi/future-agi) `Python` `TypeScript`
 - [Geekbench AI](https://www.geekbench.com/ai/)
 - [GDPval](https://huggingface.co/datasets/openai/gdpval) [Paper](https://cdn.openai.com/pdf/d5eb7428-c4e9-4a33-bd86-86dd4bcf12ce/GDPval.pdf) `OpenAI`
 - [GPQA: A Graduate-Level Google-Proof Q&A Benchmark](https://github.com/idavidrein/gpqa) `Python` `dataset` [Epoch Dashboard](https://epoch.ai/benchmarks/gpqa-diamond?view=graph&tab=release-date)
