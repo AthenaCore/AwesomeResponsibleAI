@@ -1208,6 +1208,7 @@ Additional benchmarks can be found [here](https://airtable.com/app83SBBFk9WO25hJ
 
 ### Robustness
 
+- [Autoguardrails](https://github.com/SantanderAI/autoguardrails) `Python` `Santander`
 - [Adversarial Robustness Toolbox (ART)](https://github.com/Trusted-AI/adversarial-robustness-toolbox) `Python`
 - [BackdoorBench](https://github.com/SCLBD/BackdoorBench) `Python`
 - [Factool](https://github.com/GAIR-NLP/factool) `Python`
@@ -1316,4 +1317,4 @@ Curto, J., et al. "Awesome Responsible Artificial Intelligence." GitHub. Last mo
 
 **MLA (Modern Language Association) 9th Edition**
 
-Curto, J., et al. "Awesome Responsible Artificial Intelligence". *GitHub*, 2026, https://github.com/AthenaCore/AwesomeResponsibleAI. Accessed 28 May 2026.
+Curto, J., et al. "Awesome Responsible Artificial Intelligence". *GitHub*, 2026, https://github.com/AthenaCore/AwesomeResponsibleAI. Accessed 23 Jun 2026.
