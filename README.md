@@ -414,6 +414,7 @@ This section features a curated selection of newsletters that keep you informed 
 - [ML Safety Newsletter](https://newsletter.mlsafety.org)
 - [Navigating AI Risks](https://www.navigatingrisks.ai)
 - [One Useful Thing](https://www.oneusefulthing.org)
+- [Signato](https://signato.ai) - Weekly brief on the EU AI Act and global AI governance for HR and compliance teams. Includes a free AI Act readiness quiz.
 - [The AI Ethics Brief](https://brief.montrealethics.ai)
 - [The AI Evaluation Substack](https://aievaluation.substack.com)
 - [The EU AI Act Newsletter](https://artificialintelligenceact.substack.com)
