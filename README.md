@@ -74,6 +74,7 @@ AI is a transformative and dual-side technology prone to reshape industries, yet
 ### Artificial Intelligence Governance (AI Governance)
 
 - Eisenberg, I. W. et al. (2025). **The Unified Control Framework: Establishing a Common Foundation for Enterprise AI Governance, Risk Management and Regulatory Compliance**. arXiv preprint arXiv:2503.05937. [Article](https://arxiv.org/abs/2503.05937) [Visualization](https://ianatcredoai.github.io/UCF_Figures/) `Credo`
+- Shimomoto, T. (2026). **Distributing Accountability, Not Capability: Phase Separation and the LLM Workflow Quadrant in Autonomous AI Agent Architectures**. Zenodo. [Article](https://doi.org/10.5281/zenodo.20353789)
 
 ### Bias
 
@@ -97,6 +98,7 @@ AI is a transformative and dual-side technology prone to reshape industries, yet
 - Lundberg, S. M. et al. (2017). **A unified approach to interpreting model predictions**. Advances in neural information processing systems, 30. [Article](http://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predictions), [Github](https://github.com/slundberg/shap) `University of Washington`
 - Luss, R. et al. (2021, August). **Leveraging latent features for local explanations**. In Proceedings of the 27th ACM SIGKDD conference on knowledge discovery & data mining (pp. 1139-1149). [Article](https://arxiv.org/abs/1905.12698) `IBM Research` `University of Michigan`
 - Ribeiro, M. T. et al. (2016, August). **"Why should i trust you?" Explaining the predictions of any classifier**. In Proceedings of the 22nd ACM SIGKDD international conference on knowledge discovery and data mining (pp. 1135-1144). [Article](https://arxiv.org/abs/1602.04938), [Github](https://github.com/marcotcr/lime) `University of Washington`
+- Shimomoto, T. (2026). **The Two-Layer Black Box: Operator Visibility, Commercial Secrecy, and a Minimum Disclosure Set for Accountable Autonomous AI Agents**. Zenodo. [Article](https://doi.org/10.5281/zenodo.20355907)
 - Wei, D. et al. (2019, May). **Generalized linear rule models**. In International conference on machine learning (pp. 6687-6696). PMLR. [Article](http://proceedings.mlr.press/v97/wei19a.html) `IBM Research`
 - Contrastive Explanations Method with Monotonic Attribute Functions ([Luss et al., 2019](https://arxiv.org/abs/1905.12698))
 - Boolean Decision Rules via Column Generation (Light Edition) ([Dash et al., 2018](https://papers.nips.cc/paper/7716-boolean-decision-rules-via-column-generation)) `IBM Research`
