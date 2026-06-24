@@ -902,7 +902,8 @@ Licensing AI models adds new layers of complexity beyond what traditional softwa
 - [AI Act Companion](https://github.com/JKasteele/ai-act-companion) `Python`
 - [AI Act Skills](https://github.com/abk1969/ai-act-skills) `Skills` `Gemini` `Claude` `OpenAI`
 - [EuConform](https://euconform.eu) `Python`
-- [YRproject](https://yrproject.nl) - Free trilingual (EN/NL/DE) knowledge base on EU regulation (AI Act, transport & logistics, HR) with free self-assessment scans. No signup.
+- [eu-ai-act-checklist](https://github.com/GatisOzols/eu-ai-act-checklist) `Markdown` `Python` `JSON`
+- [YRproject](https://yrproject.nl)
 
 ### Fairness
 
