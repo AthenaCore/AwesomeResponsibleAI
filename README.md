@@ -244,6 +244,7 @@ This section features a curated selection of open courses focused on Responsible
 | [CS 7880 - Rigorous Approaches to Data Privacy](https://www.khoury.northeastern.edu/home/jullman/cs7880s17/syllabus.html) | Northeastern University | This course covers the theory of differential privacy, its application, and its connections to other areas of computer science, covering roughly the state-of-the-art in the field. | Data Privacy |
 | [CS 860 - Algorithms for Private Data Analysis](http://www.gautamkamath.com/courses/CS860-fa2022.html)  | University of Waterloo | This course is on algorithms for differentially private analysis of data. | Data Privacy |
 | [Data Justice (DJ)](https://alan-turing-institute.github.io/turing-commons/skills-tracks/dj/index.html) | The Alan Turing Institute | A course that explores the emerging movement of data justice, which seeks to apply a social justice-oriented approach to examining the range of social, political, and material concerns arising within our increasingly datafied society | Ethics, Data Justice |
+| [The EU AI Act, Explained](https://lillytechsystems.com/ai-school/eu-ai-act/) | AI School (Lilly Tech Systems) | A free, plain-English course on the EU AI Act: the four risk tiers, prohibited practices, high-risk obligations, general-purpose AI rules, the 2025-2027 timeline, and a step-by-step compliance playbook. | AI Governance, AI Regulation |
 | [Explainable Artificial Intelligence](https://interpretable-ml-class.github.io) | Harvard University | This course aims to familiarize students with the recent advances in the emerging field of eXplainable Artificial Intelligence (XAI) | Explainability, Interpretability |
 | [Future of AI](https://bluedot.org/courses/future-of-ai)  | BlueDot Impact | A course to understand AI's impact and be part of the conversation about its future. | AI Fundamentals |
 | [Introduction to AI Ethics](https://www.kaggle.com/learn/intro-to-ai-ethics) | Kaggle | A course to explore practical tools to guide the moral design of AI systems. | AI Ethics |
@@ -898,9 +899,11 @@ Licensing AI models adds new layers of complexity beyond what traditional softwa
 
 ### EU AI Act Compliance
  
+- [AI Act Companion](https://github.com/JKasteele/ai-act-companion) `Python`
 - [AI Act Skills](https://github.com/abk1969/ai-act-skills) `Skills` `Gemini` `Claude` `OpenAI`
 - [EuConform](https://euconform.eu) `Python`
-- [eu-ai-act-checklist](https://github.com/GatisOzols/eu-ai-act-checklist) `Markdown` `Python` `JSON` - Open-source compliance checklist for Regulation (EU) 2024/1689. 7-step self-audit, Annex III mapping, Article 50 disclosure templates (chatbot, synthetic content, deepfake, emotion recognition), Python risk classifier, Article 99 penalty bands as JSON. MIT.
+- [eu-ai-act-checklist](https://github.com/GatisOzols/eu-ai-act-checklist) `Markdown` `Python` `JSON`
+- [YRproject](https://yrproject.nl)
 
 ### Fairness
 
@@ -1209,6 +1212,7 @@ Additional benchmarks can be found [here](https://airtable.com/app83SBBFk9WO25hJ
 
 ### Robustness
 
+- [Autoguardrails](https://github.com/SantanderAI/autoguardrails) `Python` `Santander`
 - [Adversarial Robustness Toolbox (ART)](https://github.com/Trusted-AI/adversarial-robustness-toolbox) `Python`
 - [BackdoorBench](https://github.com/SCLBD/BackdoorBench) `Python`
 - [Factool](https://github.com/GAIR-NLP/factool) `Python`
@@ -1317,4 +1321,4 @@ Curto, J., et al. "Awesome Responsible Artificial Intelligence." GitHub. Last mo
 
 **MLA (Modern Language Association) 9th Edition**
 
-Curto, J., et al. "Awesome Responsible Artificial Intelligence". *GitHub*, 2026, https://github.com/AthenaCore/AwesomeResponsibleAI. Accessed 28 May 2026.
+Curto, J., et al. "Awesome Responsible Artificial Intelligence". *GitHub*, 2026, https://github.com/AthenaCore/AwesomeResponsibleAI. Accessed 23 Jun 2026.
