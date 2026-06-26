@@ -645,6 +645,7 @@ This section features a curated selection of reports relevant to understand the 
 - [European Open Source AI Index](https://osai-index.eu)
 - [Global Index for AI Safety](https://agile-index.ai/global-index-for-ai-safety)
 - [Impact Report](https://safe.ai). Edition: [2023](https://safe.ai/work/impact-report/2023) and [2024](https://safe.ai/work/impact-report/2024) `Center for AI Safety`
+- [Raidex](https://raidex.ai) - An open, reproducible Responsible AI index scoring frontier models across 8 open RAI benchmarks (7 dimensions); every score from independent automated runs, not self-reported. [Writeup](https://www.vishnuvettrivel.com/post/capability-doesn-t-predict-responsibility), [Code](https://github.com/cloudronin/raidex)
 - [State of AI](https://www.stateof.ai) - from 2018 up to now -
 - [The AI Index Report](https://aiindex.stanford.edu). Edition: [2017](https://hai.stanford.edu/ai-index/2017-ai-index-report), [2018](https://hai.stanford.edu/ai-index/2018-ai-index-report), [2019](https://hai.stanford.edu/ai-index/2019-ai-index-report), [2021](https://hai.stanford.edu/ai-index/2021-ai-index-report), [2022](https://hai.stanford.edu/ai-index/2022-ai-index-report), [2023](https://hai.stanford.edu/ai-index/2023-ai-index-report), [2024](https://hai.stanford.edu/ai-index/2024-ai-index-report), [2025](https://hai.stanford.edu/ai-index/2025-ai-index-report), and [2026](https://hai.stanford.edu/ai-index/2026-ai-index-report).  `Stanford Institute for Human-Centered Artificial Intelligence`
 
