@@ -471,6 +471,7 @@ Regulations are requirements established by governments.
 
 ### Interesting resources
 
+- [AI Law Radar](https://ailawradar.com)
 - [AI Regulations Tracker](https://regulations.ai/regulations/tracker)
 - [Data Protection and Privacy Legislation Worldwide](https://unctad.org/page/data-protection-and-privacy-legislation-worldwide) `UNCTAD`
 - [Data Protection Laws of the Word](https://www.dlapiperdataprotection.com) `DLAPiper`
