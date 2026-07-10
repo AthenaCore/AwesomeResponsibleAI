@@ -845,6 +845,7 @@ This section is under review and the rest of entries will be added to the table 
 
 - [Agent Governance Toolkit](https://github.com/microsoft/agent-governance-toolkit) `Microsoft`
 - [Governance Mega-Map Application](https://github.com/The-Company-Ethos/doing-ai-governance) `The Company Ethos`
+- [Nimble AI Solutions: AI Governance Health Check](https://nimbai.co.uk/ai-governance-health-check/) `Nimble AI Solutions` - Free diagnostic for UK organisations mapping AI use against ISO/IEC 42001 and UK regulatory requirements.
 - [Verifywise](https://github.com/verifywise-ai/verifywise) `VerifyWise`
 - [Venturalitica SDK](https://github.com/Venturalitica/venturalitica-sdk)
 
