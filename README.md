@@ -645,6 +645,7 @@ This section features a curated selection of reports relevant to understand the 
 - AI Safety Index: [2024](https://futureoflife.org/document/fli-ai-safety-index-2024/), [2025](https://futureoflife.org/ai-safety-index-winter-2025/) `Future of Life`
 - [AI World](https://aiworld.eu)
 - [European Open Source AI Index](https://osai-index.eu)
+- [Global Index AI](https://www.global-index.ai/) `Global Center on AI Governance`
 - [Global Index for AI Safety](https://agile-index.ai/global-index-for-ai-safety)
 - [Impact Report](https://safe.ai). Edition: [2023](https://safe.ai/work/impact-report/2023) and [2024](https://safe.ai/work/impact-report/2024) `Center for AI Safety`
 - [State of AI](https://www.stateof.ai) - from 2018 up to now -
