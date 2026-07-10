@@ -621,6 +621,7 @@ This section features a curated selection of reports relevant to understand the 
 - Janjeva, A., et al. (2023). **Strengthening Resilience to AI Risk. A guide for UK policymakers**. CETaS (Centre for Emerging Technology and Security) [Article](https://ceas.turing.ac.uk/sites/default/files/2023-08/cetas-cltr_ai_risk_briefing_paper.pdf)
 - Piattini, M. and Fernández C.M. 2024. **Marco Confiable**. Revista SIC 162 [Article](https://revistasic.es/revista-sic/sic-162/colaboraciones/marco-confiable/)
 - Sastry, G., et al. 2024. **Computing Power and the Governance of Artificial Intelligence**. arXiv preprint arXiv:2402.08797. [Article]( https://arxiv.org/pdf/2402.08797)
+- **Preliminary Report of the Independent International Scientific Panel on AI: Evidence-based assessment of opportunities, risks and impacts of AI**. [Article](https://www.un.org/independent-international-scientific-panel-ai/en/preliminary-report)
 
 ### AI Safety
 
@@ -1324,4 +1325,4 @@ Curto, J., et al. "Awesome Responsible Artificial Intelligence." GitHub. Last mo
 
 **MLA (Modern Language Association) 9th Edition**
 
-Curto, J., et al. "Awesome Responsible Artificial Intelligence". *GitHub*, 2026, https://github.com/AthenaCore/AwesomeResponsibleAI. Accessed 24 Jun 2026.
+Curto, J., et al. "Awesome Responsible Artificial Intelligence". *GitHub*, 2026, https://github.com/AthenaCore/AwesomeResponsibleAI. Accessed 10 Jul 2026.
