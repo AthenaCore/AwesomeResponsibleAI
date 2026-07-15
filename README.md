@@ -281,6 +281,7 @@ This section features a curated selection of databases focused on tracking incid
 
 | Tracker | Paper | Organization/Creator | Description | Topic | 
 | ------------- | ------------- | ------------- | ------------- | ------------- |
+| [AI Agent Incident Register](https://companyscope.io/register) | N/A | Michael K. Onyekwere | A numbered public register of AI agent incidents, each analysed for the legal duty engaged, liability allocation across the deployer/shared/vendor chain, and the preventative governance step, mapped to OWASP ASI, NIST AI RMF, IMDA, and the EU AI Act. | AI Agents, Liability |
 | [AI for Good Lab](https://microsoft.github.io/aiforgoodlab/) | N/A | Microsoft | An open source database of assets for social and environmental good. | AI for Good |
 | [AI Hallucination Cases](https://www.damiencharlotin.com/hallucinations/) | N/A | Damien Charlotin | This database tracks legal decisions1  in cases where generative AI produced hallucinated content – typically fake citations, but also other types of arguments. | Deepfakes, Misinformation |
 | [AI Risk Repository](https://airisk.mit.edu) | [The AI Risk Repository: A Comprehensive Meta-Review, Database, and Taxonomy of Risks From Artificial Intelligence](https://arxiv.org/abs/2408.12622) | MIT | A comprehensive living database of over 1600 AI risks categorized by their cause and risk domain. | AI Risk |
