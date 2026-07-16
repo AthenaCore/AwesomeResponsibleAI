@@ -1282,6 +1282,7 @@ For consumers:
 
 ### (RAI) Toolkit
 
+- [AI Readiness & Governance Starter Kit](https://github.com/tinyopsstudio/ai-readiness-governance-kit) `Governance` `Templates`
 - [Deepchecks](https://github.com/deepchecks/deepchecks) `Python`
 - [Dr. Why](https://github.com/ModelOriented/DrWhy) `R` `Warsaw University of Technology`
 - [Mercury](https://www.bbvaaifactory.com/mercury/) `Python` `BBVA`
