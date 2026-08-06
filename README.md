@@ -845,6 +845,7 @@ This section is under review and the rest of entries will be added to the table 
 
 - [Agent Governance Toolkit](https://github.com/microsoft/agent-governance-toolkit) `Microsoft`
 - [Governance Mega-Map Application](https://github.com/The-Company-Ethos/doing-ai-governance) `The Company Ethos`
+- [RAI Toolkit](https://github.com/wandb/rai-toolkit) `Python` `Weights & Biases` - Evidence-backed AI review gates for LLM apps: compliance-aware evals, red-team probes, policy-as-code, and approval records mapped to NIST AI RMF, EU AI Act, and the MIT AI Risk Repository.
 - [Verifywise](https://github.com/verifywise-ai/verifywise) `VerifyWise`
 - [Venturalitica SDK](https://github.com/Venturalitica/venturalitica-sdk)
 
