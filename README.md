@@ -1184,9 +1184,10 @@ Additional benchmarks can be found [here](https://airtable.com/app83SBBFk9WO25hJ
 ### (AI/Data) Poisoning
 
 - [Copyright Traps for Large Language Models](https://github.com/computationalprivacy/copyright-traps) `Python`
-- [Nightshade](https://nightshade.cs.uchicago.edu) `University of Chicago` `Tool`
-- [Glaze](https://glaze.cs.uchicago.edu) `University of Chicago` `Tool`
 - [Fawkes](http://sandlab.cs.uchicago.edu/fawkes/) `University of Chicago` `Tool`
+- [Glaze](https://glaze.cs.uchicago.edu) `University of Chicago` `Tool`
+- [Nightshade](https://nightshade.cs.uchicago.edu) `University of Chicago` `Tool`
+- [Shieldfont](https://shieldfont.org)
 
 ### Privacy
 
