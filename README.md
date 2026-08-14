@@ -535,6 +535,7 @@ NIS2 Directive | EU/2022/2555 |It provides legal measures to boost the overall l
 
 Additionally,
 
+- [AI Act complaints tool](https://digital-strategy.ec.europa.eu/en/policies/ai-act-complaints-tool)
 - [AI Act Whistleblower Tool](https://ai-act-whistleblower.integrityline.app)
 - [Hiroshima Process International Guiding Principles for Advanced AI system](https://digital-strategy.ec.europa.eu/en/library/hiroshima-process-international-guiding-principles-advanced-ai-system)
 
