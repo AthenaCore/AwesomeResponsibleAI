@@ -1188,8 +1188,10 @@ Additional benchmarks can be found [here](https://airtable.com/app83SBBFk9WO25hJ
 ### (AI/Data) Poisoning
 
 - [Copyright Traps for Large Language Models](https://github.com/computationalprivacy/copyright-traps) `Python`
+- [Decoy Font](https://www.mixfont.com/experiments/decoy-font) `Font`
 - [Fawkes](http://sandlab.cs.uchicago.edu/fawkes/) `University of Chicago` `Tool`
 - [Glaze](https://glaze.cs.uchicago.edu) `University of Chicago` `Tool`
+- [Ghost Font](https://www.mixfont.com/ghost-font) `Font`
 - [Nightshade](https://nightshade.cs.uchicago.edu) `University of Chicago` `Tool`
 - [Shieldfont](https://shieldfont.org)
 
