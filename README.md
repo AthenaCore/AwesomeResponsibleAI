@@ -1256,6 +1256,7 @@ Additional benchmarks can be found [here](https://airtable.com/app83SBBFk9WO25hJ
 - [Rebuff Playground](https://www.rebuff.ai/playground) `Python`
 - [Resk-LLM](https://github.com/Resk-Security/Resk-LLM) `Python`
 - [Turing Data Safe Haven](https://github.com/alan-turing-institute/data-safe-haven) `Python` `The Alan Turing Institute`
+- [SourceryKit](https://github.com/ProvablyAI/sourcerykit) `Python` `Provably`
 
 For consumers:
 
