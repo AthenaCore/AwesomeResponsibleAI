@@ -1300,8 +1300,11 @@ For consumers:
 ### (AI) Watermarking
 
 - [AudioSeal: Proactive Localized Watermarking](https://github.com/facebookresearch/audioseal) `Python` `Facebook`
+- [C2PA](https://c2pa.org)
+- [declaude](https://declaude.org)
 - [MarkLLM: An Open-Source Toolkit for LLM Watermarking](https://github.com/thu-bpm/markllm) `Python`
 - [SynthID Text](https://github.com/google-deepmind/synthid-text) `Python` `Google`
+- [Watermarks Remover](https://github.com/guillaumemeyer/watermarks-remover)
 
 ## Citing this repository
 
