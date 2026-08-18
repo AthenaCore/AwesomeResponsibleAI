@@ -924,6 +924,7 @@ Licensing AI models adds new layers of complexity beyond what traditional softwa
 - [EquiPy](https://github.com/equilibration/equipy) `Python`
 - [fairadapt](https://cran.r-project.org/web/packages/fairadapt/index.html) `R`
 - [faircause](https://github.com/dplecko/CFA) `R`
+- [Fair Code](https://github.com/yakew7/Fair-Code) `Python`
 - [Fairlearn](https://fairlearn.org) `Python` `Microsoft`
 - [fairmetrics](https://jianhuig.github.io/fairmetrics/) `R`
 - [fmm-fairness-eval](https://github.com/Ces107/fmm-fairness-eval-cli) `Python`
