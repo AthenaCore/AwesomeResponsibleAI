@@ -1065,6 +1065,7 @@ Pre-registration and REporting Protocol for AI Evaluations](https://prep-eval.gi
 - [ForecastBench](https://www.forecastbench.org)
 - [ForesightSafety-Bench](https://github.com/Beijing-AISI/ForesightSafety-Bench) `Python` `Beijing AISI`
 - [FrontierMath](https://epoch.ai/frontiermath)
+- [Future AGI](https://github.com/future-agi/future-agi) `Python` `TypeScript`
 - [Geekbench AI](https://www.geekbench.com/ai/)
 - [GDPval](https://huggingface.co/datasets/openai/gdpval) [Paper](https://cdn.openai.com/pdf/d5eb7428-c4e9-4a33-bd86-86dd4bcf12ce/GDPval.pdf) `OpenAI`
 - [GPQA: A Graduate-Level Google-Proof Q&A Benchmark](https://github.com/idavidrein/gpqa) `Python` `dataset` [Epoch Dashboard](https://epoch.ai/benchmarks/gpqa-diamond?view=graph&tab=release-date)
@@ -1337,4 +1338,4 @@ Curto, J., et al. "Awesome Responsible Artificial Intelligence." GitHub. Last mo
 
 **MLA (Modern Language Association) 9th Edition**
 
-Curto, J., et al. "Awesome Responsible Artificial Intelligence". *GitHub*, 2026, https://github.com/AthenaCore/AwesomeResponsibleAI. Accessed 10 Jul 2026.
+Curto, J., et al. "Awesome Responsible Artificial Intelligence". *GitHub*, 2026, https://github.com/AthenaCore/AwesomeResponsibleAI. Accessed 19 Aug 2026.
