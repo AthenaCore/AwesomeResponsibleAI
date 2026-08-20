@@ -313,7 +313,6 @@ This section is under review and the rest of entries will be added to the table 
 - [Data Ethics Canvas](https://theodi.org/insights/tools/the-data-ethics-canvas-2021/) `Open Data Institute`
 - [Deon](https://deon.drivendata.org) `Python` `Drivendata`
 - [Ethics & Algorithms Toolkit](http://ethicstoolkit.ai)
-- [GOPAL](https://github.com/Principled-Evolution/gopal) - 66 executable Rego policies encoding EU AI Act, NIST AI RMF, education, and banking AI-governance requirements; run with Open Policy Agent, versioned with semver guarantees. `Rego` `OPA` `Principled Evolution`
 - [Open Ethics Transparency Protocol (OETP)](https://openethics.ai/oetp/) `Open Ethics`
 - [RAI Toolkit](https://rai.tradewindai.com) `US Department of Defense`
 
@@ -1199,6 +1198,16 @@ Additional benchmarks can be found [here](https://airtable.com/app83SBBFk9WO25hJ
 - [Ghost Font](https://www.mixfont.com/ghost-font) `Font`
 - [Nightshade](https://nightshade.cs.uchicago.edu) `University of Chicago` `Tool`
 - [Shieldfont](https://shieldfont.org)
+
+### Policy as Code
+
+Language-level tools for expressing, validating, and enforcing authorization policies applicable to agent capability bounds, tool access, and data permissions.
+
+- [Casbin](https://github.com/casbin/casbin) `Apache`
+- [Cedar](https://github.com/cedar-policy/cedar) `Amazon`
+- [GOPAL](https://github.com/Principled-Evolution/gopal) `Rego` `OPA` `Principled Evolution`
+- [Open Policy Agent (OPA)](https://github.com/open-policy-agent/opa)
+- [SpiceDB](https://github.com/authzed/spicedb) - Google Zanzibar-inspired database for fine-grained, relationship-based authorization. Useful for cross-agent and multi-tenant permission modeling.
 
 ### Privacy
 
