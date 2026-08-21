@@ -1257,6 +1257,7 @@ Language-level tools for expressing, validating, and enforcing authorization pol
 - [Qwen3Guard](https://github.com/QwenLM/Qwen3Guard) `Python` `Alibaba`
 - [RAXE](https://github.com/raxe-ai/raxe-ce) `Python`
 - [Safety CLI](https://github.com/pyupio/safety) `Python`
+- [Snyk Agent Scan](https://github.com/snyk/agent-scan) `Python`
 - [wildguard](https://github.com/allenai/wildguard) `Python` `AllenAI`
 
 ### Security
@@ -1351,4 +1352,4 @@ Curto, J., et al. "Awesome Responsible Artificial Intelligence." GitHub. Last mo
 
 **MLA (Modern Language Association) 9th Edition**
 
-Curto, J., et al. "Awesome Responsible Artificial Intelligence". *GitHub*, 2026, https://github.com/AthenaCore/AwesomeResponsibleAI. Accessed 19 Aug 2026.
+Curto, J., et al. "Awesome Responsible Artificial Intelligence". *GitHub*, 2026, https://github.com/AthenaCore/AwesomeResponsibleAI. Accessed 21 Aug 2026.
