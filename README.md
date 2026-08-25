@@ -839,17 +839,28 @@ This section features tools and libraries that help to design, implement and man
 
 This section is under review and the rest of entries will be added to the table with extended information. 
 
+### Agent/AI Governance Frameworks
+
+This subsection includes dedicated platforms, tools, and control planes for governing AI agent behavior, enforcing policies, and maintaining trust at runtime.
+
+- [Agent Governance Toolkit (AGT)](https://github.com/microsoft/agent-governance-toolkit) `Microsoft`
+- [Coral Server](https://github.com/Coral-Protocol/coral-server) `CoralOS`
+- [Context Forge](https://github.com/IBM/mcp-context-forge) `IBM`
+- [Cordum](https://github.com/cordum-io/cordum) `Cordum IO`
+- [Gate22](https://github.com/aipotheosis-labs/gate22) `Aipotheosis Labs`
+- [Governance Mega-Map Application](https://github.com/The-Company-Ethos/doing-ai-governance) `The Company Ethos`
+- [Invariant Guardrails](https://github.com/invariantlabs-ai/invariant) `Invariant Labs`
+- [LiteLLM](https://github.com/BerriAI/litellm) `liteLLM`
+- [Regulus](https://github.com/neul-labs/regulus) `Neul Labs`
+- [Singapore AI Governance Readiness Checklist](https://vyrwork.com/tools/singapore-ai-governance-readiness-checklist) `VYR` - Free evidence-oriented interactive checklist mapping IMDA's four agentic AI governance dimensions to 24 production-readiness prompts.
+- [ScopeBlind protect-mcp](https://github.com/ScopeBlind/scopeblind-gateway) `ScopeBlind`
+- [TrinityGuard](https://github.com/AI45Lab/TrinityGuard) `Shanghai Artificial Intelligence Laboratory` `AI45 Lab`
+- [Verifywise](https://github.com/verifywise-ai/verifywise) `VerifyWise`
+- [Venturalitica SDK](https://github.com/Venturalitica/venturalitica-sdk)
+
 ### AI Alignment
 
 - [Circuit Breakers](https://github.com/GraySwanAI/circuit-breakers) `Python`
-
-### AI Governance
-
-- [Agent Governance Toolkit](https://github.com/microsoft/agent-governance-toolkit) `Microsoft`
-- [Governance Mega-Map Application](https://github.com/The-Company-Ethos/doing-ai-governance) `The Company Ethos`
-- [Singapore AI Governance Readiness Checklist](https://vyrwork.com/tools/singapore-ai-governance-readiness-checklist) `VYR` - Free evidence-oriented interactive checklist mapping IMDA's four agentic AI governance dimensions to 24 production-readiness prompts.
-- [Verifywise](https://github.com/verifywise-ai/verifywise) `VerifyWise`
-- [Venturalitica SDK](https://github.com/Venturalitica/venturalitica-sdk)
 
 ### AI Licensing
 
