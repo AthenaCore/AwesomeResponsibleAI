@@ -1248,27 +1248,25 @@ Language-level tools for expressing, validating, and enforcing authorization pol
 - [BetterBench](https://betterbench.stanford.edu) [Database](https://betterbench.stanford.edu/database.html)
 - [openXAI](https://open-xai.github.io) `Python`
 
-### Robustness
-
-- [Autoguardrails](https://github.com/SantanderAI/autoguardrails) `Python` `Santander`
-- [Adversarial Robustness Toolbox (ART)](https://github.com/Trusted-AI/adversarial-robustness-toolbox) `Python`
-- [BackdoorBench](https://github.com/SCLBD/BackdoorBench) `Python`
-- [Factool](https://github.com/GAIR-NLP/factool) `Python`
-- [Foolbox](https://github.com/bethgelab/foolbox) `Python`
-- [Guardrails](https://github.com/guardrails-ai/guardrails) `Python` [Guardrails Hub](https://hub.guardrailsai.com)
-
 ### Safety
 
+- [Adversarial Robustness Toolbox (ART)](https://github.com/Trusted-AI/adversarial-robustness-toolbox) `Python`
+- [Autoguardrails](https://github.com/SantanderAI/autoguardrails) `Python` `Santander`
 - [AIxploit](https://github.com/AINTRUST-AI/aixploit) `Python`
+- [BackdoorBench](https://github.com/SCLBD/BackdoorBench) `Python`
 - [Bandit](https://github.com/PyCQA/bandit) `Python`
 - [Diotra](https://github.com/usnistgov/dioptra) `Python` `NIST`
+- [Factool](https://github.com/GAIR-NLP/factool) `Python`
+- [Foolbox](https://github.com/bethgelab/foolbox) `Python`
 - [Garak](https://github.com/NVIDIA/garak) `Python` `Nvidia`
+- [Guardrails](https://github.com/guardrails-ai/guardrails) `Python` [Guardrails Hub](https://hub.guardrailsai.com)
 - [Model Inversion Attack ToolBox](https://github.com/ffhibnese/Model-Inversion-Attack-ToolBox) `Python`
 - [NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) `Python` `Amazon`
 - [Qwen3Guard](https://github.com/QwenLM/Qwen3Guard) `Python` `Alibaba`
 - [RAXE](https://github.com/raxe-ai/raxe-ce) `Python`
 - [Safety CLI](https://github.com/pyupio/safety) `Python`
 - [Snyk Agent Scan](https://github.com/snyk/agent-scan) `Python`
+- [Vigil](https://github.com/deadbits/vigil-llm)
 - [wildguard](https://github.com/allenai/wildguard) `Python` `AllenAI`
 
 ### Security
@@ -1276,10 +1274,8 @@ Language-level tools for expressing, validating, and enforcing authorization pol
 - [Counterfit](https://github.com/Azure/counterfit/) `Python` `Microsoft`
 - [detect-secrets](https://github.com/Yelp/detect-secrets) `Python`
 - [Modelscan](https://github.com/protectai/modelscan) `Python`
-- [LLM Guard](https://github.com/protectai/llm-guard) `Python`
 - [NB Defense](https://nbdefense.ai) `Python`
 - [PyRIT](https://github.com/Azure/PyRIT) `Python` `Microsoft`
-- [Rebuff Playground](https://www.rebuff.ai/playground) `Python`
 - [Resk-LLM](https://github.com/Resk-Security/Resk-LLM) `Python`
 - [Turing Data Safe Haven](https://github.com/alan-turing-institute/data-safe-haven) `Python` `The Alan Turing Institute`
 
