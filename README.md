@@ -1279,6 +1279,7 @@ Language-level tools for expressing, validating, and enforcing authorization pol
 - [NB Defense](https://nbdefense.ai) `Python`
 - [PyRIT](https://github.com/Azure/PyRIT) `Python` `Microsoft`
 - [Resk-LLM](https://github.com/Resk-Security/Resk-LLM) `Python`
+- [sentinel-scan-cli](https://github.com/Ventrova/sentinel-scan-cli) `Node.js` - Free, open-source CLI scanning LLM apps and MCP servers for prompt injection, tool poisoning, and rug-pulls, mapped to the OWASP LLM Top 10.
 - [Turing Data Safe Haven](https://github.com/alan-turing-institute/data-safe-haven) `Python` `The Alan Turing Institute`
 
 For consumers:
