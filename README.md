@@ -1065,11 +1065,13 @@ Pre-registration and REporting Protocol for AI Evaluations](https://prep-eval.gi
 - [CL-Bench](https://www.clbench.com) `Python`
 - [CLUE benchmark](https://github.com/CLUEbenchmark/CLUE) `Python`
 - [CritPt](https://critpt.com) `Python`
+- [Crux](https://cruxevals.com) `Python`
 - [Cybench](https://cybench.github.io/) `Python`
 - [DarkBench](https://github.com/smarter/DarkBench) `Python`
 - [DeepEval](https://github.com/confident-ai/deepeval) `Python`
 - [DeepSWE](https://github.com/datacurve-ai/deep-swe) `Python`
 - [DELEGATE-52](https://github.com/microsoft/DELEGATE52) `Python` `Microsoft` Paper [LLMs Corrupt Your Documents When You Delegate](https://arxiv.org/abs/2604.15597)
+- [EdgeBench](https://edge-bench.org) `Python` `ByteDance Seed`
 - [evals](https://github.com/openai/evals) `Python` `OpenAI`
 - [EvalScope](https://github.com/modelscope/evalscope) `Python`
 - [evmbench](https://paradigm.xyz/evmbench) `Python`
