@@ -861,6 +861,7 @@ This subsection includes dedicated platforms, tools, and control planes for gove
 ### AI Alignment
 
 - [Circuit Breakers](https://github.com/GraySwanAI/circuit-breakers) `Python`
+- [ejentum-mcp](https://github.com/ejentum/ejentum-mcp) `Node.js` `Python` `TypeScript` - Reasoning harness for runtime sycophancy and hallucination resistance: a library of 679 cognitive operations across four harnesses (reasoning, code, anti-deception, memory). Each `harness_anti_deception` call retrieves a task-matched scaffold (named failure pattern, executable procedure, suppression vectors, falsification test) the model reads before responding. Twelve native framework integrations on PyPI/npm. MIT. ([Website](https://ejentum.com))
 
 ### AI Licensing
 
