@@ -1,0 +1,30 @@
+name: Align GSPC living board
+
+on:
+  push:
+    paths:
+      - '.github/workflows/align-gspc-living-board.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  align:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Replace stale GSPC one-liner when present
+        run: |
+          set -euo pipefail
+          STALE='Live ruling **14 measured of 14 quotable**'
+          if grep -F -q "$STALE" README.md; then
+            sed -i 's|Live ruling \*\*14 measured of 14 quotable\*\*|Living board \*\*22 axis · 15 measured\*\* (7 slots empty)|g' README.md
+            sed -i 's|10.57967/hf/10114|10.5281/zenodo.21991104|g' README.md
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add README.md
+            git commit -m "align: living GSPC board 22 axis · 15 measured"
+            git push
+          else
+            echo "No stale GSPC one-liner; nothing to commit"
+          fi
