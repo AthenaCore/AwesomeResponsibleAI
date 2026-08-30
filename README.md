@@ -1280,6 +1280,7 @@ Language-level tools for expressing, validating, and enforcing authorization pol
 - [PyRIT](https://github.com/Azure/PyRIT) `Python` `Microsoft`
 - [Resk-LLM](https://github.com/Resk-Security/Resk-LLM) `Python`
 - [Turing Data Safe Haven](https://github.com/alan-turing-institute/data-safe-haven) `Python` `The Alan Turing Institute`
+- [SourceryKit](https://github.com/ProvablyAI/sourcerykit) `Python` `Provably`
 
 For consumers:
 
