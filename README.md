@@ -310,7 +310,7 @@ This section is under review and the rest of entries will be added to the table 
 ## Frameworks
 
 - [A Framework for Ethical Decision Making](https://www.scu.edu/ethics/ethics-resources/a-framework-for-ethical-decision-making/) `Markkula Center for Applied Ethics`
-- [Council of AI — GSPC](https://councilof.ai) `Measurement` Independent AI-governance measurement board (not certification). Live ruling **14 measured of 14 quotable** via https://councilof.ai/api/gspc; DOI [10.57967/hf/10114](https://doi.org/10.57967/hf/10114).
+- [Council of AI — GSPC](https://councilof.ai) `Measurement` Independent AI-governance measurement board (not certification). Living board **22 axis · 15 measured** (7 slots empty) via https://councilof.ai/api/gspc; DOI [10.5281/zenodo.21991104](https://doi.org/10.5281/zenodo.21991104).
 - [Data Ethics Canvas](https://theodi.org/insights/tools/the-data-ethics-canvas-2021/) `Open Data Institute`
 - [Deon](https://deon.drivendata.org) `Python` `Drivendata`
 - [Ethics & Algorithms Toolkit](http://ethicstoolkit.ai)
