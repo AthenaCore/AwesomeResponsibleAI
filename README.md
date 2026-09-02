@@ -851,6 +851,7 @@ This subsection includes dedicated platforms, tools, and control planes for gove
 - [Governance Mega-Map Application](https://github.com/The-Company-Ethos/doing-ai-governance) `The Company Ethos`
 - [Invariant Guardrails](https://github.com/invariantlabs-ai/invariant) `Invariant Labs`
 - [LiteLLM](https://github.com/BerriAI/litellm) `liteLLM`
+- [RAI Toolkit](https://github.com/wandb/rai-toolkit) `Python` `Weights & Biases` - Evidence-backed AI review gates for LLM apps: compliance-aware evals, red-team probes, policy-as-code, and approval records mapped to NIST AI RMF, EU AI Act, and the MIT AI Risk Repository.
 - [Regulus](https://github.com/neul-labs/regulus) `Neul Labs`
 - [Singapore AI Governance Readiness Checklist](https://vyrwork.com/tools/singapore-ai-governance-readiness-checklist) `VYR` - Free evidence-oriented interactive checklist mapping IMDA's four agentic AI governance dimensions to 24 production-readiness prompts.
 - [ScopeBlind protect-mcp](https://github.com/ScopeBlind/scopeblind-gateway) `ScopeBlind`
