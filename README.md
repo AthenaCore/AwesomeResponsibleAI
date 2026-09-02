@@ -270,6 +270,7 @@ This section features a curated selection of data sets.
 - [Huggingface Data Sets](https://huggingface.co/datasets)
 - [The Stack](https://www.bigcode-project.org/docs/about/the-stack/)
 - [Open Ethics Data Passport](https://openethics.ai/oedp/) `Open Ethics`
+- [EU AI Act Obligation-to-Evidence Dataset](https://github.com/Kroniquedubaboo/eu-ai-act-obligation-evidence-dataset) `CC BY 4.0`
 
 If you are looking for public data sets for your project, this is a [curated collection](https://github.com/awesomedata/awesome-public-datasets).
 
@@ -533,6 +534,7 @@ NIS2 Directive | EU/2022/2555 |It provides legal measures to boost the overall l
 
 Additionally,
 
+- [AI Act complaints tool](https://digital-strategy.ec.europa.eu/en/policies/ai-act-complaints-tool)
 - [AI Act Whistleblower Tool](https://ai-act-whistleblower.integrityline.app)
 - [Hiroshima Process International Guiding Principles for Advanced AI system](https://digital-strategy.ec.europa.eu/en/library/hiroshima-process-international-guiding-principles-advanced-ai-system)
 
@@ -837,18 +839,29 @@ This section features tools and libraries that help to design, implement and man
 
 This section is under review and the rest of entries will be added to the table with extended information. 
 
+### Agent/AI Governance Frameworks
+
+This subsection includes dedicated platforms, tools, and control planes for governing AI agent behavior, enforcing policies, and maintaining trust at runtime.
+
+- [Agent Governance Toolkit (AGT)](https://github.com/microsoft/agent-governance-toolkit) `Microsoft`
+- [Coral Server](https://github.com/Coral-Protocol/coral-server) `CoralOS`
+- [Context Forge](https://github.com/IBM/mcp-context-forge) `IBM`
+- [Cordum](https://github.com/cordum-io/cordum) `Cordum IO`
+- [Gate22](https://github.com/aipotheosis-labs/gate22) `Aipotheosis Labs`
+- [Governance Mega-Map Application](https://github.com/The-Company-Ethos/doing-ai-governance) `The Company Ethos`
+- [Invariant Guardrails](https://github.com/invariantlabs-ai/invariant) `Invariant Labs`
+- [LiteLLM](https://github.com/BerriAI/litellm) `liteLLM`
+- [RAI Toolkit](https://github.com/wandb/rai-toolkit) `Python` `Weights & Biases` - Evidence-backed AI review gates for LLM apps: compliance-aware evals, red-team probes, policy-as-code, and approval records mapped to NIST AI RMF, EU AI Act, and the MIT AI Risk Repository.
+- [Regulus](https://github.com/neul-labs/regulus) `Neul Labs`
+- [Singapore AI Governance Readiness Checklist](https://vyrwork.com/tools/singapore-ai-governance-readiness-checklist) `VYR` - Free evidence-oriented interactive checklist mapping IMDA's four agentic AI governance dimensions to 24 production-readiness prompts.
+- [ScopeBlind protect-mcp](https://github.com/ScopeBlind/scopeblind-gateway) `ScopeBlind`
+- [TrinityGuard](https://github.com/AI45Lab/TrinityGuard) `Shanghai Artificial Intelligence Laboratory` `AI45 Lab`
+- [Verifywise](https://github.com/verifywise-ai/verifywise) `VerifyWise`
+- [Venturalitica SDK](https://github.com/Venturalitica/venturalitica-sdk)
+
 ### AI Alignment
 
 - [Circuit Breakers](https://github.com/GraySwanAI/circuit-breakers) `Python`
-
-### AI Governance
-
-- [Agent Governance Toolkit](https://github.com/microsoft/agent-governance-toolkit) `Microsoft`
-- [Governance Mega-Map Application](https://github.com/The-Company-Ethos/doing-ai-governance) `The Company Ethos`
-- [RAI Toolkit](https://github.com/wandb/rai-toolkit) `Python` `Weights & Biases` - Evidence-backed AI review gates for LLM apps: compliance-aware evals, red-team probes, policy-as-code, and approval records mapped to NIST AI RMF, EU AI Act, and the MIT AI Risk Repository.
-- [Singapore AI Governance Readiness Checklist](https://vyrwork.com/tools/singapore-ai-governance-readiness-checklist) `VYR` - Free evidence-oriented interactive checklist mapping IMDA's four agentic AI governance dimensions to 24 production-readiness prompts.
-- [Verifywise](https://github.com/verifywise-ai/verifywise) `VerifyWise`
-- [Venturalitica SDK](https://github.com/Venturalitica/venturalitica-sdk)
 
 ### AI Licensing
 
@@ -894,6 +907,10 @@ Licensing AI models adds new layers of complexity beyond what traditional softwa
 ### Data Version Control
 
 - [DvC](https://dvc.org)
+
+### Disclosure
+
+- [Open Ethics Label](https://openethics.ai/label/)
 
 ### Drift
 
@@ -979,6 +996,7 @@ Licensing AI models adds new layers of complexity beyond what traditional softwa
 - [intepretML](https://interpret.ml) `Python`
 - [interactions: Comprehensive, User-Friendly Toolkit for Probing Interactions](https://cran.r-project.org/web/packages/interactions/index.html) `R`
 - [kernelshap: Kernel SHAP](https://cran.r-project.org/web/packages/kernelshap/index.html) `R`
+- [modelimportance](https://cran.r-project.org/web/packages/modelimportance/index.html) `R`
 - [midr](https://cran.r-project.org/web/packages/midr/index.html) `R`
 - [Learning Interpretability Tool](https://pair-code.github.io/lit/) `Python` `Google`
 - [lime: Local Interpretable Model-Agnostic Explanations](https://cran.r-project.org/web/packages/lime/index.html) `R`
@@ -1049,11 +1067,13 @@ Pre-registration and REporting Protocol for AI Evaluations](https://prep-eval.gi
 - [CL-Bench](https://www.clbench.com) `Python`
 - [CLUE benchmark](https://github.com/CLUEbenchmark/CLUE) `Python`
 - [CritPt](https://critpt.com) `Python`
+- [Crux](https://cruxevals.com) `Python`
 - [Cybench](https://cybench.github.io/) `Python`
 - [DarkBench](https://github.com/smarter/DarkBench) `Python`
 - [DeepEval](https://github.com/confident-ai/deepeval) `Python`
 - [DeepSWE](https://github.com/datacurve-ai/deep-swe) `Python`
 - [DELEGATE-52](https://github.com/microsoft/DELEGATE52) `Python` `Microsoft` Paper [LLMs Corrupt Your Documents When You Delegate](https://arxiv.org/abs/2604.15597)
+- [EdgeBench](https://edge-bench.org) `Python` `ByteDance Seed`
 - [evals](https://github.com/openai/evals) `Python` `OpenAI`
 - [EvalScope](https://github.com/modelscope/evalscope) `Python`
 - [evmbench](https://paradigm.xyz/evmbench) `Python`
@@ -1063,6 +1083,7 @@ Pre-registration and REporting Protocol for AI Evaluations](https://prep-eval.gi
 - [ForecastBench](https://www.forecastbench.org)
 - [ForesightSafety-Bench](https://github.com/Beijing-AISI/ForesightSafety-Bench) `Python` `Beijing AISI`
 - [FrontierMath](https://epoch.ai/frontiermath)
+- [Future AGI](https://github.com/future-agi/future-agi) `Python` `TypeScript`
 - [Geekbench AI](https://www.geekbench.com/ai/)
 - [GDPval](https://huggingface.co/datasets/openai/gdpval) [Paper](https://cdn.openai.com/pdf/d5eb7428-c4e9-4a33-bd86-86dd4bcf12ce/GDPval.pdf) `OpenAI`
 - [GPQA: A Graduate-Level Google-Proof Q&A Benchmark](https://github.com/idavidrein/gpqa) `Python` `dataset` [Epoch Dashboard](https://epoch.ai/benchmarks/gpqa-diamond?view=graph&tab=release-date)
@@ -1186,10 +1207,22 @@ Additional benchmarks can be found [here](https://airtable.com/app83SBBFk9WO25hJ
 ### (AI/Data) Poisoning
 
 - [Copyright Traps for Large Language Models](https://github.com/computationalprivacy/copyright-traps) `Python`
+- [Decoy Font](https://www.mixfont.com/experiments/decoy-font) `Font`
 - [Fawkes](http://sandlab.cs.uchicago.edu/fawkes/) `University of Chicago` `Tool`
 - [Glaze](https://glaze.cs.uchicago.edu) `University of Chicago` `Tool`
+- [Ghost Font](https://www.mixfont.com/ghost-font) `Font`
 - [Nightshade](https://nightshade.cs.uchicago.edu) `University of Chicago` `Tool`
 - [Shieldfont](https://shieldfont.org)
+
+### Policy as Code
+
+Language-level tools for expressing, validating, and enforcing authorization policies applicable to agent capability bounds, tool access, and data permissions.
+
+- [Casbin](https://github.com/casbin/casbin) `Apache`
+- [Cedar](https://github.com/cedar-policy/cedar) `Amazon`
+- [GOPAL](https://github.com/Principled-Evolution/gopal) `Rego` `OPA` `Principled Evolution`
+- [Open Policy Agent (OPA)](https://github.com/open-policy-agent/opa)
+- [SpiceDB](https://github.com/authzed/spicedb) - Google Zanzibar-inspired database for fine-grained, relationship-based authorization. Useful for cross-agent and multi-tenant permission modeling.
 
 ### Privacy
 
@@ -1219,26 +1252,25 @@ Additional benchmarks can be found [here](https://airtable.com/app83SBBFk9WO25hJ
 - [BetterBench](https://betterbench.stanford.edu) [Database](https://betterbench.stanford.edu/database.html)
 - [openXAI](https://open-xai.github.io) `Python`
 
-### Robustness
-
-- [Autoguardrails](https://github.com/SantanderAI/autoguardrails) `Python` `Santander`
-- [Adversarial Robustness Toolbox (ART)](https://github.com/Trusted-AI/adversarial-robustness-toolbox) `Python`
-- [BackdoorBench](https://github.com/SCLBD/BackdoorBench) `Python`
-- [Factool](https://github.com/GAIR-NLP/factool) `Python`
-- [Foolbox](https://github.com/bethgelab/foolbox) `Python`
-- [Guardrails](https://github.com/guardrails-ai/guardrails) `Python` [Guardrails Hub](https://hub.guardrailsai.com)
-
 ### Safety
 
+- [Adversarial Robustness Toolbox (ART)](https://github.com/Trusted-AI/adversarial-robustness-toolbox) `Python`
+- [Autoguardrails](https://github.com/SantanderAI/autoguardrails) `Python` `Santander`
 - [AIxploit](https://github.com/AINTRUST-AI/aixploit) `Python`
+- [BackdoorBench](https://github.com/SCLBD/BackdoorBench) `Python`
 - [Bandit](https://github.com/PyCQA/bandit) `Python`
 - [Diotra](https://github.com/usnistgov/dioptra) `Python` `NIST`
+- [Factool](https://github.com/GAIR-NLP/factool) `Python`
+- [Foolbox](https://github.com/bethgelab/foolbox) `Python`
 - [Garak](https://github.com/NVIDIA/garak) `Python` `Nvidia`
+- [Guardrails](https://github.com/guardrails-ai/guardrails) `Python` [Guardrails Hub](https://hub.guardrailsai.com)
 - [Model Inversion Attack ToolBox](https://github.com/ffhibnese/Model-Inversion-Attack-ToolBox) `Python`
 - [NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) `Python` `Amazon`
 - [Qwen3Guard](https://github.com/QwenLM/Qwen3Guard) `Python` `Alibaba`
 - [RAXE](https://github.com/raxe-ai/raxe-ce) `Python`
 - [Safety CLI](https://github.com/pyupio/safety) `Python`
+- [Snyk Agent Scan](https://github.com/snyk/agent-scan) `Python`
+- [Vigil](https://github.com/deadbits/vigil-llm)
 - [wildguard](https://github.com/allenai/wildguard) `Python` `AllenAI`
 
 ### Security
@@ -1246,10 +1278,8 @@ Additional benchmarks can be found [here](https://airtable.com/app83SBBFk9WO25hJ
 - [Counterfit](https://github.com/Azure/counterfit/) `Python` `Microsoft`
 - [detect-secrets](https://github.com/Yelp/detect-secrets) `Python`
 - [Modelscan](https://github.com/protectai/modelscan) `Python`
-- [LLM Guard](https://github.com/protectai/llm-guard) `Python`
 - [NB Defense](https://nbdefense.ai) `Python`
 - [PyRIT](https://github.com/Azure/PyRIT) `Python` `Microsoft`
-- [Rebuff Playground](https://www.rebuff.ai/playground) `Python`
 - [Resk-LLM](https://github.com/Resk-Security/Resk-LLM) `Python`
 - [Turing Data Safe Haven](https://github.com/alan-turing-institute/data-safe-haven) `Python` `The Alan Turing Institute`
 
@@ -1296,8 +1326,11 @@ For consumers:
 ### (AI) Watermarking
 
 - [AudioSeal: Proactive Localized Watermarking](https://github.com/facebookresearch/audioseal) `Python` `Facebook`
+- [C2PA](https://c2pa.org)
+- [declaude](https://declaude.org)
 - [MarkLLM: An Open-Source Toolkit for LLM Watermarking](https://github.com/thu-bpm/markllm) `Python`
 - [SynthID Text](https://github.com/google-deepmind/synthid-text) `Python` `Google`
+- [Watermarks Remover](https://github.com/guillaumemeyer/watermarks-remover)
 
 ## Citing this repository
 
@@ -1330,4 +1363,4 @@ Curto, J., et al. "Awesome Responsible Artificial Intelligence." GitHub. Last mo
 
 **MLA (Modern Language Association) 9th Edition**
 
-Curto, J., et al. "Awesome Responsible Artificial Intelligence". *GitHub*, 2026, https://github.com/AthenaCore/AwesomeResponsibleAI. Accessed 10 Jul 2026.
+Curto, J., et al. "Awesome Responsible Artificial Intelligence". *GitHub*, 2026, https://github.com/AthenaCore/AwesomeResponsibleAI. Accessed 21 Aug 2026.
