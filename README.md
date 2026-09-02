@@ -844,6 +844,7 @@ This section is under review and the rest of entries will be added to the table 
 This subsection includes dedicated platforms, tools, and control planes for governing AI agent behavior, enforcing policies, and maintaining trust at runtime.
 
 - [Agent Governance Toolkit (AGT)](https://github.com/microsoft/agent-governance-toolkit) `Microsoft`
+- [Bifrost](https://github.com/maximhq/bifrost) `Bifrost` - Self-hosted AI gateway for multi-provider routing, observability, guardrails, and runtime access controls.
 - [Coral Server](https://github.com/Coral-Protocol/coral-server) `CoralOS`
 - [Context Forge](https://github.com/IBM/mcp-context-forge) `IBM`
 - [Cordum](https://github.com/cordum-io/cordum) `Cordum IO`
