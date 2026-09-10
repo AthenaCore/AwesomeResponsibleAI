@@ -848,6 +848,7 @@ This subsection includes dedicated platforms, tools, and control planes for gove
 - [Context Forge](https://github.com/IBM/mcp-context-forge) `IBM`
 - [Cordum](https://github.com/cordum-io/cordum) `Cordum IO`
 - [Gate22](https://github.com/aipotheosis-labs/gate22) `Aipotheosis Labs`
+- [Gram](https://github.com/speakeasy-api/gram) `Go` `Speakeasy` - Open-source AI control plane for agents and MCPs with policy enforcement, granular access control, and observability.
 - [Governance Mega-Map Application](https://github.com/The-Company-Ethos/doing-ai-governance) `The Company Ethos`
 - [Invariant Guardrails](https://github.com/invariantlabs-ai/invariant) `Invariant Labs`
 - [LiteLLM](https://github.com/BerriAI/litellm) `liteLLM`
