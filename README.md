@@ -1329,6 +1329,7 @@ For consumers:
 - [declaude](https://declaude.org)
 - [MarkLLM: An Open-Source Toolkit for LLM Watermarking](https://github.com/thu-bpm/markllm) `Python`
 - [SynthID Text](https://github.com/google-deepmind/synthid-text) `Python` `Google`
+- [unmark-checker: Open Checker for Text Watermark Removal Tools](https://github.com/Yurakonoplya/unmark-checker) `Python`
 - [Watermarks Remover](https://github.com/guillaumemeyer/watermarks-remover)
 
 ## Citing this repository
