@@ -211,8 +211,7 @@ This section features a curated selection of books.
 - Responsible AI ([Hall, P., Chowdhury, R., 2023](https://learning.oreilly.com/library/view/responsible-ai/9781098102425/)) `Governance` `Safety` `Drift`
 - Marcus, G., and Davis, E. (2019). **Rebooting AI: Building artificial intelligence we can trust**. Vintage. [Book](https://www.penguinrandomhouse.com/books/603982/rebooting-ai-by-gary-marcus-and-ernest-davis/)
 - Marcus, G. F. (2024). **Taming Silicon Valley: How We Can Ensure That AI Works for Us**. MIT Press. [Book](https://mitpress.mit.edu/9780262551069/taming-silicon-valley/)
-- Yampolskiy, R. V. (2024) **AI: Unexplainable, Unpredictable, Uncontrollable**. 2024. CRC Press
- [Book](https://mitpressbookstore.mit.edu/book/9781032576275)
+- Yampolskiy, R. V. (2024) **AI: Unexplainable, Unpredictable, Uncontrollable**. 2024. CRC Press  [Book](https://mitpressbookstore.mit.edu/book/9781032576275)
 
 ## Code of Ethics
 
@@ -851,7 +850,6 @@ This subsection includes dedicated platforms, tools, and control planes for gove
 - [Gate22](https://github.com/aipotheosis-labs/gate22) `Aipotheosis Labs`
 - [Governance Mega-Map Application](https://github.com/The-Company-Ethos/doing-ai-governance) `The Company Ethos`
 - [Invariant Guardrails](https://github.com/invariantlabs-ai/invariant) `Invariant Labs`
-- [Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril) - Open-source agentic software factory with an amazing UI that handles parallel Git worktrees for you, complete with programmatic verifications and fast review loops
 - [LiteLLM](https://github.com/BerriAI/litellm) `liteLLM`
 - [Regulus](https://github.com/neul-labs/regulus) `Neul Labs`
 - [Singapore AI Governance Readiness Checklist](https://vyrwork.com/tools/singapore-ai-governance-readiness-checklist) `VYR` - Free evidence-oriented interactive checklist mapping IMDA's four agentic AI governance dimensions to 24 production-readiness prompts.
@@ -860,6 +858,7 @@ This subsection includes dedicated platforms, tools, and control planes for gove
 - [Verifywise](https://github.com/verifywise-ai/verifywise) `VerifyWise`
 - [Venturalitica SDK](https://github.com/Venturalitica/venturalitica-sdk)
 
+- [Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril) - Open-source agentic software factory with an amazing UI that handles parallel Git worktrees for you, complete with programmatic verifications and fast review loops
 ### AI Alignment
 
 - [Circuit Breakers](https://github.com/GraySwanAI/circuit-breakers) `Python`
