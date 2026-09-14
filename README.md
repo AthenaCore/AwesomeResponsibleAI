@@ -847,6 +847,7 @@ This subsection includes dedicated platforms, tools, and control planes for gove
 - [Coral Server](https://github.com/Coral-Protocol/coral-server) `CoralOS`
 - [Context Forge](https://github.com/IBM/mcp-context-forge) `IBM`
 - [Cordum](https://github.com/cordum-io/cordum) `Cordum IO`
+- [Council of AI GSPC](https://github.com/CSOAI-ORG/councilof-ai) `CSOAI` - Open-source public measurement board with signed evidence cards, public roots, and an offline verifier; measurement, not certification.
 - [Gate22](https://github.com/aipotheosis-labs/gate22) `Aipotheosis Labs`
 - [Governance Mega-Map Application](https://github.com/The-Company-Ethos/doing-ai-governance) `The Company Ethos`
 - [Invariant Guardrails](https://github.com/invariantlabs-ai/invariant) `Invariant Labs`
