@@ -271,6 +271,7 @@ This section features a curated selection of data sets.
 - [The Stack](https://www.bigcode-project.org/docs/about/the-stack/)
 - [Open Ethics Data Passport](https://openethics.ai/oedp/) `Open Ethics`
 - [EU AI Act Obligation-to-Evidence Dataset](https://github.com/Kroniquedubaboo/eu-ai-act-obligation-evidence-dataset) `CC BY 4.0`
+- [Jevsus — true/false readings of a probability-only model](https://github.com/2nd1st/Jevsus) `MIT`
 
 If you are looking for public data sets for your project, this is a [curated collection](https://github.com/awesomedata/awesome-public-datasets).
 
@@ -1103,6 +1104,7 @@ Pre-registration and REporting Protocol for AI Evaluations](https://prep-eval.gi
 - [Intima Benchmark](https://huggingface.co/AI-companionship) [Paper](https://arxiv.org/abs/2508.09998) `HuggingFace`
 - [Jailbreakbench](https://jailbreakbench.github.io) `Python`
 - [JailBreakV-28K](https://eddyluo1232.github.io/JailBreakV28K/) `Python`
+- [Jevsus](https://position.secondfirst.ai) [Repo](https://github.com/2nd1st/Jevsus) `Python` `Open data`
 - [JGLUE: Japanese General Language Understanding Evaluation](https://github.com/yahoojapan/JGLUE) `Python`
 - [KLUE: Korean Language Understanding Evaluation](https://github.com/KLUE-benchmark/KLUE) `Python`
 - [LABBench2](https://lab-bench.ai) `Python` `Edison`
