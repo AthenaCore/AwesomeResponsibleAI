@@ -844,6 +844,7 @@ This section is under review and the rest of entries will be added to the table 
 
 This subsection includes dedicated platforms, tools, and control planes for governing AI agent behavior, enforcing policies, and maintaining trust at runtime.
 
+- [AAES](https://aaes.dev) `AAES` - Governance layer for enterprise AI agents: identity, human approvals, budgets, and sealed, offline-verifiable action records.
 - [Agent Governance Toolkit (AGT)](https://github.com/microsoft/agent-governance-toolkit) `Microsoft`
 - [Coral Server](https://github.com/Coral-Protocol/coral-server) `CoralOS`
 - [Context Forge](https://github.com/IBM/mcp-context-forge) `IBM`
