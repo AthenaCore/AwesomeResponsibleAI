@@ -874,6 +874,7 @@ Licensing AI models adds new layers of complexity beyond what traditional softwa
 - [PRML / falsify](https://github.com/studio-11-co/falsify) `Python, JS, Go, Rust` `falsify` - Pre-Registered ML Manifest specification (CC BY 4.0). Commits an evaluation claim (metric, comparator, threshold, dataset hash, seed, producer identity) to a SHA-256 hash before the experiment runs. Tamper-evident audit trail; subcategory crosswalks for [EU AI Act Article 12](https://spec.falsify.dev/eu-ai-act/article-12/), [NIST AI RMF](https://spec.falsify.dev/nist-ai-rmf/), [ISO/IEC 42001](https://spec.falsify.dev/iso-42001/). Four byte-equivalent reference implementations across 21 conformance vectors. Zenodo DOI [10.5281/zenodo.20177839](https://doi.org/10.5281/zenodo.20177839), in [SchemaStore](https://www.schemastore.org/) catalog.
 - [glassalpha](https://github.com/asibic/glassalpha) `Python`
 - [Systima Comply](https://github.com/systima-ai/comply) `TypeScript` `Systima`
+- [Allowly Hiring Evidence](https://allowly.ai/docs/solutions/hiring/) - Hosted policy runner for hiring with human review, corrections, and signed decision records.
 
 ### Causal Inference
 
