@@ -187,6 +187,7 @@ This section features a curated selection of books.
 - Cunningham, Scott. (2021) **Causal inference: The mixtape**. Yale university press. [Book](https://mixtape.scunning.com) `Causal Inference`
 - Fourrier, C. and et all. (2024) **LLM Evaluation Guidebook**. Github Repository. [Web](https://github.com/huggingface/evaluation-guidebook) `LLM Evaluation`
 - Freiesleben, T. & Molnar, C. (2024). **Supervised Machine Learning for Science: How to stop worrying and love your black box.** [Book](https://ml-science-book.com/)
+- García Aibar, J. & Pols, A. (2026). **AI Governance Engineering: The Thesis & Body of Knowledge**. [Book](https://aigovernanceengineer.com/bok) `Governance` `Policy-as-Code`
 - Huntington-Klein, N. (2012) **The effect: An introduction to research design and causality**. Chapman and Hall/CRC. [Book](https://theeffectbook.net) `Causal Inference`
 - Leveson, N. G. (2016). Engineering a safer world: Systems thinking applied to safety. MIT press. [Book](https://direct.mit.edu/books/oa-monograph/2908/Engineering-a-Safer-WorldSystems-Thinking-Applied)
 - Kamath, U. et al. (2023) **Applied Causal Inference** [Book](https://appliedcausalinference.github.io/aci_book/)
