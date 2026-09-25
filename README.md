@@ -931,6 +931,7 @@ Licensing AI models adds new layers of complexity beyond what traditional softwa
 - [AI Act Skills](https://github.com/abk1969/ai-act-skills) `Skills` `Gemini` `Claude` `OpenAI`
 - [EuConform](https://euconform.eu) `Python`
 - [eu-ai-act-checklist](https://github.com/GatisOzols/eu-ai-act-checklist) `Markdown` `Python` `JSON`
+- [EU AI Regulation Decoded](https://euaird.vercel.app) `Web` `Classifier`
 - [YRproject](https://yrproject.nl)
 
 ### Fairness
