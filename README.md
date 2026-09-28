@@ -1080,6 +1080,7 @@ Pre-registration and REporting Protocol for AI Evaluations](https://prep-eval.gi
 - [evals](https://github.com/openai/evals) `Python` `OpenAI`
 - [EvalScope](https://github.com/modelscope/evalscope) `Python`
 - [evmbench](https://paradigm.xyz/evmbench) `Python`
+- [Felony Benchmark](https://www.felonybench.com)
 - [FMBench](https://github.com/aws-samples/foundation-model-benchmarking-tool) `Python` `Amazon`
 - [FlagEval](https://github.com/flageval-baai/FlagEval) `Python` `BAAI`
 - [FBI: Finding Blindspots in LLM Evaluations with Interpretable Checklists](https://github.com/AI4Bharat/FBI) `Python`
@@ -1366,4 +1367,4 @@ Curto, J., et al. "Awesome Responsible Artificial Intelligence." GitHub. Last mo
 
 **MLA (Modern Language Association) 9th Edition**
 
-Curto, J., et al. "Awesome Responsible Artificial Intelligence". *GitHub*, 2026, https://github.com/AthenaCore/AwesomeResponsibleAI. Accessed 21 Aug 2026.
+Curto, J., et al. "Awesome Responsible Artificial Intelligence". *GitHub*, 2026, https://github.com/AthenaCore/AwesomeResponsibleAI. Accessed 28 Sep 2026.
