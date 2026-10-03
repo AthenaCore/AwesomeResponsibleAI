@@ -1268,6 +1268,7 @@ Language-level tools for expressing, validating, and enforcing authorization pol
 - [Foolbox](https://github.com/bethgelab/foolbox) `Python`
 - [Garak](https://github.com/NVIDIA/garak) `Python` `Nvidia`
 - [Guardrails](https://github.com/guardrails-ai/guardrails) `Python` [Guardrails Hub](https://hub.guardrailsai.com)
+- [HS-Guard](https://github.com/KrisLiu16/HS-Guard) `Python`
 - [Model Inversion Attack ToolBox](https://github.com/ffhibnese/Model-Inversion-Attack-ToolBox) `Python`
 - [NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) `Python` `Amazon`
 - [Qwen3Guard](https://github.com/QwenLM/Qwen3Guard) `Python` `Alibaba`
