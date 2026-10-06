@@ -854,6 +854,7 @@ This subsection includes dedicated platforms, tools, and control planes for gove
 - [Governance Mega-Map Application](https://github.com/The-Company-Ethos/doing-ai-governance) `The Company Ethos`
 - [Invariant Guardrails](https://github.com/invariantlabs-ai/invariant) `Invariant Labs`
 - [LiteLLM](https://github.com/BerriAI/litellm) `liteLLM`
+- [Mandare](https://github.com/mandarelabs/mandare) `Mandare Labs` - Open-source gateway for AI agents: spend limits, signed agent identities and a hash-chained, verifiable ledger.
 - [Regulus](https://github.com/neul-labs/regulus) `Neul Labs`
 - [Singapore AI Governance Readiness Checklist](https://vyrwork.com/tools/singapore-ai-governance-readiness-checklist) `VYR` - Free evidence-oriented interactive checklist mapping IMDA's four agentic AI governance dimensions to 24 production-readiness prompts.
 - [ScopeBlind protect-mcp](https://github.com/ScopeBlind/scopeblind-gateway) `ScopeBlind`
