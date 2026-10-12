@@ -143,6 +143,7 @@ A shared effort can be found at [Neuronpedia](https://www.neuronpedia.org).
   
 ### Risk
 
+- Okamoto, M., et al. (2026). **Why Do AI Agents Break Rules? How Framing, Context, and Social Signals Shape Compliance**. AAAI/ACM Conference on AI, Ethics, and Society (AIES). [Article](https://arxiv.org/abs/2608.12323)
 - Slattery, P., et al. (2024). **The ai risk repository: A comprehensive meta-review, database, and taxonomy of risks from artificial intelligence**. arXiv preprint arXiv:2408.12622. [Article](https://arxiv.org/pdf/2408.12622)
 
 ### Systems Risks
