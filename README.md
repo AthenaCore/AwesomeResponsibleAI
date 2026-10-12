@@ -847,6 +847,7 @@ This subsection includes dedicated platforms, tools, and control planes for gove
 
 - [AAES](https://aaes.dev) `AAES` - Governance layer for enterprise AI agents: identity, human approvals, budgets, and sealed, offline-verifiable action records.
 - [Agent Governance Toolkit (AGT)](https://github.com/microsoft/agent-governance-toolkit) `Microsoft`
+- [Bifrost](https://github.com/maximhq/bifrost) `Bifrost` - Self-hosted AI gateway for multi-provider routing, observability, guardrails, and runtime access controls.
 - [Coral Server](https://github.com/Coral-Protocol/coral-server) `CoralOS`
 - [Context Forge](https://github.com/IBM/mcp-context-forge) `IBM`
 - [Cordum](https://github.com/cordum-io/cordum) `Cordum IO`
