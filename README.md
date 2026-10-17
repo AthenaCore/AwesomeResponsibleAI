@@ -138,7 +138,7 @@ A shared effort can be found at [Neuronpedia](https://www.neuronpedia.org).
 
 ### Representation Engineering
 
-- Zou, A. et al. (2024) **Improving Alignment and Robustness with Circuit Breakers**. [Article](https://www.circuit-breaker.ai)
+- Zou, A. et al. (2024) **Improving Alignment and Robustness with Circuit Breakers**. [Article](https://arxiv.org/abs/2406.04313)
 - Zou, A. et al. (2023) **Representation Engineering: A Top-Down Approach to AI Transparency**. [Article](https://www.ai-transparency.org)
   
 ### Risk
@@ -165,7 +165,6 @@ A shared effort can be found at [Neuronpedia](https://www.neuronpedia.org).
 ### Collections
 
 - Google Research on Responsible AI: [https://research.google/pubs/?collection=responsible-ai](https://research.google/pubs/?collection=responsible-ai) `Google`
-- Pipeline-Aware Fairness: [http://fairpipe.dssg.io](http://fairpipe.dssg.io)
 
 ### Reproducible/Non-Reproducible Research
 
@@ -199,7 +198,7 @@ This section features a curated selection of books.
 
 ### Commercial / Propietary / Closed Access
 
-- Trust in Machine Learning ([Varshney, K., 2022](https://www.manning.com/books/trust-in-machine-learning)) `Safety` `Privacy` `Drift` `Fairness` `Interpretability` `Explainability`
+- Trust in Machine Learning ([Varshney, K., 2022](http://trustworthymachinelearning.com/)) `Safety` `Privacy` `Drift` `Fairness` `Interpretability` `Explainability`
 - Interpretable AI ([Thampi, A., 2022](https://www.manning.com/books/interpretable-ai)) `Explainability` `Fairness` `Interpretability` 
 - AI Fairness ([Mahoney, T., Varshney, K.R., Hind, M., 2020](https://learning.oreilly.com/library/view/ai-fairness/9781492077664/) `Report` `Fairness`
 - Practical Fairness ([Nielsen, A., 2021](https://learning.oreilly.com/library/view/practical-fairness/9781492075721/)) `Fairness`
@@ -255,7 +254,7 @@ This section features a curated selection of open courses focused on Responsible
 | [LLM evaluation](https://nebius-academy.github.io/knowledge-base/evaluation-1-basics/) | Nebius Academy, Evidently | A course about LLM evaluation using Evidently. | AI Safety, LLM Evaluation |
 | [Machine Learning Explainability](https://www.kaggle.com/learn/machine-learning-explainability) | Kaggle | A course to extract human-understandable insights from any model. | Explainability, Interpretability |
 | [Machine Learning in Production (17-445/17-645/17-745) / AI Engineering (11-695)](https://mlip-cmu.github.io/s2025/) | Carnegie Mellon University | A course that covers how to build, deploy, assure, and maintain software products with machine-learned models. | MLOps, Responsible AI |
-| [MATS](https://www.matsprogram.org/program) | MATS Research | The main goal of the course is to help scholars develop as AI alignment researchers. | AI Alignment, AI Safety |
+| [MATS](https://www.matsprogram.org/) | MATS Research | The main goal of the course is to help scholars develop as AI alignment researchers. | AI Alignment, AI Safety |
 | [Modern-Day Oracles or Bullshit Machines?](https://thebullshitmachines.com/instructor-guide/index.html) | Bergstrom, C. T., & West, J. D. | A course about how data and statistical analysis — the keystones of scientific reasoning — can be abused to mislead people. | Ethics |
 | [Practical Data Ethics](https://ethics.fast.ai) | Fast.ai | A course focus on topics that are both urgent and practical. | Data Ethics |
 | [Public Engagement of Data Science and AI (PED)](https://alan-turing-institute.github.io/turing-commons/skills-tracks/ped/index.html) | The Alan Turing Institute | A course is designed to help you understand the practical and ethical value of public engagement with data science and AI. | Ethics |
@@ -380,11 +379,9 @@ This section features a curated selection of institutes that research about Resp
 - [International Panel on the Information Environment](https://www.ipei.org/): A global network of scholars and practitioners working to improve public understanding of our evolving information landscape, including the role of AI.
 - [Center for AI Safety](https://www.centerforaisafety.org/): This organization researches the challenges of AI safety and develops strategies to mitigate potential risks in AI development.
 - [Distributed AI Research Institute -DAIR-](https://www.dair.ai/): DAIR advocates for decentralized and transparent AI research, emphasizing open collaboration for safe technological progress.
-- [International Association for Safe and Ethical AI](https://iasafe.ai/): Dedicated to advancing safe and ethical AI practices, this association provides a platform for stakeholders to share guidelines and best practices.
 - [Partnership on AI](https://www.partnershiponai.org/): Bringing together industry, academia, and civil society, this partnership promotes responsible AI development and broad benefits for all.
 - [AI Now Institute](https://ainowinstitute.org/): An interdisciplinary research center that examines the social implications of AI and advocates for greater accountability in AI systems.
 - [Centre for the Governance of AI](https://www.governance.ai/): Based at the University of Oxford, this centre researches policy and governance frameworks to manage the challenges of AI technologies.
-- [Future of Humanity Institute](https://www.fhi.ox.ac.uk/): An interdisciplinary research center that explores global challenges and the long-term impacts of AI on society and humanity.
 - [Machine Intelligence Research Institute -MIRI-](https://intelligence.org/): MIRI focuses on developing theoretical tools to ensure that advanced AI systems are aligned with human values and remain safe.
 
 ## Maturity Models
@@ -417,7 +414,6 @@ This section features a curated selection of newsletters that keep you informed 
 - [Import AI](importai.substack.com)
 - [Marcus on AI](https://garymarcus.substack.com)
 - [ML Safety Newsletter](https://newsletter.mlsafety.org)
-- [Navigating AI Risks](https://www.navigatingrisks.ai)
 - [One Useful Thing](https://www.oneusefulthing.org)
 - [The AI Ethics Brief](https://brief.montrealethics.ai)
 - [The AI Evaluation Substack](https://aievaluation.substack.com)
@@ -432,8 +428,8 @@ This section features a curated selection of Responsible AI principles adopted b
 | Company      | Document | Year |
 | ------------- | ------------- | ------------- |
 | Allianz | [Principles for a responsible usage of AI](https://www.allianz.com/en/about-us/strategy-values/data-ethics-and-responsible-ai.html) | 2022 |
-| Deutsche Telekom | [Guidelines for Artificial Intelligence](https://www.telekom.com/en/company/digital-responsibility/details/artificial-intelligence-ai-guideline-524366) | 2018 |
-| European Commission | [Guidelines for Trustworthy AI](https://www.europarl.europa.eu/cmsdata/196377/AI%20HLEG_Ethics%20Guidelines%20for%20Trustworthy%20AI.pdf) | 2019 |
+| Deutsche Telekom | [Guidelines for Artificial Intelligence](https://dih.telekom.com/en/ai-guidelines) | 2018 |
+| European Commission | [Guidelines for Trustworthy AI](https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai) | 2019 |
 | Future of Life Institute | [Asilomar AI principles](https://futureoflife.org/open-letter/ai-principles/) | 2017 |
 | Google | [AI Principles](https://ai.google/principles/) | 2019 |
 | IEEE | [Ethically Aligned Design](https://sagroups.ieee.org/global-initiative/wp-content/uploads/sites/542/2023/01/ead1e.pdf) | 2023 |
@@ -446,7 +442,7 @@ This section features a curated selection of Responsible AI principles adopted b
 Additional:
 
 - [FAIR Principles](https://www.go-fair.org/fair-principles/) `Findability` `Accessibility` `Interoperability` `Reuse`
-- [The CARE Principles for Indigenous Data Governance](https://www.gida-global.org/care) `Data Governance`
+- [The CARE Principles for Indigenous Data Governance](https://www.gida-global.org/careprinciples) `Data Governance`
 - [The First Nations Principles of OCAP](https://fnigc.ca/ocap-training/) `Data Governance`
 
 If you want to read on how to move from AI principles to commitments, we recommend hte article ['Getting from commitment to content in AI and data ethics: Justice and explainability'](https://www.atlanticcouncil.org/in-depth-research-reports/report/specifying-normative-content/).
@@ -572,7 +568,6 @@ Additionally,
 
 ### Spain 🇪🇸
 
-- [EIDF: guía y casos de uso - Metodología aplicada de la avaluación de impacto sobre los derechos fundamentales en el diseño y desarrollo de la IA-](https://www.dpdenxarxa.cat/pluginfile.php/2468/mod_folder/content/0/CAST-APDcat-281.pdf)
 - [Modelo PIO](https://oeiac.cat/es/el-modelo-pio/) `OEIAC`
 - [Recursos para el uso de IA](https://aesia.digital.gob.es/es/guias) `AESIA`
 - [Registre de sistemes d'intel·ligència artificial i altres algorismes](https://registreia.administraciodigital.gencat.cat/)
@@ -598,7 +593,7 @@ Anti-Retaliation Policy](https://www-cdn.anthropic.com/b7a5629e40b391b2adfb4cc8c
 - Google DeepMind: [Frontier Safety Framework](https://storage.googleapis.com/deepmind-media/gemini/gemini_3_pro_fsf_report.pdf). Version 3. First Published: May, 2024. Last Updated: September, 2025
 - Magic: [AGI Readiness Policy](https://magic.dev/agi-readiness-policy). Published: July 2, 2024
 - NAVER: [AI Safety Framework](https://clova.ai/en/tech-blog/en-navers-ai-safety-framework-asf). Published: August 7, 2024
-- Meta: [Frontier AI Framework](https://ai.meta.com/static-resource/meta-frontier-ai-framework/). Published: February 3, 2025
+- Meta: [Frontier AI Framework](https://web.archive.org/web/20251221185119/https://ai.meta.com/static-resource/meta-frontier-ai-framework/). Published: February 3, 2025
 - G42: [Frontier AI Safety Framework](https://www.g42.ai/application/files/9517/3882/2182/G42_Frontier_Safety_Framework_Publication_Version.pdf). Published: February 6, 2025
 - Cohere: [Secure AI Frontier Model Framework](https://cohere.com/security/the-cohere-secure-ai-frontier-model-framework-february-2025.pdf). Published: February 7, 2025
 - Microsoft: [Frontier Governance Framework](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/final/en-us/microsoft-brand/documents/Microsoft-Frontier-Governance-Framework.pdf). Published: February 8, 2025
@@ -696,9 +691,9 @@ The European Committee for Standardization is one of three European Standardizat
 
 Domain | Standard | Status | URL
 ---|---|---|---
-Data governance and quality for AI within the European context | CEN/CLC/TR 18115:2024 | Published | [Source](https://standards.cencenelec.eu/dyn/www/f?p=CEN:110:0::::FSP_PROJECT,FSP_ORG_ID:76985,2916257&cs=1D8677F053BD6A69827AAF37B45211997)
+Data governance and quality for AI within the European context | CEN/CLC/TR 18115:2024 | Published | [Source](https://www.cencenelec.eu/areas-of-work/cen-cenelec-topics/artificial-intelligence/)
 
-CEN AI Work programme can be found [here](https://standards.cencenelec.eu/dyn/www/f?p=205:22:0::::FSP_ORG_ID,FSP_LANG_ID:2916257,25&cs=1827B89DA69577BF3631EE2B6070F207D).
+CEN AI Work programme can be found [here](https://www.cencenelec.eu/areas-of-work/cen-cenelec-topics/artificial-intelligence/).
 
 ### DGSI Standards
 
@@ -825,7 +820,7 @@ Beneficial AI Systems | ISO/IEC AWI TR 21221 Information technology – Artifici
 
 ### Other resources
 
-Additional standards can be found using the [Standards Database](https://aistandardshub.org/ai-standards-search/) and [AIDG Hub](https://ai-standards-normes-ia.ca/en/home/standards-database), we recommend to review [NIST Assessing Risks and Impacts of AI (ARIA)](https://ai-challenges.nist.gov/aria), and [EU AI Act Harmonised Standards Mapping](https://ai-act-standards.com) as well. Another interesting repository for AI Governance is the [AI Governance Library](https://www.aigl.blog).
+Additional standards can be found using the [Standards Database](https://aistandardshub.org/ai-standards-search/) and [AIDG Hub](https://ai-standards-normes-ia.ca/en/home/standards-database), we recommend to review [NIST Assessing Risks and Impacts of AI (ARIA)](https://www.nist.gov/programs-projects/human-centered-ai), and [EU AI Act Harmonised Standards Mapping](https://ai-act-standards.com) as well. Another interesting repository for AI Governance is the [AI Governance Library](https://www.aigl.blog).
 
 ## Tools
 
@@ -851,7 +846,6 @@ This subsection includes dedicated platforms, tools, and control planes for gove
 - [Context Forge](https://github.com/IBM/mcp-context-forge) `IBM`
 - [Cordum](https://github.com/cordum-io/cordum) `Cordum IO`
 - [Gate22](https://github.com/aipotheosis-labs/gate22) `Aipotheosis Labs`
-- [Governance Mega-Map Application](https://github.com/The-Company-Ethos/doing-ai-governance) `The Company Ethos`
 - [Invariant Guardrails](https://github.com/invariantlabs-ai/invariant) `Invariant Labs`
 - [LiteLLM](https://github.com/BerriAI/litellm) `liteLLM`
 - [Regulus](https://github.com/neul-labs/regulus) `Neul Labs`
@@ -875,7 +869,7 @@ Licensing AI models adds new layers of complexity beyond what traditional softwa
 
 - [AIR Blackbox](https://github.com/airblackbox/gateway) `Python` - Open-source EU AI Act compliance scanner and runtime trust layer for Python AI agents. HMAC-SHA256 tamper-evident audit chains, PII detection, and prompt injection blocking. Trust layers for LangChain, CrewAI, AutoGen, OpenAI, Google ADK, and Claude Agent SDK. ([Website](https://airblackbox.ai) | [PyPI](https://pypi.org/project/air-blackbox/))
 - [PRML / falsify](https://github.com/studio-11-co/falsify) `Python, JS, Go, Rust` `falsify` - Pre-Registered ML Manifest specification (CC BY 4.0). Commits an evaluation claim (metric, comparator, threshold, dataset hash, seed, producer identity) to a SHA-256 hash before the experiment runs. Tamper-evident audit trail; subcategory crosswalks for [EU AI Act Article 12](https://spec.falsify.dev/eu-ai-act/article-12/), [NIST AI RMF](https://spec.falsify.dev/nist-ai-rmf/), [ISO/IEC 42001](https://spec.falsify.dev/iso-42001/). Four byte-equivalent reference implementations across 21 conformance vectors. Zenodo DOI [10.5281/zenodo.20177839](https://doi.org/10.5281/zenodo.20177839), in [SchemaStore](https://www.schemastore.org/) catalog.
-- [glassalpha](https://github.com/asibic/glassalpha) `Python`
+- [glassalpha](https://github.com/GlassAlpha/glassalpha) `Python`
 - [Systima Comply](https://github.com/systima-ai/comply) `TypeScript` `Systima`
 - [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) `TypeScript` - Records an AI agent's run from outside the process — the verbatim model requests and responses, every tool call with its arguments, shell exit codes and file changes — and replays it offline so the recorded run can be re-executed and inspected rather than reconstructed from logs. Local files, nothing uploaded. Makes no compliance claim and has no tamper-evidence; it produces the underlying record, not an attestation about it.
 
@@ -1011,7 +1005,6 @@ Licensing AI models adds new layers of complexity beyond what traditional softwa
 - [Shapash](https://github.com/maif/shapash) `Python`
 - [shapper](https://cran.r-project.org/web/packages/shapper/index.html) `R`
 - [shapviz](https://cran.r-project.org/web/packages/shapviz/index.html) `R`
-- [Skater](https://github.com/oracle/Skater) `Python` `Oracle`
 - [survex](https://github.com/ModelOriented/survex) `R`
 - [teller](https://github.com/Techtonique/teller) `Python`
 - [TCAV (Testing with Concept Activation Vectors)](https://pypi.org/project/tcav/) `Python` 
@@ -1063,7 +1056,7 @@ Pre-registration and REporting Protocol for AI Evaluations](https://prep-eval.gi
 - [Banana-lyzer](https://github.com/reworkd/bananalyzer) `Python`
 - [BALROG](https://github.com/balrog-ai/BALROG) `Python`
 - [BIG-Bench Extra Hard](https://github.com/google-deepmind/bbeh) `Python` `Deepmind`
-- [BountyBench](https://bountybench.github.io/) `Python`
+- [BountyBench](https://github.com/bountybench/bountybench) `Python`
 - [BrokenMath: A Benchmark for Sycophancy in Theorem Proving with LLMs](https://www.sycophanticmath.ai) `Python` `INSAIT` `SRILAB` `ETHZürich`
 - [Catastrophic Cyber Capabilities Benchmark (3CB)](`Python`) `Python`
 - [Chinese Safety Evaluations](https://airtable.com/appkPf0Rw2P7KCY5i/shrpXozZcomLjmBf3/tblV6tS87aqOgrDJX/viwukUaSfInPLoQun) `Concordia AI`
@@ -1117,7 +1110,7 @@ Pre-registration and REporting Protocol for AI Evaluations](https://prep-eval.gi
 - [Math Science Bench](https://math.science-bench.ai)
 - [MCPBench: A Benchmark for Evaluating MCP Servers](https://github.com/modelscope/MCPBench) `Python` `ModelScope`
 - [MixEval](https://mixeval.github.io) `Python`
-- [ML Commons Safety Benchmark for general purpose AI chat model](https://mlcommons.org/benchmarks/ai-safety/general_purpose_ai_chat_benchmark/)
+- [ML Commons Safety Benchmark for general purpose AI chat model](https://ailuminate.mlcommons.org/benchmarks/general_purpose_ai_chat/1.0-en_us-official-ensemble)
 - [MLflow LLM Evaluation](https://mlflow.org/docs/latest/llms/llm-evaluate/index.html) `Python`
 - [MLGym](https://github.com/facebookresearch/MLGym) `Python` `Facebook` `Agents`
 - [MLPerf Training Benchmark](https://mlcommons.org/benchmarks/training/) `Training`
@@ -1240,7 +1233,6 @@ Language-level tools for expressing, validating, and enforcing authorization pol
 - [JAX-Privacy](https://github.com/google-deepmind/jax_privacy) `Python` `DeepMind`
 - [Opacus](https://opacus.ai) `Python` `Facebook`
 - [Privacy Meter](https://github.com/privacytrustlab/ml_privacy_meter) `Python` `National University of Singapore`
-- [PyVacy: Privacy Algorithms for PyTorch](https://github.com/ChrisWaites/pyvacy) `Python`
 - [SEAL](https://github.com/Microsoft/SEAL) `Python` `Microsoft`
 - [Tensorflow Privacy](https://github.com/tensorflow/privacy) `Python` `Google`
 
@@ -1282,7 +1274,6 @@ Language-level tools for expressing, validating, and enforcing authorization pol
 - [Counterfit](https://github.com/Azure/counterfit/) `Python` `Microsoft`
 - [detect-secrets](https://github.com/Yelp/detect-secrets) `Python`
 - [Modelscan](https://github.com/protectai/modelscan) `Python`
-- [NB Defense](https://nbdefense.ai) `Python`
 - [PyRIT](https://github.com/Azure/PyRIT) `Python` `Microsoft`
 - [Resk-LLM](https://github.com/Resk-Security/Resk-LLM) `Python`
 - [Turing Data Safe Haven](https://github.com/alan-turing-institute/data-safe-haven) `Python` `The Alan Turing Institute`
