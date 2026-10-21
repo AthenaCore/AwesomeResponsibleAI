@@ -835,6 +835,7 @@ This section features tools and libraries that help to design, implement and man
 | ------------- | ------------- | ------------- | ------------- | ------------- | 
 | [balance](https://import-balance.org) | Python | A package for balancing biased data samples | META | Active | Bias |
 | [clav](https://jbryer.github.io/clav/) | R | This package provides utilities for conducting cluster (profile) analysis with an emphasis on the validating the stability of the profiles both within a given data set as well as across data sets. | Jason Bryer | Active | Cluster Validation |
+| [mojolearn](https://github.com/mojolearn/mojolearn) | Mojo, Python bindings | GPU machine learning for reproducible training, inference and model evaluation. In `identical` mode, mojolearn returns the same bits on Apple, NVIDIA and AMD GPUs. Includes reference-hash verification to support reproducibility checks. | Andrew Hendel | Active |
 | [smclafify](https://github.com/aws/amazon-sagemaker-clarify) | Python | Bias detection and mitigation for datasets and models | Amazon | Inactive | Bias |
 | [SolasAI](https://github.com/SolasAI/solas-ai-disparity) | Python | A Library of Curated Disparity Testing Metrics for Use in Real-World Settings | SolasAI | Active | Fairness |
 | [TRAK (Attributing Model Behaviour at Scale)](https://github.com/MadryLab/trak) | Python | A data attribution method called TRAK (Tracing with the Randomly-Projected After Kernel) to make accurate counterfactual predictions. See: [Article](https://arxiv.org/pdf/2303.14186) | MIT | Inactive | Causal Inference |
