@@ -857,6 +857,7 @@ This subsection includes dedicated platforms, tools, and control planes for gove
 - [Regulus](https://github.com/neul-labs/regulus) `Neul Labs`
 - [Singapore AI Governance Readiness Checklist](https://vyrwork.com/tools/singapore-ai-governance-readiness-checklist) `VYR` - Free evidence-oriented interactive checklist mapping IMDA's four agentic AI governance dimensions to 24 production-readiness prompts.
 - [ScopeBlind protect-mcp](https://github.com/ScopeBlind/scopeblind-gateway) `ScopeBlind`
+- [Speakeasy control plane](https://www.speakeasy.com/) `Speakeasy` - MCP gateway with identity-based tool access, per-action security policies, and audit logs.
 - [TrinityGuard](https://github.com/AI45Lab/TrinityGuard) `Shanghai Artificial Intelligence Laboratory` `AI45 Lab`
 - [Verifywise](https://github.com/verifywise-ai/verifywise) `VerifyWise`
 - [Venturalitica SDK](https://github.com/Venturalitica/venturalitica-sdk)
