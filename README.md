@@ -673,6 +673,7 @@ This section features a curated selection of reports relevant to understand the 
 ### Ratings
 
 - [https://aimodelratings.com](https://aimodelratings.com)
+- [TrustHawk](https://trusthawk.ai)
 
 ## Standards
 
