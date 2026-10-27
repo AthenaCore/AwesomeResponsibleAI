@@ -1336,6 +1336,10 @@ For consumers:
 - [SynthID Text](https://github.com/google-deepmind/synthid-text) `Python` `Google`
 - [Watermarks Remover](https://github.com/guillaumemeyer/watermarks-remover)
 
+### (AI) Generated Content Detection
+
+- [SlopTotal](https://github.com/pablocaeg/sloptotal) `Python` - Self-hosted detector for AI-generated text that combines 23 detection engines into one calibrated score, with accuracy and failure cases measured on a public benchmark.
+
 ## Citing this repository
 
 Contributors with over 50 edits can be named coauthors in the citation of visible names. Otherwise, all contributors with fewer than 50 edits are included under "et al."
