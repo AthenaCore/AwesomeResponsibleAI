@@ -272,6 +272,7 @@ This section features a curated selection of data sets.
 - [The Stack](https://www.bigcode-project.org/docs/about/the-stack/)
 - [Open Ethics Data Passport](https://openethics.ai/oedp/) `Open Ethics`
 - [EU AI Act Obligation-to-Evidence Dataset](https://github.com/Kroniquedubaboo/eu-ai-act-obligation-evidence-dataset) `CC BY 4.0`
+- [AI Crawler robots.txt Study 2026: Top 10k Sites](https://www.desearch.ai/blog/ai-crawlers-robots-txt-study) `CC BY 4.0` `Desearch`
 
 If you are looking for public data sets for your project, this is a [curated collection](https://github.com/awesomedata/awesome-public-datasets).
 
