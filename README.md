@@ -1026,6 +1026,7 @@ Licensing AI models adds new layers of complexity beyond what traditional softwa
 - [xplique](https://github.com/deel-ai/xplique) `Python`
 - [XAIoGraphs](https://github.com/Telefonica/XAIoGraphs) `Python` `Telefonica`
 - [XAITK](https://xaitk.org/) `Python` `DARPA`
+- [xplaineff](https://cran.r-project.org/web/packages/xplaineff/index.html) `R`
 - [Zennit](https://github.com/chr5tphr/zennit) `Python`
 
 ### Interpretable Models
