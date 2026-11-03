@@ -439,6 +439,7 @@ This section features a curated selection of Responsible AI principles adopted b
 | IEEE | [Ethically Aligned Design](https://sagroups.ieee.org/global-initiative/wp-content/uploads/sites/542/2023/01/ead1e.pdf) | 2023 |
 | Logitech | [Principles for Responsible AI](https://www.logitech.com/content/dam/logitech/en/principles/responsible-ai-principles.pdf) | 2024 | 
 | Microsoft | [AI Principles](https://www.microsoft.com/en-us/ai/principles-and-approach) | 2022 |
+| Moisés Torres & Claude | [Pact of Coexistence Between People and AI (Pacto de convivencia entre personas e IA)](https://wesoftmx.github.io/pacto-convivencia-ia/) | 2026 |
 | OECD | [AI principles](https://oecd.ai/en/ai-principles) | 2019 |
 | Telefonica | [AI Principles](https://www.microsoft.com/en-us/ai/principles-and-approach) | 2018 |
 | The Institute for Ethical AI & Machine Learning | [The Responsible Machine Learning Principles](https://ethical.institute/principles.html) | 2018 |
