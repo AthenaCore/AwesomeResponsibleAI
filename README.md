@@ -6,7 +6,7 @@
 [![GitHub](https://img.shields.io/twitter/follow/athenacoreai.svg?label=Follow)](https://twitter.com/athenacoreai)
 
 # Awesome Responsible AI
-A curated list of awesome academic research, books, code of ethics, courses, data sets, databases, frameworks, institutes, maturity models, newsletters, principles, podcasts, regulations, responsible scale policies, reports, tools and standards related to Responsible, Trustworthy, and Human-Centered AI. 
+A curated list of awesome academic research, books, code of ethics, courses, databases, data sets, frameworks, institutes, maturity models, newsletters, principles, podcasts, regulations, reports, responsible scale policies, tools and standards related to Responsible, Trustworthy, and Human-Centered AI. 
 
 ## Main Concepts
 
@@ -222,6 +222,7 @@ This section features a curated selection of code of ethics.
 - [Association for Computer Machinery's Code of Ethics and Professional Conduct](https://www.acm.org/code-of-ethics)
 - [IEEE Global Initiative for Ethical Considerations in Artificial Intelligence (AI) and Autonomous Systems (AS)](https://ethicsinaction.ieee.org/)
 - [ISO/IEC's Standards for Artificial Intelligence](https://www.iso.org/committee/6794475/x/catalogue/)
+- [UNESCO's AI ethics: the Recommendation on the Ethics of Artificial Intelligence](https://www.unesco.org/en/artificial-intelligence/recommendation-ethics)
 
 ## Courses
 
@@ -432,6 +433,7 @@ This section features a curated selection of Responsible AI principles adopted b
 | Company      | Document | Year |
 | ------------- | ------------- | ------------- |
 | Allianz | [Principles for a responsible usage of AI](https://www.allianz.com/en/about-us/strategy-values/data-ethics-and-responsible-ai.html) | 2022 |
+| Capgemini | [Code of Ethics]([https://ethical.institute/principles.html](https://www.capgemini.com/about-us/management-and-governance/policies/code-of-ethics-for-ai/)) | 2024 |
 | Deutsche Telekom | [Guidelines for Artificial Intelligence](https://www.telekom.com/en/company/digital-responsibility/details/artificial-intelligence-ai-guideline-524366) | 2018 |
 | European Commission | [Guidelines for Trustworthy AI](https://www.europarl.europa.eu/cmsdata/196377/AI%20HLEG_Ethics%20Guidelines%20for%20Trustworthy%20AI.pdf) | 2019 |
 | Future of Life Institute | [Asilomar AI principles](https://futureoflife.org/open-letter/ai-principles/) | 2017 |
@@ -539,6 +541,11 @@ Additionally,
 - [AI Act complaints tool](https://digital-strategy.ec.europa.eu/en/policies/ai-act-complaints-tool)
 - [AI Act Whistleblower Tool](https://ai-act-whistleblower.integrityline.app)
 - [Hiroshima Process International Guiding Principles for Advanced AI system](https://digital-strategy.ec.europa.eu/en/library/hiroshima-process-international-guiding-principles-advanced-ai-system)
+
+### Malaysia 🇲🇾
+
+- [AI Action Plan](https://ai.gov.my/aiactionplan2030/)
+- [Voluntary Artificial Intelligence (AI) Code Of Ethics (AICE)](https://ai.gov.my/governance/ai-code-of-ethics-aice/)
 
 ### India 🇮🇳
 
