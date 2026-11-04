@@ -1082,6 +1082,7 @@ Pre-registration and REporting Protocol for AI Evaluations](https://prep-eval.gi
 - [Crux](https://cruxevals.com) `Python`
 - [Cybench](https://cybench.github.io/) `Python`
 - [DarkBench](https://github.com/smarter/DarkBench) `Python`
+- [Decision Models as Guardrails](https://github.com/raxITlabs/decision-models-as-guardrails) `Python` `raxIT Labs`
 - [DeepEval](https://github.com/confident-ai/deepeval) `Python`
 - [DeepSWE](https://github.com/datacurve-ai/deep-swe) `Python`
 - [DELEGATE-52](https://github.com/microsoft/DELEGATE52) `Python` `Microsoft` Paper [LLMs Corrupt Your Documents When You Delegate](https://arxiv.org/abs/2604.15597)
