@@ -886,6 +886,7 @@ Licensing AI models adds new layers of complexity beyond what traditional softwa
 - [glassalpha](https://github.com/asibic/glassalpha) `Python`
 - [Systima Comply](https://github.com/systima-ai/comply) `TypeScript` `Systima`
 - [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) `TypeScript` - Records an AI agent's run from outside the process — the verbatim model requests and responses, every tool call with its arguments, shell exit codes and file changes — and replays it offline so the recorded run can be re-executed and inspected rather than reconstructed from logs. Local files, nothing uploaded. Makes no compliance claim and has no tamper-evidence; it produces the underlying record, not an attestation about it.
+- [FairMind](https://github.com/adhit-r/fairmind) `Python` `TypeScript` `Axonome` - Open-source AI assurance workbench for models and agents. Maps NIST AI RMF, EU AI Act, ISO/IEC 42001 and India's DPDP Act to controls, and records scope, source and review status on each piece of evaluation evidence so findings can be audited. Internal alpha; makes no certification claim. ([Website](https://www.fairmind.xyz))
 
 ### Causal Inference
 
