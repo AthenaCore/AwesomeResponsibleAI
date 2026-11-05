@@ -922,6 +922,7 @@ Licensing AI models adds new layers of complexity beyond what traditional softwa
 ### Disclosure
 
 - [Open Ethics Label](https://openethics.ai/label/)
+- [hireburn](https://github.com/arsentev-ai/hireburn) `Python` - AI disclosure in hiring: a candidate page that says "AI avatar" before Start, and a checklist against NYC Local Law 144, the Illinois AI Video Interview Act and the EU AI Act.
 
 ### Drift
 
