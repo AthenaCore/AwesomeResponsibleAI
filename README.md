@@ -73,6 +73,9 @@ AI is a transformative and dual-side technology prone to reshape industries, yet
 
 ### Artificial Intelligence Governance (AI Governance)
 
+- Levi, H. K. (2026). **Autonomous Defensive AI: An Envelope-and-Evidence Framework for Governed LLMs Acting on Production Infrastructure**. Zenodo preprint. [Article](https://doi.org/10.5281/zenodo.23089594) `AI Governance` `Bounded Actions` `Evidence Integrity`
+- Levi, H. K. (2026). **DAI: A Domain-Specific LLM with Model-Excluded Authority, Capability-Disjoint Verification, and Recomputable Receipts**. Zenodo preprint. [Article](https://doi.org/10.5281/zenodo.23089652) `AI Governance` `Authority Separation` `Independent Verification`
+
 - Eisenberg, I. W. et al. (2025). **The Unified Control Framework: Establishing a Common Foundation for Enterprise AI Governance, Risk Management and Regulatory Compliance**. arXiv preprint arXiv:2503.05937. [Article](https://arxiv.org/abs/2503.05937) [Visualization](https://ianatcredoai.github.io/UCF_Figures/) `Credo`
 
 ### Bias
