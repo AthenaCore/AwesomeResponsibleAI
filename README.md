@@ -863,6 +863,7 @@ This subsection includes dedicated platforms, tools, and control planes for gove
 - [Invariant Guardrails](https://github.com/invariantlabs-ai/invariant) `Invariant Labs`
 - [LiteLLM](https://github.com/BerriAI/litellm) `liteLLM`
 - [Regulus](https://github.com/neul-labs/regulus) `Neul Labs`
+- [SayFirst](https://github.com/fredaime/sayfirst-control-plane) `fredaime` - Local control plane an AI agent asks before it acts: allow, deny or suspend from a readable policy, with one-person approval and a hash-chained decision record.
 - [Singapore AI Governance Readiness Checklist](https://vyrwork.com/tools/singapore-ai-governance-readiness-checklist) `VYR` - Free evidence-oriented interactive checklist mapping IMDA's four agentic AI governance dimensions to 24 production-readiness prompts.
 - [ScopeBlind protect-mcp](https://github.com/ScopeBlind/scopeblind-gateway) `ScopeBlind`
 - [TrinityGuard](https://github.com/AI45Lab/TrinityGuard) `Shanghai Artificial Intelligence Laboratory` `AI45 Lab`
