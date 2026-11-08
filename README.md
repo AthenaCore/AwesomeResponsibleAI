@@ -886,6 +886,7 @@ Licensing AI models adds new layers of complexity beyond what traditional softwa
 - [glassalpha](https://github.com/asibic/glassalpha) `Python`
 - [Systima Comply](https://github.com/systima-ai/comply) `TypeScript` `Systima`
 - [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) `TypeScript` - Records an AI agent's run from outside the process — the verbatim model requests and responses, every tool call with its arguments, shell exit codes and file changes — and replays it offline so the recorded run can be re-executed and inspected rather than reconstructed from logs. Local files, nothing uploaded. Makes no compliance claim and has no tamper-evidence; it produces the underlying record, not an attestation about it.
+- [Oathline](https://github.com/oathline/oathline) `Python` - Human confirmation for agent actions bound to the exact text shown or spoken, exactly-once execution, hash-chained audit log
 
 ### Causal Inference
 
