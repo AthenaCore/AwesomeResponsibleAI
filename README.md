@@ -865,6 +865,7 @@ This subsection includes dedicated platforms, tools, and control planes for gove
 - [Regulus](https://github.com/neul-labs/regulus) `Neul Labs`
 - [Singapore AI Governance Readiness Checklist](https://vyrwork.com/tools/singapore-ai-governance-readiness-checklist) `VYR` - Free evidence-oriented interactive checklist mapping IMDA's four agentic AI governance dimensions to 24 production-readiness prompts.
 - [ScopeBlind protect-mcp](https://github.com/ScopeBlind/scopeblind-gateway) `ScopeBlind`
+- [Standard Compute](https://standardcompute.com/ai-governance-and-spend-control) `Standard Compute` - Hosted LLM gateway that enforces provider and model allow-lists, a Europe region rule and a zero-data-retention requirement per company, team or key before any model call is sent, with fixed per-key budgets and an admin audit log of every change.
 - [TrinityGuard](https://github.com/AI45Lab/TrinityGuard) `Shanghai Artificial Intelligence Laboratory` `AI45 Lab`
 - [Verifywise](https://github.com/verifywise-ai/verifywise) `VerifyWise`
 - [Venturalitica SDK](https://github.com/Venturalitica/venturalitica-sdk)
