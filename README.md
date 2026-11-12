@@ -940,6 +940,7 @@ Licensing AI models adds new layers of complexity beyond what traditional softwa
 - [EuConform](https://euconform.eu) `Python`
 - [eu-ai-act-checklist](https://github.com/GatisOzols/eu-ai-act-checklist) `Markdown` `Python` `JSON`
 - [YRproject](https://yrproject.nl)
+- [Scanara](https://scanara.io/en/)
 
 ### Fairness
 
