@@ -1324,6 +1324,7 @@ For consumers:
 - [Green Algorithms](https://www.green-algorithms.org)
 - [Impact Framework](https://if.greensoftware.foundation) `API`
 - [ML CO2 IMPACT](https://mlco2.github.io/impact/)
+- [SAEF](https://github.com/guillermollopis/soma-ai-emission-factors) `Python`
 - [The ML.ENERGY Data & Toolkit](https://ml.energy/data/) [The ML.ENERGY Leaderboard](https://ml.energy/leaderboard/)
 
 ### (RAI) Toolkit
