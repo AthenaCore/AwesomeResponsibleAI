@@ -862,6 +862,7 @@ This subsection includes dedicated platforms, tools, and control planes for gove
 - [Governance Mega-Map Application](https://github.com/The-Company-Ethos/doing-ai-governance) `The Company Ethos`
 - [Invariant Guardrails](https://github.com/invariantlabs-ai/invariant) `Invariant Labs`
 - [LiteLLM](https://github.com/BerriAI/litellm) `liteLLM`
+- [MAQPNA](https://maqpna.com) `Kosa8 Labs` - Self-hosted runtime that routes agent tool, model and agent calls through a policy gateway with human approvals and a hash-chained audit ledger (commercial, closed-source; free Community edition).
 - [Regulus](https://github.com/neul-labs/regulus) `Neul Labs`
 - [Singapore AI Governance Readiness Checklist](https://vyrwork.com/tools/singapore-ai-governance-readiness-checklist) `VYR` - Free evidence-oriented interactive checklist mapping IMDA's four agentic AI governance dimensions to 24 production-readiness prompts.
 - [ScopeBlind protect-mcp](https://github.com/ScopeBlind/scopeblind-gateway) `ScopeBlind`
