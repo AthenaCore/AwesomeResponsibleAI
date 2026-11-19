@@ -313,6 +313,7 @@ This section is under review and the rest of entries will be added to the table 
 ## Frameworks
 
 - [A Framework for Ethical Decision Making](https://www.scu.edu/ethics/ethics-resources/a-framework-for-ethical-decision-making/) `Markkula Center for Applied Ethics`
+- [Attify Audited Resolution Standard](https://attify.app/standards/support-resolution) `Attify`
 - [Data Ethics Canvas](https://theodi.org/insights/tools/the-data-ethics-canvas-2021/) `Open Data Institute`
 - [Deon](https://deon.drivendata.org) `Python` `Drivendata`
 - [Ethics & Algorithms Toolkit](http://ethicstoolkit.ai)
