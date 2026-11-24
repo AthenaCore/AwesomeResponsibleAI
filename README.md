@@ -318,6 +318,7 @@ This section is under review and the rest of entries will be added to the table 
 - [Ethics & Algorithms Toolkit](http://ethicstoolkit.ai)
 - [Open Ethics Transparency Protocol (OETP)](https://openethics.ai/oetp/) `Open Ethics`
 - [RAI Toolkit](https://rai.tradewindai.com) `US Department of Defense`
+- [AOGF — Agent Operations Governance Framework](https://github.com/AMPM-AIOPS-HQ/agent-operations-governance-framework) `AI agents` `AmPm AiOps`
 
 ## Institutes
 
