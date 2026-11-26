@@ -1088,6 +1088,7 @@ Pre-registration and REporting Protocol for AI Evaluations](https://prep-eval.gi
 - [EdgeBench](https://edge-bench.org) `Python` `ByteDance Seed`
 - [evals](https://github.com/openai/evals) `Python` `OpenAI`
 - [EvalScope](https://github.com/modelscope/evalscope) `Python`
+- [EvalShift](https://github.com/evalshift/evalshift-cli) `Python`
 - [evmbench](https://paradigm.xyz/evmbench) `Python`
 - [Felony Benchmark](https://www.felonybench.com)
 - [FMBench](https://github.com/aws-samples/foundation-model-benchmarking-tool) `Python` `Amazon`
