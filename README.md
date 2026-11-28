@@ -487,6 +487,7 @@ Regulations are requirements established by governments.
 - [GDPR Comparison](https://www.activemind.legal/law/)
 - [Global AI Regulation](https://global-ai-regulations.glitch.me)
 - [INTERACTIVE MAPPING OF THE AI REGULATION LANDSCAPE](https://diversifair-project.eu/courses/interactive-mapping-of-ai-regulation-landscape/) `DiversiFair`
+- [OSFI AI guidance](https://minerva.studio/osfi-ai-guidance) `MINERVA` - Every publication from Canada's financial regulator (OSFI) on AI and model risk, by its official title and date, each linked to OSFI's own page.
 - [Policy Database](https://aistandardshub.org/policy-and-strategy-search/) `AI Standards Hub`
 - [SEA Observatory](https://seaobservatory.com) `AI Safety Asia`
 - [SCL Artificial Intelligence Contractual Clauses](https://www.scl.org/wp-content/uploads/2024/02/AI-Clauses-Project-October-2023-final-1.pdf)
@@ -515,6 +516,8 @@ Additionally, we recommend this [comprehensive, community-maintained index of Au
 - [Artificial Intelligence and Data Act](https://ised-isde.canada.ca/site/innovation-better-canada/en/artificial-intelligence-and-data-act-aida-companion-document) (Bill C-27)
 - [Voluntary Code of Conduct on the Responsible Development and Management of Advanced Generative AI Systems](https://ised-isde.canada.ca/site/ised/en/voluntary-code-conduct-responsible-development-and-management-advanced-generative-ai-systems)
 - [Guidelines for secure AI system development](https://www.cyber.gc.ca/en/news-events/guidelines-secure-ai-system-development)
+- [Guideline E-23 – Model Risk Management (2027)](https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/guideline-e-23-model-risk-management-2027) `OSFI`
+- [Generative and Agentic Artificial Intelligence: Implications for Technology, Cyber Security, and Operational Resilience](https://www.osfi-bsif.gc.ca/en/risks/technology-cyber-risk-management/technology-risk-bulletin/generative-agentic-artificial-intelligence-implications-technology-cyber-security-operational) `OSFI`
 
 ### China 🇨🇳
 
@@ -886,6 +889,7 @@ Licensing AI models adds new layers of complexity beyond what traditional softwa
 - [glassalpha](https://github.com/asibic/glassalpha) `Python`
 - [Systima Comply](https://github.com/systima-ai/comply) `TypeScript` `Systima`
 - [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) `TypeScript` - Records an AI agent's run from outside the process — the verbatim model requests and responses, every tool call with its arguments, shell exit codes and file changes — and replays it offline so the recorded run can be re-executed and inspected rather than reconstructed from logs. Local files, nothing uploaded. Makes no compliance claim and has no tamper-evidence; it produces the underlying record, not an attestation about it.
+- [minerva-verify](https://github.com/dwaynewyj/minerva-verify) `JavaScript` `MINERVA` - Offline verifier (Apache-2.0, Node.js only, no network or account) for evidence packets exported from MINERVA, a commercial model and AI governance record: recomputes the hash-chained ledger and every file hash, checks RFC 3161 time-stamp receipts and Ed25519-signed checkpoints, and replays each AI agent's decision chain. A pass shows the exported record is intact, not that it captured everything.
 
 ### Causal Inference
 
@@ -1187,6 +1191,11 @@ Additional benchmarks can be found [here](https://airtable.com/app83SBBFk9WO25hJ
 
 - [COMPL-AI](https://compl-ai.org) `Python` `ETH Zurich` `Insait` `LaticeFlow AI`
 - [Tunix](https://github.com/google/tunix) `Python` `Google`
+
+### OSFI Compliance (Canada)
+
+- [AI vendor risk tier calculator for OSFI B-10](https://minerva.studio/ai-vendor-risk-tier-calculator) `Web` `MINERVA` - Free in-browser scorecard on the criticality (2.1.1) and risk (2.1.2) factors OSFI's third-party guideline names, for a vendor that sells AI; nothing is sent. Illustrative: B-10 prescribes no formula.
+- [Model risk tier calculator for OSFI E-23](https://minerva.studio/model-risk-tier-calculator) `Web` `MINERVA` - Free in-browser scorecard on the risk factors E-23 Principle 2.2 names for a model risk rating; nothing is sent. Illustrative: E-23 prescribes no formula.
 
 ### Performance (& Automated ML)
 
